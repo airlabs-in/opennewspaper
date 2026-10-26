@@ -42,36 +42,36 @@
   ],
   "cityWatch": {
     "label": "CITY WATCH",
-    "text": "“Supreme Court cancels acquisition of about 59 acres in Nelakadiranahalli, directing the land be returned.”",
+    "text": "“Bengaluru road accidents have risen about 70% in five years, local reporting citing traffic police data says.”",
     "attribution": "— BLR Today"
   },
   "lead": {
-    "source": "Press Information Bureau • Cabinet Secretariat",
-    "headline": "CYCLONE ARNAB: CENTRE MOBILISES FOR ANDHRA LANDALL",
-    "deck": "Very severe storm forecast to cross the coast on October 28; rescue teams stand by across five states",
+    "source": "The Indian Express",
+    "headline": "BJP PROTESTS SPREAD ACROSS INDIA AFTER KHARGE REMARK",
+    "deck": "Demonstrations in Bengaluru and other cities demand an apology from the Congress president",
     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Arnab_2026-10-26_0740Z.jpg",
-      "alt": "Satellite image of Cyclone Arnab over the Bay of Bengal on October 26, 2026",
-      "caption": "<strong>CYCLONE ARNAB:</strong> NOAA-20 satellite imagery shows the storm over the Bay of Bengal on October 26. (Public domain / NOAA via Wikimedia Commons)"
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Parliament_of_India_in_New_Delhi_01.jpg",
+      "alt": "Parliament House in New Delhi",
+      "caption": "India’s political debate moved from Patna to streets across the country on Monday. (Representative image / Wikimedia Commons)"
     },
     "paragraphs": [
-      "The Centre has put disaster-response teams on standby as Cyclone Arnab tracks toward the Andhra Pradesh coast, with landfall forecast between Bapatla and Visakhapatnam by the forenoon of October 28.",
-      "The India Meteorological Department forecast a very severe cyclonic storm with sustained winds of 115–125 km/h and gusts up to 140 km/h. Andhra Pradesh, Odisha, Telangana, Chhattisgarh and Puducherry have activated preparedness measures.",
-      "NDRF and state response teams are positioned, shelters and district control rooms are ready, and fishermen have been advised to stay ashore through October 29. Eastern Uttar Pradesh and Bihar have also been alerted for heavy rainfall."
+      "The Bharatiya Janata Party staged protests in several states on Monday after Congress president Mallikarjun Kharge made a controversial remark about Prime Minister Narendra Modi’s late father at an event in Patna. Demonstrators demanded an apology.",
+      "Reports from Bengaluru, Bihar, Jammu, Delhi and Lucknow described demonstrations by BJP workers. The row followed an exchange with an audience member during a birth-anniversary event for Bihar’s first chief minister, Shrikrishna Singh.",
+      "The dispute has become a national political flashpoint, with BJP leaders calling the remark offensive and Congress figures contesting the party’s response. The demonstrations unfolded a day after Kharge’s comment."
     ],
-    "moreUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2328434&lang=1&reg=3"
+    "moreUrl": "https://indianexpress.com/article/india/today-india-breaking-news-live-updates-26-october-2026-bjp-protests-congress-mallikarjun-kharge-pm-narendra-modi-tiger-shroff-aamir-khan-10936817/"
   },
   "sidebarStory": {
     "tag": "div",
     "className": "sidebar-item",
     "source": "BLR Today",
-    "headline": "BENGALURU METRO DROPS DOUBLE-DECKER PROJECT",
+    "headline": "BENGALURU ROAD ACCIDENTS UP 70% IN FIVE YEARS",
     "headlineClass": "side-headline",
-    "subhead": "Centre rejects 44.65-km corridor; BMRL shifts focus to flyovers and tunnels",
+    "subhead": "Traffic police data points to a sharp rise in crashes across the city",
     "paragraphs": [
-      "The proposed double-decker Metro corridor from J.P. Nagar 4th Stage to Kempegowda International Airport has been cancelled after the Centre declined approval. BMRL will focus on flyovers and tunnel roads instead."
+      "Local coverage citing Bengaluru Traffic Police data says road accidents rose by around 70% over five years, bringing renewed focus to road safety."
     ],
-    "moreUrl": "https://inblr.today/news/bengaluru-bmrl-cancels-double-decker-project-shifts-focus-flyovers"
+    "moreUrl": "https://inblr.today/"
   },
   "groups": [
     {
@@ -82,34 +82,34 @@
         {
           "className": "lower-column",
           "source": "BLR Today",
-          "headline": "NEWLYWED COUPLE KILLED IN E-SCOOTER CRASH",
+          "headline": "BENGALURU ROAD ACCIDENTS SURGE 70%",
           "headlineClass": "lower-headline",
-          "subhead": "A car rammed their scooter near Bengaluru, according to local reports",
+          "subhead": "Traffic police figures show a steep five-year increase",
           "paragraphs": [
-            "A newly married couple died after a car rammed their e-scooter near Bengaluru. The incident has renewed attention on road safety for two-wheeler riders."
+            "Bengaluru road accidents rose by around 70% over five years, according to city coverage citing Bengaluru Traffic Police data."
           ],
-          "moreUrl": "https://inblr.today/news/car-rams-e-scooter-kills-newlywed-couple-near-bengaluru",
+          "moreUrl": "https://inblr.today/",
           "table": {
             "headers": [
               "CITY UPDATE",
-              "STATUS",
+              "LATEST",
               "DETAIL"
             ],
             "rows": [
               [
-                "Metro corridor",
-                "Cancelled",
-                "44.65 km plan"
+                "Road safety",
+                "+70%",
+                "Five-year rise"
               ],
               [
-                "Land case",
-                "SC order",
-                "Return land"
+                "Airport",
+                "Taxiways",
+                "Resurfacing planned"
               ],
               [
-                "Traffic",
-                "Fatal crash",
-                "Couple killed"
+                "Employment",
+                "4,480",
+                "Infosys Q2 additions"
               ]
             ]
           }
@@ -117,25 +117,23 @@
         {
           "className": "lower-column center-border",
           "source": "BLR Today",
-          "headline": "SUPREME COURT ORDERS LAND RETURN IN BENGALURU",
+          "headline": "SM KRISHNA ROAD ALREADY SHOWS POTHOLES",
           "headlineClass": "lower-headline",
-          "subhead": "Acquisition of about 59 acres in Nelakadiranahalli set aside",
+          "subhead": "Newly inaugurated Bengaluru road reported damaged after four months",
           "paragraphs": [
-            "The Supreme Court quashed the decades-old acquisition process for roughly 59 acres and 39 guntas in Nelakadiranahalli and ordered the land returned."
+            "Fresh potholes and depressions have appeared on SM Krishna Road only months after its inauguration, according to local reporting."
           ],
-          "moreUrl": "https://inblr.today/news/bengaluru-supreme-court-quashes-land-acquisition-nelakadiranahalli"
+          "moreUrl": "https://inblr.today/"
         },
         {
           "className": "lower-column",
-          "source": "BLR Today",
-          "headline": "BRIGADE HOTEL VENTURES REPORTS 105% PROFIT GROWTH",
+          "source": "Moneycontrol",
+          "headline": "INFOSYS ADDS 4,480 STAFF IN Q2",
           "headlineClass": "lower-headline",
-          "weather": {
-            "paragraphs": [
-              "Brigade Hotel Ventures reported a 105% increase in profit after tax in the September quarter, with revenue of ₹142 crore."
-            ],
-            "moreUrl": "https://inblr.today/news/bengaluru-brigade-hotel-ventures-records-double-profit-growth-september"
-          }
+          "paragraphs": [
+            "Infosys increased its headcount by 4,480 in the September quarter and said it hired more than 8,000 graduates, according to its earnings update."
+          ],
+          "moreUrl": "https://www.moneycontrol.com/news/business/information-technology/infosys-headcount-increases-by-4480-employees-in-q2fy27-hires-over-8000-freshers-14058684.html"
         }
       ]
     },
@@ -146,43 +144,43 @@
       "stories": [
         {
           "className": "section-lead",
-          "source": "Press Information Bureau • Cabinet Secretariat",
-          "kicker": "INDIA • CYCLONE PREPAREDNESS",
-          "headline": "CENTRE PUTS RESPONSE TEAMS ON STANDBY AS ARNAB NEARS",
+          "source": "The Indian Express",
+          "kicker": "INDIA • POLITICS",
+          "headline": "BJP PROTESTS ACROSS STATES OVER KHARGE REMARK",
           "headlineClass": "section-headline",
-          "deck": "Andhra, Odisha and three other states prepare for heavy rain and high winds",
+          "deck": "Party workers demand an apology after Congress chief’s comment about PM Modi’s late father",
           "image": {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Arnab_2026-10-26_0740Z.jpg",
-            "alt": "Satellite image of Cyclone Arnab over the Bay of Bengal",
-            "caption": "Cyclone Arnab over the Bay of Bengal on October 26. (NOAA-20 / Public domain)"
+            "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Parliament_of_India_in_New_Delhi_01.jpg",
+            "alt": "Parliament House in New Delhi",
+            "caption": "Political demonstrations were reported in cities across India. (Representative image / Wikimedia Commons)"
           },
           "paragraphs": [
-            "The National Crisis Management Committee reviewed preparations for Cyclone Arnab, forecast to cross the Andhra Pradesh and Yanam coasts between Bapatla and Visakhapatnam on October 28.",
-            "NDRF teams are deployed or on standby, while state authorities have arranged shelters and activated control rooms. Heavy rainfall alerts also extend to Telangana, southern Odisha, Chhattisgarh, eastern Uttar Pradesh and Bihar."
+            "The BJP held demonstrations in Bengaluru, Bihar, Jammu and other cities on Monday over Congress president Mallikarjun Kharge’s remark at an event in Patna. The party demanded an apology.",
+            "Congress leaders disputed the BJP’s response as the remarks triggered a broader political row. The protests followed a comment made during an audience exchange at the birth anniversary event for Shrikrishna Singh."
           ],
-          "moreUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2328434&lang=1&reg=3"
+          "moreUrl": "https://indianexpress.com/article/india/today-india-breaking-news-live-updates-26-october-2026-bjp-protests-congress-mallikarjun-kharge-pm-narendra-modi-tiger-shroff-aamir-khan-10936817/"
         },
         {
           "className": "section-brief",
-          "source": "The Indian Express",
-          "kicker": "NEW DELHI • CYBERSECURITY",
-          "headline": "MODI WARNS OF CYBER TERRORISM THREAT",
+          "source": "The Times of India",
+          "kicker": "KOCHI • ROAD SAFETY & JUSTICE",
+          "headline": "JUDGE’S MINOR SON TAKEN INTO CUSTODY AFTER FATAL CRASH",
           "headlineClass": "lower-headline",
           "paragraphs": [
-            "At the opening of the RBI’s data centre and cybersecurity training institute in Bhubaneswar, Prime Minister Narendra Modi said modern conflicts also target banking systems and digital infrastructure."
+            "Police in Kochi took a judge’s minor son into custody after a Mercedes allegedly driven by the teenager hit and killed a scooter rider. The victim’s family called for accountability."
           ],
-          "moreUrl": "https://indianexpress.com/article/india/pm-modi-cyber-terrorism-warning-digital-security-10936435/"
+          "moreUrl": "https://timesofindia.indiatimes.com/city/kochi/kochi-mercedes-hit-and-run-keralam-judges-minor-son-drives-mercedes-at-high-speed-kills-man-released-on-bail-now-taken-into-custody-again-after-protests/articleshow/135202193.cms"
         },
         {
           "className": "section-brief",
-          "source": "The Economic Times",
-          "kicker": "ARUNACHAL PRADESH • DEFENCE",
-          "headline": "ARMY REJECTS VIDEO CLAIMING CHINESE CONTROL",
+          "source": "The Election Commission, via India Today",
+          "kicker": "INDIA • ELECTORAL ROLLS",
+          "headline": "EC TELLS SUPREME COURT SIR ORDERS WERE UNANIMOUS",
           "headlineClass": "lower-headline",
           "paragraphs": [
-            "The Indian Army has refuted a circulating video that falsely claimed Chinese control over border areas in Arunachal Pradesh, according to the day’s national news brief."
+            "The Election Commission told the Supreme Court that all three members unanimously approved the orders implementing the Special Intensive Revision of electoral rolls, PTI reported."
           ],
-          "moreUrl": "https://economictimes.indiatimes.com/news/new-updates/school-assembly-news-headlines-october-27-top-national-international-business-sports-updates/articleshow/135213000.cms"
+          "moreUrl": "https://www.indiatoday.in/amp/india/law-news/story/election-commission-sir-orders-unanimous-form-6-unchanged-supreme-court-ptag-3025610-2026-10-26"
         }
       ]
     },
@@ -194,34 +192,34 @@
         {
           "className": "section-lead city-lead",
           "source": "BLR Today",
-          "kicker": "BENGALURU • PUBLIC SAFETY",
-          "headline": "NEWLYWED COUPLE DIE AFTER CAR HITS E-SCOOTER",
+          "kicker": "BENGALURU • PUBLIC HEALTH",
+          "headline": "FAMILY’S ORGAN DONATION TO HELP SIX PEOPLE",
           "headlineClass": "section-headline",
-          "deck": "The fatal crash near Bengaluru has renewed concern over two-wheeler safety",
+          "deck": "A Bengaluru family chose to donate the organs of a brain-dead man",
           "paragraphs": [
-            "A newlywed couple were killed when a car rammed their e-scooter near Bengaluru. The brief local report did not provide further details about the circumstances of the collision."
+            "The family’s decision to donate the organs of a brain-dead man in Bengaluru was reported to benefit six people."
           ],
-          "moreUrl": "https://inblr.today/news/car-rams-e-scooter-kills-newlywed-couple-near-bengaluru"
+          "moreUrl": "https://inblr.today/"
         },
         {
           "className": "section-brief",
           "source": "BLR Today",
-          "kicker": "BENGALURU • BUSINESS",
-          "headline": "JW MARRIOTT BENGALURU CHANGES HANDS",
+          "kicker": "BENGALURU • EMPLOYMENT",
+          "headline": "INFOSYS ADDS 4,480 EMPLOYEES IN Q2",
           "headlineClass": "lower-headline",
           "paragraphs": [
-            "Shree Naman Group acquired JW Marriott Bengaluru, while Brigade Group plans to open two new Hyatt Regency hotels in the city."
+            "Infosys added 4,480 employees in the second quarter, lifting its total headcount to 332,542 at the end of September, according to local coverage."
           ],
-          "moreUrl": "https://inblr.today/news/bengaluru-shree-naman-group-acquires-jw-marriott-brigade-open-two-new"
+          "moreUrl": "https://www.moneycontrol.com/news/business/information-technology/infosys-headcount-increases-by-4480-employees-in-q2fy27-hires-over-8000-freshers-14058684.html"
         },
         {
           "className": "section-brief society-note",
           "source": "BLR Today",
           "kicker": "BENGALURU • CIVIC",
-          "headline": "SIX PROJECTS RETENDERED AS COST RISES ₹16 CRORE",
+          "headline": "LAKE GROUP SEEKS ECOLOGICAL REVIEW OF ROAD PROJECTS",
           "headlineClass": "lower-headline",
           "paragraphs": [
-            "Bengaluru Smart Infrastructure Ltd has retendered six projects, with the revised cost rising by ₹16 crore, according to local coverage."
+            "The Federation of Bengaluru Lakes has urged the Greater Bengaluru Authority to assess ecological impacts on the ground before advancing road projects."
           ],
           "moreUrl": "https://inblr.today/"
         }
@@ -234,51 +232,51 @@
       "stories": [
         {
           "className": "section-lead sports-lead",
-          "source": "Press Information Bureau • Cabinet Secretariat",
-          "kicker": "INDIA • WEATHER WATCH",
-          "headline": "ARNAB FORECAST TO BRING WINDS UP TO 140 KM/H",
+          "source": "BLR Today",
+          "kicker": "BENGALURU • AIRPORT",
+          "headline": "KEMPEGOWDA AIRPORT PLANS TAXIWAY RESURFACING",
           "headlineClass": "section-headline",
-          "deck": "Coastal communities urged to follow official alerts as the storm approaches",
+          "deck": "Airport infrastructure work is scheduled as Bengaluru prepares for maintenance activity",
           "image": {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Arnab_2026-10-26_0740Z.jpg",
-            "alt": "Satellite view of Cyclone Arnab",
-            "caption": "NOAA-20 satellite image, October 26. (Public domain)"
+            "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Parliament_of_India_in_New_Delhi_01.jpg",
+            "alt": "Representative public infrastructure photograph",
+            "caption": "Representative image. (Wikimedia Commons)"
           },
           "paragraphs": [
-            "The IMD forecast sustained winds of 115–125 km/h, with gusts up to 140 km/h, as Cyclone Arnab approaches the Andhra coast. Authorities have advised fishermen not to venture to sea through October 29."
+            "Kempegowda International Airport is scheduled to carry out taxiway resurfacing, according to local reporting."
           ],
-          "moreUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2328434&lang=1&reg=3"
+          "moreUrl": "https://inblr.today/"
         },
         {
           "className": "section-brief listings-box",
           "kicker": "TODAY • QUICK BRIEF",
           "listing": [
             [
-              "OCT 28",
-              "Arnab landfall forecast on Andhra coast"
+              "6 PEOPLE",
+              "Potential beneficiaries of a Bengaluru organ donation"
             ],
             [
-              "140 KM/H",
-              "Maximum gusts in IMD forecast"
+              "TAXIWAYS",
+              "Resurfacing planned at Bengaluru airport"
             ],
             [
-              "44.65 KM",
-              "Bengaluru double-decker Metro plan cancelled"
+              "Q2FY27",
+              "Infosys adds 4,480 employees"
             ],
             [
-              "105%",
-              "Brigade Hotel Ventures profit growth"
+              "70%",
+              "Rise in Bengaluru road accidents over five years"
             ]
           ]
         },
         {
           "className": "section-brief classifieds-box",
           "source": "BLR Today",
-          "kicker": "BENGALURU • CITY LIFE",
-          "headline": "VIRAL FEVER AND DENGUE RISE AMONG CHILDREN",
+          "kicker": "BENGALURU • COMMUNITY",
+          "headline": "GOOFY WINS CITY’S ‘CHONKIEST DOG’ CONTEST",
           "headlineClass": "lower-headline",
           "paragraphs": [
-            "Local reporting says changing weather in Bengaluru is coinciding with an increase in viral fever and dengue among children."
+            "Goofy, a dog from Nagarbhavi, won Bengaluru’s online “Fat Dogs of BLR” contest after receiving more than two lakh votes."
           ],
           "moreUrl": "https://inblr.today/"
         }
@@ -286,4 +284,3 @@
     }
   ]
 }
-
