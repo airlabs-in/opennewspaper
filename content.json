@@ -10,57 +10,68 @@
     "editionLabel": "DAILY READ",
     "editionSummary": "Complete Morning Ledger",
     "edition": "BENGALURU • INDIA EDITION",
-    "dateline": "BENGALURU, MONDAY, OCTOBER 26, 2026",
+    "dateline": "BENGALURU, TUESDAY, OCTOBER 27, 2026",
     "greeting": "GOOD MORNING :)",
     "footer": "Open Newspaper • Bengaluru and India Edition • Independent coverage from open sources."
   },
   "newsIndex": [
-    ["Bengaluru & Karnataka", "City"],
-    ["India & Public Affairs", "Nation"],
-    ["Transport & Traffic", "City"],
-    ["Weather & Preparedness", "India"],
-    ["Technology & Start-ups", "City"],
-    ["Business & Policy", "Nation"]
+    [
+      "Bengaluru & Karnataka",
+      "City"
+    ],
+    [
+      "India & Public Affairs",
+      "Nation"
+    ],
+    [
+      "Transport & Traffic",
+      "City"
+    ],
+    [
+      "Weather & Preparedness",
+      "India"
+    ],
+    [
+      "Technology & Start-ups",
+      "City"
+    ],
+    [
+      "Business & Policy",
+      "Nation"
+    ]
   ],
   "cityWatch": {
     "label": "CITY WATCH",
-    "text": "“Blue Line trial runs are expected by the end of October; the full corridor is targeted for mid-2027.”",
-    "attribution": "— Bengaluru Metro update"
+    "text": "“Supreme Court cancels acquisition of about 59 acres in Nelakadiranahalli, directing the land be returned.”",
+    "attribution": "— BLR Today"
   },
   "lead": {
-    "source": "The Indian Express",
-    "headline": "CYCLONE ARNAB APPROACHES ANDHRA COAST; EVACUATIONS BEGIN",
-    "deck": "Andhra Pradesh moves people from vulnerable areas as Odisha mobilises for an October 28 landfall",
+    "source": "Press Information Bureau • Cabinet Secretariat",
+    "headline": "CYCLONE ARNAB: CENTRE MOBILISES FOR ANDHRA LANDALL",
+    "deck": "Very severe storm forecast to cross the coast on October 28; rescue teams stand by across five states",
     "image": {
-      "src": "https://images.indianexpress.com/2026/10/Cyclone.png?w=1024",
-      "alt": "Pregnant women being moved to hospital in Odisha as Cyclone Arnab approaches",
-      "caption": "<strong>CYCLONE PREPAREDNESS:</strong> Authorities across Andhra Pradesh and Odisha are preparing for Cyclone Arnab, forecast to reach the coast on October 28. (Express Photo)"
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Arnab_2026-10-26_0740Z.jpg",
+      "alt": "Satellite image of Cyclone Arnab over the Bay of Bengal on October 26, 2026",
+      "caption": "<strong>CYCLONE ARNAB:</strong> NOAA-20 satellite imagery shows the storm over the Bay of Bengal on October 26. (Public domain / NOAA via Wikimedia Commons)"
     },
     "paragraphs": [
-      "ANDHRA Pradesh has begun evacuations from vulnerable areas as Cyclone Arnab strengthens over the Bay of Bengal, with landfall forecast between Bapatla and Visakhapatnam on October 28.",
-      "Andhra officials have ordered evacuations from low-lying areas and moved 4,711 pregnant women to health centres and hospitals. Schools in the listed districts are to close from October 27 to 31.",
-      "The India Meteorological Department forecasts sustained winds of 115–125 km/h, with gusts up to 140 km/h. Odisha has also mobilised ministers and restricted fishing in vulnerable coastal districts.",
-      "Disaster-response teams are on standby as authorities issue public alerts and move residents to safer locations."
+      "The Centre has put disaster-response teams on standby as Cyclone Arnab tracks toward the Andhra Pradesh coast, with landfall forecast between Bapatla and Visakhapatnam by the forenoon of October 28.",
+      "The India Meteorological Department forecast a very severe cyclonic storm with sustained winds of 115–125 km/h and gusts up to 140 km/h. Andhra Pradesh, Odisha, Telangana, Chhattisgarh and Puducherry have activated preparedness measures.",
+      "NDRF and state response teams are positioned, shelters and district control rooms are ready, and fishermen have been advised to stay ashore through October 29. Eastern Uttar Pradesh and Bihar have also been alerted for heavy rainfall."
     ],
-    "moreUrl": "https://indianexpress.com/article/cities/hyderabad/cyclone-arnab-landfall-andhra-pradesh-odisha-imd-alert-evacuation-schools-closed-october-28-10937845/"
+    "moreUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2328434&lang=1&reg=3"
   },
   "sidebarStory": {
     "tag": "div",
     "className": "sidebar-item",
-    "source": "The Indian Express",
-    "headline": "NAMMA METRO BLUE LINE TRIALS TARGET MONTH END",
+    "source": "BLR Today",
+    "headline": "BENGALURU METRO DROPS DOUBLE-DECKER PROJECT",
     "headlineClass": "side-headline",
-    "subhead": "KR Puram–Silk Board corridor is 87% complete; opening targeted for mid-2027",
-    "image": {
-      "src": "https://images.indianexpress.com/2026/10/Bengaluru-Metro.jpg?w=1024",
-      "alt": "Bengaluru Metro Blue Line construction",
-      "caption": "Work continues on the Outer Ring Road Blue Line corridor. (Express Photo)"
-    },
+    "subhead": "Centre rejects 44.65-km corridor; BMRL shifts focus to flyovers and tunnels",
     "paragraphs": [
-      "Trial runs on the 19.75-km K R Puram–Central Silk Board stretch are expected by the end of October. Construction is 87% complete, with station entry and exit works at 88%.",
-      "The corridor serves the Outer Ring Road IT hub and is targeted to open by mid-2027, subject to statutory clearances. Officials have also been told to remove barricades where work is complete."
+      "The proposed double-decker Metro corridor from J.P. Nagar 4th Stage to Kempegowda International Airport has been cancelled after the Centre declined approval. BMRL will focus on flyovers and tunnel roads instead."
     ],
-    "moreUrl": "https://indianexpress.com/article/cities/bangalore/bengaluru-metro-blue-line-trials-kr-puram-silk-board-10933185/"
+    "moreUrl": "https://inblr.today/news/bengaluru-bmrl-cancels-double-decker-project-shifts-focus-flyovers"
   },
   "groups": [
     {
@@ -70,34 +81,60 @@
       "stories": [
         {
           "className": "lower-column",
-          "source": "The Bengaluru Live",
-          "headline": "HENNUR–BAGALUR ROADWORKS: PLAN ALTERNATE ROUTES",
+          "source": "BLR Today",
+          "headline": "NEWLYWED COUPLE KILLED IN E-SCOOTER CRASH",
           "headlineClass": "lower-headline",
-          "subhead": "Officials also call for wider footpaths wherever feasible",
-          "image": {"src": "https://thebengalurulive.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-26-at-2.53.43-PM-768x432.jpeg", "alt": "Roadworks along the Hennur–Bagalur corridor in Bengaluru", "caption": "Roadwork planning on Bengaluru’s Hennur–Bagalur corridor."},
-          "paragraphs": ["Officials have been told to identify alternative routes before construction begins and provide wider footpaths wherever the road design allows."],
-          "moreUrl": "https://thebengalurulive.com/hennur-bagalur-roadworks-plan-alternative-routes-wider-footpaths-officials-told/",
-          "table": {"headers": ["ROADWORK PLAN", "DIRECTION", "DETAIL"], "rows": [["Traffic", "Plan routes", "Before works"], ["Footpaths", "Widen", "Where feasible"], ["Access", "Maintain", "During works"]]}
+          "subhead": "A car rammed their scooter near Bengaluru, according to local reports",
+          "paragraphs": [
+            "A newly married couple died after a car rammed their e-scooter near Bengaluru. The incident has renewed attention on road safety for two-wheeler riders."
+          ],
+          "moreUrl": "https://inblr.today/news/car-rams-e-scooter-kills-newlywed-couple-near-bengaluru",
+          "table": {
+            "headers": [
+              "CITY UPDATE",
+              "STATUS",
+              "DETAIL"
+            ],
+            "rows": [
+              [
+                "Metro corridor",
+                "Cancelled",
+                "44.65 km plan"
+              ],
+              [
+                "Land case",
+                "SC order",
+                "Return land"
+              ],
+              [
+                "Traffic",
+                "Fatal crash",
+                "Couple killed"
+              ]
+            ]
+          }
         },
         {
           "className": "lower-column center-border",
-          "source": "The Bengaluru Live",
-          "headline": "170 SPEEDING CASES BOOKED IN CITY DRIVE",
+          "source": "BLR Today",
+          "headline": "SUPREME COURT ORDERS LAND RETURN IN BENGALURU",
           "headlineClass": "lower-headline",
-          "subhead": "Police also registered 369 drunk-driving cases",
-          "image": {"src": "https://thebengalurulive.com/wp-content/uploads/2026/10/Screenshot-2026-10-26-110503.png", "alt": "Scooter travelling on a Bengaluru road", "caption": "Traffic enforcement drive ran across all 53 city stations."},
-          "paragraphs": ["Between October 19 and 25, traffic police booked 170 overspeeding cases and collected ₹1.72 lakh in fines. Officers also checked 24,243 vehicles for drunk driving."],
-          "moreUrl": "https://thebengalurulive.com/bengaluru-traffic-police-book-170-speeding-cases-collect-rs-1-72-lakh-in-fines/"
+          "subhead": "Acquisition of about 59 acres in Nelakadiranahalli set aside",
+          "paragraphs": [
+            "The Supreme Court quashed the decades-old acquisition process for roughly 59 acres and 39 guntas in Nelakadiranahalli and ordered the land returned."
+          ],
+          "moreUrl": "https://inblr.today/news/bengaluru-supreme-court-quashes-land-acquisition-nelakadiranahalli"
         },
         {
           "className": "lower-column",
-          "source": "The Bengaluru Live",
-          "headline": "BENGALURU FORECAST: LIGHT RAIN, CLOUDY SKY",
+          "source": "BLR Today",
+          "headline": "BRIGADE HOTEL VENTURES REPORTS 105% PROFIT GROWTH",
           "headlineClass": "lower-headline",
           "weather": {
-            "image": {"src": "https://thebengalurulive.com/wp-content/uploads/2026/10/1-519163.jpg", "alt": "Rain on a Bengaluru city road", "caption": "Rain on a Bengaluru road. (Representational image)"},
-            "paragraphs": ["Monday: Cloudy with light rain; 27°C high and 21°C low, according to the IMD forecast.", "Tuesday–Wednesday: Partly cloudy, with no weather warning shown for Bengaluru."],
-            "moreUrl": "https://thebengalurulive.com/bengaluru-weather-on-october-26-imd-forecasts-light-rain-cloudy-sky/"
+            "paragraphs": [
+              "Brigade Hotel Ventures reported a 105% increase in profit after tax in the September quarter, with revenue of ₹142 crore."
+            ],
+            "moreUrl": "https://inblr.today/news/bengaluru-brigade-hotel-ventures-records-double-profit-growth-september"
           }
         }
       ]
@@ -109,32 +146,43 @@
       "stories": [
         {
           "className": "section-lead",
-          "source": "Free Press Journal",
-          "kicker": "NEW DELHI • DEFENCE",
-          "headline": "CENTRE CLEARS ₹2.12 LAKH CRORE DEFENCE ACQUISITIONS",
+          "source": "Press Information Bureau • Cabinet Secretariat",
+          "kicker": "INDIA • CYCLONE PREPAREDNESS",
+          "headline": "CENTRE PUTS RESPONSE TEAMS ON STANDBY AS ARNAB NEARS",
           "headlineClass": "section-headline",
-          "deck": "About 82% of the procurement value is slated for Indian industry",
-          "image": {"src": "https://media.assettype.com/freepressjournal/2025-05-09/y6qail4r/drone-er.jpg?width=1200", "alt": "Military drone, file image", "caption": "Surveillance and strike drones are among the approved systems. (File image)"},
-          "paragraphs": ["The Defence Acquisition Council has cleared capital acquisition proposals worth ₹2.12 lakh crore for the Army, Navy and Air Force. Nearly 82% of the procurement is expected to come from Indian industry.", "The approvals cover high-mobility vehicles, artillery, light helicopters, air-defence systems, surveillance equipment, drones and naval platforms."],
-          "moreUrl": "https://www.freepressjournal.in/india/india-clears-212-lakh-crore-defence-deals-82-of-procurement-to-come-from-domestic-industry"
+          "deck": "Andhra, Odisha and three other states prepare for heavy rain and high winds",
+          "image": {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Arnab_2026-10-26_0740Z.jpg",
+            "alt": "Satellite image of Cyclone Arnab over the Bay of Bengal",
+            "caption": "Cyclone Arnab over the Bay of Bengal on October 26. (NOAA-20 / Public domain)"
+          },
+          "paragraphs": [
+            "The National Crisis Management Committee reviewed preparations for Cyclone Arnab, forecast to cross the Andhra Pradesh and Yanam coasts between Bapatla and Visakhapatnam on October 28.",
+            "NDRF teams are deployed or on standby, while state authorities have arranged shelters and activated control rooms. Heavy rainfall alerts also extend to Telangana, southern Odisha, Chhattisgarh, eastern Uttar Pradesh and Bihar."
+          ],
+          "moreUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2328434&lang=1&reg=3"
         },
         {
           "className": "section-brief",
-          "source": "Hindustan Times",
-          "kicker": "SULTANPUR • COURTS",
-          "headline": "COURT ACQUITS RAHUL GANDHI IN DEFAMATION CASE",
+          "source": "The Indian Express",
+          "kicker": "NEW DELHI • CYBERSECURITY",
+          "headline": "MODI WARNS OF CYBER TERRORISM THREAT",
           "headlineClass": "lower-headline",
-          "paragraphs": ["A special MP-MLA court acquitted the Congress leader in an eight-year-old case over remarks about Amit Shah. The court found the complaint did not meet the legal threshold for defamation."],
-          "moreUrl": "https://www.hindustantimes.com/cities/lucknow-news/rahul-gandhi-acquitted-in-2018-defamation-case-over-remarks-against-amit-shah-101793031045165.html"
+          "paragraphs": [
+            "At the opening of the RBI’s data centre and cybersecurity training institute in Bhubaneswar, Prime Minister Narendra Modi said modern conflicts also target banking systems and digital infrastructure."
+          ],
+          "moreUrl": "https://indianexpress.com/article/india/pm-modi-cyber-terrorism-warning-digital-security-10936435/"
         },
         {
           "className": "section-brief",
-          "source": "Press Information Bureau",
-          "kicker": "NEW DELHI • TRANSPORT",
-          "headline": "RULES UPDATED FOR E100 FLEX-FUEL VEHICLES",
+          "source": "The Economic Times",
+          "kicker": "ARUNACHAL PRADESH • DEFENCE",
+          "headline": "ARMY REJECTS VIDEO CLAIMING CHINESE CONTROL",
           "headlineClass": "lower-headline",
-          "paragraphs": ["Amended motor-vehicle rules now expressly include E100 alongside E85 in emissions certification provisions. The change establishes a regulatory pathway for vehicles designed to run on high-ethanol blends."],
-          "moreUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2328642&lang=1&reg=3"
+          "paragraphs": [
+            "The Indian Army has refuted a circulating video that falsely claimed Chinese control over border areas in Arunachal Pradesh, according to the day’s national news brief."
+          ],
+          "moreUrl": "https://economictimes.indiatimes.com/news/new-updates/school-assembly-news-headlines-october-27-top-national-international-business-sports-updates/articleshow/135213000.cms"
         }
       ]
     },
@@ -145,33 +193,37 @@
       "stories": [
         {
           "className": "section-lead city-lead",
-          "source": "The Bengaluru Live",
-          "kicker": "BENGALURU • COMMUNITY",
-          "headline": "FOUR RESCUED PUPPIES STILL NEED HOMES AFTER FIVE MONTHS",
+          "source": "BLR Today",
+          "kicker": "BENGALURU • PUBLIC SAFETY",
+          "headline": "NEWLYWED COUPLE DIE AFTER CAR HITS E-SCOOTER",
           "headlineClass": "section-headline",
-          "deck": "Blackie, Brownie, Rosie and Spots are waiting for permanent families",
-          "image": {"src": "https://thebengalurulive.com/wp-content/uploads/2026/10/yelahanka-puppies-adoption-photo-20261026-768x480.png", "alt": "Four rescued Bengaluru puppies available for adoption", "caption": "Four rescued puppies are still waiting for adoptive homes."},
-          "paragraphs": ["The four dogs have been in care for five months and are still looking for permanent homes. Their rescue story has drawn renewed attention to the city’s need for adopters and foster families."],
-          "moreUrl": "https://thebengalurulive.com/after-five-months-of-searching-four-rescued-bengaluru-puppies-still-need-homes/"
+          "deck": "The fatal crash near Bengaluru has renewed concern over two-wheeler safety",
+          "paragraphs": [
+            "A newlywed couple were killed when a car rammed their e-scooter near Bengaluru. The brief local report did not provide further details about the circumstances of the collision."
+          ],
+          "moreUrl": "https://inblr.today/news/car-rams-e-scooter-kills-newlywed-couple-near-bengaluru"
         },
         {
           "className": "section-brief",
-          "source": "The Bengaluru Live",
-          "kicker": "TECH • NOVEMBER 17–19",
-          "headline": "TECH SUMMIT PLANS 50,000-SQ-FT ROBOTICS PAVILION",
+          "source": "BLR Today",
+          "kicker": "BENGALURU • BUSINESS",
+          "headline": "JW MARRIOTT BENGALURU CHANGES HANDS",
           "headlineClass": "lower-headline",
-          "image": {"src": "https://thebengalurulive.com/wp-content/uploads/2026/10/bts-review-meeting-768x532.jpeg", "alt": "Bengaluru Tech Summit planning meeting", "caption": "Preparations are under way for Bengaluru Tech Summit 2026."},
-          "paragraphs": ["About 101 robotics and drone startups are expected at the summit, which will also feature live demonstrations and startup pitching."],
-          "moreUrl": "https://thebengalurulive.com/bengaluru-tech-summit-plans-50000-sq-ft-robotics-pavilion-startup-pitching-opportunities/"
+          "paragraphs": [
+            "Shree Naman Group acquired JW Marriott Bengaluru, while Brigade Group plans to open two new Hyatt Regency hotels in the city."
+          ],
+          "moreUrl": "https://inblr.today/news/bengaluru-shree-naman-group-acquires-jw-marriott-brigade-open-two-new"
         },
         {
           "className": "section-brief society-note",
-          "source": "The Bengaluru Live",
-          "kicker": "KARNATAKA • TRANSPARENCY",
-          "headline": "PHYSICAL RTI REQUESTS NOW ENTERED ONLINE",
+          "source": "BLR Today",
+          "kicker": "BENGALURU • CIVIC",
+          "headline": "SIX PROJECTS RETENDERED AS COST RISES ₹16 CRORE",
           "headlineClass": "lower-headline",
-          "paragraphs": ["Public authorities must register RTI applications received in person or by post on the online portal within two days. Citizens can also file through Bengaluru One, Karnataka One and Grama One centres."],
-          "moreUrl": "https://thebengalurulive.com/karnataka-brings-physical-rti-applications-under-sakala-makes-online-registration-mandatory/"
+          "paragraphs": [
+            "Bengaluru Smart Infrastructure Ltd has retendered six projects, with the revised cost rising by ₹16 crore, according to local coverage."
+          ],
+          "moreUrl": "https://inblr.today/"
         }
       ]
     },
@@ -182,30 +234,56 @@
       "stories": [
         {
           "className": "section-lead sports-lead",
-          "source": "The Bengaluru Live",
-          "kicker": "BASKETBALL • BENGALURU",
-          "headline": "DENSO IRIS WIN WOMEN’S BASKETBALL LEAGUE ASIA TITLE",
+          "source": "Press Information Bureau • Cabinet Secretariat",
+          "kicker": "INDIA • WEATHER WATCH",
+          "headline": "ARNAB FORECAST TO BRING WINDS UP TO 140 KM/H",
           "headlineClass": "section-headline",
-          "deck": "Japan’s champions defeat Sichuan Yuanda Meile in the Bengaluru final",
-          "image": {"src": "https://thebengalurulive.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-25-at-9.59.29-PM.jpeg", "alt": "Women's basketball final at Sree Kanteerava Indoor Stadium in Bengaluru", "caption": "The final was played at Sree Kanteerava Indoor Stadium."},
-          "paragraphs": ["Denso Iris won the Women’s Basketball League Asia title after the final at Sree Kanteerava Indoor Stadium on Sunday. Sichuan Yuanda Meile finished runners-up."],
-          "moreUrl": "https://thebengalurulive.com/denso-iris-win-womens-basketball-league-asia-title-in-bengaluru/"
+          "deck": "Coastal communities urged to follow official alerts as the storm approaches",
+          "image": {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Arnab_2026-10-26_0740Z.jpg",
+            "alt": "Satellite view of Cyclone Arnab",
+            "caption": "NOAA-20 satellite image, October 26. (Public domain)"
+          },
+          "paragraphs": [
+            "The IMD forecast sustained winds of 115–125 km/h, with gusts up to 140 km/h, as Cyclone Arnab approaches the Andhra coast. Authorities have advised fishermen not to venture to sea through October 29."
+          ],
+          "moreUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2328434&lang=1&reg=3"
         },
         {
           "className": "section-brief listings-box",
-          "kicker": "INDIA • KEY DEVELOPMENTS",
-          "listing": [["OCT 28", "Cyclone Arnab landfall forecast on Andhra coast"], ["₹2.12L CR", "Defence acquisition proposals cleared"], ["82%", "Defence procurement expected from Indian industry"], ["E100", "Flex-fuel vehicle rules updated"]]
+          "kicker": "TODAY • QUICK BRIEF",
+          "listing": [
+            [
+              "OCT 28",
+              "Arnab landfall forecast on Andhra coast"
+            ],
+            [
+              "140 KM/H",
+              "Maximum gusts in IMD forecast"
+            ],
+            [
+              "44.65 KM",
+              "Bengaluru double-decker Metro plan cancelled"
+            ],
+            [
+              "105%",
+              "Brigade Hotel Ventures profit growth"
+            ]
+          ]
         },
         {
           "className": "section-brief classifieds-box",
-          "source": "The Bengaluru Live",
-          "kicker": "KARNATAKA • EDUCATION",
-          "headline": "191 MEDICAL SEATS STILL VACANT",
+          "source": "BLR Today",
+          "kicker": "BENGALURU • CITY LIFE",
+          "headline": "VIRAL FEVER AND DENGUE RISE AMONG CHILDREN",
           "headlineClass": "lower-headline",
-          "paragraphs": ["Further counselling for Karnataka’s remaining medical seats requires approval from the Medical Counselling Committee, according to the latest report."],
-          "moreUrl": "https://thebengalurulive.com/191-medical-seats-still-vacant-in-karnataka-further-counselling-needs-mcc-nod/"
+          "paragraphs": [
+            "Local reporting says changing weather in Bengaluru is coinciding with an increase in viral fever and dengue among children."
+          ],
+          "moreUrl": "https://inblr.today/"
         }
       ]
     }
   ]
 }
+
