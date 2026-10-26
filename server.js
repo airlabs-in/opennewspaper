@@ -7,6 +7,7 @@ const port = Number(process.env.PORT || 3001);
 const root = __dirname;
 const publicFiles = new Set([
   "index.html",
+  "content.json",
   "styles.css",
   "lead_photo.jpg",
   "images/market-floor.jpg",
@@ -15,6 +16,7 @@ const publicFiles = new Set([
 ]);
 const contentTypes = {
   ".html": "text/html; charset=utf-8",
+  ".json": "application/json; charset=utf-8",
   ".css": "text/css; charset=utf-8",
   ".jpg": "image/jpeg",
   ".jpeg": "image/jpeg",
