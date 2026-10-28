@@ -10,7 +10,7 @@
     "editionLabel": "DAILY READ",
     "editionSummary": "Complete Morning Ledger",
     "edition": "BENGALURU • INDIA EDITION",
-    "dateline": "BENGALURU, TUESDAY, OCTOBER 27, 2026",
+    "dateline": "BENGALURU, WEDNESDAY, OCTOBER 28, 2026",
     "greeting": "GOOD MORNING :)",
     "footer": "Open Newspaper • Bengaluru and India Edition • Independent coverage from open sources."
   },
@@ -42,36 +42,36 @@
   ],
   "cityWatch": {
     "label": "CITY WATCH",
-    "text": "“Bengaluru’s door-to-door garbage overhaul is stalled: contractors accepted only five of 21 approved work packages.”",
-    "attribution": "— BLR Today"
+    "text": "“A month-old leopard cub was rescued from a Nelamangala farm as sightings rise near Bengaluru homes.”",
+    "attribution": "— The Times of India"
   },
   "lead": {
-    "source": "India Today NE",
-    "headline": "FIVE KILLED IN GUWAHATI HOTEL SHOOTING; SUSPECT ARRESTED",
-    "deck": "Four victims were from one family; police say a lease dispute may have led to the attack",
+    "source": "Moneycontrol",
+    "headline": "CYCLONE ARNAB MAKES LANDFALL; FLOODING REPORTED IN ANDHRA",
+    "deck": "The storm crossed the coast near Yanam with destructive winds as heavy rain hit coastal districts",
     "image": {
-      "src": "https://cf-img-a-in.tosshub.com/lingo/itne/images/story/202610/6adf9de25623d-guwahati-hotel-bilas-inn-firing-five-killed--accused-arrested-within-an-hour-263721288-16x9.png?size=948%3A533",
-      "alt": "Hotel Bilas Inn in Guwahati after a fatal shooting",
-      "caption": "Police said five people died and one was injured in the October 26 shooting. (India Today NE)"
+      "src": "https://images.moneycontrol.com/static-mcnews/2026/10/20261027231728_Cyclone-Arnab.jpg?height=431&impolicy=website&width=770",
+      "alt": "Cyclone Arnab bringing heavy rain to Andhra Pradesh",
+      "caption": "The landfall process began overnight between Bapatla and Visakhapatnam. (ANI / Moneycontrol)"
     },
     "paragraphs": [
-      "Five people, including four members of the same family, were killed in a shooting at Hotel Bilas Inn in Guwahati. A sixth person was injured and taken for treatment.",
-      "Guwahati Police said the suspect was arrested within an hour and the firearm was seized. Investigators said preliminary findings point to a dispute linked to the hotel lease.",
-      "Police said the inquiry is at an early stage, with forensic teams examining the scene and further details pending. The suspect had leased the property, according to investigators."
+      "Cyclone Arnab began making landfall on the Andhra Pradesh coast around 1:20 am, with the process expected to continue for several hours. The storm crossed between Bapatla and Visakhapatnam, near south Yanam.",
+      "Maximum sustained winds were reported at 125–135 kmph, with gusts reaching 150 kmph. Heavy rain, strong winds and flooding were reported in coastal districts including Kakinada.",
+      "Police said four people stranded in floodwater had been rescued. Authorities remained on alert as the storm centre stayed close to the coast and conditions continued to develop."
     ],
-    "moreUrl": "https://www.indiatodayne.in/assam/story/guwahati-hotel-bilas-inn-firing-five-killed-accused-arrested-within-an-hour-1467814-2026-10-27"
+    "moreUrl": "https://www.moneycontrol.com/news/india/cyclone-arnab-heavy-rain-flooding-reported-as-landfall-continues-in-andhra-pradesh-14061671.html"
   },
   "sidebarStory": {
     "tag": "div",
     "className": "sidebar-item",
     "source": "The Times of India",
-    "headline": "BENGALURU WASTE COLLECTION REVAMP HITS A ROADBLOCK",
+    "headline": "LEOPARD CUB RESCUED NEAR BENGALURU AS SIGHTINGS RISE",
     "headlineClass": "side-headline",
-    "subhead": "Only five of 21 approved packages have work orders accepted; ten tenders recalled",
+    "subhead": "A month-old cub was found in a Nelamangala farm; villagers report leopard activity near homes",
     "paragraphs": [
-      "The city’s door-to-door garbage collection revamp is facing delays after contractors accepted work orders for only five of 21 approved packages. Ten tenders have been recalled, with rollout potentially delayed by three to six months."
+      "Forest officials rescued a month-old male leopard cub from farmland in Mallarabanavadi, Nelamangala taluk, after it was found separated from its mother. Villagers have also reported adult leopard sightings near homes and attacks on domestic animals."
     ],
-    "moreUrl": "https://timesofindia.indiatimes.com/city/bengaluru/garbage-collection-suffers-over-tender-standoff-with-contractors/articleshow/135217260.cms"
+    "moreUrl": "https://timesofindia.indiatimes.com/city/bengaluru/nelamangala-villages-near-bengaluru-on-edge-as-leopard-sightings-rise-cub-rescued/articleshow/135241792.cms"
   },
   "groups": [
     {
@@ -81,106 +81,106 @@
       "stories": [
         {
           "className": "lower-column",
-          "source": "India Today",
-          "headline": "THREE ARRESTED IN BENGALURU JERMAIAH ROAD BLAST CASE",
+          "source": "NDTV",
+          "headline": "CYCLONE CANCELLATIONS HIT BENGALURU-LINKED FLIGHTS",
           "headlineClass": "lower-headline",
-          "subhead": "Police allege the men conspired in an explosion at an under-construction building",
+          "subhead": "Air India Express scrubbed services linking Visakhapatnam with Bengaluru and other cities",
           "paragraphs": [
-            "Bengaluru Police arrested three men from Assam in connection with an October 20 explosion at an under-construction building on Jermaiah Road. Police allege the men conspired and exchanged information through a WhatsApp group."
+            "Flight operations were suspended at Visakhapatnam, Vijayawada and Rajahmundry airports as Cyclone Arnab approached. Air India Express cancelled 13 flights, including services connecting Visakhapatnam with Bengaluru, Hyderabad and Vijayawada. Passengers were advised to check directly with their airline."
           ],
-          "moreUrl": "https://www.indiatoday.in/cities/bengaluru/story/bengaluru-ied-blast-three-assam-men-arrested-murder-plot-3024927-2026-10-26",
+          "moreUrl": "https://www.ndtv.com/india-news/cyclone-arnab-flights-suspended-at-3-andhra-airports-airlines-cancel-services-12245434",
           "table": {
             "headers": [
-              "BENGALURU UPDATE",
+              "CYCLONE UPDATE",
               "STATUS",
               "DETAIL"
             ],
             "rows": [
               [
-                "Blast probe",
-                "3 arrested",
-                "Jermaiah Road"
+                "Landfall",
+                "Underway",
+                "Andhra coast"
               ],
               [
-                "Waste tenders",
-                "10 recalled",
-                "Revamp delayed"
+                "Flights",
+                "Suspended",
+                "3 airports"
               ],
               [
-                "KPSC",
-                "Reforms planned",
-                "CM announcement"
+                "Bengaluru link",
+                "Cancelled",
+                "Air India Express"
               ]
             ]
           }
         },
         {
           "className": "lower-column center-border",
-          "source": "BLR Today",
-          "headline": "CM SAYS KPSC WILL BE GIVEN A NEW FORM",
+          "source": "The Times of India",
+          "headline": "LEOPARD CUB FOUND IN NELAMANGALA FARM",
           "headlineClass": "lower-headline",
-          "subhead": "DK Shivakumar announces reforms for Karnataka’s public service commission",
+          "subhead": "Forest team moved the month-old animal to Bannerghatta rehabilitation centre",
           "paragraphs": [
-            "Chief Minister D.K. Shivakumar said the Karnataka Public Service Commission would be reformed, speaking to reporters at Bengaluru Palace grounds."
+            "A month-old male leopard cub found alone in farmland at Mallarabanavadi was rescued and taken to the Bannerghatta Rehabilitation Centre. Forest officials had not confirmed whether the cub’s mother was located."
           ],
-          "moreUrl": "https://inblr.today/"
+          "moreUrl": "https://timesofindia.indiatimes.com/city/bengaluru/nelamangala-villages-near-bengaluru-on-edge-as-leopard-sightings-rise-cub-rescued/articleshow/135241792.cms"
         },
         {
           "className": "lower-column",
-          "source": "BLR Today",
-          "headline": "KARNATAKA CM WARNS FIRMS OVER NEGLECT OF KANNADIGAS",
+          "source": "NDTV",
+          "headline": "THREE ANDHRA AIRPORTS SUSPEND FLIGHTS AS STORM ARRIVES",
           "headlineClass": "lower-headline",
           "paragraphs": [
-            "Chief Minister D.K. Shivakumar warned private companies in Karnataka against allegedly sidelining Kannadigas and said the state could take action."
+            "Visakhapatnam, Vijayawada and Rajahmundry airports suspended operations during Cyclone Arnab, with airlines cancelling services as a safety measure."
           ],
-          "moreUrl": "https://inblr.today/"
+          "moreUrl": "https://www.ndtv.com/india-news/cyclone-arnab-flights-suspended-at-3-andhra-airports-airlines-cancel-services-12245434"
         }
       ]
     },
     {
-      "separator": "— INDIA • DEFENCE & PUBLIC AFFAIRS —",
+      "separator": "— INDIA • WEATHER & PUBLIC AFFAIRS —",
       "className": "news-section foreign-section",
       "ariaLabel": "India and national news",
       "stories": [
         {
           "className": "section-lead",
-          "source": "ABP Live • PTI",
-          "kicker": "UTTAR PRADESH • ELECTIONS",
-          "headline": "UP CEO REJECTS 26 VOTER-DELETION FORMS WITH SAME SIGNATURE",
+          "source": "Moneycontrol",
+          "kicker": "ANDHRA PRADESH • CYCLONE",
+          "headline": "ARNAB’S LANDFALL BRINGS FLOODING AND 135-KMPH WINDS",
           "headlineClass": "section-headline",
-          "deck": "A booth-level officer has been booked after incomplete forms sought to remove voters in Sultanpur",
+          "deck": "Authorities report heavy rain and rescues as the storm crosses the coast near Yanam",
           "image": {
-            "src": "https://commons.wikimedia.org/wiki/Special:FilePath/The_voters_standing_in_a_queue_waiting_for_their_turn_to_cast_votes_at_a_polling_booth,_in_Bagpat,_Uttar_Pradesh,_during_the_4th_Phase_of_General_Election-2009_on_May_07,_2009.jpg",
-            "alt": "Election officials reviewing voter forms",
-            "caption": "The CEO’s office said the applications were incomplete and were not accepted. (ABP Live / PTI)"
+            "src": "https://images.moneycontrol.com/static-mcnews/2026/10/20261027231728_Cyclone-Arnab.jpg?height=431&impolicy=website&width=770",
+            "alt": "Cyclone Arnab brings rain to Andhra Pradesh",
+            "caption": "The storm’s landfall process began overnight on the Andhra coast. (ANI / Moneycontrol)"
           },
           "paragraphs": [
-            "Uttar Pradesh’s Chief Electoral Officer said 26 Form-7 applications bearing signatures under the name Nand Lal were not accepted. The forms sought removal of voters from the roll in Sultanpur.",
-            "The CEO’s office said the applications lacked required applicant details. The booth-level officer was relieved of election duties and a case was registered over the handling of the forms."
+            "Cyclone Arnab began making landfall around 1:20 am between Bapatla and Visakhapatnam, near south Yanam. The process was expected to continue for several hours.",
+            "Winds were reported at 125–135 kmph, gusting to 150 kmph. Heavy rain and flooding affected coastal districts including Kakinada, while police rescued four people stranded in floodwater."
           ],
-          "moreUrl": "https://news.abplive.com/news/india/up-ceo-rejects-voter-deletion-forms-with-26-nand-lal-signatures-blo-booked-1873272"
+          "moreUrl": "https://www.moneycontrol.com/news/india/cyclone-arnab-heavy-rain-flooding-reported-as-landfall-continues-in-andhra-pradesh-14061671.html"
         },
         {
           "className": "section-brief",
-          "source": "ABP Live",
-          "kicker": "UTTAR PRADESH • POLITICS",
-          "headline": "AAP’S SANJAY SINGH FLAGS BIZARRE VOTER ENTRIES",
+          "source": "The Times of India",
+          "kicker": "UTTAR PRADESH • CRIME",
+          "headline": "GOVT PROMISES SUPPORT AFTER LUCKNOW TRIPLE MURDER",
           "headlineClass": "lower-headline",
           "paragraphs": [
-            "AAP MP Sanjay Singh criticised Uttar Pradesh’s voter-roll process and questioned the state election chief over entries he described as anomalous."
+            "Uttar Pradesh’s government promised a job for the widow and free education for the couple’s daughter after three men were shot dead in Lucknow following a parking dispute. Officials also announced security support and said NSA action would be pursued against the accused."
           ],
-          "moreUrl": "https://news.abplive.com/topic/27-october-2026"
+          "moreUrl": "https://timesofindia.indiatimes.com/city/lucknow/govt-promises-job-for-widow-nsa-against-accused-in-triple-murder-case/articleshow/135244616.cms"
         },
         {
           "className": "section-brief",
-          "source": "ABP Live",
+          "source": "The Times of India",
           "kicker": "UTTAR PRADESH • ELECTIONS",
-          "headline": "VOTE COUNTING FOR UP COUNCIL POLLS TODAY",
+          "headline": "BJP RETAINS THREE UP COUNCIL SEATS; SP HOLDS ONE",
           "headlineClass": "lower-headline",
           "paragraphs": [
-            "Votes for the Uttar Pradesh Legislative Council elections are scheduled to be counted on Tuesday, October 27."
+            "In the Uttar Pradesh Legislative Council polls, the BJP retained three seats while the Samajwadi Party held the Varanasi teachers’ constituency. Counting was continuing in other contests."
           ],
-          "moreUrl": "https://news.abplive.com/topic/27-october-2026"
+          "moreUrl": "https://timesofindia.indiatimes.com/city/lucknow/bjp-retains-3-mlc-seats-sp-holds-varanasi-teachers-constituency/amp_articleshow/135244969.cms"
         }
       ]
     },
@@ -192,37 +192,37 @@
         {
           "className": "section-lead city-lead",
           "source": "The Times of India",
-          "kicker": "BENGALURU • CIVIC SERVICES",
-          "headline": "GARBAGE COLLECTION REVAMP STALLED BY CONTRACTOR STANDOFF",
+          "kicker": "BENGALURU • WILDLIFE",
+          "headline": "LEOPARD SIGHTINGS RISE NEAR BENGALURU; CUB RESCUED",
           "headlineClass": "section-headline",
-          "deck": "Only five of 21 approved packages have been accepted, delaying a citywide overhaul",
+          "deck": "Forest officials found a month-old cub in a Nelamangala farm as villages report leopard activity",
           "paragraphs": [
-            "Bengaluru’s plan to expand door-to-door waste collection is at a standstill after contractors accepted work orders for only five of 21 packages. Ten tenders have been recalled, and the rollout may slip by three to six months.",
-            "The new system was expected to begin in Vijayanagar first. The impasse leaves the city relying on existing collection arrangements while authorities work through the tender dispute."
+            "A month-old male leopard cub was rescued from agricultural land in Mallarabanavadi village, Nelamangala taluk, after it was found separated from its mother. It was taken to the Bannerghatta Rehabilitation Centre.",
+            "Residents have reported adult leopard sightings near homes and attacks on domestic animals. Villagers have sought capture measures; officials had not said whether the cub’s mother was found."
           ],
-          "moreUrl": "https://timesofindia.indiatimes.com/city/bengaluru/garbage-collection-suffers-over-tender-standoff-with-contractors/articleshow/135217260.cms"
+          "moreUrl": "https://timesofindia.indiatimes.com/city/bengaluru/nelamangala-villages-near-bengaluru-on-edge-as-leopard-sightings-rise-cub-rescued/articleshow/135241792.cms"
         },
         {
           "className": "section-brief",
-          "source": "India Today",
-          "kicker": "BENGALURU • POLICE",
-          "headline": "POLICE ARREST THREE IN JERMAIAH ROAD EXPLOSION",
+          "source": "NDTV",
+          "kicker": "BENGALURU • TRAVEL",
+          "headline": "ARNAB DISRUPTS FLIGHTS LINKING BENGALURU AND VIZAG",
           "headlineClass": "lower-headline",
           "paragraphs": [
-            "Three men from Assam were arrested in connection with an explosion at an under-construction building on Jermaiah Road. Police said they were investigating an alleged plot."
+            "Air India Express cancelled 13 flights as three Andhra airports suspended operations during the cyclone. The cancellations included services connecting Visakhapatnam with Bengaluru."
           ],
-          "moreUrl": "https://www.indiatoday.in/cities/bengaluru/story/bengaluru-ied-blast-three-assam-men-arrested-murder-plot-3024927-2026-10-26"
+          "moreUrl": "https://www.ndtv.com/india-news/cyclone-arnab-flights-suspended-at-3-andhra-airports-airlines-cancel-services-12245434"
         },
         {
           "className": "section-brief society-note",
-          "source": "BLR Today",
-          "kicker": "BENGALURU • CIVIC",
-          "headline": "KARNATAKA EXAMS AUTHORITY RELEASES PWD TEST SCHEDULE",
+          "source": "The Times of India",
+          "kicker": "INDIA • PUBLIC SAFETY",
+          "headline": "LUCKNOW TRIPLE MURDER: GOVT ANNOUNCES FAMILY SUPPORT",
           "headlineClass": "lower-headline",
           "paragraphs": [
-            "The Karnataka Examinations Authority released the schedule for written examinations for several Public Works Department posts."
+            "The state promised a government job for the widow and free education for her daughter after three men were killed in a shooting linked to a parking dispute."
           ],
-          "moreUrl": "https://inblr.today/"
+          "moreUrl": "https://timesofindia.indiatimes.com/city/lucknow/govt-promises-job-for-widow-nsa-against-accused-in-triple-murder-case/articleshow/135244616.cms"
         }
       ]
     },
@@ -233,53 +233,53 @@
       "stories": [
         {
           "className": "section-lead sports-lead",
-          "source": "The Indian Express",
-          "kicker": "INDIA • SPACE",
-          "headline": "ISRO PLANS FOUR FUNCTIONAL LAUNCH PADS BY 2029",
+          "source": "The Times of India",
+          "kicker": "INDIA • UTTAR PRADESH ELECTIONS",
+          "headline": "BJP RETAINS THREE UP COUNCIL SEATS; SP WINS VARANASI",
           "headlineClass": "section-headline",
-          "deck": "Chairman V. Narayanan outlined a plan to expand India’s launch infrastructure",
+          "deck": "Counting continues in the state Legislative Council polls",
           "image": {
-            "src": "https://commons.wikimedia.org/wiki/Special:FilePath/PSLV_C45_EMISAT_campaign_17.jpg",
-            "alt": "Indian launch vehicle at the Satish Dhawan Space Centre",
-            "caption": "India plans to expand launch capacity by 2029. (Representative image / Wikimedia Commons)"
+            "src": "https://commons.wikimedia.org/wiki/Special:FilePath/India_Election_Commission.svg",
+            "alt": "Election Commission of India emblem",
+            "caption": "Results emerged from the Uttar Pradesh Legislative Council elections. (Representative image)"
           },
           "paragraphs": [
-            "ISRO plans to have four functional launch pads by 2029, according to chairman V. Narayanan. The announcement was among the national science and technology headlines for October 27."
+            "The BJP retained three seats in Uttar Pradesh’s Legislative Council elections, while the Samajwadi Party retained the Varanasi teachers’ constituency. Counting remained underway in other contests."
           ],
-          "moreUrl": "https://indianexpress.com/article/education/today-news-headlines-for-school-assembly-october-27-2026-ishan-kishan-out-of-third-ind-vs-nz-t20i-isro-eyes-four-launch-pads-by-2029-10936039/"
+          "moreUrl": "https://timesofindia.indiatimes.com/city/lucknow/bjp-retains-3-mlc-seats-sp-holds-varanasi-teachers-constituency/amp_articleshow/135244969.cms"
         },
         {
           "className": "section-brief listings-box",
           "kicker": "TODAY • QUICK BRIEF",
           "listing": [
             [
-              "5 DEAD",
-              "Guwahati hotel shooting; suspect arrested"
+              "135 KMPH",
+              "Arnab’s reported sustained winds"
             ],
             [
-              "5 OF 21",
-              "Bengaluru waste packages accepted"
+              "3 AIRPORTS",
+              "Andhra operations suspended"
             ],
             [
-              "4 BY 2029",
-              "ISRO launch pads planned"
+              "3 SEATS",
+              "BJP retains in UP council polls"
             ],
             [
-              "OCT 27",
-              "India-NZ T20I team news: Ishan Kishan ruled out"
+              "1 CUB",
+              "Rescued in Nelamangala"
             ]
           ]
         },
         {
           "className": "section-brief classifieds-box",
-          "source": "The Indian Express",
-          "kicker": "INDIA • CRICKET",
-          "headline": "ISHAN KISHAN RULED OUT OF THIRD T20I",
+          "source": "The Times of India",
+          "kicker": "INDIA • LUCKNOW",
+          "headline": "UP GOVT OFFERS WIDOW JOB AFTER TRIPLE MURDER",
           "headlineClass": "lower-headline",
           "paragraphs": [
-            "India wicketkeeper-batter Ishan Kishan has been ruled out of the third T20I against New Zealand because of a low-grade right adductor strain, the BCCI announced."
+            "The government announced employment, education and security support for the family of three men killed in a Lucknow shooting after a parking dispute."
           ],
-          "moreUrl": "https://indianexpress.com/article/education/today-news-headlines-for-school-assembly-october-27-2026-ishan-kishan-out-of-third-ind-vs-nz-t20i-isro-eyes-four-launch-pads-by-2029-10936039/"
+          "moreUrl": "https://timesofindia.indiatimes.com/city/lucknow/govt-promises-job-for-widow-nsa-against-accused-in-triple-murder-case/articleshow/135244616.cms"
         }
       ]
     }
