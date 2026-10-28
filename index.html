@@ -24,6 +24,7 @@
 
     function renderStory(story, options = {}) {
       const tag = story.tag || 'article';
+      const storyId = options.storyId || '';
       const headline = story.headline ? `<${story.headlineTag || 'h4'} class="${escapeHtml(story.headlineClass || 'lower-headline')}">${escapeHtml(story.headline)}</${story.headlineTag || 'h4'}>` : '';
       const byline = story.source && story.headline ? `<p class="byline story-byline">BY ${escapeHtml(story.source)}</p>` : '';
       const kicker = story.kicker ? `<p class="section-kicker">${escapeHtml(story.kicker)}</p>` : '';
@@ -42,13 +43,22 @@
       if (story.listing) {
         extra = `<ul class="listing-list">${story.listing.map(([label, text]) => `<li><strong>${escapeHtml(label)}</strong><span>${escapeHtml(text)}</span></li>`).join('')}</ul>`;
       }
-      return `<${tag} class="${escapeHtml(story.className || '')}"${story.source ? ` data-source="${escapeHtml(story.source)}"` : ''}>${kicker}${headline}${byline}${deck}${subhead}${image}${paragraphs}${extra}</${tag}>`;
+      return `<${tag} class="${escapeHtml(story.className || '')}"${storyId ? ` id="${escapeHtml(storyId)}" data-story-id="${escapeHtml(storyId)}"` : ''}${story.source ? ` data-source="${escapeHtml(story.source)}"` : ''}>${kicker}${headline}${byline}${deck}${subhead}${image}${paragraphs}${extra}</${tag}>`;
     }
 
     function renderPage(data) {
       const page = data.page;
       document.title = page.title;
+      const usedStoryIds = new Map();
+      const getStoryId = title => {
+        if (!title) return '';
+        const slug = title.normalize('NFKD').replace(/[\u0300-\u036f]/g, '').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '') || 'news';
+        const count = (usedStoryIds.get(slug) || 0) + 1;
+        usedStoryIds.set(slug, count);
+        return `story-${slug}${count > 1 ? `-${count}` : ''}`;
+      };
       const lead = data.lead;
+      const leadStoryId = getStoryId(lead.headline);
       const sidebarStory = data.sidebarStory;
       const leadParagraphs = lead.paragraphs.map((paragraph, index) => index === 0
         ? `<p class="lead-paragraph"><span class="dropcap">${escapeHtml(paragraph.charAt(0))}</span>${escapeHtml(paragraph.slice(1))}</p>`
@@ -60,16 +70,16 @@
         let sectionContent;
         if (group.className.startsWith('news-section')) {
           const [leadStory, ...briefStories] = group.stories;
-          sectionContent = `${renderStory(leadStory, {deckClass: 'section-deck'})}<div class="section-briefs">${briefStories.map(story => renderStory(story, {deckClass: 'section-deck'})).join('')}</div>`;
+          sectionContent = `${renderStory(leadStory, {deckClass: 'section-deck', storyId: getStoryId(leadStory.headline)})}<div class="section-briefs">${briefStories.map(story => renderStory(story, {deckClass: 'section-deck', storyId: getStoryId(story.headline)})).join('')}</div>`;
         } else if (group.className === 'lower-page-grid') {
           const columns = [[], [], []];
           group.stories.forEach((story, index) => {
             const column = Number.isInteger(story.layoutColumn) ? story.layoutColumn : index === 0 ? 0 : ((index - 1) % 2) + 1;
             columns[column].push(story);
           });
-          sectionContent = columns.map((stories, index) => `<div class="lower-page-column${index === 1 ? ' center-border' : ''}">${stories.map(story => renderStory(story, {deckClass: 'section-deck'})).join('')}</div>`).join('');
+          sectionContent = columns.map((stories, index) => `<div class="lower-page-column${index === 1 ? ' center-border' : ''}">${stories.map(story => renderStory(story, {deckClass: 'section-deck', storyId: getStoryId(story.headline)})).join('')}</div>`).join('');
         } else {
-          sectionContent = group.stories.map(story => renderStory(story, {deckClass: 'section-deck'})).join('');
+          sectionContent = group.stories.map(story => renderStory(story, {deckClass: 'section-deck', storyId: getStoryId(story.headline)})).join('');
         }
         const section = `<section class="${sectionClass}"${ariaLabel}>${sectionContent}</section>`;
         return `<div class="fold-separator ${group.className.startsWith('news-section') ? 'section-divider' : ''}"><span class="fold-text">${escapeHtml(group.separator)}</span></div>${section}`;
@@ -86,11 +96,11 @@
           <div class="dateline-bar"><div class="date-item">${escapeHtml(page.edition)}</div><div class="date-item center-date">${escapeHtml(page.dateline)}</div><div class="date-item text-right">${escapeHtml(page.greeting)}</div></div>
         </header>
         <main class="newspaper-body">
-          <section class="banner-story" data-source="${escapeHtml(lead.source)}"><h2 class="main-headline">${escapeHtml(lead.headline)}</h2><p class="byline story-byline">BY ${escapeHtml(lead.source)}</p><p class="deck-headline">${escapeHtml(lead.deck)}</p></section>
+          <section class="banner-story" id="${escapeHtml(leadStoryId)}" data-story-id="${escapeHtml(leadStoryId)}" data-source="${escapeHtml(lead.source)}"><h2 class="main-headline">${escapeHtml(lead.headline)}</h2><p class="byline story-byline">BY ${escapeHtml(lead.source)}</p><p class="deck-headline">${escapeHtml(lead.deck)}</p></section>
           <div class="front-page-grid">
             <article class="lead-column">${renderImage({...lead.image, captionHtml: lead.image.caption}, 'press-photo-container')}<div class="lead-text-flow">${leadParagraphs}</div></article>
             <aside class="sidebar-column">
-              ${renderStory(sidebarStory, {deckClass: 'side-subhead', subheadClass: 'side-subhead'})}
+              ${renderStory(sidebarStory, {deckClass: 'side-subhead', subheadClass: 'side-subhead', storyId: getStoryId(sidebarStory.headline)})}
               <div class="index-box"><h4 class="index-title">TODAY'S NEWS INDEX</h4><ul class="index-list">${indexItems}</ul></div>
               <div class="sidebar-item quote-box"><div class="box-inner"><span class="quote-header">${escapeHtml(data.cityWatch.label)}</span><p class="quote-text">${escapeHtml(data.cityWatch.text)}</p><span class="quote-author">${escapeHtml(data.cityWatch.attribution)}</span></div></div>
             </aside>
@@ -99,22 +109,64 @@
         </main>
         <footer class="newspaper-footer"><div class="footer-divider"></div><p class="footer-copyright">${escapeHtml(page.footer)}</p></footer>`;
       addShareButtons();
+      scrollToStoryFromHash();
     }
+
+    function scrollToStoryFromHash() {
+      if (!window.location.hash) return;
+      let storyId;
+      try { storyId = decodeURIComponent(window.location.hash.slice(1)); }
+      catch { return; }
+      document.getElementById(storyId)?.scrollIntoView({block: 'start', behavior: 'auto'});
+    }
+
+    window.addEventListener('hashchange', scrollToStoryFromHash);
 
     function addShareButtons() {
       const shareIcon = '<svg viewBox="0 0 16 16" aria-hidden="true"><path d="m5.1 7.1 5.7-2.9M5.1 8.9l5.7 2.9"/><circle cx="3.5" cy="8" r="2"/><circle cx="12.5" cy="3.5" r="2"/><circle cx="12.5" cy="12.5" r="2"/></svg>';
       document.querySelectorAll('.main-headline, .side-headline, .lower-headline, .section-headline').forEach(headline => {
         const button = document.createElement('button');
         button.className = 'share-button'; button.type = 'button'; button.setAttribute('aria-label', `Share: ${headline.textContent.trim()}`); button.title = 'Share this story'; button.innerHTML = shareIcon;
+        const defaultLabel = button.getAttribute('aria-label');
         button.addEventListener('click', async () => {
-          const shareData = {title: headline.textContent.trim(), text: headline.textContent.trim(), url: window.location.href};
+          const title = headline.textContent.trim();
+          const storyId = headline.closest('[data-story-id]')?.id;
+          if (!storyId) return;
+          const storyUrl = new URL(window.location.href);
+          storyUrl.hash = storyId;
+          const shareData = {title, text: `${title}\n${storyUrl.href}`, url: storyUrl.href};
           try {
-            if (navigator.share) await navigator.share(shareData);
-            else if (navigator.clipboard) { await navigator.clipboard.writeText(`${shareData.text} — ${shareData.url}`); button.title = 'Story link copied'; window.setTimeout(() => { button.title = 'Share this story'; }, 1800); }
+            if (navigator?.share) await navigator.share(shareData);
+            else {
+              const copied = await copyTextToClipboard(shareData.text);
+              if (copied) {
+                button.title = 'Story title and link copied';
+                button.setAttribute('aria-label', `Copied title and link for: ${title}`);
+                window.setTimeout(() => { button.title = 'Share this story'; button.setAttribute('aria-label', defaultLabel); }, 1800);
+              }
+            }
           } catch (error) { if (error.name !== 'AbortError') console.error('Could not share this story:', error); }
         });
         headline.append(button);
       });
+    }
+
+    async function copyTextToClipboard(text) {
+      if (navigator.clipboard?.writeText) {
+        try { await navigator.clipboard.writeText(text); return true; }
+        catch { /* Try the browser's legacy clipboard command below. */ }
+      }
+      const field = document.createElement('textarea');
+      field.value = text;
+      field.setAttribute('readonly', '');
+      field.style.position = 'fixed';
+      field.style.opacity = '0';
+      document.body.append(field);
+      field.select();
+      let copied = false;
+      try { copied = document.execCommand('copy'); }
+      finally { field.remove(); }
+      return copied;
     }
 
     fetch('/content.json', {cache: 'no-store'})

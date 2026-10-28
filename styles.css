@@ -208,6 +208,7 @@ body {
 .share-button:hover, .share-button:focus-visible { background: rgba(0,0,0,0.08); border-color: #222; }
 .share-button svg { width: 13px; height: 13px; fill: currentColor; stroke: currentColor; stroke-width: 1.4; stroke-linecap: round; stroke-linejoin: round; }
 .share-button svg path { fill: none; }
+[data-story-id] { scroll-margin-top: 12px; }
 
 .lead-text-flow p, .article-snippet {
   font-size: 0.95rem;
