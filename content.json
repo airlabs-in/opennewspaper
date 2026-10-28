@@ -10,7 +10,7 @@
     "editionLabel": "DAILY READ",
     "editionSummary": "Complete Morning Ledger",
     "edition": "BENGALURU • INDIA EDITION",
-    "dateline": "BENGALURU, TUESDAY, OCTOBER 27, 2026",
+    "dateline": "BENGALURU, WEDNESDAY, OCTOBER 28, 2026",
     "greeting": "GOOD MORNING :)",
     "footer": "Open Newspaper • Bengaluru and India Edition • Independent coverage from open sources."
   },
@@ -32,11 +32,15 @@
       "India"
     ],
     [
-      "Technology & Start-ups",
+      "Infrastructure & Business",
       "City"
     ],
     [
-      "Business & Policy",
+      "Movies & Kannada Cinema",
+      "Arts"
+    ],
+    [
+      "Sports & Science",
       "Nation"
     ]
   ],
@@ -57,9 +61,11 @@
     "paragraphs": [
       "Five people, including four members of the same family, were killed in a shooting at Hotel Bilas Inn in Guwahati. A sixth person was injured and taken for treatment.",
       "Guwahati Police said the suspect was arrested within an hour and the firearm was seized. Investigators said preliminary findings point to a dispute linked to the hotel lease.",
-      "Police said the inquiry is at an early stage, with forensic teams examining the scene and further details pending. The suspect had leased the property, according to investigators."
+      "Police said the inquiry is at an early stage, with forensic teams examining the scene and further details pending. The suspect had leased the property, according to investigators.",
+      "Police said the firing began at about 9 pm during a meeting linked to the hotel. Six people were shot; five later died, while the survivor was taken for treatment.",
+      "A six-member Special Investigation Team was formed the following day to examine the shooting and the dispute over the hotel’s lease and management."
     ],
-    "moreUrl": "https://www.indiatodayne.in/assam/story/guwahati-hotel-bilas-inn-firing-five-killed-accused-arrested-within-an-hour-1467814-2026-10-27"
+    "moreUrl": "https://www.indiatodayne.in/amp/assam/story/guwahati-hotel-bilas-inn-firing-six-member-sit-formed-to-probe-killing-of-five-1468114-2026-10-27"
   },
   "sidebarStory": {
     "tag": "div",
@@ -115,7 +121,7 @@
           }
         },
         {
-          "className": "lower-column center-border",
+          "className": "lower-column",
           "source": "BLR Today",
           "headline": "CM SAYS KPSC WILL BE GIVEN A NEW FORM",
           "headlineClass": "lower-headline",
@@ -134,6 +140,40 @@
             "Chief Minister D.K. Shivakumar warned private companies in Karnataka against allegedly sidelining Kannadigas and said the state could take action."
           ],
           "moreUrl": "https://inblr.today/"
+        },
+        {
+          "className": "lower-column",
+          "source": "The Times of India",
+          "headline": "HENNUR-BAGALUR ROAD WORK GETS TWO-MONTH DEADLINE",
+          "headlineClass": "lower-headline",
+          "subhead": "A second contractor will be brought in to accelerate the delayed concretising project",
+          "paragraphs": [
+            "Bengaluru development minister Krishna Byre Gowda set a two-month deadline for the Hennur-Bagalur Road works and directed officials to add another contractor. The project will also extend from 4.6km to 5km."
+          ],
+          "moreUrl": "https://timesofindia.indiatimes.com/city/bengaluru/hennur-bagalur-road-concretising-works-get-two-month-deadline/amp_articleshow/135217402.cms"
+        },
+        {
+          "className": "lower-column",
+          "source": "The Times of India",
+          "headline": "SARJAPUR COMMUTERS BACK PREMIUM BMTC BUSES",
+          "headlineClass": "lower-headline",
+          "subhead": "Survey respondents asked for reliable frequency, air-conditioning and live bus tracking",
+          "paragraphs": [
+            "A BMTC and Save Our Sarjapur survey found 73.1% of respondents would pay a premium for buses with air-conditioning, comfortable seats, Wi-Fi and fixed schedules. The report also highlighted gaps in bus tracking and transfers."
+          ],
+          "moreUrl": "https://timesofindia.indiatimes.com/city/bengaluru/comfy-seats-wi-fi-higher-fares-sarjapur-commuters-say-yes-to-premium-bmtc-buses/articleshow/135217381.cms"
+        },
+        {
+          "layoutColumn": 0,
+          "className": "lower-column",
+          "source": "The Times of India",
+          "headline": "CITY SCREENING FINDS HEALTH RISKS AMONG FRONTLINE WORKERS",
+          "headlineClass": "lower-headline",
+          "subhead": "A three-year programme covered more than 10,000 workers exposed to traffic and construction pollution",
+          "paragraphs": [
+            "A Bengaluru occupational-health screening found respiratory and cardiometabolic risks among BMTC staff, traffic police, construction workers and pourakarmikas. Experts called for stronger workplace healthcare and follow-through on the findings."
+          ],
+          "moreUrl": "https://timesofindia.indiatimes.com/city/bengaluru/bengalurus-frontline-workers-battle-lung-metabolic-health-risks/articleshow/135217268.cms"
         }
       ]
     },
@@ -173,14 +213,25 @@
         },
         {
           "className": "section-brief",
-          "source": "ABP Live",
-          "kicker": "UTTAR PRADESH • ELECTIONS",
-          "headline": "VOTE COUNTING FOR UP COUNCIL POLLS TODAY",
+          "source": "The Times of India",
+          "kicker": "KARNATAKA • ELECTIONS",
+          "headline": "NDA WINS ALL FOUR KARNATAKA MLC SEATS",
           "headlineClass": "lower-headline",
           "paragraphs": [
-            "Votes for the Uttar Pradesh Legislative Council elections are scheduled to be counted on Tuesday, October 27."
+            "The BJP-led NDA won all four Karnataka Legislative Council seats for teachers’ and graduates’ constituencies, including the Bengaluru Teachers’ seat. The results were reported on October 28."
           ],
-          "moreUrl": "https://news.abplive.com/topic/27-october-2026"
+          "moreUrl": "https://timesofindia.indiatimes.com/city/bengaluru/karnataka-mlc-polls-big-setback-for-dk-shivakumar-as-bjp-led-nda-wins-all-4-seats/articleshow/135250232.cms"
+        },
+        {
+          "className": "section-brief",
+          "source": "The Times of India",
+          "kicker": "KARNATAKA • ELECTORAL ROLL",
+          "headline": "FINAL KARNATAKA ROLL SHOWS 99.76 LAKH FEWER ELECTORS",
+          "headlineClass": "lower-headline",
+          "paragraphs": [
+            "The final electoral roll lists 4.55 crore electors, down 99.76 lakh from the pre-revision count. Officials said the revision also added a net 8.19 lakh electors during claims and objections."
+          ],
+          "moreUrl": "https://timesofindia.indiatimes.com/city/bengaluru/karnataka-roll-shrinks-by-nearly-1-crore-gen-z-makes-up-to-20-of-revised-electorate/articleshow/135249103.cms"
         }
       ]
     },
@@ -223,6 +274,17 @@
             "The Karnataka Examinations Authority released the schedule for written examinations for several Public Works Department posts."
           ],
           "moreUrl": "https://inblr.today/"
+        },
+        {
+          "className": "section-brief",
+          "source": "The Times of India",
+          "kicker": "BENGALURU • AIRPORT",
+          "headline": "KIA TESTS DIGI YATRA FOR INTERNATIONAL DEPARTURES",
+          "headlineClass": "lower-headline",
+          "paragraphs": [
+            "Kempegowda International Airport has begun trials of face-enabled Digi Yatra processing for select international departures on IndiGo and Air India. Passengers must still carry travel documents and complete immigration checks."
+          ],
+          "moreUrl": "https://timesofindia.indiatimes.com/city/bengaluru/kia-launches-digi-yatra-trials-for-international-departures-from-bengaluru/articleshow/135238911.cms"
         }
       ]
     },
@@ -280,6 +342,130 @@
             "India wicketkeeper-batter Ishan Kishan has been ruled out of the third T20I against New Zealand because of a low-grade right adductor strain, the BCCI announced."
           ],
           "moreUrl": "https://indianexpress.com/article/education/today-news-headlines-for-school-assembly-october-27-2026-ishan-kishan-out-of-third-ind-vs-nz-t20i-isro-eyes-four-launch-pads-by-2029-10936039/"
+        },
+        {
+          "className": "section-brief",
+          "source": "The Times of India",
+          "kicker": "CRICKET • INDIA",
+          "headline": "ABHISHEK SHARMA BLASTS 113 FROM 38 BALLS",
+          "headlineClass": "lower-headline",
+          "paragraphs": [
+            "Abhishek Sharma hit a 38-ball century as India overwhelmed New Zealand in the second T20I, according to the match report."
+          ],
+          "moreUrl": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand-live-score-2nd-t20i-ind-vs-nz-live-score-updates-abhishek-sharma-suryakumar-yadav-mitchell-santner/liveblog/135269000.cms"
+        }
+      ]
+    },
+    {
+      "separator": "— BENGALURU • INFRASTRUCTURE & BUSINESS —",
+      "className": "news-section infrastructure-section",
+      "ariaLabel": "Bengaluru infrastructure and business news",
+      "stories": [
+        {
+          "className": "section-lead",
+          "source": "The Times of India",
+          "kicker": "BENGALURU • METRO",
+          "headline": "SUPREME COURT CLEARS WAY FOR BLUE LINE WORK AT HEBBAL",
+          "headlineTag": "h3",
+          "headlineClass": "section-headline",
+          "deck": "The ruling removes a legal hurdle for construction near the airport corridor",
+          "paragraphs": [
+            "The Supreme Court has cleared the way for work on Bengaluru Metro’s Blue Line project near Hebbal, according to a report published on October 27. The corridor is planned to connect central Bengaluru with Kempegowda International Airport.",
+            "The decision addresses a dispute that had held up work in the area. Project timelines and the pace of construction will depend on the next steps by the metro authority and contractors."
+          ],
+          "moreUrl": "https://timesofindia.indiatimes.com/city/bengaluru/sc-gives-green-signal-for-blue-line-project-work-in-bengalurus-hebbal/articleshow/135242791.cms"
+        },
+        {
+          "className": "section-brief",
+          "source": "The Times of India",
+          "kicker": "BENGALURU • REAL ESTATE",
+          "headline": "CONSTRUCTION COSTS RISE 33% AS SALES SLOW",
+          "headlineTag": "h4",
+          "headlineClass": "lower-headline",
+          "paragraphs": [
+            "Builders in Bengaluru are facing tighter margins as construction costs rise and home sales slow, a Times of India report said. Developers described pressure from higher input costs alongside a softer market."
+          ],
+          "moreUrl": "https://timesofindia.indiatimes.com/city/bengaluru/construction-costs-up-33-builders-in-bengaluru-face-margin-squeeze-as-sales-slow-down/articleshow/135242763.cms"
+        },
+        {
+          "className": "section-brief",
+          "source": "The Times of India",
+          "kicker": "KARNATAKA • CIVIC WORKS",
+          "headline": "500 KM OF NEW ROADS PLANNED FOR BENGALURU",
+          "headlineTag": "h4",
+          "headlineClass": "lower-headline",
+          "paragraphs": [
+            "Karnataka Deputy Chief Minister D.K. Shivakumar said the state plans 500 kilometres of new roads in Bengaluru, according to a report published on October 27."
+          ],
+          "moreUrl": "https://timesofindia.indiatimes.com/city/bengaluru/eventlist/-2128833038.cms"
+        },
+        {
+          "className": "section-brief",
+          "source": "The Times of India",
+          "kicker": "BENGALURU • NAMMA METRO",
+          "headline": "MATERIAL SHORTAGE ADDS PRESSURE TO BLUE LINE WORK",
+          "headlineTag": "h4",
+          "headlineClass": "lower-headline",
+          "paragraphs": [
+            "Contractors on the 58-kilometre Blue Line have reported shortages of quarry dust, crushed stone and aggregates after a Tamil Nadu transport ban disrupted supplies. The shortage has affected construction and depot work."
+          ],
+          "moreUrl": "https://timesofindia.indiatimes.com/city/bengaluru/construction-material-shortage-post-tn-ban-hits-blue-line-work-in-bengaluru/articleshow/135242704.cms"
+        }
+      ]
+    },
+    {
+      "separator": "— SCREEN & STAGE • MOVIES —",
+      "className": "news-section entertainment-section",
+      "ariaLabel": "Movies and Indian film industry news",
+      "stories": [
+        {
+          "className": "section-lead",
+          "source": "The Times of India",
+          "kicker": "INDIAN CINEMA • GLOBAL RELEASE",
+          "headline": "‘GONDHAL’ TRAILER DEBUTS AHEAD OF SEVEN-LANGUAGE RELEASE",
+          "headlineTag": "h3",
+          "headlineClass": "section-headline",
+          "deck": "India’s Oscar entry is set for a worldwide theatrical release on November 13",
+          "paragraphs": [
+            "The psychological thriller Gondhal has unveiled its global trailer ahead of a November 13 theatrical release. The film, India’s official submission for the 99th Academy Awards’ Best International Feature Film category, is planned in Hindi, Marathi, Tamil, Telugu, Malayalam, Kannada and English.",
+            "Directed by Santosh Davakhar, the story follows newlyweds whose lives take a disturbing turn as family pressures and devotion collide. The film draws on Maharashtra’s cultural traditions."
+          ],
+          "moreUrl": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/gondhal-trailer-out-indias-oscar-entry-to-release-in-seven-languages-on-november-13/articleshow/135254304.cms"
+        },
+        {
+          "className": "section-brief",
+          "source": "Cinema Express",
+          "kicker": "SANDALWOOD • CASTING",
+          "headline": "SHIVARAJKUMAR JOINS NIRUP BHANDARI’S ‘SATHYA’",
+          "headlineTag": "h4",
+          "headlineClass": "lower-headline",
+          "paragraphs": [
+            "Shivarajkumar has joined the cast of the comedy-drama Sathya: Son of Harishchandra, starring Nirup Bhandari. The film’s lead character is written as an ardent fan of Shivanna, making the veteran actor’s part central to the story."
+          ],
+          "moreUrl": "https://www.cinemaexpress.com/kannada/news/2026/Oct/23/shivarajkumars-presence-in-sathya-son-of-harishchandra-was-an-organic-choice-nirup-bhandari"
+        },
+        {
+          "className": "section-brief",
+          "source": "Cinema Express",
+          "kicker": "SANDALWOOD • MUSIC & RELEASES",
+          "headline": "‘HUBBALLI HUNTERS’ SETS DECEMBER 11 RELEASE",
+          "headlineTag": "h4",
+          "headlineClass": "lower-headline",
+          "paragraphs": [
+            "The Kannada film Hubballi Hunters is scheduled to open across Karnataka on December 11. Rishab Shetty Music has acquired the audio rights; the film’s score is composed by Prasanna Keshava."
+          ],
+          "moreUrl": "https://www.cinemaexpress.com/kannada/news/2026/Oct/22/rishab-shetty-music-bags-audio-rights-for-hubballi-hunters"
+        },
+        {
+          "className": "section-brief",
+          "source": "Cinema Express",
+          "kicker": "SANDALWOOD • IN THEATRES",
+          "headline": "LAYA KOKILA’S ‘THAYTHA’ OPENS OCTOBER 30",
+          "headlineClass": "lower-headline",
+          "paragraphs": [
+            "Laya Kokila’s directorial debut Thaytha is set to release in Karnataka on October 30. The filmmaker describes it as a love story with comedy and thriller elements."
+          ],
+          "moreUrl": "https://www.cinemaexpress.com/kannada/news/2026/Oct/22/laya-kokilas-thaytha-slated-for-october-end-release"
         }
       ]
     }

@@ -55,8 +55,23 @@
         : `<p>${escapeHtml(paragraph)}${index === lead.paragraphs.length - 1 ? renderMore(lead.moreUrl) : ''}</p>`).join('');
       const indexItems = data.newsIndex.map(([topic, section]) => `<li><span>${escapeHtml(topic)}</span><strong>${escapeHtml(section)}</strong></li>`).join('');
       const groups = data.groups.map(group => {
-        const articles = group.stories.map(story => renderStory(story, {deckClass: 'section-deck'})).join('');
-        const section = `<section class="${escapeHtml(group.className)}"${group.ariaLabel ? ` aria-label="${escapeHtml(group.ariaLabel)}"` : ''}>${articles}</section>`;
+        const sectionClass = escapeHtml(group.className);
+        const ariaLabel = group.ariaLabel ? ` aria-label="${escapeHtml(group.ariaLabel)}"` : '';
+        let sectionContent;
+        if (group.className.startsWith('news-section')) {
+          const [leadStory, ...briefStories] = group.stories;
+          sectionContent = `${renderStory(leadStory, {deckClass: 'section-deck'})}<div class="section-briefs">${briefStories.map(story => renderStory(story, {deckClass: 'section-deck'})).join('')}</div>`;
+        } else if (group.className === 'lower-page-grid') {
+          const columns = [[], [], []];
+          group.stories.forEach((story, index) => {
+            const column = Number.isInteger(story.layoutColumn) ? story.layoutColumn : index === 0 ? 0 : ((index - 1) % 2) + 1;
+            columns[column].push(story);
+          });
+          sectionContent = columns.map((stories, index) => `<div class="lower-page-column${index === 1 ? ' center-border' : ''}">${stories.map(story => renderStory(story, {deckClass: 'section-deck'})).join('')}</div>`).join('');
+        } else {
+          sectionContent = group.stories.map(story => renderStory(story, {deckClass: 'section-deck'})).join('');
+        }
+        const section = `<section class="${sectionClass}"${ariaLabel}>${sectionContent}</section>`;
         return `<div class="fold-separator ${group.className.startsWith('news-section') ? 'section-divider' : ''}"><span class="fold-text">${escapeHtml(group.separator)}</span></div>${section}`;
       }).join('');
 
