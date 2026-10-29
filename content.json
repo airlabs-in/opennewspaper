@@ -10,7 +10,7 @@
     "editionLabel": "DAILY READ",
     "editionSummary": "Complete Morning Ledger",
     "edition": "BENGALURU • INDIA EDITION",
-    "dateline": "BENGALURU, WEDNESDAY, OCTOBER 28, 2026",
+    "dateline": "BENGALURU, THURSDAY, OCTOBER 29, 2026",
     "greeting": "GOOD MORNING :)",
     "footer": "Open Newspaper • Bengaluru and India Edition • Independent coverage from open sources."
   },
@@ -42,36 +42,36 @@
   ],
   "cityWatch": {
     "label": "CITY WATCH",
-    "text": "“A month-old leopard cub was rescued from a Nelamangala farm as sightings rise near Bengaluru homes.”",
-    "attribution": "— The Times of India"
+    "text": "“Bengaluru’s 44.65-km double-decker Metro plan has been shelved after failing to secure Union government approval.”",
+    "attribution": "— The Hans India"
   },
   "lead": {
-    "source": "Moneycontrol",
-    "headline": "CYCLONE ARNAB MAKES LANDFALL; FLOODING REPORTED IN ANDHRA",
-    "deck": "The storm crossed the coast near Yanam with destructive winds as heavy rain hit coastal districts",
+    "source": "The Times of India",
+    "headline": "CYCLONE ARNAB DAMAGE SPREADS ACROSS ANDHRA; NINE REPORTED DEAD",
+    "deck": "Preliminary estimates put crop damage at 2.24 lakh hectares, affecting 3.45 lakh farmers",
     "image": {
       "src": "https://images.moneycontrol.com/static-mcnews/2026/10/20261027231728_Cyclone-Arnab.jpg?height=431&impolicy=website&width=770",
-      "alt": "Cyclone Arnab bringing heavy rain to Andhra Pradesh",
-      "caption": "The landfall process began overnight between Bapatla and Visakhapatnam. (ANI / Moneycontrol)"
+      "alt": "Cyclone Arnab battering the Andhra Pradesh coast",
+      "caption": "Arnab made landfall Wednesday and weakened as it moved inland. (Representative image / ANI)"
     },
     "paragraphs": [
-      "Cyclone Arnab began making landfall on the Andhra Pradesh coast around 1:20 am, with the process expected to continue for several hours. The storm crossed between Bapatla and Visakhapatnam, near south Yanam.",
-      "Maximum sustained winds were reported at 125–135 kmph, with gusts reaching 150 kmph. Heavy rain, strong winds and flooding were reported in coastal districts including Kakinada.",
-      "Police said four people stranded in floodwater had been rescued. Authorities remained on alert as the storm centre stayed close to the coast and conditions continued to develop."
+      "Cyclone Arnab’s passage across Andhra Pradesh has left nine people dead, according to a report published early Thursday. The storm made landfall Wednesday and weakened as it moved inland.",
+      "Preliminary state estimates put crop damage at 2.24 lakh hectares across 14 districts, with nearly 3.45 lakh farmers affected. Paddy fields were among the hardest hit, while officials reported damage to homes and infrastructure.",
+      "The India Meteorological Department expects the system to move north-northwest and weaken gradually over the next 48 hours. Relief and damage assessments are continuing."
     ],
-    "moreUrl": "https://www.moneycontrol.com/news/india/cyclone-arnab-heavy-rain-flooding-reported-as-landfall-continues-in-andhra-pradesh-14061671.html"
+    "moreUrl": "https://timesofindia.indiatimes.com/city/vijayawada/nine-dead-as-cyclone-arnab-batters-andhra-pradesh-coast-crops-across-2-lakh-hectares-damaged/amp_articleshow/135278194.cms"
   },
   "sidebarStory": {
     "tag": "div",
     "className": "sidebar-item",
-    "source": "The Times of India",
-    "headline": "LEOPARD CUB RESCUED NEAR BENGALURU AS SIGHTINGS RISE",
+    "source": "The Hans India",
+    "headline": "BENGALURU DOUBLE-DECKER METRO PLAN SHELVED",
     "headlineClass": "side-headline",
-    "subhead": "A month-old cub was found in a Nelamangala farm; villagers report leopard activity near homes",
+    "subhead": "BMRCL has dropped the proposed 44.65-km project after it failed to secure Union approval",
     "paragraphs": [
-      "Forest officials rescued a month-old male leopard cub from farmland in Mallarabanavadi, Nelamangala taluk, after it was found separated from its mother. Villagers have also reported adult leopard sightings near homes and attacks on domestic animals."
+      "Bengaluru Metro Rail Corporation Limited has permanently shelved its proposed double-decker infrastructure project, which was planned across 44.65 km, after the proposal failed to secure Union government approval."
     ],
-    "moreUrl": "https://timesofindia.indiatimes.com/city/bengaluru/nelamangala-villages-near-bengaluru-on-edge-as-leopard-sightings-rise-cub-rescued/articleshow/135241792.cms"
+    "moreUrl": "https://www.thehansindia.com/news/cities/bengaluru/bengaluru-double-decker-metro-plan-shelved-1136602"
   },
   "groups": [
     {
@@ -81,59 +81,60 @@
       "stories": [
         {
           "className": "lower-column",
-          "source": "NDTV",
-          "headline": "CYCLONE CANCELLATIONS HIT BENGALURU-LINKED FLIGHTS",
+          "source": "The Times of India",
+          "headline": "NDA SWEEPS ALL FOUR KARNATAKA COUNCIL SEATS",
           "headlineClass": "lower-headline",
-          "subhead": "Air India Express scrubbed services linking Visakhapatnam with Bengaluru and other cities",
+          "subhead": "JD(S) wrests Bengaluru Teachers’ constituency as Congress loses every contest",
           "paragraphs": [
-            "Flight operations were suspended at Visakhapatnam, Vijayawada and Rajahmundry airports as Cyclone Arnab approached. Air India Express cancelled 13 flights, including services connecting Visakhapatnam with Bengaluru, Hyderabad and Vijayawada. Passengers were advised to check directly with their airline."
+            "The BJP-led NDA won all four Karnataka Legislative Council seats contested on October 23. The BJP retained three constituencies while JD(S) took Bengaluru Teachers’, defeating incumbent Congress MLC Puttanna by 908 votes.",
+            "The result is a setback for the ruling Congress among teachers and graduates, though it does not change the party’s majority in the 75-member council."
           ],
-          "moreUrl": "https://www.ndtv.com/india-news/cyclone-arnab-flights-suspended-at-3-andhra-airports-airlines-cancel-services-12245434",
+          "moreUrl": "https://timesofindia.indiatimes.com/city/bengaluru/karnataka-mlc-polls-big-setback-for-dk-shivakumar-as-bjp-led-nda-wins-all-4-seats/articleshow/135250232.cms",
           "table": {
             "headers": [
-              "CYCLONE UPDATE",
-              "STATUS",
-              "DETAIL"
+              "KARNATAKA MLC POLLS",
+              "WINNER",
+              "CONSTITUENCY"
             ],
             "rows": [
               [
-                "Landfall",
-                "Underway",
-                "Andhra coast"
+                "BJP",
+                "3 seats",
+                "Teachers & graduates"
               ],
               [
-                "Flights",
-                "Suspended",
-                "3 airports"
+                "JD(S)",
+                "1 seat",
+                "Bengaluru Teachers"
               ],
               [
-                "Bengaluru link",
-                "Cancelled",
-                "Air India Express"
+                "Congress",
+                "No wins",
+                "All 4 contested"
               ]
             ]
           }
         },
         {
           "className": "lower-column center-border",
-          "source": "The Times of India",
-          "headline": "LEOPARD CUB FOUND IN NELAMANGALA FARM",
+          "source": "The Hans India",
+          "headline": "BENGALURU DOUBLE-DECKER METRO PLAN SHELVED",
           "headlineClass": "lower-headline",
-          "subhead": "Forest team moved the month-old animal to Bannerghatta rehabilitation centre",
+          "subhead": "The 44.65-km proposal failed to obtain Union government approval",
           "paragraphs": [
-            "A month-old male leopard cub found alone in farmland at Mallarabanavadi was rescued and taken to the Bannerghatta Rehabilitation Centre. Forest officials had not confirmed whether the cub’s mother was located."
+            "BMRCL has shelved its proposed double-decker infrastructure project covering 44.65 km across Bengaluru after the plan failed to secure approval from the Union government."
           ],
-          "moreUrl": "https://timesofindia.indiatimes.com/city/bengaluru/nelamangala-villages-near-bengaluru-on-edge-as-leopard-sightings-rise-cub-rescued/articleshow/135241792.cms"
+          "moreUrl": "https://www.thehansindia.com/news/cities/bengaluru/bengaluru-double-decker-metro-plan-shelved-1136602"
         },
         {
           "className": "lower-column",
-          "source": "NDTV",
-          "headline": "THREE ANDHRA AIRPORTS SUSPEND FLIGHTS AS STORM ARRIVES",
+          "source": "ThePrint • PTI",
+          "headline": "KARNATAKA SHIFTS 87 ADMINISTRATIVE SERVICE OFFICERS",
           "headlineClass": "lower-headline",
           "paragraphs": [
-            "Visakhapatnam, Vijayawada and Rajahmundry airports suspended operations during Cyclone Arnab, with airlines cancelling services as a safety measure."
+            "Chief Minister D.K. Shivakumar ordered transfers of 87 KAS officers, including nine postings as assistant commissioners and four as additional deputy commissioners. Twenty-eight officers are assigned to the Urban Development and Rural Development departments."
           ],
-          "moreUrl": "https://www.ndtv.com/india-news/cyclone-arnab-flights-suspended-at-3-andhra-airports-airlines-cancel-services-12245434"
+          "moreUrl": "https://theprint.in/india/cm-shivakumar-orders-transfer-of-87-kas-officers-to-improve-efficiency/3084290/"
         }
       ]
     },
@@ -144,43 +145,43 @@
       "stories": [
         {
           "className": "section-lead",
-          "source": "Moneycontrol",
-          "kicker": "ANDHRA PRADESH • CYCLONE",
-          "headline": "ARNAB’S LANDFALL BRINGS FLOODING AND 135-KMPH WINDS",
+          "source": "The Times of India",
+          "kicker": "ANDHRA PRADESH • CYCLONE AFTERMATH",
+          "headline": "ARNAB LEAVES NINE DEAD; CROPS DAMAGED ACROSS 2.24 LAKH HECTARES",
           "headlineClass": "section-headline",
-          "deck": "Authorities report heavy rain and rescues as the storm crosses the coast near Yanam",
+          "deck": "Nearly 3.45 lakh farmers are affected across 14 districts, preliminary estimates indicate",
           "image": {
             "src": "https://images.moneycontrol.com/static-mcnews/2026/10/20261027231728_Cyclone-Arnab.jpg?height=431&impolicy=website&width=770",
-            "alt": "Cyclone Arnab brings rain to Andhra Pradesh",
-            "caption": "The storm’s landfall process began overnight on the Andhra coast. (ANI / Moneycontrol)"
+            "alt": "Cyclone Arnab bringing heavy rain to Andhra Pradesh",
+            "caption": "The cyclone made landfall Wednesday and weakened as it moved inland. (ANI / Moneycontrol)"
           },
           "paragraphs": [
-            "Cyclone Arnab began making landfall around 1:20 am between Bapatla and Visakhapatnam, near south Yanam. The process was expected to continue for several hours.",
-            "Winds were reported at 125–135 kmph, gusting to 150 kmph. Heavy rain and flooding affected coastal districts including Kakinada, while police rescued four people stranded in floodwater."
+            "Cyclone Arnab left nine people dead along Andhra Pradesh’s coast, according to a report published early Thursday. The system made landfall Wednesday and the IMD expects it to weaken gradually.",
+            "Preliminary estimates put crop damage at 2.24 lakh hectares in 14 districts, affecting nearly 3.45 lakh farmers. The state has sought central support as relief and damage assessments continue."
           ],
-          "moreUrl": "https://www.moneycontrol.com/news/india/cyclone-arnab-heavy-rain-flooding-reported-as-landfall-continues-in-andhra-pradesh-14061671.html"
+          "moreUrl": "https://timesofindia.indiatimes.com/city/vijayawada/nine-dead-as-cyclone-arnab-batters-andhra-pradesh-coast-crops-across-2-lakh-hectares-damaged/amp_articleshow/135278194.cms"
         },
         {
           "className": "section-brief",
           "source": "The Times of India",
-          "kicker": "UTTAR PRADESH • CRIME",
-          "headline": "GOVT PROMISES SUPPORT AFTER LUCKNOW TRIPLE MURDER",
+          "kicker": "INDIA • CENTRAL GOVERNMENT",
+          "headline": "CABINET APPROVES 3% DEARNESS ALLOWANCE HIKE",
           "headlineClass": "lower-headline",
           "paragraphs": [
-            "Uttar Pradesh’s government promised a job for the widow and free education for the couple’s daughter after three men were shot dead in Lucknow following a parking dispute. Officials also announced security support and said NSA action would be pursued against the accused."
+            "The Union Cabinet approved a three-percentage-point increase in dearness allowance for central government employees and dearness relief for pensioners, effective July 1. The increase takes DA to 63% of basic pay and benefits about 11.6 million people."
           ],
-          "moreUrl": "https://timesofindia.indiatimes.com/city/lucknow/govt-promises-job-for-widow-nsa-against-accused-in-triple-murder-case/articleshow/135244616.cms"
+          "moreUrl": "https://timesofindia.indiatimes.com/india/centres-diwali-gift-to-pensioners-staff-3-da-hike/amp_articleshow/135280384.cms"
         },
         {
           "className": "section-brief",
           "source": "The Times of India",
-          "kicker": "UTTAR PRADESH • ELECTIONS",
-          "headline": "BJP RETAINS THREE UP COUNCIL SEATS; SP HOLDS ONE",
+          "kicker": "INDIA • ELECTIONS",
+          "headline": "NDA TAKES 16 OF 28 COUNCIL SEATS ACROSS FOUR STATES",
           "headlineClass": "lower-headline",
           "paragraphs": [
-            "In the Uttar Pradesh Legislative Council polls, the BJP retained three seats while the Samajwadi Party held the Varanasi teachers’ constituency. Counting was continuing in other contests."
+            "The BJP-led NDA won 16 of 28 Legislative Council seats contested across four states. The results included a sweep of all four Karnataka seats, while Bihar and Maharashtra returned split verdicts."
           ],
-          "moreUrl": "https://timesofindia.indiatimes.com/city/lucknow/bjp-retains-3-mlc-seats-sp-holds-varanasi-teachers-constituency/amp_articleshow/135244969.cms"
+          "moreUrl": "https://timesofindia.indiatimes.com/india/nda-wins-16-of-28-seats-congress-falters-in-mlc-polls/amp_articleshow/135282065.cms"
         }
       ]
     },
@@ -191,38 +192,38 @@
       "stories": [
         {
           "className": "section-lead city-lead",
-          "source": "The Times of India",
-          "kicker": "BENGALURU • WILDLIFE",
-          "headline": "LEOPARD SIGHTINGS RISE NEAR BENGALURU; CUB RESCUED",
+          "source": "The Hans India",
+          "kicker": "BENGALURU • METRO",
+          "headline": "BENGALURU’S 44.65-KM DOUBLE-DECKER METRO PLAN SCRAPPED",
           "headlineClass": "section-headline",
-          "deck": "Forest officials found a month-old cub in a Nelamangala farm as villages report leopard activity",
+          "deck": "BMRCL shelved the proposal after it failed to receive Union government approval",
           "paragraphs": [
-            "A month-old male leopard cub was rescued from agricultural land in Mallarabanavadi village, Nelamangala taluk, after it was found separated from its mother. It was taken to the Bannerghatta Rehabilitation Centre.",
-            "Residents have reported adult leopard sightings near homes and attacks on domestic animals. Villagers have sought capture measures; officials had not said whether the cub’s mother was found."
+            "Bengaluru Metro Rail Corporation Limited has permanently shelved its proposed double-decker infrastructure project, which was planned across 44.65 km of the city. The plan failed to secure Union government approval.",
+            "The decision ends a long-proposed effort to combine Metro and road infrastructure on elevated corridors."
           ],
-          "moreUrl": "https://timesofindia.indiatimes.com/city/bengaluru/nelamangala-villages-near-bengaluru-on-edge-as-leopard-sightings-rise-cub-rescued/articleshow/135241792.cms"
+          "moreUrl": "https://www.thehansindia.com/news/cities/bengaluru/bengaluru-double-decker-metro-plan-shelved-1136602"
         },
         {
           "className": "section-brief",
-          "source": "NDTV",
-          "kicker": "BENGALURU • TRAVEL",
-          "headline": "ARNAB DISRUPTS FLIGHTS LINKING BENGALURU AND VIZAG",
+          "source": "ThePrint • PTI",
+          "kicker": "KARNATAKA • ADMINISTRATION",
+          "headline": "87 KAS OFFICERS TRANSFERRED; 28 POSTED TO TWO DEPARTMENTS",
           "headlineClass": "lower-headline",
           "paragraphs": [
-            "Air India Express cancelled 13 flights as three Andhra airports suspended operations during the cyclone. The cancellations included services connecting Visakhapatnam with Bengaluru."
+            "The reshuffle assigns 15 officers to Urban Development and 13 to Rural Development and Panchayat Raj, with nine posted as assistant commissioners."
           ],
-          "moreUrl": "https://www.ndtv.com/india-news/cyclone-arnab-flights-suspended-at-3-andhra-airports-airlines-cancel-services-12245434"
+          "moreUrl": "https://theprint.in/india/cm-shivakumar-orders-transfer-of-87-kas-officers-to-improve-efficiency/3084290/"
         },
         {
           "className": "section-brief society-note",
-          "source": "The Times of India",
-          "kicker": "INDIA • PUBLIC SAFETY",
-          "headline": "LUCKNOW TRIPLE MURDER: GOVT ANNOUNCES FAMILY SUPPORT",
+          "source": "The Hans India",
+          "kicker": "KARNATAKA • VOTER ROLLS",
+          "headline": "716 FOREIGN NATIONALS REMOVED FROM KARNATAKA VOTER ROLLS",
           "headlineClass": "lower-headline",
           "paragraphs": [
-            "The state promised a government job for the widow and free education for her daughter after three men were killed in a shooting linked to a parking dispute."
+            "Election officials said document verification during the Special Intensive Revision identified 716 ineligible entries linked to foreign nationals. Bengaluru North accounted for 583 of the removals."
           ],
-          "moreUrl": "https://timesofindia.indiatimes.com/city/lucknow/govt-promises-job-for-widow-nsa-against-accused-in-triple-murder-case/articleshow/135244616.cms"
+          "moreUrl": "https://www.thehansindia.com/news/cities/bengaluru/716-foreigners-removed-from-voter-rolls-during-sir-exercise-1136798"
         }
       ]
     },
@@ -234,52 +235,53 @@
         {
           "className": "section-lead sports-lead",
           "source": "The Times of India",
-          "kicker": "INDIA • UTTAR PRADESH ELECTIONS",
-          "headline": "BJP RETAINS THREE UP COUNCIL SEATS; SP WINS VARANASI",
+          "kicker": "KARNATAKA • COUNCIL ELECTIONS",
+          "headline": "NDA’S KARNATAKA SWEEP DEALS CONGRESS A COUNCIL POLL SETBACK",
           "headlineClass": "section-headline",
-          "deck": "Counting continues in the state Legislative Council polls",
+          "deck": "BJP retains three seats and JD(S) takes Bengaluru Teachers’ constituency",
           "image": {
             "src": "https://commons.wikimedia.org/wiki/Special:FilePath/India_Election_Commission.svg",
             "alt": "Election Commission of India emblem",
-            "caption": "Results emerged from the Uttar Pradesh Legislative Council elections. (Representative image)"
+            "caption": "The NDA won all four Karnataka Legislative Council seats contested this week."
           },
           "paragraphs": [
-            "The BJP retained three seats in Uttar Pradesh’s Legislative Council elections, while the Samajwadi Party retained the Varanasi teachers’ constituency. Counting remained underway in other contests."
+            "The BJP-led NDA swept all four Karnataka Legislative Council seats, with BJP retaining three and JD(S) wresting Bengaluru Teachers’ from Congress. JD(S) candidate A.P. Ranganath defeated incumbent Puttanna by 908 votes.",
+            "The result gives the opposition alliance momentum among the state’s teachers and graduates constituencies."
           ],
-          "moreUrl": "https://timesofindia.indiatimes.com/city/lucknow/bjp-retains-3-mlc-seats-sp-holds-varanasi-teachers-constituency/amp_articleshow/135244969.cms"
+          "moreUrl": "https://timesofindia.indiatimes.com/city/bengaluru/karnataka-mlc-polls-big-setback-for-dk-shivakumar-as-bjp-led-nda-wins-all-4-seats/articleshow/135250232.cms"
         },
         {
           "className": "section-brief listings-box",
           "kicker": "TODAY • QUICK BRIEF",
           "listing": [
             [
-              "135 KMPH",
-              "Arnab’s reported sustained winds"
+              "9 DEAD",
+              "Reported after Cyclone Arnab"
             ],
             [
-              "3 AIRPORTS",
-              "Andhra operations suspended"
+              "2.24 LAKH HA",
+              "Preliminary crop damage in Andhra"
             ],
             [
-              "3 SEATS",
-              "BJP retains in UP council polls"
+              "4 OF 4",
+              "Karnataka council seats won by NDA"
             ],
             [
-              "1 CUB",
-              "Rescued in Nelamangala"
+              "3%",
+              "Central DA increase approved"
             ]
           ]
         },
         {
           "className": "section-brief classifieds-box",
           "source": "The Times of India",
-          "kicker": "INDIA • LUCKNOW",
-          "headline": "UP GOVT OFFERS WIDOW JOB AFTER TRIPLE MURDER",
+          "kicker": "INDIA • EMPLOYEES & PENSIONERS",
+          "headline": "3% DA HIKE APPROVED AHEAD OF DIWALI",
           "headlineClass": "lower-headline",
           "paragraphs": [
-            "The government announced employment, education and security support for the family of three men killed in a Lucknow shooting after a parking dispute."
+            "The Union Cabinet cleared a three-point increase in dearness allowance and dearness relief, effective July 1, taking the rate to 63% of basic pay."
           ],
-          "moreUrl": "https://timesofindia.indiatimes.com/city/lucknow/govt-promises-job-for-widow-nsa-against-accused-in-triple-murder-case/articleshow/135244616.cms"
+          "moreUrl": "https://timesofindia.indiatimes.com/india/centres-diwali-gift-to-pensioners-staff-3-da-hike/amp_articleshow/135280384.cms"
         }
       ]
     }
