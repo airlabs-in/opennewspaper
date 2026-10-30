@@ -10,7 +10,7 @@
     "editionLabel": "DAILY READ",
     "editionSummary": "Complete Morning Ledger",
     "edition": "BENGALURU • INDIA EDITION",
-    "dateline": "BENGALURU, THURSDAY, OCTOBER 29, 2026",
+    "dateline": "BENGALURU, FRIDAY, OCTOBER 30, 2026",
     "greeting": "GOOD MORNING :)",
     "footer": "Open Newspaper • Bengaluru and India Edition • Independent coverage from open sources."
   },
@@ -42,36 +42,31 @@
   ],
   "cityWatch": {
     "label": "CITY WATCH",
-    "text": "“Bengaluru’s 44.65-km double-decker Metro plan has been shelved after failing to secure Union government approval.”",
-    "attribution": "— The Hans India"
+    "text": "“Namma Metro’s elevated Pink Line has received safety clearance, but its public opening date is still awaiting confirmation.”",
+    "attribution": "— Moneycontrol"
   },
   "lead": {
-    "source": "The Times of India",
-    "headline": "CYCLONE ARNAB DAMAGE SPREADS ACROSS ANDHRA; NINE REPORTED DEAD",
-    "deck": "Preliminary estimates put crop damage at 2.24 lakh hectares, affecting 3.45 lakh farmers",
-    "image": {
-      "src": "https://images.moneycontrol.com/static-mcnews/2026/10/20261027231728_Cyclone-Arnab.jpg?height=431&impolicy=website&width=770",
-      "alt": "Cyclone Arnab battering the Andhra Pradesh coast",
-      "caption": "Arnab made landfall Wednesday and weakened as it moved inland. (Representative image / ANI)"
-    },
+    "source": "Press Information Bureau",
+    "headline": "₹18,690 CRORE PM-KISAN INSTALMENT SET FOR 9.34 CRORE FARMERS TODAY",
+    "deck": "The 24th transfer is scheduled for 9 am from Banaskantha, Gujarat, with new farm infrastructure initiatives also announced",
     "paragraphs": [
-      "Cyclone Arnab’s passage across Andhra Pradesh has left nine people dead, according to a report published early Thursday. The storm made landfall Wednesday and weakened as it moved inland.",
-      "Preliminary state estimates put crop damage at 2.24 lakh hectares across 14 districts, with nearly 3.45 lakh farmers affected. Paddy fields were among the hardest hit, while officials reported damage to homes and infrastructure.",
-      "The India Meteorological Department expects the system to move north-northwest and weaken gradually over the next 48 hours. Relief and damage assessments are continuing."
+      "Prime Minister Narendra Modi is scheduled to release the 24th PM-KISAN instalment at a programme in Banaskantha, Gujarat, at 9 am today. More than 9.34 crore farmers are set to receive over ₹18,690 crore through direct benefit transfer.",
+      "The Agriculture Ministry said 521 Agriculture Infrastructure Fund units will also be dedicated and 12 horticulture clusters inaugurated to strengthen storage, processing and high-value crop production.",
+      "Eligible beneficiaries receive the instalment directly in their bank accounts. The official PM-KISAN portal says e-KYC is mandatory for registered farmers."
     ],
-    "moreUrl": "https://timesofindia.indiatimes.com/city/vijayawada/nine-dead-as-cyclone-arnab-batters-andhra-pradesh-coast-crops-across-2-lakh-hectares-damaged/amp_articleshow/135278194.cms"
+    "moreUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2330171&lang=1&reg=3"
   },
   "sidebarStory": {
     "tag": "div",
     "className": "sidebar-item",
-    "source": "The Hans India",
-    "headline": "BENGALURU DOUBLE-DECKER METRO PLAN SHELVED",
+    "source": "Moneycontrol",
+    "headline": "BENGALURU METRO PINK LINE CLEARED FOR ELEVATED STRETCH",
     "headlineClass": "side-headline",
-    "subhead": "BMRCL has dropped the proposed 44.65-km project after it failed to secure Union approval",
+    "subhead": "Safety approval covers 7.5 km; the opening date has not yet been confirmed",
     "paragraphs": [
-      "Bengaluru Metro Rail Corporation Limited has permanently shelved its proposed double-decker infrastructure project, which was planned across 44.65 km, after the proposal failed to secure Union government approval."
+      "The Commissioner of Metro Railway Safety has cleared the 7.5-km elevated section between Kalena Agrahara and Tavarekere. The state is awaiting an inauguration date; a public opening has not been announced."
     ],
-    "moreUrl": "https://www.thehansindia.com/news/cities/bengaluru/bengaluru-double-decker-metro-plan-shelved-1136602"
+    "moreUrl": "https://www.moneycontrol.com/news/india/bengaluru-metros-pink-line-gets-cmrs-nod-pm-modi-may-inaugurate-it-on-november-15-says-dk-shivakumar-14062500.html"
   },
   "groups": [
     {
@@ -81,60 +76,59 @@
       "stories": [
         {
           "className": "lower-column",
-          "source": "The Times of India",
-          "headline": "NDA SWEEPS ALL FOUR KARNATAKA COUNCIL SEATS",
+          "source": "Moneycontrol",
+          "headline": "PINK LINE GETS SAFETY CLEARANCE; OPENING DATE AWAITS",
           "headlineClass": "lower-headline",
-          "subhead": "JD(S) wrests Bengaluru Teachers’ constituency as Congress loses every contest",
+          "subhead": "CMRS approval applies to Bengaluru’s 7.5-km elevated stretch",
           "paragraphs": [
-            "The BJP-led NDA won all four Karnataka Legislative Council seats contested on October 23. The BJP retained three constituencies while JD(S) took Bengaluru Teachers’, defeating incumbent Congress MLC Puttanna by 908 votes.",
-            "The result is a setback for the ruling Congress among teachers and graduates, though it does not change the party’s majority in the 75-member council."
+            "The elevated section between Kalena Agrahara and Tavarekere has received statutory safety clearance. Karnataka has asked the Union government to confirm an inauguration date; November 15 has been discussed but is not confirmed."
           ],
-          "moreUrl": "https://timesofindia.indiatimes.com/city/bengaluru/karnataka-mlc-polls-big-setback-for-dk-shivakumar-as-bjp-led-nda-wins-all-4-seats/articleshow/135250232.cms",
+          "moreUrl": "https://www.moneycontrol.com/news/india/bengaluru-metros-pink-line-gets-cmrs-nod-pm-modi-may-inaugurate-it-on-november-15-says-dk-shivakumar-14062500.html",
           "table": {
             "headers": [
-              "KARNATAKA MLC POLLS",
-              "WINNER",
-              "CONSTITUENCY"
+              "PINK LINE UPDATE",
+              "DETAIL",
+              "STATUS"
             ],
             "rows": [
               [
-                "BJP",
-                "3 seats",
-                "Teachers & graduates"
+                "Cleared stretch",
+                "7.5 km",
+                "CMRS approval"
               ],
               [
-                "JD(S)",
-                "1 seat",
-                "Bengaluru Teachers"
+                "Stations",
+                "6",
+                "Elevated section"
               ],
               [
-                "Congress",
-                "No wins",
-                "All 4 contested"
+                "Opening",
+                "No date",
+                "Awaiting confirmation"
               ]
             ]
           }
         },
         {
           "className": "lower-column center-border",
-          "source": "The Hans India",
-          "headline": "BENGALURU DOUBLE-DECKER METRO PLAN SHELVED",
+          "source": "The Bengaluru Live",
+          "headline": "OUTSTATION FUEL TANKERS TO BYPASS BENGALURU FROM NOVEMBER 1",
           "headlineClass": "lower-headline",
-          "subhead": "The 44.65-km proposal failed to obtain Union government approval",
+          "subhead": "Dealers’ body says tankers serving outlets outside the city will be routed away from city roads",
           "paragraphs": [
-            "BMRCL has shelved its proposed double-decker infrastructure project covering 44.65 km across Bengaluru after the plan failed to secure approval from the Union government."
+            "Petroleum tankers carrying fuel to destinations outside Bengaluru are to bypass city roads from November 1, according to the dealers’ association. The change is aimed at reducing heavy tanker movement through the city."
           ],
-          "moreUrl": "https://www.thehansindia.com/news/cities/bengaluru/bengaluru-double-decker-metro-plan-shelved-1136602"
+          "moreUrl": "https://thebengalurulive.com/outstation-fuel-tankers-to-bypass-bengaluru-from-november-1-dealers-body-says/"
         },
         {
           "className": "lower-column",
-          "source": "ThePrint • PTI",
-          "headline": "KARNATAKA SHIFTS 87 ADMINISTRATIVE SERVICE OFFICERS",
+          "source": "News Karnataka",
+          "headline": "KARNATAKA RECORDS 702 SNAKEBITES IN A WEEK",
           "headlineClass": "lower-headline",
           "paragraphs": [
-            "Chief Minister D.K. Shivakumar ordered transfers of 87 KAS officers, including nine postings as assistant commissioners and four as additional deputy commissioners. Twenty-eight officers are assigned to the Urban Development and Rural Development departments."
+            "As snake sightings rise in Bengaluru homes and neighbourhoods, Karnataka recorded 702 snakebite cases and six deaths in a week. The state has registered 17,608 cases and 205 deaths since January, according to figures cited in the report."
           ],
-          "moreUrl": "https://theprint.in/india/cm-shivakumar-orders-transfer-of-87-kas-officers-to-improve-efficiency/3084290/"
+          "moreUrl": "https://newskarnataka.com/bengaluru/bengaluru-snake-sightings-rise-as-karnataka-records-702-bites/29102026/"
         }
       ]
     },
@@ -145,43 +139,43 @@
       "stories": [
         {
           "className": "section-lead",
-          "source": "The Times of India",
-          "kicker": "ANDHRA PRADESH • CYCLONE AFTERMATH",
-          "headline": "ARNAB LEAVES NINE DEAD; CROPS DAMAGED ACROSS 2.24 LAKH HECTARES",
+          "source": "Press Information Bureau",
+          "kicker": "INDIA • FARM SUPPORT",
+          "headline": "PM-KISAN’S 24TH INSTALMENT: ₹18,690 CRORE SET FOR TRANSFER TODAY",
           "headlineClass": "section-headline",
-          "deck": "Nearly 3.45 lakh farmers are affected across 14 districts, preliminary estimates indicate",
+          "deck": "More than 9.34 crore farmers are scheduled to receive direct payments from the 9 am event in Gujarat",
           "image": {
             "src": "https://images.moneycontrol.com/static-mcnews/2026/10/20261027231728_Cyclone-Arnab.jpg?height=431&impolicy=website&width=770",
             "alt": "Cyclone Arnab bringing heavy rain to Andhra Pradesh",
             "caption": "The cyclone made landfall Wednesday and weakened as it moved inland. (ANI / Moneycontrol)"
           },
           "paragraphs": [
-            "Cyclone Arnab left nine people dead along Andhra Pradesh’s coast, according to a report published early Thursday. The system made landfall Wednesday and the IMD expects it to weaken gradually.",
-            "Preliminary estimates put crop damage at 2.24 lakh hectares in 14 districts, affecting nearly 3.45 lakh farmers. The state has sought central support as relief and damage assessments continue."
+            "Prime Minister Narendra Modi is scheduled to release the 24th PM-KISAN instalment at Banaskantha, Gujarat, at 9 am on Friday. The Agriculture Ministry says more than 9.34 crore farmers will receive over ₹18,690 crore through direct benefit transfer.",
+            "The programme will also dedicate 521 Agriculture Infrastructure Fund units and inaugurate 12 horticulture clusters focused on storage, processing and high-value crops."
           ],
-          "moreUrl": "https://timesofindia.indiatimes.com/city/vijayawada/nine-dead-as-cyclone-arnab-batters-andhra-pradesh-coast-crops-across-2-lakh-hectares-damaged/amp_articleshow/135278194.cms"
+          "moreUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2330171&lang=1&reg=3"
         },
         {
           "className": "section-brief",
-          "source": "The Times of India",
-          "kicker": "INDIA • CENTRAL GOVERNMENT",
-          "headline": "CABINET APPROVES 3% DEARNESS ALLOWANCE HIKE",
+          "source": "ISRO",
+          "kicker": "INDIA • SPACE",
+          "headline": "ISRO TO LAUNCH NAVIGATION SATELLITE NVS-03 TONIGHT",
           "headlineClass": "lower-headline",
           "paragraphs": [
-            "The Union Cabinet approved a three-percentage-point increase in dearness allowance for central government employees and dearness relief for pensioners, effective July 1. The increase takes DA to 63% of basic pay and benefits about 11.6 million people."
+            "ISRO plans to launch NVS-03 aboard the GSLV-F18 from Sriharikota at 11:51 pm IST. The satellite is part of the next-generation navigation series intended to maintain services from India’s regional NavIC system."
           ],
-          "moreUrl": "https://timesofindia.indiatimes.com/india/centres-diwali-gift-to-pensioners-staff-3-da-hike/amp_articleshow/135280384.cms"
+          "moreUrl": "https://www.isro.gov.in/ISRO_EN/Mission_GSLVF18.html"
         },
         {
           "className": "section-brief",
-          "source": "The Times of India",
-          "kicker": "INDIA • ELECTIONS",
-          "headline": "NDA TAKES 16 OF 28 COUNCIL SEATS ACROSS FOUR STATES",
+          "source": "The Indian Express",
+          "kicker": "INDIA • PRESS FREEDOM",
+          "headline": "SUPREME COURT SEEKS CENTRE’S REPLY ON PRIVACY LAW CHALLENGE",
           "headlineClass": "lower-headline",
           "paragraphs": [
-            "The BJP-led NDA won 16 of 28 Legislative Council seats contested across four states. The results included a sweep of all four Karnataka seats, while Bihar and Maharashtra returned split verdicts."
+            "The Supreme Court issued notice to the Centre on a challenge by the Digital News Publishers Association to parts of the data-protection law. The petition argues the provisions lack safeguards for journalistic work and confidential sources."
           ],
-          "moreUrl": "https://timesofindia.indiatimes.com/india/nda-wins-16-of-28-seats-congress-falters-in-mlc-polls/amp_articleshow/135282065.cms"
+          "moreUrl": "https://indianexpress.com/article/legal-news/supreme-court-notice-to-centre-after-digital-news-publishers-association-move-against-privacy-law-10938539/lite/"
         }
       ]
     },
@@ -192,38 +186,38 @@
       "stories": [
         {
           "className": "section-lead city-lead",
-          "source": "The Hans India",
-          "kicker": "BENGALURU • METRO",
-          "headline": "BENGALURU’S 44.65-KM DOUBLE-DECKER METRO PLAN SCRAPPED",
+          "source": "News Karnataka",
+          "kicker": "BENGALURU • PUBLIC SAFETY",
+          "headline": "SNAKE SIGHTINGS RISE IN BENGALURU AS KARNATAKA LOGS 702 BITES",
           "headlineClass": "section-headline",
-          "deck": "BMRCL shelved the proposal after it failed to receive Union government approval",
+          "deck": "More than 200 rescue requests reportedly came in over three days as snakes entered homes and residential areas",
           "paragraphs": [
-            "Bengaluru Metro Rail Corporation Limited has permanently shelved its proposed double-decker infrastructure project, which was planned across 44.65 km of the city. The plan failed to secure Union government approval.",
-            "The decision ends a long-proposed effort to combine Metro and road infrastructure on elevated corridors."
+            "Snake-rescue calls have risen across Bengaluru as reptiles are reported in homes and around everyday household spaces. More than 200 calls to civic, police and fire helplines were reported over three days.",
+            "Karnataka recorded 702 snakebite cases and six deaths in the past week. The report says 17,608 cases and 205 deaths have been recorded statewide since January; residents are urged to keep distance and call trained rescuers."
           ],
-          "moreUrl": "https://www.thehansindia.com/news/cities/bengaluru/bengaluru-double-decker-metro-plan-shelved-1136602"
+          "moreUrl": "https://newskarnataka.com/bengaluru/bengaluru-snake-sightings-rise-as-karnataka-records-702-bites/29102026/"
         },
         {
           "className": "section-brief",
-          "source": "ThePrint • PTI",
-          "kicker": "KARNATAKA • ADMINISTRATION",
-          "headline": "87 KAS OFFICERS TRANSFERRED; 28 POSTED TO TWO DEPARTMENTS",
+          "source": "The Bengaluru Live",
+          "kicker": "BENGALURU • TRANSPORT",
+          "headline": "PINK LINE CLEARED, BUT METRO OPENING DATE IS NOT SET",
           "headlineClass": "lower-headline",
           "paragraphs": [
-            "The reshuffle assigns 15 officers to Urban Development and 13 to Rural Development and Panchayat Raj, with nine posted as assistant commissioners."
+            "Safety clearance covers the 7.5-km elevated corridor between Kalena Agrahara and Tavarekere. The state says it is ready to begin service once the inauguration date is confirmed."
           ],
-          "moreUrl": "https://theprint.in/india/cm-shivakumar-orders-transfer-of-87-kas-officers-to-improve-efficiency/3084290/"
+          "moreUrl": "https://www.moneycontrol.com/news/india/bengaluru-metros-pink-line-gets-cmrs-nod-pm-modi-may-inaugurate-it-on-november-15-says-dk-shivakumar-14062500.html"
         },
         {
           "className": "section-brief society-note",
-          "source": "The Hans India",
-          "kicker": "KARNATAKA • VOTER ROLLS",
-          "headline": "716 FOREIGN NATIONALS REMOVED FROM KARNATAKA VOTER ROLLS",
+          "source": "The Bengaluru Live",
+          "kicker": "BENGALURU • TRAFFIC",
+          "headline": "FUEL TANKERS BOUND OUTSIDE CITY TO BYPASS BENGALURU",
           "headlineClass": "lower-headline",
           "paragraphs": [
-            "Election officials said document verification during the Special Intensive Revision identified 716 ineligible entries linked to foreign nationals. Bengaluru North accounted for 583 of the removals."
+            "The dealers’ body says tankers supplying fuel to areas beyond Bengaluru will be routed away from city roads starting November 1."
           ],
-          "moreUrl": "https://www.thehansindia.com/news/cities/bengaluru/716-foreigners-removed-from-voter-rolls-during-sir-exercise-1136798"
+          "moreUrl": "https://thebengalurulive.com/outstation-fuel-tankers-to-bypass-bengaluru-from-november-1-dealers-body-says/"
         }
       ]
     },
@@ -234,54 +228,49 @@
       "stories": [
         {
           "className": "section-lead sports-lead",
-          "source": "The Times of India",
-          "kicker": "KARNATAKA • COUNCIL ELECTIONS",
-          "headline": "NDA’S KARNATAKA SWEEP DEALS CONGRESS A COUNCIL POLL SETBACK",
+          "source": "India Today",
+          "kicker": "INDIA • CRICKET",
+          "headline": "INDIA EYES 4-0 LEAD IN AUCKLAND T20I TODAY",
           "headlineClass": "section-headline",
-          "deck": "BJP retains three seats and JD(S) takes Bengaluru Teachers’ constituency",
-          "image": {
-            "src": "https://commons.wikimedia.org/wiki/Special:FilePath/India_Election_Commission.svg",
-            "alt": "Election Commission of India emblem",
-            "caption": "The NDA won all four Karnataka Legislative Council seats contested this week."
-          },
+          "deck": "The fourth match against New Zealand begins at Eden Park at 12:30 pm IST",
           "paragraphs": [
-            "The BJP-led NDA swept all four Karnataka Legislative Council seats, with BJP retaining three and JD(S) wresting Bengaluru Teachers’ from Congress. JD(S) candidate A.P. Ranganath defeated incumbent Puttanna by 908 votes.",
-            "The result gives the opposition alliance momentum among the state’s teachers and graduates constituencies."
+            "India, leading the five-match series 3-0, meets New Zealand in the fourth T20I at Auckland’s Eden Park on Friday. The match is scheduled to begin at 12:30 pm IST.",
+            "Ishan Kishan is nearing a return from injury, leaving India with a selection decision at the top of the order, while New Zealand is without injured seamers Lockie Ferguson and Matt Henry."
           ],
-          "moreUrl": "https://timesofindia.indiatimes.com/city/bengaluru/karnataka-mlc-polls-big-setback-for-dk-shivakumar-as-bjp-led-nda-wins-all-4-seats/articleshow/135250232.cms"
+          "moreUrl": "https://www.indiatoday.in/sports/cricket/story/india-vs-new-zealand-4th-t20i-preview-predicted-xi-pitch-report-weather-ishan-sooryavanshi-3027973-2026-10-30"
         },
         {
           "className": "section-brief listings-box",
           "kicker": "TODAY • QUICK BRIEF",
           "listing": [
             [
-              "9 DEAD",
-              "Reported after Cyclone Arnab"
+              "₹18,690 CR",
+              "PM-KISAN transfer scheduled today"
             ],
             [
-              "2.24 LAKH HA",
-              "Preliminary crop damage in Andhra"
+              "9.34 CRORE",
+              "Farmers covered by 24th instalment"
             ],
             [
-              "4 OF 4",
-              "Karnataka council seats won by NDA"
+              "11:51 PM",
+              "NVS-03 launch planned from Sriharikota"
             ],
             [
-              "3%",
-              "Central DA increase approved"
+              "12:30 PM",
+              "India-New Zealand 4th T20I begins"
             ]
           ]
         },
         {
           "className": "section-brief classifieds-box",
-          "source": "The Times of India",
-          "kicker": "INDIA • EMPLOYEES & PENSIONERS",
-          "headline": "3% DA HIKE APPROVED AHEAD OF DIWALI",
+          "source": "ISRO",
+          "kicker": "INDIA • NAVIC",
+          "headline": "NVS-03 SET FOR GSLV-F18 LAUNCH FROM SRIHARIKOTA",
           "headlineClass": "lower-headline",
           "paragraphs": [
-            "The Union Cabinet cleared a three-point increase in dearness allowance and dearness relief, effective July 1, taking the rate to 63% of basic pay."
+            "The navigation satellite carries atomic clocks and an L1 signal in addition to L5 and S-band signals, according to ISRO. The launch is planned for 11:51 pm IST on Friday."
           ],
-          "moreUrl": "https://timesofindia.indiatimes.com/india/centres-diwali-gift-to-pensioners-staff-3-da-hike/amp_articleshow/135280384.cms"
+          "moreUrl": "https://www.isro.gov.in/ISRO_EN/Mission_GSLVF18.html"
         }
       ]
     }
