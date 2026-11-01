@@ -73,7 +73,7 @@
         <main class="newspaper-body">
           <section class="banner-story" data-source="${escapeHtml(lead.source)}"><h2 class="main-headline">${escapeHtml(lead.headline)}</h2><p class="byline story-byline">BY ${escapeHtml(lead.source)}</p><p class="deck-headline">${escapeHtml(lead.deck)}</p></section>
           <div class="front-page-grid">
-            <article class="lead-column">${renderImage({...lead.image, captionHtml: lead.image.caption}, 'press-photo-container')}<div class="lead-text-flow">${leadParagraphs}</div></article>
+            <article class="lead-column">${lead.image ? renderImage({...lead.image, captionHtml: lead.image.caption}, 'press-photo-container') : ''}<div class="lead-text-flow">${leadParagraphs}</div></article>
             <aside class="sidebar-column">
               ${renderStory(sidebarStory, {deckClass: 'side-subhead', subheadClass: 'side-subhead'})}
               <div class="index-box"><h4 class="index-title">TODAY'S NEWS INDEX</h4><ul class="index-list">${indexItems}</ul></div>
