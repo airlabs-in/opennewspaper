@@ -5,12 +5,12 @@
     "tagline": "Open sources. Fresh news. One paper. A newspaper assembled from the open web",
     "established": "2026",
     "weatherLabel": "BENGALURU WEATHER",
-    "weatherSummary": "Cloudy with light rain. Bengaluru: 27°C / 21°C.",
+    "weatherSummary": "Cloudy with occasional rain or thundershowers. Bengaluru: 30°C / 20°C.",
     "motto": "FROM OPEN SOURCES DESK",
     "editionLabel": "DAILY READ",
     "editionSummary": "Complete Morning Ledger",
     "edition": "BENGALURU • INDIA EDITION",
-    "dateline": "BENGALURU, SUNDAY, NOVEMBER 1, 2026",
+    "dateline": "BENGALURU, MONDAY, NOVEMBER 2, 2026",
     "greeting": "GOOD MORNING :)",
     "footer": "Open Newspaper • Bengaluru and India Edition • Independent coverage from open sources."
   },
@@ -42,211 +42,209 @@
   ],
   "cityWatch": {
     "label": "CITY WATCH",
-    "text": "“Nandini milk and curd prices rise across Karnataka from today, with the milk base price increasing by ₹8 per litre.”",
-    "attribution": "— The Indian Express"
+    "text": "“Bengaluru’s Ward One campaign has begun across 43 selected wards, focusing on potholes, footpaths, drains and streetlights.”",
+    "attribution": "— The New Indian Express"
   },
   "lead": {
-    "source": "The Indian Express",
-    "kicker": "BENGALURU • HOTEL SAFETY",
-    "headline": "TWO FOREIGN VISITORS DIE IN SUSPECTED HOTEL POOL ELECTROCUTION",
-    "deck": "An American guest and a hotel employee were also hurt in the rescue; investigators are examining a suspected electrical leak",
+    "source": "The Times of India / IMD",
+    "kicker": "INDIA • CYCLONE WATCH",
+    "headline": "CYCLONE MURASU: RED ALERT FOR FIVE ANDHRA DISTRICTS",
+    "deck": "The storm is forecast to cross the south Andhra coast near Nellore and Narsapur on Tuesday; extreme rain is likely today",
     "paragraphs": [
-      "A German and a Slovakian national died after a suspected electric leak in the swimming pool at Bengaluru’s Conrad Hotel on Friday night, police said. An American guest and a hotel employee were injured while trying to rescue them and were taken to hospital.",
-      "Police have registered a case. The electrical inspectorate is investigating how current entered the pool; preliminary findings reported by The Times of India suggest the suspected shock was confined to a small area near the pool ladder.",
-      "The hotel closed the pool for maintenance after the incident. Officials have not yet announced a final cause."
+      "The India Meteorological Department has issued a red alert for extremely heavy rain on Monday in Krishna, Guntur, Bapatla, Prakasam and Nellore districts as Cyclone Murasu approaches the Andhra Pradesh coast.",
+      "The storm is forecast to cross between Nellore and Narsapur from late Monday night into the early hours of Tuesday as a severe cyclonic storm, with sustained winds of 100–110 km/h and gusts up to 120 km/h. Authorities have urged residents to follow local instructions.",
+      "The warning covers a different system from last week’s Cyclone Arnab. Forecasts can change; residents should follow the latest IMD bulletins and district advisories."
     ],
-    "moreUrl": "https://indianexpress.com/article/cities/bangalore/german-slovakian-die-bengaluru-conrad-hotel-swimming-pool-10944525/lite/"
+    "moreUrl": "https://timesofindia.indiatimes.com/city/vijayawada/cyclone-murasu-likely-to-make-landfall-between-nellore-and-narsapur-on-november-3-red-alert-sounded-for-five-districts-on-andhra-pradesh-coast/articleshow/135436833.cms"
   },
   "sidebarStory": {
     "className": "sidebar-item",
     "headlineClass": "side-headline",
     "tag": "div",
-    "source": "The Indian Express",
-    "kicker": "BENGALURU • RAILWAYS",
-    "headline": "BENGALURU–MUMBAI VANDE BHARAT SLEEPER TO DEPART TODAY",
-    "subhead": "Inaugural run leaves SMVT Bengaluru at 12:15 pm; regular service begins November 3",
+    "source": "The Bengaluru Live",
+    "kicker": "KARNATAKA • LANGUAGE & POLICY",
+    "headline": "KARNATAKA PREPARES ORDER ON KANNADA FLAG FOR PRIVATE INSTITUTIONS",
+    "subhead": "The state says it will prepare a legal framework for official recognition of the red-and-yellow flag",
     "paragraphs": [
-      "The inaugural special is scheduled to leave Sir M Visvesvaraya Terminal Bengaluru at 12:15 pm and reach Mumbai’s CSMT at 6:15 am Monday. Regular sleeper services are due to begin November 3, with eight intermediate stops."
+      "Deputy Chief Minister D.K. Shivakumar said the government plans to issue an order this month asking private institutions to hoist the Kannada flag. He said the proposal, including rules for institutions receiving government support, would be discussed ahead of the winter session."
     ],
-    "moreUrl": "https://indianexpress.com/article/india/bengaluru-mumbai-vande-bharat-sleeper-inaugural-run-stoppages-timings-10944966/"
+    "moreUrl": "https://thebengalurulive.com/karnataka-plans-order-asking-private-institutions-to-hoist-kannada-flag/"
   },
   "groups": [
     {
-      "separator": "— BENGALURU • TRANSPORT & CITY NEWS —",
+      "separator": "— BENGALURU • CIVIC ACTION & CITY LIFE —",
       "className": "lower-page-grid",
-      "ariaLabel": "Bengaluru transport and city news",
+      "ariaLabel": "Bengaluru civic action and city life",
       "stories": [
         {
           "className": "lower-column",
           "headlineClass": "lower-headline",
-          "source": "Mint",
-          "kicker": "BENGALURU • RAIL CONNECTIVITY",
-          "headline": "NEW VANDE BHARAT TO LINK BENGALURU AND GOA VIA MANGALURU",
-          "deck": "The approved route will run through Hassan and coastal Karnataka",
+          "source": "The Bengaluru Live",
+          "kicker": "BENGALURU • CIVIC SERVICES",
+          "headline": "WARD ONE DRIVE BEGINS IN SIX CENTRAL BENGALURU WARDS",
+          "deck": "Around 200 personnel have been deployed for repairs and clean-up work",
           "paragraphs": [
-            "The Railway Board has approved a Yesvantpur–Madgaon Vande Bharat service via Hassan and Mangaluru. The planned route includes Udupi, Kundapura, Murdeshwar, Gokarna Road and Karwar; reports put the journey at about 13 hours 20 minutes."
+            "The first Ward One campaign covered six wards, from New Thippasandra to Chamarajpet, with about 200 personnel, 33 tractors, 17 tippers and eight JCBs. Work includes pothole filling, footpath repairs, drain cleaning, streetlight maintenance and removal of encroachments."
           ],
-          "moreUrl": "https://www.livemint.com/industry/infrastructure/bengaluru-to-goa-in-13-hours-20-minutes-check-vande-bharat-route-timings-and-weekly-schedule-11793443234146.html"
+          "moreUrl": "https://thebengalurulive.com/bengaluru-central-ward-one-drive-covers-six-wards-from-new-thippasandra-to-chamarajpet/"
         },
         {
           "className": "lower-column center-border",
           "headlineClass": "lower-headline",
-          "source": "The Times of India / BMRCL",
-          "kicker": "BENGALURU • METRO",
-          "headline": "DROPPED TOKEN TRIGGERS 18-MINUTE METRO DISRUPTION",
+          "source": "The Bengaluru Live",
+          "kicker": "KARNATAKA • PUBLIC ORDER",
+          "headline": "FILES BEING PREPARED TO WITHDRAW CASES AGAINST KANNADA ACTIVISTS",
           "paragraphs": [
-            "A passenger entered the tracks at Indiranagar station to retrieve a dropped token, prompting emergency systems to stop trains. Normal service resumed about 18 minutes later, BMRCL said; police said the man was working in the city."
+            "Chief Minister D.K. Shivakumar said files were being prepared to withdraw cases against Kannada activists, while warning pro-Kannada groups against attacking IT companies or taking the law into their own hands."
           ],
-          "moreUrl": "https://timesofindia.indiatimes.com/city/bengaluru/a-token-on-tracks-disrupts-bengaluru-metro-services-for-18-minutes/amp_articleshow/135370065.cms"
+          "moreUrl": "https://thebengalurulive.com/cases-against-kannada-activists-to-be-withdrawn-files-being-prepared-shivakumar/"
         },
         {
           "className": "lower-column",
           "headlineClass": "lower-headline",
           "source": "The Bengaluru Live",
-          "kicker": "BENGALURU • TRANSIT",
-          "headline": "BENGALURU–GOA RAIL LINK APPROVED FOR SIX DAYS A WEEK",
+          "kicker": "BENGALURU • INDUSTRY",
+          "headline": "HMT LAUNCHES EIGHT KANNADIGA WATCH DESIGNS FOR RAJYOTSAVA",
           "paragraphs": [
-            "The proposed Yesvantpur–Madgaon service is planned to operate six days a week, excluding Wednesday. It follows approval of a new Vande Bharat route connecting Bengaluru with Goa through coastal Karnataka."
+            "HMT introduced eight Kannadiga watch models for Karnataka Rajyotsava, with reported prices ranging from ₹3,500 to ₹3,600."
           ],
-          "moreUrl": "https://thebengalurulive.com/"
+          "moreUrl": "https://thebengalurulive.com/hmt-launches-kannadiga-watches-for-rajyotsava-priced-rs-3500-rs-3600/"
         }
       ]
     },
     {
-      "separator": "— INDIA • WEATHER & PUBLIC AFFAIRS —",
+      "separator": "— INDIA • POLITICS, ECONOMY & WEATHER —",
       "className": "news-section foreign-section",
-      "ariaLabel": "India and national news",
+      "ariaLabel": "India politics, economy, and weather news",
       "stories": [
         {
           "className": "section-lead",
           "headlineClass": "section-headline",
-          "source": "Press Information Bureau",
-          "kicker": "INDIA • DEFENCE",
-          "headline": "ASHUTOSH DIXIT TAKES CHARGE AS AIR CHIEF",
-          "deck": "The Air Chief Marshal assumed office on Saturday, succeeding A. P. Singh",
+          "source": "The Associated Press",
+          "kicker": "INDIA • ELECTIONS",
+          "headline": "OPPOSITION RALLY RENEWS DEMAND FOR ELECTION CHIEF’S RESIGNATION",
+          "deck": "Tens of thousands gathered in Delhi over the voter-roll revision; the Election Commission says the exercise removes duplicate and ineligible entries",
           "paragraphs": [
-            "Air Chief Marshal Ashutosh Dixit assumed charge as the 29th Chief of the Air Staff on October 31, the Defence Ministry said. He succeeds Air Chief Marshal A. P. Singh.",
-            "Dixit is an alumnus of the National Defence Academy and was commissioned into the Indian Air Force’s fighter stream in 1986."
+            "Opposition parties in the INDIA bloc held a rally at Delhi’s Ramlila Maidan on Sunday, calling for Chief Election Commissioner Gyanesh Kumar to resign over the contentious revision of electoral rolls. The Associated Press reported that tens of thousands attended.",
+            "Rahul Gandhi and other leaders said the review risks disenfranchising voters. The Election Commission and the government reject claims of political bias, saying the process is intended to remove duplicate and ineligible entries."
           ],
-          "moreUrl": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2330846&lang=1&reg=3"
+          "moreUrl": "https://apnews.com/article/india-opposition-protests-voters-elections-cockroach-party-cb532b4811eea64c51f61cd4199fb64e"
+        },
+        {
+          "className": "section-brief",
+          "headlineClass": "lower-headline",
+          "source": "Business Standard",
+          "kicker": "INDIA • BANKING",
+          "headline": "IDBI BANK STRIKE NOTICE COVERS NOVEMBER 2 AND 3",
+          "paragraphs": [
+            "IDBI Bank has advised customers of a proposed two-day employee strike. Branch-based services may be affected depending on participation; the bank says digital channels, ATMs and customer service points are to remain available."
+          ],
+          "moreUrl": "https://www.business-standard.com/industry/banking/idbi-bank-staff-to-hold-two-day-hunger-strike-against-proposed-fairfax-sale-126101800545_1.html"
+        },
+        {
+          "className": "section-brief",
+          "headlineClass": "lower-headline",
+          "source": "Prime Minister’s Office",
+          "kicker": "INDIA • CLEAN ENERGY",
+          "headline": "FOUR-DAY RENEWABLE ENERGY SUMMIT OPENS IN DELHI",
+          "paragraphs": [
+            "The Bharat Renewable Energy Summit and Expo runs November 2–5 at Bharat Mandapam. The Prime Minister’s Office says participants from more than 130 countries are expected, with the opening address scheduled for Monday afternoon."
+          ],
+          "moreUrl": "https://www.pmindia.gov.in/en/news_updates/pm-to-inaugurate-bharat-renewable-energy-summit-expo-2026-on-2nd-november/"
+        }
+      ]
+    },
+    {
+      "separator": "— KARNATAKA • CULTURE & COMMUNITY —",
+      "className": "news-section city-section",
+      "ariaLabel": "Karnataka culture and Bengaluru community news",
+      "stories": [
+        {
+          "className": "section-lead city-lead",
+          "headlineClass": "section-headline",
+          "source": "The Times of India",
+          "kicker": "BENGALURU • RAJYOTSAVA",
+          "headline": "BENGALURU MARKS KANNADA RAJYOTSAVA WITH RED-AND-YELLOW DISPLAY",
+          "deck": "Students, teachers and education officials gathered at Kanteerava Stadium for the state’s 71st formation-day celebrations",
+          "paragraphs": [
+            "The Kanteerava Stadium event drew a large crowd for Karnataka’s 71st Rajyotsava, with students forming the main contingent and the venue decorated in the colours of the Kannada flag."
+          ],
+          "moreUrl": "https://timesofindia.indiatimes.com/city/bengaluru/red-yellow-and-kannada-pride-mark-rajyotsava-at-bengalurus-kanteerava-stadium/articleshow/135432936.cms"
         },
         {
           "className": "section-brief",
           "headlineClass": "lower-headline",
           "source": "The Times of India",
-          "kicker": "INDIA • EDUCATION",
-          "headline": "NILEKANI-LED EXAM REFORMS PANEL GETS EXTENSION TO JANUARY",
+          "kicker": "BENGALURU • COMMUNITY",
+          "headline": "BELLANDUR RESIDENTS BRING KARNATAKA FOLK TRADITIONS TO APARTMENT FESTIVAL",
           "paragraphs": [
-            "The Centre has extended the examination-reforms task force chaired by Nandan Nilekani until January 2027. The panel is reviewing changes to public examinations, including a possible hybrid NEET-UG format, and is consulting states on testing infrastructure and preparedness."
+            "More than 100 folk artists from several Karnataka districts performed at a Bellandur apartment community’s Rajyotsava celebration, organised by its Kannada Sangha."
           ],
-          "moreUrl": "https://timesofindia.indiatimes.com/india/government-extends-nilekani-led-exam-reforms-panel-tenure-till-jan/amp_articleshow/135411465.cms"
-        },
-        {
-          "className": "section-brief",
-          "headlineClass": "lower-headline",
-          "source": "NDTV / PTI",
-          "kicker": "INDIA • WEATHER",
-          "headline": "DELHI LOGS COLDEST OCTOBER DAY IN 75 YEARS",
-          "paragraphs": [
-            "The maximum temperature at Safdarjung fell to 20.7°C on Friday, the lowest October day reading there since 1951, after persistent rain. Delhi also recorded its wettest October in four years, according to reports citing the India Meteorological Department."
-          ],
-          "moreUrl": "https://www.ndtv.com/india-news/delhi-records-coldest-october-day-in-75-years-after-heavy-rain-clean-air-12261273"
-        }
-      ]
-    },
-    {
-      "separator": "— BENGALURU • CITY & COMMUNITY —",
-      "className": "news-section city-section",
-      "ariaLabel": "Bengaluru city, technology, and community news",
-      "stories": [
-        {
-          "className": "section-lead city-lead",
-          "headlineClass": "section-headline",
-          "source": "The Indian Express",
-          "kicker": "KARNATAKA • HOUSEHOLD COSTS",
-          "headline": "NANDINI MILK PRICE RISE TAKES EFFECT ACROSS KARNATAKA",
-          "deck": "The revised base price rises from ₹46 to ₹54 per litre",
-          "paragraphs": [
-            "The ₹8-per-litre increase in Nandini milk prices takes effect today. The revised base price for a litre rises from ₹46 to ₹54; the state says the change is intended to raise payments to dairy farmers.",
-            "The Karnataka Milk Federation has also revised curd prices. Consumers should check the rate printed on the packet for the specific product and pack size."
-          ],
-          "moreUrl": "https://indianexpress.com/article/cities/bangalore/karnataka-milk-price-hike-8-rupees-november-1-cabinet-approval-10942332/lite/"
-        },
-        {
-          "className": "section-brief",
-          "headlineClass": "lower-headline",
-          "source": "The Bengaluru Live",
-          "kicker": "KARNATAKA • FOOD SAFETY",
-          "headline": "STATE CLOSES 12 PACKAGED-WATER UNITS AFTER INSPECTIONS",
-          "paragraphs": [
-            "Food-safety officials inspected 102 packaged-water units in a two-day statewide drive and shut 12 over issues including unhygienic premises and licensing violations. Two of the closed units were in Bengaluru Urban and one in Bengaluru Rural, according to the report."
-          ],
-          "moreUrl": "https://thebengalurulive.com/12-packaged-water-units-closed-in-karnataka-102-inspected/"
+          "moreUrl": "https://timesofindia.indiatimes.com/city/bengaluru/71st-kannada-rajyotsava-apartment-residents-bring-folk-traditions-alive-at-bengalurus-bellandur-complex/articleshow/135432995.cms"
         },
         {
           "className": "section-brief society-note",
           "headlineClass": "lower-headline",
-          "source": "The Bengaluru Live",
-          "kicker": "BENGALURU • CIVIC SERVICES",
-          "headline": "E-KHATA CAMPS DISPOSE OF 618 APPLICATIONS AT 62 CENTRES",
+          "source": "NDTV Weather",
+          "kicker": "BENGALURU • WEATHER",
+          "headline": "CLOUDY SKY, OCCASIONAL SHOWERS FORECAST FOR MONDAY",
           "paragraphs": [
-            "Greater Bengaluru Authority camps across 62 centres in the five city corporations disposed of 618 e-Khata applications on Saturday, including cases received earlier, the authority reported."
+            "Bengaluru is forecast to see occasional rain or thundershowers, with a high near 30°C and a low near 20°C, according to Monday’s city forecast."
           ],
-          "moreUrl": "https://thebengalurulive.com/gba-e-khata-camps-dispose-of-618-applications-at-62-bengaluru-centres/"
+          "moreUrl": "https://www.ndtv.com/weather/bengaluru-weather-forecast-today"
         }
       ]
     },
     {
-      "separator": "— BENGALURU SPORTS & INDIA BRIEFING —",
+      "separator": "— MONDAY • QUICK BRIEF —",
       "className": "news-section sports-section",
-      "ariaLabel": "Bengaluru sports and India briefings",
+      "ariaLabel": "Monday quick briefing",
       "stories": [
         {
           "className": "section-lead sports-lead",
           "headlineClass": "section-headline",
-          "source": "Hockey India",
-          "kicker": "INDIA • HOCKEY",
-          "headline": "INDIA BEATS JAPAN 4–1, BOOKS ASIAN CHAMPIONS TROPHY SEMIFINAL",
-          "deck": "Abhishek’s brace helped the defending champions reach the last four with a perfect group record",
+          "source": "India Meteorological Department",
+          "kicker": "INDIA • CYCLONE MURASU",
+          "headline": "ANDHRA COASTAL WATCH",
+          "deck": "Follow IMD bulletins and district instructions as forecasts are updated.",
           "paragraphs": [
-            "Abhishek scored twice as India defeated Japan 4–1 in Jalandhar on Friday, securing a semifinal place at the Hero Asian Champions Trophy. Harmanpreet Singh and Vishnu Kant also scored as India made it three wins from three.",
-            "India faces Malaysia today in its next group match."
+            "Five districts are under a red alert for extremely heavy rain today. Murasu is forecast to cross the south Andhra coast early Tuesday."
           ],
-          "moreUrl": "https://www.hockeyindia.org/index.php/news/india-beat-japan-4-1-to-register-third-successive-win-and-book-a-place-in-semi-finals-of-hero-asian-champions-trophy-punjab-2026"
+          "moreUrl": "https://mausam.imd.gov.in/responsive/cycloneinformation.php"
         },
         {
           "className": "section-brief listings-box",
-          "kicker": "TODAY • QUICK BRIEF",
-          "headline": "SUNDAY AT A GLANCE",
+          "kicker": "MONDAY • AT A GLANCE",
+          "headline": "TODAY’S KEY DEVELOPMENTS",
           "listing": [
             [
-              "₹54/LITRE",
-              "New Nandini milk base price in Karnataka"
+              "RED ALERT",
+              "Extremely heavy rain warning in five Andhra districts"
             ],
             [
-              "12:15 PM",
-              "Bengaluru–Mumbai sleeper inaugural departure"
+              "NOV 2–3",
+              "Proposed IDBI Bank employee strike"
             ],
             [
-              "4–1",
-              "India beats Japan in hockey; semifinal place secured"
+              "4:30 PM",
+              "Bharat Renewable Energy Summit opening in Delhi"
             ],
             [
-              "618 CASES",
-              "e-Khata applications disposed at 62 Bengaluru camps"
+              "30° / 20°",
+              "Bengaluru forecast: occasional rain or thundershowers"
             ]
           ]
         },
         {
           "className": "section-brief classifieds-box",
           "headlineClass": "lower-headline",
-          "source": "Hockey India",
-          "kicker": "INDIA • HOCKEY",
-          "headline": "INDIA MEETS MALAYSIA IN JALANDHAR TODAY",
+          "source": "Andhra Pradesh State Disaster Management Authority",
+          "kicker": "INDIA • OFFICIAL ALERTS",
+          "headline": "CYCLONE UPDATES: CHECK DISTRICT ADVISORIES",
           "paragraphs": [
-            "India’s men play Malaysia in the Asian Champions Trophy group stage today after both teams secured semifinal places. India qualified with a 4–1 win over Japan, its third successive victory."
+            "The state disaster management authority hosts current cyclone information and links to official alerts. Follow local government directions for evacuation and safety."
           ],
-          "moreUrl": "https://www.hockeyindia.org/index.php/schedule/matches/hero-men---s-asian-champions-trophy-2026"
+          "moreUrl": "https://apsdmagis.ap.gov.in/weather-watch/lite.html"
         }
       ]
     }
