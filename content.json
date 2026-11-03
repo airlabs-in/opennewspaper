@@ -5,12 +5,12 @@
     "tagline": "Open sources. Fresh news. One paper. A newspaper assembled from the open web",
     "established": "2026",
     "weatherLabel": "BENGALURU WEATHER",
-    "weatherSummary": "Cloudy with occasional rain or thundershowers. Bengaluru: 30°C / 20°C.",
+    "weatherSummary": "Partly cloudy; one or two spells of rain or thundershowers. Bengaluru: 30°C / 20°C.",
     "motto": "FROM OPEN SOURCES DESK",
     "editionLabel": "DAILY READ",
     "editionSummary": "Complete Morning Ledger",
     "edition": "BENGALURU • INDIA EDITION",
-    "dateline": "BENGALURU, MONDAY, NOVEMBER 2, 2026",
+    "dateline": "BENGALURU, TUESDAY, NOVEMBER 3, 2026",
     "greeting": "GOOD MORNING :)",
     "footer": "Open Newspaper • Bengaluru and India Edition • Independent coverage from open sources."
   },
@@ -42,209 +42,209 @@
   ],
   "cityWatch": {
     "label": "CITY WATCH",
-    "text": "“Bengaluru’s Ward One campaign has begun across 43 selected wards, focusing on potholes, footpaths, drains and streetlights.”",
-    "attribution": "— The New Indian Express"
+    "text": "“The Enforcement Directorate says it has attached assets worth ₹427.16 crore in an alleged Belagavi investment scheme linked to more than 35,000 investors.”",
+    "attribution": "— The Indian Express"
   },
   "lead": {
-    "source": "The Times of India / IMD",
-    "kicker": "INDIA • CYCLONE WATCH",
-    "headline": "CYCLONE MURASU: RED ALERT FOR FIVE ANDHRA DISTRICTS",
-    "deck": "The storm is forecast to cross the south Andhra coast near Nellore and Narsapur on Tuesday; extreme rain is likely today",
+    "source": "India Today",
+    "kicker": "BENGALURU • GOKARNA TRAGEDY",
+    "headline": "THREE BENGALURU COMPANY EMPLOYEES DIE AFTER WAVES SWEEP GROUP INTO SEA",
+    "deck": "The workers were part of a 16-member team on an outing near Gokarna; two others were rescued",
     "paragraphs": [
-      "The India Meteorological Department has issued a red alert for extremely heavy rain on Monday in Krishna, Guntur, Bapatla, Prakasam and Nellore districts as Cyclone Murasu approaches the Andhra Pradesh coast.",
-      "The storm is forecast to cross between Nellore and Narsapur from late Monday night into the early hours of Tuesday as a severe cyclonic storm, with sustained winds of 100–110 km/h and gusts up to 120 km/h. Authorities have urged residents to follow local instructions.",
-      "The warning covers a different system from last week’s Cyclone Arnab. Forecasts can change; residents should follow the latest IMD bulletins and district advisories."
+      "Three employees of a Bengaluru-based company died after powerful waves swept five members of their group into the sea at Dubbanshashi Beach near Gokarna on Sunday. Two people were rescued by lifeguards and local fishermen.",
+      "The 16-member team had travelled from Bengaluru for an outing. Police said the bodies of all three employees had been recovered and that an investigation was under way.",
+      "Authorities advise visitors to heed local beach safety directions and warnings about sea conditions."
     ],
-    "moreUrl": "https://timesofindia.indiatimes.com/city/vijayawada/cyclone-murasu-likely-to-make-landfall-between-nellore-and-narsapur-on-november-3-red-alert-sounded-for-five-districts-on-andhra-pradesh-coast/articleshow/135436833.cms"
+    "moreUrl": "https://www.indiatoday.in/india/karnataka/story/gokarna-beach-drowning-three-bengaluru-employees-killed-two-rescued-3030875-2026-11-02"
   },
   "sidebarStory": {
     "className": "sidebar-item",
     "headlineClass": "side-headline",
     "tag": "div",
-    "source": "The Bengaluru Live",
-    "kicker": "KARNATAKA • LANGUAGE & POLICY",
-    "headline": "KARNATAKA PREPARES ORDER ON KANNADA FLAG FOR PRIVATE INSTITUTIONS",
-    "subhead": "The state says it will prepare a legal framework for official recognition of the red-and-yellow flag",
+    "source": "The Indian Express",
+    "kicker": "KARNATAKA • PUBLIC TRANSPORT",
+    "headline": "STATE BUS FARES SET TO RISE FROM NOVEMBER 5",
+    "subhead": "BMTC’s fare-review panel recommended a 40% increase; the final rates are due after Wednesday’s meeting",
     "paragraphs": [
-      "Deputy Chief Minister D.K. Shivakumar said the government plans to issue an order this month asking private institutions to hoist the Kannada flag. He said the proposal, including rules for institutions receiving government support, would be discussed ahead of the winter session."
+      "The Karnataka government says revised fares for its four state-run transport corporations will take effect on November 5. Transport officials are to finalise the fare structure at a meeting on November 4; the committee’s recommendation is not the final price."
     ],
-    "moreUrl": "https://thebengalurulive.com/karnataka-plans-order-asking-private-institutions-to-hoist-kannada-flag/"
+    "moreUrl": "https://indianexpress.com/article/cities/bangalore/karnataka-bus-fare-hike-november-5-byrathi-suresh-transport-corporations-10947398/"
   },
   "groups": [
     {
-      "separator": "— BENGALURU • CIVIC ACTION & CITY LIFE —",
+      "separator": "— BENGALURU • WORK, TRAVEL & EDUCATION —",
       "className": "lower-page-grid",
-      "ariaLabel": "Bengaluru civic action and city life",
+      "ariaLabel": "Bengaluru work, travel, and education news",
       "stories": [
         {
           "className": "lower-column",
           "headlineClass": "lower-headline",
-          "source": "The Bengaluru Live",
-          "kicker": "BENGALURU • CIVIC SERVICES",
-          "headline": "WARD ONE DRIVE BEGINS IN SIX CENTRAL BENGALURU WARDS",
-          "deck": "Around 200 personnel have been deployed for repairs and clean-up work",
+          "source": "The Indian Express",
+          "kicker": "KARNATAKA • RECRUITMENT",
+          "headline": "CCTV LEADS TO ARREST IN VAO EXAM MALPRACTICE CASE",
+          "deck": "Police allege the Haveri district topper used Google Lens to scan questions during the test",
           "paragraphs": [
-            "The first Ward One campaign covered six wards, from New Thippasandra to Chamarajpet, with about 200 personnel, 33 tractors, 17 tippers and eight JCBs. Work includes pothole filling, footpath repairs, drain cleaning, streetlight maintenance and removal of encroachments."
+            "Police said CCTV footage showed Shankar Bannur using a mobile phone during the October 4 Village Administrative Officer recruitment exam. Investigators allege he scanned questions with Google Lens; the 31-year-old, who scored 151 out of 200, has been arrested."
           ],
-          "moreUrl": "https://thebengalurulive.com/bengaluru-central-ward-one-drive-covers-six-wards-from-new-thippasandra-to-chamarajpet/"
+          "moreUrl": "https://indianexpress.com/article/cities/bangalore/karnataka-vao-topper-google-lens-cheating-case-10946763/"
         },
         {
           "className": "lower-column center-border",
           "headlineClass": "lower-headline",
-          "source": "The Bengaluru Live",
-          "kicker": "KARNATAKA • PUBLIC ORDER",
-          "headline": "FILES BEING PREPARED TO WITHDRAW CASES AGAINST KANNADA ACTIVISTS",
+          "source": "TV9 Kannada",
+          "kicker": "BENGALURU • DEEPAVALI TRAVEL",
+          "headline": "KSRTC TO ADD 2,600 SPECIAL BUSES FROM BENGALURU FOR DEEPAVALI",
           "paragraphs": [
-            "Chief Minister D.K. Shivakumar said files were being prepared to withdraw cases against Kannada activists, while warning pro-Kannada groups against attacking IT companies or taking the law into their own hands."
+            "The state road transport corporation plans extra services from Bengaluru between November 6 and 8, with return services on November 10 and 11. Departures will use Kempegowda Bus Station, Mysuru Road and Shantinagar, among other terminals."
           ],
-          "moreUrl": "https://thebengalurulive.com/cases-against-kannada-activists-to-be-withdrawn-files-being-prepared-shivakumar/"
+          "moreUrl": "https://tv9kannada.com/karnataka/bengaluru/ksrtc-diwali-special-buses-2600-services-from-bengaluru-book-now-for-discounts-1258156.html"
         },
         {
           "className": "lower-column",
           "headlineClass": "lower-headline",
-          "source": "The Bengaluru Live",
-          "kicker": "BENGALURU • INDUSTRY",
-          "headline": "HMT LAUNCHES EIGHT KANNADIGA WATCH DESIGNS FOR RAJYOTSAVA",
+          "source": "Bengaluru Skill Summit",
+          "kicker": "BENGALURU • WORKFORCE",
+          "headline": "BENGALURU SKILL SUMMIT OPENS A THREE-DAY WORKFORCE MEET",
           "paragraphs": [
-            "HMT introduced eight Kannadiga watch models for Karnataka Rajyotsava, with reported prices ranging from ₹3,500 to ₹3,600."
+            "The second Bengaluru Skill Summit runs November 3–5 at The Lalit Ashok. Its programme centres on workforce development, future-ready skills and collaboration between industry, government and training institutions."
           ],
-          "moreUrl": "https://thebengalurulive.com/hmt-launches-kannadiga-watches-for-rajyotsava-priced-rs-3500-rs-3600/"
+          "moreUrl": "https://bengaluruskillsummit.com/"
         }
       ]
     },
     {
-      "separator": "— INDIA • POLITICS, ECONOMY & WEATHER —",
+      "separator": "— INDIA • DEFENCE, INDUSTRY & ECONOMY —",
       "className": "news-section foreign-section",
-      "ariaLabel": "India politics, economy, and weather news",
+      "ariaLabel": "India defence, industry, and economy news",
       "stories": [
         {
           "className": "section-lead",
           "headlineClass": "section-headline",
-          "source": "The Associated Press",
-          "kicker": "INDIA • ELECTIONS",
-          "headline": "OPPOSITION RALLY RENEWS DEMAND FOR ELECTION CHIEF’S RESIGNATION",
-          "deck": "Tens of thousands gathered in Delhi over the voter-roll revision; the Election Commission says the exercise removes duplicate and ineligible entries",
+          "source": "Press Information Bureau",
+          "kicker": "INDIA • NAVY",
+          "headline": "₹53,866-CRORE DEAL SIGNED FOR EIGHT NEXT-GENERATION CORVETTES",
+          "deck": "Indian shipyards GRSE and Goa Shipyard will build five and three vessels respectively",
           "paragraphs": [
-            "Opposition parties in the INDIA bloc held a rally at Delhi’s Ramlila Maidan on Sunday, calling for Chief Election Commissioner Gyanesh Kumar to resign over the contentious revision of electoral rolls. The Associated Press reported that tens of thousands attended.",
-            "Rahul Gandhi and other leaders said the review risks disenfranchising voters. The Election Commission and the government reject claims of political bias, saying the process is intended to remove duplicate and ineligible entries."
+            "The Defence Ministry signed contracts worth ₹53,866.50 crore for eight Next Generation Corvettes for the Indian Navy. Garden Reach Shipbuilders and Engineers will build five; Goa Shipyard will build three.",
+            "The ministry says the vessels will be designed by the Navy and built by the two public-sector shipyards, with advanced weapons and sensor systems."
           ],
-          "moreUrl": "https://apnews.com/article/india-opposition-protests-voters-elections-cockroach-party-cb532b4811eea64c51f61cd4199fb64e"
+          "moreUrl": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2331418&lang=2&reg=48"
         },
         {
           "className": "section-brief",
           "headlineClass": "lower-headline",
-          "source": "Business Standard",
-          "kicker": "INDIA • BANKING",
-          "headline": "IDBI BANK STRIKE NOTICE COVERS NOVEMBER 2 AND 3",
+          "source": "The Indian Express",
+          "kicker": "ANDHRA PRADESH • INDUSTRY",
+          "headline": "FIRE AT HPCL’S VISAKHAPATNAM REFINERY BROUGHT UNDER CONTROL",
           "paragraphs": [
-            "IDBI Bank has advised customers of a proposed two-day employee strike. Branch-based services may be affected depending on participation; the bank says digital channels, ATMs and customer service points are to remain available."
+            "A fire broke out at the refinery on Monday night, police said. Six fire tenders responded and the blaze was brought under control within an hour; no casualties were reported. The cause remains unknown."
           ],
-          "moreUrl": "https://www.business-standard.com/industry/banking/idbi-bank-staff-to-hold-two-day-hunger-strike-against-proposed-fairfax-sale-126101800545_1.html"
+          "moreUrl": "https://indianexpress.com/article/india/hpcl-vizag-refinery-fire-visakhapatnam-tank-blast-video-10947901/"
         },
         {
           "className": "section-brief",
           "headlineClass": "lower-headline",
-          "source": "Prime Minister’s Office",
-          "kicker": "INDIA • CLEAN ENERGY",
-          "headline": "FOUR-DAY RENEWABLE ENERGY SUMMIT OPENS IN DELHI",
+          "source": "Hindustan Times",
+          "kicker": "INDIA • TAX & BUSINESS",
+          "headline": "OCTOBER GST COLLECTIONS REACH ₹2.31 LAKH CRORE",
           "paragraphs": [
-            "The Bharat Renewable Energy Summit and Expo runs November 2–5 at Bharat Mandapam. The Prime Minister’s Office says participants from more than 130 countries are expected, with the opening address scheduled for Monday afternoon."
+            "Gross GST revenue rose 22.9% year on year to ₹2,31,290 crore in October, according to government data. The tally was the second-highest monthly collection on a comparable basis since the tax was introduced in 2017."
           ],
-          "moreUrl": "https://www.pmindia.gov.in/en/news_updates/pm-to-inaugurate-bharat-renewable-energy-summit-expo-2026-on-2nd-november/"
+          "moreUrl": "https://www.hindustantimes.com/business/india-records-2-31-lakh-cr-gst-collections-in-oct-2nd-highest-since-2017-rollout-101793525201768.html"
         }
       ]
     },
     {
-      "separator": "— KARNATAKA • CULTURE & COMMUNITY —",
+      "separator": "— KARNATAKA • PEOPLE & INNOVATION —",
       "className": "news-section city-section",
-      "ariaLabel": "Karnataka culture and Bengaluru community news",
+      "ariaLabel": "Karnataka people and innovation news",
       "stories": [
         {
           "className": "section-lead city-lead",
           "headlineClass": "section-headline",
-          "source": "The Times of India",
-          "kicker": "BENGALURU • RAJYOTSAVA",
-          "headline": "BENGALURU MARKS KANNADA RAJYOTSAVA WITH RED-AND-YELLOW DISPLAY",
-          "deck": "Students, teachers and education officials gathered at Kanteerava Stadium for the state’s 71st formation-day celebrations",
+          "source": "The Indian Express",
+          "kicker": "BENGALURU • HEALTH",
+          "headline": "TEEN ASSAULT VICTIM STABLE AFTER 11-HOUR SURGERY IN BENGALURU",
+          "deck": "The 14-year-old remains critically ill and on ventilator support at Manipal Hospital",
           "paragraphs": [
-            "The Kanteerava Stadium event drew a large crowd for Karnataka’s 71st Rajyotsava, with students forming the main contingent and the venue decorated in the colours of the Kannada flag."
+            "Doctors at Manipal Hospital said the girl, transferred from Andhra Pradesh after an alleged chainsaw attack at her school, was stable after nearly 11 hours of surgery. She remains critically ill in intensive care and may need further procedures."
           ],
-          "moreUrl": "https://timesofindia.indiatimes.com/city/bengaluru/red-yellow-and-kannada-pride-mark-rajyotsava-at-bengalurus-kanteerava-stadium/articleshow/135432936.cms"
+          "moreUrl": "https://indianexpress.com/article/cities/bangalore/andhra-chainsaw-attack-victim-ventilator-support-bengaluru-manipal-hospital-10946687/"
         },
         {
           "className": "section-brief",
           "headlineClass": "lower-headline",
-          "source": "The Times of India",
-          "kicker": "BENGALURU • COMMUNITY",
-          "headline": "BELLANDUR RESIDENTS BRING KARNATAKA FOLK TRADITIONS TO APARTMENT FESTIVAL",
+          "source": "The Indian Express / Enforcement Directorate",
+          "kicker": "KARNATAKA • INVESTIGATION",
+          "headline": "ED ATTACHES ₹427 CRORE IN ALLEGED BELAGAVI PONZI CASE",
           "paragraphs": [
-            "More than 100 folk artists from several Karnataka districts performed at a Bellandur apartment community’s Rajyotsava celebration, organised by its Kannada Sangha."
+            "The Enforcement Directorate says it has provisionally attached assets linked to an alleged ₹2,459-crore scheme in Belagavi. The agency says more than 35,000 investors were involved; the investigation is ongoing."
           ],
-          "moreUrl": "https://timesofindia.indiatimes.com/city/bengaluru/71st-kannada-rajyotsava-apartment-residents-bring-folk-traditions-alive-at-bengalurus-bellandur-complex/articleshow/135432995.cms"
+          "moreUrl": "https://indianexpress.com/article/cities/bangalore/belagavi-ponzi-scheme-ed-attaches-rs-427-crore-assets-10946678/"
         },
         {
           "className": "section-brief society-note",
           "headlineClass": "lower-headline",
-          "source": "NDTV Weather",
-          "kicker": "BENGALURU • WEATHER",
-          "headline": "CLOUDY SKY, OCCASIONAL SHOWERS FORECAST FOR MONDAY",
+          "source": "The Indian Express",
+          "kicker": "BENGALURU • SPACE SCIENCE",
+          "headline": "DEVAHALLI-BORN SCIENTIST TO LEAD NASA INTERSTELLAR-DUST MISSION",
           "paragraphs": [
-            "Bengaluru is forecast to see occasional rain or thundershowers, with a high near 30°C and a low near 20°C, according to Monday’s city forecast."
+            "Astronomer Ramya Manjunath Anche, raised in Devanahalli, will lead NASA’s $20-million PUFFINS mission. Its small telescope is being designed to study interstellar dust and is expected to launch in 2030."
           ],
-          "moreUrl": "https://www.ndtv.com/weather/bengaluru-weather-forecast-today"
+          "moreUrl": "https://indianexpress.com/article/cities/bangalore/ramya-anche-nasa-puffins-mission-interstellar-dust-10945961/"
         }
       ]
     },
     {
-      "separator": "— MONDAY • QUICK BRIEF —",
+      "separator": "— INDIA • SPORT & FESTIVAL BRIEFING —",
       "className": "news-section sports-section",
-      "ariaLabel": "Monday quick briefing",
+      "ariaLabel": "India sport and festival briefing",
       "stories": [
         {
           "className": "section-lead sports-lead",
           "headlineClass": "section-headline",
-          "source": "India Meteorological Department",
-          "kicker": "INDIA • CYCLONE MURASU",
-          "headline": "ANDHRA COASTAL WATCH",
-          "deck": "Follow IMD bulletins and district instructions as forecasts are updated.",
+          "source": "The Indian Express",
+          "kicker": "INDIA • BADMINTON",
+          "headline": "LAKSHYA SEN WINS SEVENTH CAREER TITLE AT HYLO OPEN",
+          "deck": "The Indian defeated Jonatan Christie in straight games in Sunday’s final",
           "paragraphs": [
-            "Five districts are under a red alert for extremely heavy rain today. Murasu is forecast to cross the south Andhra coast early Tuesday."
+            "Lakshya Sen beat Indonesia’s Jonatan Christie 21–17, 21–10 to win the Hylo Open men’s singles title on Sunday, ending a season-long wait for a tour victory."
           ],
-          "moreUrl": "https://mausam.imd.gov.in/responsive/cycloneinformation.php"
+          "moreUrl": "https://indianexpress.com/article/sports/badminton/lakshya-sen-wins-hylo-open-7th-career-title-beat-jonatan-christie-10946256/"
         },
         {
           "className": "section-brief listings-box",
-          "kicker": "MONDAY • AT A GLANCE",
+          "kicker": "TUESDAY • AT A GLANCE",
           "headline": "TODAY’S KEY DEVELOPMENTS",
           "listing": [
             [
-              "RED ALERT",
-              "Extremely heavy rain warning in five Andhra districts"
+              "NOV 5",
+              "Karnataka bus fare revision is scheduled to take effect"
             ],
             [
-              "NOV 2–3",
-              "Proposed IDBI Bank employee strike"
+              "NOV 6–8",
+              "KSRTC festival specials depart from Bengaluru"
             ],
             [
-              "4:30 PM",
-              "Bharat Renewable Energy Summit opening in Delhi"
+              "₹53,866.50 CR",
+              "Defence contracts for eight Navy corvettes"
             ],
             [
-              "30° / 20°",
-              "Bengaluru forecast: occasional rain or thundershowers"
+              "8–10 PM",
+              "Karnataka Deepavali cracker-use window"
             ]
           ]
         },
         {
           "className": "section-brief classifieds-box",
           "headlineClass": "lower-headline",
-          "source": "Andhra Pradesh State Disaster Management Authority",
-          "kicker": "INDIA • OFFICIAL ALERTS",
-          "headline": "CYCLONE UPDATES: CHECK DISTRICT ADVISORIES",
+          "source": "Moneycontrol",
+          "kicker": "KARNATAKA • DEEPAVALI SAFETY",
+          "headline": "POLICE SET 8–10 PM WINDOW FOR DEEPAVALI FIRECRACKERS",
           "paragraphs": [
-            "The state disaster management authority hosts current cyclone information and links to official alerts. Follow local government directions for evacuation and safety."
+            "Karnataka Police say crackers should be used only from 8 pm to 10 pm during Deepavali. Their guidance calls for green crackers and advises against fireworks in public places and crowded areas."
           ],
-          "moreUrl": "https://apsdmagis.ap.gov.in/weather-watch/lite.html"
+          "moreUrl": "https://www.moneycontrol.com/news/india/deepavali-2026-karnataka-police-restrict-firecracker-bursting-to-8-pm-10-pm-issue-safety-guidelines-14066589.html"
         }
       ]
     }
