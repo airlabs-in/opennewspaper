@@ -5,12 +5,12 @@
     "tagline": "Open sources. Fresh news. One paper. A newspaper assembled from the open web",
     "established": "2026",
     "weatherLabel": "BENGALURU WEATHER",
-    "weatherSummary": "Partly cloudy; one or two spells of rain or thundershowers. Bengaluru: 30°C / 20°C.",
+    "weatherSummary": "Partly cloudy; a chance of rain or thundershowers, with a thunderstorm warning. Bengaluru: 30°C / 20°C.",
     "motto": "FROM OPEN SOURCES DESK",
     "editionLabel": "DAILY READ",
     "editionSummary": "Complete Morning Ledger",
     "edition": "BENGALURU • INDIA EDITION",
-    "dateline": "BENGALURU, TUESDAY, NOVEMBER 3, 2026",
+    "dateline": "BENGALURU, WEDNESDAY, NOVEMBER 4, 2026",
     "greeting": "GOOD MORNING :)",
     "footer": "Open Newspaper • Bengaluru and India Edition • Independent coverage from open sources."
   },
@@ -42,209 +42,210 @@
   ],
   "cityWatch": {
     "label": "CITY WATCH",
-    "text": "“The Enforcement Directorate says it has attached assets worth ₹427.16 crore in an alleged Belagavi investment scheme linked to more than 35,000 investors.”",
-    "attribution": "— The Indian Express"
+    "text": "“Pedestrians accounted for nearly 30% of the deaths” at two north Bengaluru highway junctions identified as accident blackspots.",
+    "attribution": "— The Times of India"
   },
   "lead": {
-    "source": "India Today",
-    "kicker": "BENGALURU • GOKARNA TRAGEDY",
-    "headline": "THREE BENGALURU COMPANY EMPLOYEES DIE AFTER WAVES SWEEP GROUP INTO SEA",
-    "deck": "The workers were part of a 16-member team on an outing near Gokarna; two others were rescued",
+    "source": "The Indian Express",
+    "kicker": "BENGALURU • NAMMA METRO",
+    "headline": "PINK LINE SET FOR NOVEMBER 13 OPENING, TAKING METRO PAST 100 KM",
+    "deck": "The 7.5-km elevated stretch will serve six stations; residents are urging an earlier start after years of delay",
     "paragraphs": [
-      "Three employees of a Bengaluru-based company died after powerful waves swept five members of their group into the sea at Dubbanshashi Beach near Gokarna on Sunday. Two people were rescued by lifeguards and local fishermen.",
-      "The 16-member team had travelled from Bengaluru for an outing. Police said the bodies of all three employees had been recovered and that an investigation was under way.",
-      "Authorities advise visitors to heed local beach safety directions and warnings about sea conditions."
+      "The Prime Minister’s Office has confirmed November 13 as the inauguration date for the elevated section of Bengaluru’s Namma Metro Pink Line, a Karnataka official said. The first phase covers 7.5 km and six stations between Kalena Agrahara and Tavarekere.",
+      "The Commissioner for Metro Railway Safety cleared the stretch last week. Chief Minister D K Shivakumar said Prime Minister Narendra Modi would travel from Tavarekere to IIMB-Bilekahalli and launch services.",
+      "When it opens, the addition will take Bengaluru Metro’s operational network to 103.6 km. Residents have called for the cleared line to open sooner instead of waiting for the scheduled ceremony."
     ],
-    "moreUrl": "https://www.indiatoday.in/india/karnataka/story/gokarna-beach-drowning-three-bengaluru-employees-killed-two-rescued-3030875-2026-11-02"
+    "moreUrl": "https://indianexpress.com/article/cities/bangalore/metro-pink-line-opening-november-13-by-pm-modi-10949059/"
   },
   "sidebarStory": {
     "className": "sidebar-item",
     "headlineClass": "side-headline",
     "tag": "div",
-    "source": "The Indian Express",
-    "kicker": "KARNATAKA • PUBLIC TRANSPORT",
-    "headline": "STATE BUS FARES SET TO RISE FROM NOVEMBER 5",
-    "subhead": "BMTC’s fare-review panel recommended a 40% increase; the final rates are due after Wednesday’s meeting",
+    "source": "IANS / The Presidency",
+    "kicker": "INDIA • WEST ASIA & BLACK SEA",
+    "headline": "MEA REPORTS 23 INDIAN DEATHS IN WEST ASIA CONFLICT",
+    "subhead": "The toll includes 15 seafarers; five more Indians have died in Black Sea shipping attacks",
     "paragraphs": [
-      "The Karnataka government says revised fares for its four state-run transport corporations will take effect on November 5. Transport officials are to finalise the fare structure at a meeting on November 4; the committee’s recommendation is not the final price."
+      "The Ministry of External Affairs said 23 Indian nationals, including 15 seafarers, have died in the West Asia conflict. Five more Indians have died in attacks on commercial shipping in the Black Sea. After a ship was attacked off Oman, 13 crew members were rescued and repatriation arrangements are under way."
     ],
-    "moreUrl": "https://indianexpress.com/article/cities/bangalore/karnataka-bus-fare-hike-november-5-byrathi-suresh-transport-corporations-10947398/"
+    "moreUrl": "https://thepresidency.net/23-indian-nationals-have-died-in-west-asia-conflict-five-during-black-sea-attacks-mea/"
   },
   "groups": [
     {
-      "separator": "— BENGALURU • WORK, TRAVEL & EDUCATION —",
+      "separator": "— BENGALURU • CITY, SAFETY & CIVIC LIFE —",
       "className": "lower-page-grid",
-      "ariaLabel": "Bengaluru work, travel, and education news",
+      "ariaLabel": "Bengaluru city, safety, and civic news",
       "stories": [
         {
           "className": "lower-column",
           "headlineClass": "lower-headline",
-          "source": "The Indian Express",
-          "kicker": "KARNATAKA • RECRUITMENT",
-          "headline": "CCTV LEADS TO ARREST IN VAO EXAM MALPRACTICE CASE",
-          "deck": "Police allege the Haveri district topper used Google Lens to scan questions during the test",
+          "source": "The Bengaluru Live",
+          "kicker": "BENGALURU • ENFORCEMENT",
+          "headline": "SOUTH CITY CORPORATION SEALS 63 UNLICENSED SHOPS",
+          "deck": "Most of the affected units were in BTM Layout residential areas",
           "paragraphs": [
-            "Police said CCTV footage showed Shankar Bannur using a mobile phone during the October 4 Village Administrative Officer recruitment exam. Investigators allege he scanned questions with Google Lens; the 31-year-old, who scored 151 out of 200, has been arrested."
+            "Bengaluru South City Corporation sealed 63 commercial units operating without trade licences in residential areas on roads narrower than 40 feet. The action covered businesses including food outlets, salons and retail shops, with the largest number reported in BTM Layout."
           ],
-          "moreUrl": "https://indianexpress.com/article/cities/bangalore/karnataka-vao-topper-google-lens-cheating-case-10946763/"
+          "moreUrl": "https://thebengalurulive.com/bengaluru-south-city-corporation-seals-63-illegal-shops-in-residential-areas-most-in-btm-layout/"
         },
         {
           "className": "lower-column center-border",
           "headlineClass": "lower-headline",
-          "source": "TV9 Kannada",
-          "kicker": "BENGALURU • DEEPAVALI TRAVEL",
-          "headline": "KSRTC TO ADD 2,600 SPECIAL BUSES FROM BENGALURU FOR DEEPAVALI",
+          "source": "The Times of India",
+          "kicker": "BENGALURU • ROAD SAFETY",
+          "headline": "AIRPORT ROAD JUNCTIONS GET PEDESTRIAN SAFETY UPGRADES",
           "paragraphs": [
-            "The state road transport corporation plans extra services from Bengaluru between November 6 and 8, with return services on November 10 and 11. Departures will use Kempegowda Bus Station, Mysuru Road and Shantinagar, among other terminals."
+            "NHAI has added marked crossings, refuge islands, guard rails and improved footpaths at Byatarayanapura and Kodigehalli on Ballari Road. About 80% of work at those two junctions is complete; Jakkur work is planned later because Metro construction is under way."
           ],
-          "moreUrl": "https://tv9kannada.com/karnataka/bengaluru/ksrtc-diwali-special-buses-2600-services-from-bengaluru-book-now-for-discounts-1258156.html"
+          "moreUrl": "https://timesofindia.indiatimes.com/city/bengaluru/bengalurus-airport-road-junctions-get-makeover-with-road-safety-measures/amp_articleshow/135509659.cms"
         },
         {
           "className": "lower-column",
           "headlineClass": "lower-headline",
-          "source": "Bengaluru Skill Summit",
-          "kicker": "BENGALURU • WORKFORCE",
-          "headline": "BENGALURU SKILL SUMMIT OPENS A THREE-DAY WORKFORCE MEET",
+          "source": "UrbanAcres",
+          "kicker": "BENGALURU • COURTS & SAFETY",
+          "headline": "ADVOCATES BOYCOTT COURTS, SEEK STRONGER PROTECTION",
           "paragraphs": [
-            "The second Bengaluru Skill Summit runs November 3–5 at The Lalit Ashok. Its programme centres on workforce development, future-ready skills and collaboration between industry, government and training institutions."
+            "Lawyers in Bengaluru joined a statewide court boycott on November 3 after attacks on advocates, demanding stronger safeguards and implementation of the state’s protection law. Association representatives raised their concerns before a Karnataka High Court bench."
           ],
-          "moreUrl": "https://bengaluruskillsummit.com/"
+          "moreUrl": "https://urbanacres.in/bengaluru-lawyers-protest-boycott-courts-over-safety-concerns/"
         }
       ]
     },
     {
-      "separator": "— INDIA • DEFENCE, INDUSTRY & ECONOMY —",
+      "separator": "— INDIA • WEATHER, SECURITY & PUBLIC AFFAIRS —",
       "className": "news-section foreign-section",
-      "ariaLabel": "India defence, industry, and economy news",
+      "ariaLabel": "India weather, security, and public affairs news",
       "stories": [
         {
           "className": "section-lead",
           "headlineClass": "section-headline",
-          "source": "Press Information Bureau",
-          "kicker": "INDIA • NAVY",
-          "headline": "₹53,866-CRORE DEAL SIGNED FOR EIGHT NEXT-GENERATION CORVETTES",
-          "deck": "Indian shipyards GRSE and Goa Shipyard will build five and three vessels respectively",
-          "paragraphs": [
-            "The Defence Ministry signed contracts worth ₹53,866.50 crore for eight Next Generation Corvettes for the Indian Navy. Garden Reach Shipbuilders and Engineers will build five; Goa Shipyard will build three.",
-            "The ministry says the vessels will be designed by the Navy and built by the two public-sector shipyards, with advanced weapons and sensor systems."
-          ],
-          "moreUrl": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2331418&lang=2&reg=48"
-        },
-        {
-          "className": "section-brief",
-          "headlineClass": "lower-headline",
           "source": "The Indian Express",
-          "kicker": "ANDHRA PRADESH • INDUSTRY",
-          "headline": "FIRE AT HPCL’S VISAKHAPATNAM REFINERY BROUGHT UNDER CONTROL",
+          "kicker": "ANDHRA PRADESH & ODISHA • DISASTER RESPONSE",
+          "headline": "MURASU’S AFTERMATH: RELIEF CENTRES OPEN AS HEAVY RAIN CONTINUES",
+          "deck": "The storm damaged crops and homes; authorities kept evacuations and school closures in place",
           "paragraphs": [
-            "A fire broke out at the refinery on Monday night, police said. Six fire tenders responded and the blaze was brought under control within an hour; no casualties were reported. The cause remains unknown."
+            "Murasu weakened into a cyclonic storm over South Coastal Andhra Pradesh on Tuesday. Authorities reported two deaths and placed more than 12,000 people in rehabilitation centres as rain and flooding affected coastal districts.",
+            "Preliminary estimates put damage at ₹344 crore, with crops across 52,459 hectares affected and 312 houses damaged. Andhra Pradesh and Odisha continued relief operations and precautionary closures."
           ],
-          "moreUrl": "https://indianexpress.com/article/india/hpcl-vizag-refinery-fire-visakhapatnam-tank-blast-video-10947901/"
+          "moreUrl": "https://indianexpress.com/article/india/cyclone-murasu-andhra-pradesh-odisha-impact-10949483/"
         },
         {
           "className": "section-brief",
           "headlineClass": "lower-headline",
-          "source": "Hindustan Times",
-          "kicker": "INDIA • TAX & BUSINESS",
-          "headline": "OCTOBER GST COLLECTIONS REACH ₹2.31 LAKH CRORE",
+          "source": "IANS",
+          "kicker": "INDIA • BUSINESS CONFIDENCE",
+          "headline": "INDIA BUSINESS CONFIDENCE INDEX RISES 8.12% IN OCTOBER",
           "paragraphs": [
-            "Gross GST revenue rose 22.9% year on year to ₹2,31,290 crore in October, according to government data. The tally was the second-highest monthly collection on a comparable basis since the tax was introduced in 2017."
+            "The Assocham Business Confidence Index rose to 128.72 in October from 119.05 a year earlier, IANS reported. Assocham attributed the rise to GST collections, bank credit growth, passenger-vehicle sales, sustained purchasing managers' index expansion and feedback on economic reforms."
           ],
-          "moreUrl": "https://www.hindustantimes.com/business/india-records-2-31-lakh-cr-gst-collections-in-oct-2nd-highest-since-2017-rollout-101793525201768.html"
+          "moreUrl": "https://bfsi.economictimes.indiatimes.com/articles/business-confidence-in-india-continues-to-remain-resilient-assocham-index/135498969"
+        },
+        {
+          "className": "section-brief",
+          "headlineClass": "lower-headline",
+          "source": "ThePrint / PTI",
+          "kicker": "MANIPUR • PEACE PROCESS",
+          "headline": "DISTRICT PEACE COMMITTEES FORMED ACROSS ALL 16 MANIPUR DISTRICTS",
+          "paragraphs": [
+            "Manipur has ordered an 11-member peace committee in each district, led by the district magistrate and including police, officials and community representatives. The bodies are tasked with dialogue, addressing grievances and identifying tensions early; they are to meet at least once every two weeks."
+          ],
+          "moreUrl": "https://theprint.in/india/manipur-constitutes-district-level-peace-committees-in-all-16-districts/3089757/"
         }
       ]
     },
     {
-      "separator": "— KARNATAKA • PEOPLE & INNOVATION —",
+      "separator": "— KARNATAKA & INDIA • FARMERS, LAW & INDUSTRY —",
       "className": "news-section city-section",
-      "ariaLabel": "Karnataka people and innovation news",
+      "ariaLabel": "Karnataka and India farmers, law, and industry news",
       "stories": [
         {
           "className": "section-lead city-lead",
           "headlineClass": "section-headline",
-          "source": "The Indian Express",
-          "kicker": "BENGALURU • HEALTH",
-          "headline": "TEEN ASSAULT VICTIM STABLE AFTER 11-HOUR SURGERY IN BENGALURU",
-          "deck": "The 14-year-old remains critically ill and on ventilator support at Manipal Hospital",
+          "source": "The Economic Times / PTI",
+          "kicker": "KARNATAKA • DROUGHT RELIEF",
+          "headline": "STATE SEEKS ₹22,400 CRORE FROM CENTRE FOR DROUGHT LOSSES",
+          "deck": "The revised claim cites crop damage across 57.93 lakh hectares in 226 taluks",
           "paragraphs": [
-            "Doctors at Manipal Hospital said the girl, transferred from Andhra Pradesh after an alleged chainsaw attack at her school, was stable after nearly 11 hours of surgery. She remains critically ill in intensive care and may need further procedures."
+            "Karnataka Deputy Chief Minister G Parameshwara has urged the Centre to approve and release ₹22,400.58 crore in drought assistance. The revised memorandum estimates losses of ₹62,481.88 crore, with crops damaged across 57.93 lakh hectares in 226 taluks.",
+            "Parameshwara says current relief rates do not reflect cultivation costs and asked the Centre to use updated farmer records when identifying eligible beneficiaries."
           ],
-          "moreUrl": "https://indianexpress.com/article/cities/bangalore/andhra-chainsaw-attack-victim-ventilator-support-bengaluru-manipal-hospital-10946687/"
+          "moreUrl": "https://economictimes.indiatimes.com/news/india/karnataka-seeks-rs-22400-cr-drought-relief-from-centre-urges-early-release/articleshow/135491074.cms"
         },
         {
           "className": "section-brief",
           "headlineClass": "lower-headline",
-          "source": "The Indian Express / Enforcement Directorate",
-          "kicker": "KARNATAKA • INVESTIGATION",
-          "headline": "ED ATTACHES ₹427 CRORE IN ALLEGED BELAGAVI PONZI CASE",
+          "source": "LiveLaw",
+          "kicker": "INDIA • SUPREME COURT",
+          "headline": "FOREIGN DIVORCE DECREE CANNOT SHIELD MAN FROM BIGAMY CASE: SC",
           "paragraphs": [
-            "The Enforcement Directorate says it has provisionally attached assets linked to an alleged ₹2,459-crore scheme in Belagavi. The agency says more than 35,000 investors were involved; the investigation is ongoing."
+            "The Supreme Court declined to quash bigamy proceedings against a man who relied on a UK divorce decree based on irretrievable breakdown of marriage. The bench said that decree could not bind his first wife, who had not submitted to the foreign court’s jurisdiction, or override Indian matrimonial law."
           ],
-          "moreUrl": "https://indianexpress.com/article/cities/bangalore/belagavi-ponzi-scheme-ed-attaches-rs-427-crore-assets-10946678/"
+          "moreUrl": "https://www.livelaw.in/supreme-court/foreign-divorce-decree-against-indian-law-change-of-citizenship-wont-shield-husband-from-bigamy-prosecution-supreme-court-557141"
         },
         {
           "className": "section-brief society-note",
           "headlineClass": "lower-headline",
-          "source": "The Indian Express",
-          "kicker": "BENGALURU • SPACE SCIENCE",
-          "headline": "DEVAHALLI-BORN SCIENTIST TO LEAD NASA INTERSTELLAR-DUST MISSION",
+          "source": "DD India / PIB",
+          "kicker": "INDIA • DEFENCE INDUSTRY",
+          "headline": "RAJNATH SETS ₹3-LAKH-CRORE DEFENCE PRODUCTION TARGET FOR 2029",
           "paragraphs": [
-            "Astronomer Ramya Manjunath Anche, raised in Devanahalli, will lead NASA’s $20-million PUFFINS mission. Its small telescope is being designed to study interstellar dust and is expected to launch in 2030."
+            "Defence Minister Rajnath Singh reiterated targets of ₹3 lakh crore in domestic defence production and ₹50,000 crore in exports by 2029. He said production reached about ₹1.78 lakh crore in 2025–26 and called for more home-grown research, manufacturing and technology partnerships."
           ],
-          "moreUrl": "https://indianexpress.com/article/cities/bangalore/ramya-anche-nasa-puffins-mission-interstellar-dust-10945961/"
+          "moreUrl": "https://ddindia.co.in/2026/11/rajnath-singh-calls-for-indigenous-production-of-critical-defence-technologies-independent-sustenance-of-capabilities/"
         }
       ]
     },
     {
-      "separator": "— INDIA • SPORT & FESTIVAL BRIEFING —",
+      "separator": "— INDIA • CRICKET & WHAT’S AHEAD —",
       "className": "news-section sports-section",
-      "ariaLabel": "India sport and festival briefing",
+      "ariaLabel": "India cricket and upcoming events",
       "stories": [
         {
           "className": "section-lead sports-lead",
           "headlineClass": "section-headline",
-          "source": "The Indian Express",
-          "kicker": "INDIA • BADMINTON",
-          "headline": "LAKSHYA SEN WINS SEVENTH CAREER TITLE AT HYLO OPEN",
-          "deck": "The Indian defeated Jonatan Christie in straight games in Sunday’s final",
+          "source": "BCCI",
+          "kicker": "INDIA • CRICKET",
+          "headline": "INDIA OPEN FIVE-MATCH ODI TOUR AGAINST NEW ZEALAND TODAY",
+          "deck": "The first match is at Eden Park in Auckland as India begin their 2026–27 away series",
           "paragraphs": [
-            "Lakshya Sen beat Indonesia’s Jonatan Christie 21–17, 21–10 to win the Hylo Open men’s singles title on Sunday, ending a season-long wait for a tour victory."
+            "India meet New Zealand in the first ODI at Auckland’s Eden Park on Wednesday, November 4. The match begins at 2:00 am UTC (7:30 am IST), according to the BCCI fixture; four more ODIs follow in the series."
           ],
-          "moreUrl": "https://indianexpress.com/article/sports/badminton/lakshya-sen-wins-hylo-open-7th-career-title-beat-jonatan-christie-10946256/"
+          "moreUrl": "https://www.bcci.tv/matches/242113/new-zealand-vs-india/match-details"
         },
         {
           "className": "section-brief listings-box",
-          "kicker": "TUESDAY • AT A GLANCE",
-          "headline": "TODAY’S KEY DEVELOPMENTS",
+          "kicker": "WEDNESDAY • AT A GLANCE",
+          "headline": "DATES & DEVELOPMENTS",
           "listing": [
             [
+              "TODAY",
+              "India vs New Zealand, first ODI at Eden Park"
+            ],
+            [
               "NOV 5",
-              "Karnataka bus fare revision is scheduled to take effect"
+              "INDIA bloc rally planned at Bengaluru’s Freedom Park"
             ],
             [
-              "NOV 6–8",
-              "KSRTC festival specials depart from Bengaluru"
+              "NOV 13",
+              "Namma Metro Pink Line inauguration scheduled"
             ],
             [
-              "₹53,866.50 CR",
-              "Defence contracts for eight Navy corvettes"
-            ],
-            [
-              "8–10 PM",
-              "Karnataka Deepavali cracker-use window"
+              "₹22,400.58 CR",
+              "Karnataka’s revised drought-relief request"
             ]
           ]
         },
         {
           "className": "section-brief classifieds-box",
           "headlineClass": "lower-headline",
-          "source": "Moneycontrol",
-          "kicker": "KARNATAKA • DEEPAVALI SAFETY",
-          "headline": "POLICE SET 8–10 PM WINDOW FOR DEEPAVALI FIRECRACKERS",
+          "source": "India Meteorological Department",
+          "kicker": "BENGALURU • WEATHER",
+          "headline": "IMD FORECASTS SHOWERS AND THUNDERSTORMS TODAY",
           "paragraphs": [
-            "Karnataka Police say crackers should be used only from 8 pm to 10 pm during Deepavali. Their guidance calls for green crackers and advises against fireworks in public places and crowded areas."
+            "The IMD forecast partly cloudy skies with one or two spells of rain or thundershowers in Bengaluru on November 4, with a minimum of 20°C and maximum of 30°C. Thunderstorms accompanied by lightning are also forecast."
           ],
-          "moreUrl": "https://www.moneycontrol.com/news/india/deepavali-2026-karnataka-police-restrict-firecracker-bursting-to-8-pm-10-pm-issue-safety-guidelines-14066589.html"
+          "moreUrl": "https://city.imd.gov.in/citywx/citywxnew_warnings.php?id=43295"
         }
       ]
     }
