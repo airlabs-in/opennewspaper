@@ -5,12 +5,12 @@
     "tagline": "Open sources. Fresh news. One paper. A newspaper assembled from the open web",
     "established": "2026",
     "weatherLabel": "BENGALURU WEATHER",
-    "weatherSummary": "Partly cloudy; a chance of rain or thundershowers, with a thunderstorm warning. Bengaluru: 30°C / 20°C.",
+    "weatherSummary": "Generally cloudy with light rain and a thunderstorm warning. Bengaluru: 29°C / 21°C.",
     "motto": "FROM OPEN SOURCES DESK",
     "editionLabel": "DAILY READ",
     "editionSummary": "Complete Morning Ledger",
     "edition": "BENGALURU • INDIA EDITION",
-    "dateline": "BENGALURU, WEDNESDAY, NOVEMBER 4, 2026",
+    "dateline": "BENGALURU, THURSDAY, NOVEMBER 5, 2026",
     "greeting": "GOOD MORNING :)",
     "footer": "Open Newspaper • Bengaluru and India Edition • Independent coverage from open sources."
   },
@@ -42,197 +42,191 @@
   ],
   "cityWatch": {
     "label": "CITY WATCH",
-    "text": "“Pedestrians accounted for nearly 30% of the deaths” at two north Bengaluru highway junctions identified as accident blackspots.",
-    "attribution": "— The Times of India"
+    "text": "BMTC’s minimum ordinary-bus fare has risen from ₹6 to ₹10, a 67% increase for the shortest rides, effective today.",
+    "attribution": "— The Indian Express"
   },
   "lead": {
     "source": "The Indian Express",
-    "kicker": "BENGALURU • NAMMA METRO",
-    "headline": "PINK LINE SET FOR NOVEMBER 13 OPENING, TAKING METRO PAST 100 KM",
-    "deck": "The 7.5-km elevated stretch will serve six stations; residents are urging an earlier start after years of delay",
+    "kicker": "BENGALURU • PUBLIC TRANSPORT",
+    "headline": "BMTC MINIMUM FARE JUMPS 67% AS KARNATAKA BUS HIKE KICKS IN",
+    "deck": "The city’s ordinary-bus minimum rises from ₹6 to ₹10; BMTC fares increase 33–35% on average",
     "paragraphs": [
-      "The Prime Minister’s Office has confirmed November 13 as the inauguration date for the elevated section of Bengaluru’s Namma Metro Pink Line, a Karnataka official said. The first phase covers 7.5 km and six stations between Kalena Agrahara and Tavarekere.",
-      "The Commissioner for Metro Railway Safety cleared the stretch last week. Chief Minister D K Shivakumar said Prime Minister Narendra Modi would travel from Tavarekere to IIMB-Bilekahalli and launch services.",
-      "When it opens, the addition will take Bengaluru Metro’s operational network to 103.6 km. Residents have called for the cleared line to open sooner instead of waiting for the scheduled ceremony."
+      "Higher bus fares take effect across Karnataka from Thursday, with Bengaluru commuters facing the steepest average increase. The minimum fare on an ordinary BMTC service, for a ride up to two kilometres, rises from ₹6 to ₹10; the maximum rises from ₹35 to ₹45.",
+      "The transport department estimates an average increase of 33–35% for BMTC and 23% for the other state-run corporations. The government says the revision is intended to shore up the transport undertakings amid rising operating costs and losses.",
+      "For frequent riders, the change adds to household travel costs from today. Officials said revised fares apply across BMTC, KSRTC, NWKRTC and KKRTC services."
     ],
-    "moreUrl": "https://indianexpress.com/article/cities/bangalore/metro-pink-line-opening-november-13-by-pm-modi-10949059/"
+    "moreUrl": "https://indianexpress.com/article/cities/bangalore/karnataka-bus-fare-hike-bmtc-ksrtc-new-ticket-prices-10950830/"
   },
   "sidebarStory": {
     "className": "sidebar-item",
     "headlineClass": "side-headline",
     "tag": "div",
-    "source": "IANS / The Presidency",
-    "kicker": "INDIA • WEST ASIA & BLACK SEA",
-    "headline": "MEA REPORTS 23 INDIAN DEATHS IN WEST ASIA CONFLICT",
-    "subhead": "The toll includes 15 seafarers; five more Indians have died in Black Sea shipping attacks",
+    "source": "ThePrint / PTI",
+    "kicker": "INDIA • DEFENCE & RECRUITMENT",
+    "headline": "AGNIVEERS OFFERED TWO-YEAR SERVICE EXTENSION",
+    "subhead": "The new option takes the engagement to six years for those not selected for regular service",
     "paragraphs": [
-      "The Ministry of External Affairs said 23 Indian nationals, including 15 seafarers, have died in the West Asia conflict. Five more Indians have died in attacks on commercial shipping in the Black Sea. After a ship was attacked off Oman, 13 crew members were rescued and repatriation arrangements are under way."
+      "The Union Cabinet has approved an additional two-year engagement for Agniveers who are not absorbed into the regular armed forces after four years. The change gives the remaining 75% of each cohort a chance to continue for a second tour, while the existing 25% selection for regular service remains. The first batch was due to complete its initial tenure in December 2026."
     ],
-    "moreUrl": "https://thepresidency.net/23-indian-nationals-have-died-in-west-asia-conflict-five-during-black-sea-attacks-mea/"
+    "moreUrl": "https://theprint.in/india/big-overhaul-in-agnipath-scheme-govt-grants-2-year-extension-to-agniveers-opens-pathway-to-permanent-recruitment/3090577/"
   },
   "groups": [
     {
-      "separator": "— BENGALURU • CITY, SAFETY & CIVIC LIFE —",
+      "separator": "— BENGALURU • CITY, CIVIC LIFE & COURTS —",
       "className": "lower-page-grid",
-      "ariaLabel": "Bengaluru city, safety, and civic news",
+      "ariaLabel": "Bengaluru city, civic, and court news",
       "stories": [
         {
           "className": "lower-column",
           "headlineClass": "lower-headline",
-          "source": "The Bengaluru Live",
-          "kicker": "BENGALURU • ENFORCEMENT",
-          "headline": "SOUTH CITY CORPORATION SEALS 63 UNLICENSED SHOPS",
-          "deck": "Most of the affected units were in BTM Layout residential areas",
+          "source": "BLR Today",
+          "kicker": "BENGALURU • CIVIC SERVICES",
+          "headline": "CITY TO CENTRALISE BULK-WASTE COLLECTION",
           "paragraphs": [
-            "Bengaluru South City Corporation sealed 63 commercial units operating without trade licences in residential areas on roads narrower than 40 feet. The action covered businesses including food outlets, salons and retail shops, with the largest number reported in BTM Layout."
+            "Bengaluru Solid Waste Management plans to take over bulk-waste collection and route it to empanelled processors, according to a report published Thursday. The change would place collection and processing under a citywide system."
           ],
-          "moreUrl": "https://thebengalurulive.com/bengaluru-south-city-corporation-seals-63-illegal-shops-in-residential-areas-most-in-btm-layout/"
+          "moreUrl": "https://inblr.today/"
         },
         {
           "className": "lower-column center-border",
           "headlineClass": "lower-headline",
-          "source": "The Times of India",
-          "kicker": "BENGALURU • ROAD SAFETY",
-          "headline": "AIRPORT ROAD JUNCTIONS GET PEDESTRIAN SAFETY UPGRADES",
+          "source": "LiveLaw",
+          "kicker": "KARNATAKA • HIGH COURT",
+          "headline": "HIGH COURT QUASHES FIR OVER SLOGAN AT BJP PROTEST",
           "paragraphs": [
-            "NHAI has added marked crossings, refuge islands, guard rails and improved footpaths at Byatarayanapura and Kodigehalli on Ballari Road. About 80% of work at those two junctions is complete; Jakkur work is planned later because Metro construction is under way."
+            "The Karnataka High Court quashed a case against BJP protesters accused of raising a pro-Pakistan slogan. The court said the allegation appeared improbable and accepted the explanation that the words were a slip of the tongue."
           ],
-          "moreUrl": "https://timesofindia.indiatimes.com/city/bengaluru/bengalurus-airport-road-junctions-get-makeover-with-road-safety-measures/amp_articleshow/135509659.cms"
+          "moreUrl": "https://www.livelaw.in/high-court/karnataka-high-court/karnataka-high-court-bjp-protest-pakistan-zindabad-slogan-case-quashed-557320"
         },
         {
           "className": "lower-column",
           "headlineClass": "lower-headline",
-          "source": "UrbanAcres",
-          "kicker": "BENGALURU • COURTS & SAFETY",
-          "headline": "ADVOCATES BOYCOTT COURTS, SEEK STRONGER PROTECTION",
+          "source": "The Week / PTI",
+          "kicker": "KARNATAKA • EDUCATION",
+          "headline": "CM URGES PRIVATE SCHOOLS TO PARTNER WITH RURAL GOVERNMENT SCHOOLS",
           "paragraphs": [
-            "Lawyers in Bengaluru joined a statewide court boycott on November 3 after attacks on advocates, demanding stronger safeguards and implementation of the state’s protection law. Association representatives raised their concerns before a Karnataka High Court bench."
+            "Karnataka has signed 15 memoranda with private schools to support 56 government schools, with an initial target of 1,000 partnerships and an eventual goal of 2,000. The programme is intended to improve facilities and learning in rural schools."
           ],
-          "moreUrl": "https://urbanacres.in/bengaluru-lawyers-protest-boycott-courts-over-safety-concerns/"
+          "moreUrl": "https://www.theweek.in/wire-updates/national/2026/11/04/shivakumar-appeals-to-pvt-schools-in-k-taka-to-adopt-govt-schools-in-rural-areas.amp.html"
         }
       ]
     },
     {
-      "separator": "— INDIA • WEATHER, SECURITY & PUBLIC AFFAIRS —",
+      "separator": "— INDIA • COURTS, ECONOMY & DIPLOMACY —",
       "className": "news-section foreign-section",
-      "ariaLabel": "India weather, security, and public affairs news",
+      "ariaLabel": "India courts, economy, and diplomacy news",
       "stories": [
         {
           "className": "section-lead",
           "headlineClass": "section-headline",
-          "source": "The Indian Express",
-          "kicker": "ANDHRA PRADESH & ODISHA • DISASTER RESPONSE",
-          "headline": "MURASU’S AFTERMATH: RELIEF CENTRES OPEN AS HEAVY RAIN CONTINUES",
-          "deck": "The storm damaged crops and homes; authorities kept evacuations and school closures in place",
+          "source": "Business Standard",
+          "kicker": "INDIA • SUPREME COURT",
+          "headline": "STATES CAN LEVY ADDITIONAL SALES TAX UNDER PRE-GST LAWS: SC",
           "paragraphs": [
-            "Murasu weakened into a cyclonic storm over South Coastal Andhra Pradesh on Tuesday. Authorities reported two deaths and placed more than 12,000 people in rehabilitation centres as rain and flooding affected coastal districts.",
-            "Preliminary estimates put damage at ₹344 crore, with crops across 52,459 hectares affected and 312 houses damaged. Andhra Pradesh and Odisha continued relief operations and precautionary closures."
+            "A seven-judge Constitution Bench upheld states’ authority under pre-GST laws to impose an additional sales tax or surcharge. The ruling concerns the earlier tax regime; the reference has limited practical reach after GST came into force in 2017."
           ],
-          "moreUrl": "https://indianexpress.com/article/india/cyclone-murasu-andhra-pradesh-odisha-impact-10949483/"
+          "moreUrl": "https://www.business-standard.com/india-news/sc-upholds-states-power-to-levy-additional-sales-tax-under-pre-gst-laws-126110401924_1.html"
         },
         {
           "className": "section-brief",
           "headlineClass": "lower-headline",
-          "source": "IANS",
-          "kicker": "INDIA • BUSINESS CONFIDENCE",
-          "headline": "INDIA BUSINESS CONFIDENCE INDEX RISES 8.12% IN OCTOBER",
+          "source": "Reuters / Investing.com",
+          "kicker": "INDIA • US SANCTIONS",
+          "headline": "US SANCTIONS INDIA-BASED FIRMS OVER ALLEGED IRAN OIL LINKS",
           "paragraphs": [
-            "The Assocham Business Confidence Index rose to 128.72 in October from 119.05 a year earlier, IANS reported. Assocham attributed the rise to GST collections, bank credit growth, passenger-vehicle sales, sustained purchasing managers' index expansion and feedback on economic reforms."
+            "The United States announced sanctions on entities and individuals based in India and Turkey, alleging they supported an Iranian oil network. The allegations are Washington’s; the affected parties’ responses should be checked in subsequent reporting."
           ],
-          "moreUrl": "https://bfsi.economictimes.indiatimes.com/articles/business-confidence-in-india-continues-to-remain-resilient-assocham-index/135498969"
+          "moreUrl": "https://www.investing.com/news/commodities-news/us-slaps-sanctions-on-indian-turkish-firms-and-people-for-aiding-iran-5000921"
         },
         {
           "className": "section-brief",
           "headlineClass": "lower-headline",
-          "source": "ThePrint / PTI",
-          "kicker": "MANIPUR • PEACE PROCESS",
-          "headline": "DISTRICT PEACE COMMITTEES FORMED ACROSS ALL 16 MANIPUR DISTRICTS",
+          "source": "The Economic Times",
+          "kicker": "INDIA • SERVICES ECONOMY",
+          "headline": "OCTOBER SERVICES GROWTH HITS FOUR-MONTH HIGH",
           "paragraphs": [
-            "Manipur has ordered an 11-member peace committee in each district, led by the district magistrate and including police, officials and community representatives. The bodies are tasked with dialogue, addressing grievances and identifying tensions early; they are to meet at least once every two weeks."
+            "New orders and resilient demand lifted India’s services activity in October to its strongest pace in four months, according to the latest purchasing managers’ survey. The expansion points to continued momentum in a large, employment-intensive part of the economy."
           ],
-          "moreUrl": "https://theprint.in/india/manipur-constitutes-district-level-peace-committees-in-all-16-districts/3089757/"
+          "moreUrl": "https://economictimes.indiatimes.com/news/articlelist/1715249553.cms"
         }
       ]
     },
     {
-      "separator": "— KARNATAKA & INDIA • FARMERS, LAW & INDUSTRY —",
+      "separator": "— KARNATAKA • SCHOOLS, FAMILIES & SPORT —",
       "className": "news-section city-section",
-      "ariaLabel": "Karnataka and India farmers, law, and industry news",
+      "ariaLabel": "Karnataka schools, families, and sport news",
       "stories": [
         {
           "className": "section-lead city-lead",
           "headlineClass": "section-headline",
-          "source": "The Economic Times / PTI",
-          "kicker": "KARNATAKA • DROUGHT RELIEF",
-          "headline": "STATE SEEKS ₹22,400 CRORE FROM CENTRE FOR DROUGHT LOSSES",
-          "deck": "The revised claim cites crop damage across 57.93 lakh hectares in 226 taluks",
+          "source": "ThePrint / PTI",
+          "kicker": "KARNATAKA • EARLY EDUCATION",
+          "headline": "PRESCHOOL BODY WARNS 25,000 CENTRES COULD FACE CLOSURE",
           "paragraphs": [
-            "Karnataka Deputy Chief Minister G Parameshwara has urged the Centre to approve and release ₹22,400.58 crore in drought assistance. The revised memorandum estimates losses of ₹62,481.88 crore, with crops damaged across 57.93 lakh hectares in 226 taluks.",
-            "Parameshwara says current relief rates do not reflect cultivation costs and asked the Centre to use updated farmer records when identifying eligible beneficiaries."
+            "A Karnataka preschool association has sought a review of operating norms, warning that about 25,000 standalone centres and the livelihoods of 4.5 lakh women could be affected. The figures are the association’s estimates; it is urging the state to reconsider the rules."
           ],
-          "moreUrl": "https://economictimes.indiatimes.com/news/india/karnataka-seeks-rs-22400-cr-drought-relief-from-centre-urges-early-release/articleshow/135491074.cms"
+          "moreUrl": "https://theprint.in/india/karnataka-preschool-body-seeks-review-of-norms-warns-of-25000-centres-facing-closure/3090301/"
         },
         {
           "className": "section-brief",
           "headlineClass": "lower-headline",
-          "source": "LiveLaw",
-          "kicker": "INDIA • SUPREME COURT",
-          "headline": "FOREIGN DIVORCE DECREE CANNOT SHIELD MAN FROM BIGAMY CASE: SC",
+          "source": "Asianet Newsable",
+          "kicker": "KARNATAKA • WELFARE",
+          "headline": "BESCOM VERIFICATION FLAGS 1.42 LAKH GRUHA JYOTHI ACCOUNTS",
           "paragraphs": [
-            "The Supreme Court declined to quash bigamy proceedings against a man who relied on a UK divorce decree based on irretrievable breakdown of marriage. The bench said that decree could not bind his first wife, who had not submitted to the foreign court’s jurisdiction, or override Indian matrimonial law."
+            "A verification exercise has flagged 1.42 lakh of the scheme’s 74 lakh consumers as not yet verified, raising the possibility that some could lose the free-electricity benefit. The government has not announced a final decision; affected users should await official guidance."
           ],
-          "moreUrl": "https://www.livelaw.in/supreme-court/foreign-divorce-decree-against-indian-law-change-of-citizenship-wont-shield-husband-from-bigamy-prosecution-supreme-court-557141"
+          "moreUrl": "https://newsable.asianetnews.com/karnataka-news/gruha-jyothi-scheme-why-1-42-lakh-karnataka-consumers-may-lose-free-electricity-articleshow-tim8izl"
         },
         {
           "className": "section-brief society-note",
           "headlineClass": "lower-headline",
-          "source": "DD India / PIB",
-          "kicker": "INDIA • DEFENCE INDUSTRY",
-          "headline": "RAJNATH SETS ₹3-LAKH-CRORE DEFENCE PRODUCTION TARGET FOR 2029",
+          "source": "ThePrint / PTI",
+          "kicker": "RANJI TROPHY • KARNATAKA",
+          "headline": "KARNATAKA THUMP ASSAM BY AN INNINGS AND 314 RUNS",
           "paragraphs": [
-            "Defence Minister Rajnath Singh reiterated targets of ₹3 lakh crore in domestic defence production and ₹50,000 crore in exports by 2029. He said production reached about ₹1.78 lakh crore in 2025–26 and called for more home-grown research, manufacturing and technology partnerships."
+            "Karnataka completed a dominant Ranji Trophy win over Assam by an innings and 314 runs. Manvanth Kumar remained unbeaten on 100 while K V Aneesh made 145 in Karnataka’s commanding performance."
           ],
-          "moreUrl": "https://ddindia.co.in/2026/11/rajnath-singh-calls-for-indigenous-production-of-critical-defence-technologies-independent-sustenance-of-capabilities/"
+          "moreUrl": "https://theprint.in/sport/manvanth-shreyas-sparkle-as-karnataka-thump-assam-by-innings-and-314-runs/3090222/"
         }
       ]
     },
     {
-      "separator": "— INDIA • CRICKET & WHAT’S AHEAD —",
+      "separator": "— INDIA • CRICKET, AIR & WEATHER —",
       "className": "news-section sports-section",
-      "ariaLabel": "India cricket and upcoming events",
+      "ariaLabel": "India cricket, air quality, and Bengaluru weather",
       "stories": [
         {
           "className": "section-lead sports-lead",
           "headlineClass": "section-headline",
-          "source": "BCCI",
-          "kicker": "INDIA • CRICKET",
-          "headline": "INDIA OPEN FIVE-MATCH ODI TOUR AGAINST NEW ZEALAND TODAY",
-          "deck": "The first match is at Eden Park in Auckland as India begin their 2026–27 away series",
+          "source": "The Indian Express",
+          "kicker": "DELHI • AIR QUALITY",
+          "headline": "DELHI AQI 377; FORECAST WARNS OF SEVERE AIR ON FRIDAY",
           "paragraphs": [
-            "India meet New Zealand in the first ODI at Auckland’s Eden Park on Wednesday, November 4. The match begins at 2:00 am UTC (7:30 am IST), according to the BCCI fixture; four more ODIs follow in the series."
+            "Delhi’s average air quality reached 377 on Wednesday, its worst reading in nearly ten months, while 22 monitoring stations recorded severe levels. Forecasters expect very poor air on Thursday and a possible move into the severe category on November 6–7; authorities have stepped up action against crop-residue burning."
           ],
-          "moreUrl": "https://www.bcci.tv/matches/242113/new-zealand-vs-india/match-details"
+          "moreUrl": "https://indianexpress.com/article/cities/delhi/delhi-aqi-at-377-caqm-cracks-down-on-stubble-burning-in-punjab-10951215/"
         },
         {
           "className": "section-brief listings-box",
-          "kicker": "WEDNESDAY • AT A GLANCE",
+          "kicker": "THURSDAY • AT A GLANCE",
           "headline": "DATES & DEVELOPMENTS",
           "listing": [
             [
               "TODAY",
-              "India vs New Zealand, first ODI at Eden Park"
+              "New BMTC fares take effect across Bengaluru"
             ],
             [
-              "NOV 5",
-              "INDIA bloc rally planned at Bengaluru’s Freedom Park"
+              "TODAY",
+              "India win the rain-hit first ODI in Auckland"
+            ],
+            [
+              "NOV 6–7",
+              "Delhi forecast could enter the severe AQI category"
             ],
             [
               "NOV 13",
               "Namma Metro Pink Line inauguration scheduled"
-            ],
-            [
-              "₹22,400.58 CR",
-              "Karnataka’s revised drought-relief request"
             ]
           ]
         },
@@ -241,9 +235,9 @@
           "headlineClass": "lower-headline",
           "source": "India Meteorological Department",
           "kicker": "BENGALURU • WEATHER",
-          "headline": "IMD FORECASTS SHOWERS AND THUNDERSTORMS TODAY",
+          "headline": "IMD EXPECTS CLOUD AND LIGHT RAIN IN BENGALURU",
           "paragraphs": [
-            "The IMD forecast partly cloudy skies with one or two spells of rain or thundershowers in Bengaluru on November 4, with a minimum of 20°C and maximum of 30°C. Thunderstorms accompanied by lightning are also forecast."
+            "The IMD forecast generally cloudy skies and light rain in Bengaluru for Thursday, with a thunderstorm and lightning warning in the city forecast. The published city outlook gives temperatures around 21–29°C."
           ],
           "moreUrl": "https://city.imd.gov.in/citywx/citywxnew_warnings.php?id=43295"
         }
