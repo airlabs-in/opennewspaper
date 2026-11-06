@@ -5,12 +5,12 @@
     "tagline": "Open sources. Fresh news. One paper. A newspaper assembled from the open web",
     "established": "2026",
     "weatherLabel": "BENGALURU WEATHER",
-    "weatherSummary": "Generally cloudy with light rain and a thunderstorm warning. Bengaluru: 29°C / 21°C.",
+    "weatherSummary": "Generally cloudy with light rain and a thunderstorm warning. Bengaluru: 30°C / 20°C.",
     "motto": "FROM OPEN SOURCES DESK",
     "editionLabel": "DAILY READ",
     "editionSummary": "Complete Morning Ledger",
     "edition": "BENGALURU • INDIA EDITION",
-    "dateline": "BENGALURU, THURSDAY, NOVEMBER 5, 2026",
+    "dateline": "BENGALURU, FRIDAY, NOVEMBER 6, 2026",
     "greeting": "GOOD MORNING :)",
     "footer": "Open Newspaper • Bengaluru and India Edition • Independent coverage from open sources."
   },
@@ -42,191 +42,206 @@
   ],
   "cityWatch": {
     "label": "CITY WATCH",
-    "text": "BMTC’s minimum ordinary-bus fare has risen from ₹6 to ₹10, a 67% increase for the shortest rides, effective today.",
-    "attribution": "— The Indian Express"
+    "text": "Airport-bound traffic on Bellary Road faces 18 months of disruption from today; buses and goods vehicles are barred from the affected stretch.",
+    "attribution": "— Hindustan Times"
   },
   "lead": {
-    "source": "The Indian Express",
-    "kicker": "BENGALURU • PUBLIC TRANSPORT",
-    "headline": "BMTC MINIMUM FARE JUMPS 67% AS KARNATAKA BUS HIKE KICKS IN",
-    "deck": "The city’s ordinary-bus minimum rises from ₹6 to ₹10; BMTC fares increase 33–35% on average",
+    "source": "Hindustan Times",
+    "kicker": "BENGALURU • AIRPORT CONNECTIVITY",
+    "headline": "18-MONTH AIRPORT ROAD DISRUPTION BEGINS TODAY",
+    "deck": "Elevated-corridor work closes a key Ballari Road stretch to buses and goods vehicles; motorists must use diversions",
     "paragraphs": [
-      "Higher bus fares take effect across Karnataka from Thursday, with Bengaluru commuters facing the steepest average increase. The minimum fare on an ordinary BMTC service, for a ride up to two kilometres, rises from ₹6 to ₹10; the maximum rises from ₹35 to ₹45.",
-      "The transport department estimates an average increase of 33–35% for BMTC and 23% for the other state-run corporations. The government says the revision is intended to shore up the transport undertakings amid rising operating costs and losses.",
-      "For frequent riders, the change adds to household travel costs from today. Officials said revised fares apply across BMTC, KSRTC, NWKRTC and KKRTC services."
+      "Traffic restrictions begin Friday on Bengaluru’s Kempegowda International Airport Road as the Bangalore Development Authority starts a four-lane elevated corridor project along Ballari Road. The work is expected to disrupt traffic for 18 months.",
+      "KSRTC and private buses, along with all goods vehicles, are prohibited on the affected stretch between UAS Staff Quarters and Mekhri Circle. Traffic police have announced alternative routes for airport-bound and city-bound vehicles.",
+      "Travellers from Hebbal heading to the airport can divert via Old High Grounds, Cantonment railway station, Tannery Road and Nagawara Road. The change is likely to affect airport journeys and commuter traffic across north Bengaluru."
     ],
-    "moreUrl": "https://indianexpress.com/article/cities/bangalore/karnataka-bus-fare-hike-bmtc-ksrtc-new-ticket-prices-10950830/"
+    "image": {
+      "src": "https://www.hindustantimes.com/ht-img/img/2026/11/05/550x309/04fe872a-3b4a-11ec-bdc7-7df62e90503b_1635795089387_1793888410426_Hniq_1a999246-8827-47cf-9544-f303c55cae70_P4BU.jpg",
+      "alt": "Representational image accompanying the Bengaluru airport-road traffic advisory",
+      "caption": "Representational image. Traffic restrictions on the airport road begin November 6."
+    },
+    "moreUrl": "https://www.hindustantimes.com/india-news/bengaluru-airport-bound-road-to-see-disruptions-for-1-5-years-starting-tomorrow-as-elevated-corridor-work-begins-101793888314809-amp.html"
   },
   "sidebarStory": {
     "className": "sidebar-item",
     "headlineClass": "side-headline",
     "tag": "div",
-    "source": "ThePrint / PTI",
-    "kicker": "INDIA • DEFENCE & RECRUITMENT",
-    "headline": "AGNIVEERS OFFERED TWO-YEAR SERVICE EXTENSION",
-    "subhead": "The new option takes the engagement to six years for those not selected for regular service",
+    "source": "The Indian Express",
+    "kicker": "BENGALURU • CRIME & ENTERTAINMENT",
+    "headline": "BENGALURU TECHIE HELD OVER THREATS TO BOLLYWOOD ACTORS",
+    "subhead": "Police say the accused allegedly invoked a gang’s name to threaten Ayushmann Khurrana and Tusshar Kapoor",
     "paragraphs": [
-      "The Union Cabinet has approved an additional two-year engagement for Agniveers who are not absorbed into the regular armed forces after four years. The change gives the remaining 75% of each cohort a chance to continue for a second tour, while the existing 25% selection for regular service remains. The first batch was due to complete its initial tenure in December 2026."
+      "Mumbai Police arrested a 30-year-old Bengaluru IT engineer over alleged threat messages to actors Ayushmann Khurrana and Tusshar Kapoor. Police said the accused appeared to have impersonated a Lawrence Bishnoi gang associate but was not linked to the gang; officers suspect he may have used AI-generated voice samples."
     ],
-    "moreUrl": "https://theprint.in/india/big-overhaul-in-agnipath-scheme-govt-grants-2-year-extension-to-agniveers-opens-pathway-to-permanent-recruitment/3090577/"
+    "image": {
+      "src": "https://images.indianexpress.com/2024/03/AYUSHMAN-1600.jpg?w=1024",
+      "alt": "Actor Ayushmann Khurrana, who received an alleged threat call",
+      "caption": "Ayushmann Khurrana had recently received an alleged threat call. Photo: Instagram"
+    },
+    "moreUrl": "https://indianexpress.com/article/cities/mumbai/bengaluru-techie-arrested-actors-ayushmann-khurrana-tusshar-kapoor-threat-calls-10950385/"
   },
   "groups": [
     {
-      "separator": "— BENGALURU • CITY, CIVIC LIFE & COURTS —",
+      "separator": "— BENGALURU • CRIME, TRANSPORT & HOUSEHOLDS —",
       "className": "lower-page-grid",
-      "ariaLabel": "Bengaluru city, civic, and court news",
+      "ariaLabel": "Bengaluru crime, transport, and household news",
       "stories": [
         {
           "className": "lower-column",
           "headlineClass": "lower-headline",
-          "source": "BLR Today",
-          "kicker": "BENGALURU • CIVIC SERVICES",
-          "headline": "CITY TO CENTRALISE BULK-WASTE COLLECTION",
+          "source": "The Indian Express",
+          "kicker": "BENGALURU • CRIME",
+          "headline": "FACTORY OWNER HELD AFTER WORKER IS BEATEN TO DEATH",
           "paragraphs": [
-            "Bengaluru Solid Waste Management plans to take over bulk-waste collection and route it to empanelled processors, according to a report published Thursday. The change would place collection and processing under a citywide system."
+            "Police arrested a manufacturing-unit owner after a 24-year-old worker from Kerala was allegedly assaulted with a cricket bat and an iron pipe at a Yelahanka home. The killing followed a confrontation, police said; the worker’s family has alleged the attack was premeditated."
           ],
-          "moreUrl": "https://inblr.today/"
+          "moreUrl": "https://indianexpress.com/article/cities/bangalore/bengaluru-factory-worker-murder-kerala-man-kiran-killed-10951740/"
         },
         {
           "className": "lower-column center-border",
           "headlineClass": "lower-headline",
-          "source": "LiveLaw",
-          "kicker": "KARNATAKA • HIGH COURT",
-          "headline": "HIGH COURT QUASHES FIR OVER SLOGAN AT BJP PROTEST",
+          "source": "Deccan Chronicle",
+          "kicker": "KARNATAKA • FARMERS",
+          "headline": "BELAGAVI SUGARCANE FARMERS END WEEK-LONG PROTEST",
           "paragraphs": [
-            "The Karnataka High Court quashed a case against BJP protesters accused of raising a pro-Pakistan slogan. The court said the allegation appeared improbable and accepted the explanation that the words were a slip of the tongue."
+            "Sugarcane growers in Belagavi have called off their week-long agitation after mills agreed to pay ₹3,600 per tonne for the 2026–27 crushing season. The district arrangement also includes a share of additional proceeds if sugar sales generate higher earnings; farmers had sought a higher base price and state support."
           ],
-          "moreUrl": "https://www.livelaw.in/high-court/karnataka-high-court/karnataka-high-court-bjp-protest-pakistan-zindabad-slogan-case-quashed-557320"
+          "moreUrl": "https://www.deccanchronicle.com/southern-states/karnataka/belagavi-introduces-first-of-its-kind-sugar-sale-profit-sharing-formula-2002064"
         },
         {
           "className": "lower-column",
           "headlineClass": "lower-headline",
-          "source": "The Week / PTI",
-          "kicker": "KARNATAKA • EDUCATION",
-          "headline": "CM URGES PRIVATE SCHOOLS TO PARTNER WITH RURAL GOVERNMENT SCHOOLS",
+          "source": "News Karnataka",
+          "kicker": "KARNATAKA • COST OF LIVING",
+          "headline": "NANDINI GHEE, BUTTER AND PANEER PRICES RISE",
           "paragraphs": [
-            "Karnataka has signed 15 memoranda with private schools to support 56 government schools, with an initial target of 1,000 partnerships and an eventual goal of 2,000. The programme is intended to improve facilities and learning in rural schools."
+            "Revised prices for Nandini ghee, butter and paneer took effect across Karnataka on November 4, following recent milk and curd increases. A one-litre ghee sachet rose from ₹715 to ₹850 and a one-kilogram paneer pack from ₹408 to ₹485, adding pressure on household and food-business budgets."
           ],
-          "moreUrl": "https://www.theweek.in/wire-updates/national/2026/11/04/shivakumar-appeals-to-pvt-schools-in-k-taka-to-adopt-govt-schools-in-rural-areas.amp.html"
+          "moreUrl": "https://newskarnataka.com/bengaluru/nandini-hikes-ghee-butter-and-paneer-prices-across-karnataka/05112026/"
         }
       ]
     },
     {
-      "separator": "— INDIA • COURTS, ECONOMY & DIPLOMACY —",
+      "separator": "— INDIA • PUBLIC SAFETY, COURTS & RURAL POLICY —",
       "className": "news-section foreign-section",
-      "ariaLabel": "India courts, economy, and diplomacy news",
+      "ariaLabel": "India public safety, courts, and rural policy news",
       "stories": [
         {
           "className": "section-lead",
           "headlineClass": "section-headline",
-          "source": "Business Standard",
-          "kicker": "INDIA • SUPREME COURT",
-          "headline": "STATES CAN LEVY ADDITIONAL SALES TAX UNDER PRE-GST LAWS: SC",
+          "source": "The Indian Express",
+          "kicker": "NEW DELHI • BUILDING SAFETY",
+          "headline": "TWO DEAD AS UNDER-CONSTRUCTION BUILDING COLLAPSES IN OLD DELHI",
           "paragraphs": [
-            "A seven-judge Constitution Bench upheld states’ authority under pre-GST laws to impose an additional sales tax or surcharge. The ruling concerns the earlier tax regime; the reference has limited practical reach after GST came into force in 2017."
+            "A three-storey building under construction collapsed in the crowded Chawri Bazaar area on Thursday. Two people were confirmed dead and several others were feared trapped; rescue teams worked in narrow lanes where heavy machinery could not reach. Delhi authorities ordered two engineers suspended and an FIR against the contractor."
           ],
-          "moreUrl": "https://www.business-standard.com/india-news/sc-upholds-states-power-to-levy-additional-sales-tax-under-pre-gst-laws-126110401924_1.html"
+          "moreUrl": "https://indianexpress.com/article/cities/delhi/delhi-chawri-bazaar-building-collapse-live-updates-several-feared-trapped-as-three-storey-under-construction-building-10951594/lite/",
+          "image": {
+            "src": "https://images.indianexpress.com/2026/11/Delhi-Chawri-Bazaar-Building-Collapse.jpg.jpeg?w=640",
+            "alt": "Rescue teams work at the collapsed building site in Delhi’s Chawri Bazaar",
+            "caption": "NDRF teams search the Chawri Bazaar collapse site. Source: ANI/PTI via The Indian Express"
+          }
         },
         {
           "className": "section-brief",
           "headlineClass": "lower-headline",
-          "source": "Reuters / Investing.com",
-          "kicker": "INDIA • US SANCTIONS",
-          "headline": "US SANCTIONS INDIA-BASED FIRMS OVER ALLEGED IRAN OIL LINKS",
+          "source": "LiveLaw",
+          "kicker": "INDIA • SUPREME COURT",
+          "headline": "UMAR KHALID AND SHARJEEL IMAM MOVE SUPREME COURT FOR BAIL",
           "paragraphs": [
-            "The United States announced sanctions on entities and individuals based in India and Turkey, alleging they supported an Iranian oil network. The allegations are Washington’s; the affected parties’ responses should be checked in subsequent reporting."
+            "The two activists have separately challenged the Delhi High Court’s rejection of their fresh bail pleas in the 2020 Delhi riots conspiracy case. Their petitions cite the length of pre-trial detention and the prosecution’s progress; the Supreme Court has yet to decide the appeals."
           ],
-          "moreUrl": "https://www.investing.com/news/commodities-news/us-slaps-sanctions-on-indian-turkish-firms-and-people-for-aiding-iran-5000921"
+          "moreUrl": "https://www.livelaw.in/top-stories/sharjeel-imam-moves-supreme-court-seeking-bail-in-delhi-riots-uapa-case-says-prosecution-yet-to-examine-even-one-witness-557492"
         },
         {
           "className": "section-brief",
           "headlineClass": "lower-headline",
           "source": "The Economic Times",
-          "kicker": "INDIA • SERVICES ECONOMY",
-          "headline": "OCTOBER SERVICES GROWTH HITS FOUR-MONTH HIGH",
+          "kicker": "INDIA • RURAL LIVELIHOODS",
+          "headline": "CENTRE IDENTIFIES 22 WORKS TO SUPPORT FODDER AND LIVESTOCK",
           "paragraphs": [
-            "New orders and resilient demand lifted India’s services activity in October to its strongest pace in four months, according to the latest purchasing managers’ survey. The expansion points to continued momentum in a large, employment-intensive part of the economy."
+            "The Centre has asked states and Union Territories to strengthen fodder security, pasture development and livestock infrastructure under the VB-G RAM G Act. The rural development ministry identified 22 permissible works, including measures to support livestock-based rural livelihoods."
           ],
-          "moreUrl": "https://economictimes.indiatimes.com/news/articlelist/1715249553.cms"
+          "moreUrl": "https://m.economictimes.com/news/india/centre-identifies-22-works-to-boost-fodder-security-livestock-infrastructure-under-vb-g-ram-g-act/articleshow/135584686.cms"
         }
       ]
     },
     {
-      "separator": "— KARNATAKA • SCHOOLS, FAMILIES & SPORT —",
+      "separator": "— KARNATAKA • ELECTIONS, ENVIRONMENT & GOVERNANCE —",
       "className": "news-section city-section",
-      "ariaLabel": "Karnataka schools, families, and sport news",
+      "ariaLabel": "Karnataka elections, environment, and governance news",
       "stories": [
         {
           "className": "section-lead city-lead",
           "headlineClass": "section-headline",
-          "source": "ThePrint / PTI",
-          "kicker": "KARNATAKA • EARLY EDUCATION",
-          "headline": "PRESCHOOL BODY WARNS 25,000 CENTRES COULD FACE CLOSURE",
+          "source": "The Economic Times",
+          "kicker": "KARNATAKA • VOTER ROLLS",
+          "headline": "STATE TO PROBE ALLEGED MISUSE OF FORM 7 VOTER APPLICATIONS",
           "paragraphs": [
-            "A Karnataka preschool association has sought a review of operating norms, warning that about 25,000 standalone centres and the livelihoods of 4.5 lakh women could be affected. The figures are the association’s estimates; it is urging the state to reconsider the rules."
+            "Deputy Chief Minister D K Shivakumar said Karnataka would launch a police investigation into alleged misuse of Form 7 applications, which can seek deletion of names from electoral rolls. He accused the BJP of trying to manipulate voter lists; the allegation has not been adjudicated."
           ],
-          "moreUrl": "https://theprint.in/india/karnataka-preschool-body-seeks-review-of-norms-warns-of-25000-centres-facing-closure/3090301/"
+          "moreUrl": "https://m.economictimes.com/news/politics-and-nation/karnataka-to-probe-electoral-fraud-form-7-misuse-shivakumar/articleshow/135585388.cms"
         },
         {
           "className": "section-brief",
           "headlineClass": "lower-headline",
-          "source": "Asianet Newsable",
-          "kicker": "KARNATAKA • WELFARE",
-          "headline": "BESCOM VERIFICATION FLAGS 1.42 LAKH GRUHA JYOTHI ACCOUNTS",
+          "source": "Zaobao India",
+          "kicker": "BENGALURU • ENVIRONMENT",
+          "headline": "PIL CHALLENGES MLA’S APPOINTMENT AS POLLUTION CONTROL BOARD CHAIR",
           "paragraphs": [
-            "A verification exercise has flagged 1.42 lakh of the scheme’s 74 lakh consumers as not yet verified, raising the possibility that some could lose the free-electricity benefit. The government has not announced a final decision; affected users should await official guidance."
+            "The Karnataka High Court issued notices to the state government and Anekal MLA B Shivanna on a public-interest petition challenging his appointment as chairperson of the Karnataka State Pollution Control Board. The petition raises questions about eligibility for the role."
           ],
-          "moreUrl": "https://newsable.asianetnews.com/karnataka-news/gruha-jyothi-scheme-why-1-42-lakh-karnataka-consumers-may-lose-free-electricity-articleshow-tim8izl"
+          "moreUrl": "https://zaobaoindia.com/india/karnataka/pil-challenges-bengaluru-mla-s-appointment-to-kspcb-karnataka-high-court-orders-notices/"
         },
         {
           "className": "section-brief society-note",
           "headlineClass": "lower-headline",
-          "source": "ThePrint / PTI",
-          "kicker": "RANJI TROPHY • KARNATAKA",
-          "headline": "KARNATAKA THUMP ASSAM BY AN INNINGS AND 314 RUNS",
+          "source": "The Economic Times",
+          "kicker": "WEST BENGAL • LEGISLATURE",
+          "headline": "SC SENDS TMC PLEA ON 10 REBEL MLAS TO CALCUTTA HIGH COURT",
           "paragraphs": [
-            "Karnataka completed a dominant Ranji Trophy win over Assam by an innings and 314 runs. Manvanth Kumar remained unbeaten on 100 while K V Aneesh made 145 in Karnataka’s commanding performance."
+            "The Supreme Court disposed of a TMC legislator’s plea seeking faster disqualification proceedings against 10 rebel MLAs, allowing him to approach the Calcutta High Court. The petition alleged delay by the state Assembly Speaker in deciding the cases."
           ],
-          "moreUrl": "https://theprint.in/sport/manvanth-shreyas-sparkle-as-karnataka-thump-assam-by-innings-and-314-runs/3090222/"
+          "moreUrl": "https://economictimes.indiatimes.com/news/politics-and-nation/supreme-court-asks-calcutta-high-court-to-fast-track-plea-against-10-rebel-tmc-mlas/articleshow/135583133.cms"
         }
       ]
     },
     {
-      "separator": "— INDIA • CRICKET, AIR & WEATHER —",
+      "separator": "— INDIA • SPORT & BENGALURU WEATHER —",
       "className": "news-section sports-section",
-      "ariaLabel": "India cricket, air quality, and Bengaluru weather",
+      "ariaLabel": "India sport and Bengaluru weather news",
       "stories": [
         {
           "className": "section-lead sports-lead",
           "headlineClass": "section-headline",
           "source": "The Indian Express",
-          "kicker": "DELHI • AIR QUALITY",
-          "headline": "DELHI AQI 377; FORECAST WARNS OF SEVERE AIR ON FRIDAY",
+          "kicker": "INDIA • HOCKEY",
+          "headline": "INDIA BEAT JAPAN 4–1 TO WIN RECORD SIXTH ASIAN CHAMPIONS TROPHY",
           "paragraphs": [
-            "Delhi’s average air quality reached 377 on Wednesday, its worst reading in nearly ten months, while 22 monitoring stations recorded severe levels. Forecasters expect very poor air on Thursday and a possible move into the severe category on November 6–7; authorities have stepped up action against crop-residue burning."
+            "India came from a goal down to defeat Japan 4–1 in the final at Mohali, securing a record-extending sixth men’s Asian Champions Trophy. The win completed a third consecutive title for the defending champions."
           ],
-          "moreUrl": "https://indianexpress.com/article/cities/delhi/delhi-aqi-at-377-caqm-cracks-down-on-stubble-burning-in-punjab-10951215/"
+          "moreUrl": "https://indianexpress.com/article/sports/hockey/india-beat-japan-asian-champions-trophy-final-comeback-6th-title-10952568/"
         },
         {
           "className": "section-brief listings-box",
-          "kicker": "THURSDAY • AT A GLANCE",
+          "kicker": "FRIDAY • AT A GLANCE",
           "headline": "DATES & DEVELOPMENTS",
           "listing": [
             [
               "TODAY",
-              "New BMTC fares take effect across Bengaluru"
+              "Bellary Road airport corridor diversions begin"
             ],
             [
               "TODAY",
-              "India win the rain-hit first ODI in Auckland"
+              "India’s revised Nandini product prices apply"
             ],
             [
-              "NOV 6–7",
-              "Delhi forecast could enter the severe AQI category"
+              "NOV 7",
+              "India vs New Zealand second ODI in Wellington"
             ],
             [
-              "NOV 13",
-              "Namma Metro Pink Line inauguration scheduled"
+              "NOV 30",
+              "Winter session of Karnataka legislature scheduled"
             ]
           ]
         },
@@ -235,9 +250,9 @@
           "headlineClass": "lower-headline",
           "source": "India Meteorological Department",
           "kicker": "BENGALURU • WEATHER",
-          "headline": "IMD EXPECTS CLOUD AND LIGHT RAIN IN BENGALURU",
+          "headline": "IMD FORECASTS CLOUD AND LIGHT RAIN TODAY",
           "paragraphs": [
-            "The IMD forecast generally cloudy skies and light rain in Bengaluru for Thursday, with a thunderstorm and lightning warning in the city forecast. The published city outlook gives temperatures around 21–29°C."
+            "The IMD expects generally cloudy skies and light rain in Bengaluru on Friday, with a thunderstorm accompanied by lightning in the warning. The city forecast gives a minimum of 20°C and a maximum of 30°C."
           ],
           "moreUrl": "https://city.imd.gov.in/citywx/citywxnew_warnings.php?id=43295"
         }
