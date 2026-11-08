@@ -5,12 +5,12 @@
     "tagline": "Open sources. Fresh news. One paper. A newspaper assembled from the open web",
     "established": "2026",
     "weatherLabel": "BENGALURU WEATHER",
-    "weatherSummary": "Generally cloudy with light rain. Bengaluru: 29°C / 21°C; no warning today.",
+    "weatherSummary": "Partly cloudy. Bengaluru: 29°C / 20°C; no warning today.",
     "motto": "FROM OPEN SOURCES DESK",
     "editionLabel": "DAILY READ",
     "editionSummary": "Complete Morning Ledger",
     "edition": "BENGALURU • INDIA EDITION",
-    "dateline": "BENGALURU, SATURDAY, NOVEMBER 7, 2026",
+    "dateline": "BENGALURU, SUNDAY, NOVEMBER 8, 2026",
     "greeting": "GOOD MORNING :)",
     "footer": "Open Newspaper • Bengaluru and India Edition • Independent coverage from open sources."
   },
@@ -42,193 +42,188 @@
   ],
   "cityWatch": {
     "label": "CITY WATCH",
-    "text": "BMTC fares have risen by up to 35%; short ordinary-bus trips cost ₹4–₹6 more under the new tariff.",
-    "attribution": "— The Indian Express"
+    "text": "Bengaluru South civic teams have been told to clear exposed cables, repair damaged footpath slabs and remove waste in J.P. Nagar.",
+    "attribution": "— The Bengaluru Live"
   },
   "lead": {
-    "source": "India Today",
-    "kicker": "BENGALURU • POLICE INVESTIGATION",
-    "headline": "CAB DRIVER HELD AFTER ALLEGED KILLING OF SEVEN RELATIVES",
-    "deck": "Police say the accused claimed responsibility; one body has been recovered as the search for six others continues",
+    "source": "NDTV",
+    "kicker": "BENGALURU • FLIGHT SECURITY",
+    "headline": "HIJACK THREAT NOTE FORCES BENGALURU–LUCKNOW FLIGHT TO TURN BACK",
+    "deck": "A handwritten note found in the aircraft lavatory prompted a precautionary return to Kempegowda International Airport; all 178 passengers were deboarded for checks",
     "paragraphs": [
-      "Bengaluru police have arrested a cab driver accused of killing seven members of his wife’s family, including a child. The investigation began after a missing-person complaint led officers to suspect multiple killings.",
-      "Police say the accused has claimed responsibility, but investigators are still verifying his account. A seven-year-old boy’s body has been recovered near Nandi Hills; searches continue for the other six victims.",
-      "Authorities are examining evidence and whether anyone else was involved. The case has drawn widespread attention across the city as the search and investigation continue."
+      "An IndiGo flight from Bengaluru to Lucknow returned to Kempegowda International Airport after a passenger found a handwritten threat note in the aircraft lavatory late Saturday.",
+      "The aircraft landed back at Bengaluru as a precaution. The 178 passengers were deboarded while security teams carried out checks; the airport activated its standard emergency response.",
+      "The airline said it followed security procedures. Authorities were examining the aircraft and the note; no confirmed suspect or finding had been announced in the report."
     ],
     "image": {
-      "src": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/cab-driver-indushekhar--accused-of-murdering-his-wife-and-six-members-of-her-family--including-a-sev-064446447-16x9_0.jpg?VersionId=QU97UFQqIAyJPM5oywgJJl5n8sOjzVP_&size=690%3A388",
-      "alt": "Cab driver accused in the Bengaluru family killings",
-      "caption": "The accused cab driver. Photo: India Today"
+      "src": "https://c.ndtvimg.com/2026-11/mrbelgsk_after-note-was-found-pilots-chose-to-return-to-the-airport-in-bengaluru-as-a-precaution_625x300_07_November_26.png?im=FitAndFill%2Calgorithm%3Ddnn%2Cwidth%3D773%2Cheight%3D435",
+      "alt": "IndiGo aircraft returned to Bengaluru after a threat note was found onboard",
+      "caption": "The flight returned to Bengaluru as a precaution. Photo: NDTV"
     },
-    "moreUrl": "https://www.indiatoday.in/amp/cities/bengaluru/story/bengaluru-mass-murder-cab-driver-accused-killing-family-members-dumped-seven-bodies-across-city-3033427-2026-11-06"
+    "moreUrl": "https://www.ndtv.com/india-news/hijack-threat-note-in-toilet-bengaluru-lucknow-flight-makes-u-turn-ignore-and-see-consequences-12298199?pfrom=top_widget_trending"
   },
   "sidebarStory": {
     "className": "sidebar-item",
     "headlineClass": "side-headline",
     "tag": "div",
-    "source": "The Indian Express",
-    "kicker": "KARNATAKA • PUBLIC TRANSPORT",
-    "headline": "BMTC FARES RISE BY UP TO 35% IN BENGALURU",
-    "subhead": "The revised fares add as much as ₹12 to ordinary-bus trips, with the state citing rising operating costs",
+    "source": "The Times of India",
+    "kicker": "BENGALURU • EYE SAFETY",
+    "headline": "MINTO HOSPITAL TREATS FIRST CRACKER INJURY OF THE SEASON",
+    "subhead": "A six-year-old boy suffered a chemical injury to his right eye while watching a bijli firecracker, doctors said",
     "paragraphs": [
-      "Karnataka has raised fares across its four state-run transport corporations. The average increase is about 33%–35% for BMTC and 23% for the other corporations; ordinary trips in Bengaluru cost ₹4 to ₹6 more for short journeys. The revised fares took effect at midnight on November 5."
+      "Minto Eye Hospital reported its first cracker-related injury of the season after a six-year-old boy sustained a grade-two chemical injury to his right eye on Friday. He is receiving treatment."
     ],
-    "moreUrl": "https://indianexpress.com/article/cities/bangalore/karnataka-bus-fare-hike-bmtc-ksrtc-new-ticket-prices-10950830/"
+    "moreUrl": "https://timesofindia.indiatimes.com/city/bengaluru/bengaluru-eye-hospital-reports-first-cracker-injury-before-deepavali/amp_articleshow/135645010.cms"
   },
   "groups": [
     {
-      "separator": "— BENGALURU • FUEL, FOOD SAFETY & HOUSEHOLDS —",
+      "separator": "— BENGALURU • ENFORCEMENT, SUPPORT & JOBS —",
       "className": "lower-page-grid",
-      "ariaLabel": "Bengaluru fuel, food safety, and household news",
+      "ariaLabel": "Bengaluru enforcement, public support, and jobs news",
       "stories": [
         {
           "className": "lower-column",
           "headlineClass": "lower-headline",
-          "source": "NDTV",
-          "kicker": "BENGALURU • FOOD SAFETY",
-          "headline": "PVR INOX BEVERAGE COUNTER SEALED AFTER VIRAL CUP COMPLAINT",
+          "source": "Moneycontrol",
+          "kicker": "BENGALURU • CRYPTO & ENFORCEMENT",
+          "headline": "ED SEARCHES COINDCX AND DELTA EXCHANGE OFFICES",
           "paragraphs": [
-            "Food-safety officials sealed a soft-drink counter at Forum Mall in Konanakunte after a customer alleged that disposable cups were being reused. The complaint circulated in a video; the company said it was looking into the matter."
+            "The Enforcement Directorate searched three Bengaluru premises linked to CoinDCX and Delta Exchange on November 4 and 5 over alleged unauthorized cross-border transactions involving crypto derivatives and tokenized foreign stocks. The companies said they cooperated with officials; CoinDCX said customer funds and operations were safe."
           ],
-          "moreUrl": "https://www.ndtv.com/india-news/bengaluru-pvr-inox-beverage-counter-forum-mall-found-serving-drinks-in-used-cups-sealed-12291769"
+          "moreUrl": "https://www.moneycontrol.com/news/business/ed-searches-coindcx-delta-exchange-offices-in-bengaluru-over-alleged-fema-violations-14073770.html"
         },
         {
           "className": "lower-column center-border",
           "headlineClass": "lower-headline",
-          "source": "The Indian Express",
-          "kicker": "KARNATAKA • FUEL & CONSUMERS",
-          "headline": "STATE FLAGS PETROL SAMPLES WITH ETHANOL ABOVE E20 LIMIT",
+          "source": "The Bengaluru Live",
+          "kicker": "BENGALURU • SOCIAL WELFARE",
+          "headline": "OVER 52,000 SUSPENDED PENSIONS RESTORED IN BENGALURU URBAN",
           "paragraphs": [
-            "Karnataka said tests of fuel samples from several districts found ethanol levels above the 20% E20 benchmark, including one sample at 31.2%. The state sought action against oil companies and called for clear disclosure of blend levels to motorists."
+            "The district administration restored pension benefits for 52,632 beneficiaries after reviewing suspended applications, Deputy Commissioner said. The review covered about 6,700 cases in Anekal; officials cited technical issues and income-threshold checks among the reasons for suspension."
           ],
-          "moreUrl": "https://indianexpress.com/article/cities/bangalore/20-ethanol-allowed-31-2-found-karnataka-flags-petrol-sold-by-oil-majors-10953529/"
+          "moreUrl": "https://thebengalurulive.com/suspended-pensions-restored-for-52632-beneficiaries-in-bengaluru-urban-district-says-deputy-commissioner/"
         },
         {
           "className": "lower-column",
           "headlineClass": "lower-headline",
-          "source": "The Times of India",
-          "kicker": "BENGALURU • PERSONAL FINANCE",
-          "headline": "BENGALURU CONSULTANT CLOSES ₹43-LAKH EDUCATION LOAN",
+          "source": "Business Standard",
+          "kicker": "BENGALURU • AIRPORT & EMPLOYMENT",
+          "headline": "BIAL SAYS KANNADIGAS FORM MAJORITY OF ITS WORKFORCE",
           "paragraphs": [
-            "After eight years of repayments, Bengaluru consultant Arpitha Rao cleared an education loan that had grown from ₹26 lakh to about ₹43 lakh. She took her three-year-old son to the bank for the final closure, describing it as a lesson in financial responsibility."
+            "Bengaluru airport operator BIAL said Kannadigas make up a majority of its workforce and that airport expansion is creating local jobs. The statement followed a Karnataka Rakshana Vedike request for more employment for local residents; BIAL did not provide workforce figures in its response."
           ],
-          "moreUrl": "https://timesofindia.indiatimes.com/life-style/people/bengaluru-woman-clears-rs-43-lakh-education-loan-after-8-years-takes-3-year-old-son-to-bank-to-teach-him-financial-independence/articleshow/135572019.cms"
+          "moreUrl": "https://www.business-standard.com/industry/aviation/bial-responds-to-local-jobs-row-says-kannadigas-form-majority-of-workforce-126110701196_1.html"
         }
       ]
     },
     {
-      "separator": "— INDIA • ROAD SAFETY, INDUSTRY & RAILWAYS —",
+      "separator": "— INDIA • AIR QUALITY, RESERVATION & LADAKH —",
       "className": "news-section foreign-section",
-      "ariaLabel": "India road safety, industry, and railways news",
+      "ariaLabel": "India air quality, reservation, and Ladakh news",
       "stories": [
         {
           "className": "section-lead",
           "headlineClass": "section-headline",
           "source": "The Indian Express",
-          "kicker": "JHARKHAND • ROAD SAFETY",
-          "headline": "SEVEN, INCLUDING INFANT, KILLED AS TRUCK HITS VILLAGERS",
+          "kicker": "DELHI-NCR • AIR POLLUTION",
+          "headline": "GRAP III CURBS IMPOSED AS DELHI AIR TURNS SEVERE",
           "paragraphs": [
-            "Seven people, including an 11-month-old infant, were killed in Khunti district after a speeding truck struck villagers who had gathered to help a scooterist. A five-year-old child was seriously injured. Police said the truck driver fled and efforts to trace him were underway."
+            "Delhi recorded an air quality index of 382 on Friday, its worst pre-Diwali reading in eight years, according to the report. The Commission for Air Quality Management invoked Stage III measures across the National Capital Region, including restrictions on some construction and vehicle use."
           ],
-          "moreUrl": "https://indianexpress.com/article/india/jharkhand-khunti-accident-truck-scooterist-7-dead-women-infant-10953055/"
+          "moreUrl": "https://indianexpress.com/article/cities/delhi/delhis-sees-worst-pre-diwali-air-in-8-years-aqi-nears-severe-levels-10953810/"
         },
         {
           "className": "section-brief",
           "headlineClass": "lower-headline",
-          "source": "The News Mill (ANI inputs)",
-          "kicker": "ASSAM • INDUSTRIAL SAFETY",
-          "headline": "ONE DEAD, SIX INJURED IN FIRE AT OIL INDIA FACILITY",
+          "source": "LiveLaw",
+          "kicker": "INDIA • SUPREME COURT",
+          "headline": "SALARY ALONE CANNOT DETERMINE OBC CREAMY-LAYER STATUS: SC",
           "paragraphs": [
-            "A contractor employee died and six others were injured after a fire during maintenance work at Oil India’s Intermediate Tank Farm in Tengakhat, Dibrugarh district. The company said the fire was brought under control; the cause remains under investigation."
+            "The Supreme Court clarified that salary income alone cannot determine whether an OBC candidate falls within the creamy layer; parents’ service category is relevant under the applicable rules. The ruling will not reopen completed selections or promotions. The Court said it applies to the still-incomplete allocation process for the 2025 Civil Services Examination."
           ],
-          "moreUrl": "https://thenewsmill.com/2026/11/one-worker-dies-and-six-injured-in-fire-after-oil-india-explosion-in-dibrugarh/",
-          "image": {
-            "src": "https://thenewsmill.com/wp-content/uploads/2026/11/one-worker-dies-and-six-injured-in-fire-after-oil-india-explosion-in-dibrugarh.jpg.webp",
-            "alt": "Fire at Oil India’s Tengakhat tank farm in Dibrugarh district",
-            "caption": "The fire at Oil India’s tank farm. Photo: ANI"
-          }
+          "moreUrl": "https://www.livelaw.in/amp/top-stories/supreme-court-clarifies-judgment-on-obc-creamy-layer-computation-557608"
         },
         {
           "className": "section-brief",
           "headlineClass": "lower-headline",
           "source": "The Indian Express",
-          "kicker": "INDIA • RAILWAYS & SERVICES",
-          "headline": "RAILWAYS PLANS DOOR-TO-DOOR PARCEL SERVICE IN BENGALURU",
+          "kicker": "LADAKH • POLITICS",
+          "headline": "WANGCHUK ALLEGES ONLINE SMEAR CAMPAIGN BY LADAKH L-G OFFICE",
           "paragraphs": [
-            "Indian Railways plans to introduce app-based parcel pickup and doorstep delivery in eight cities, including Bengaluru. Logistics partners would handle first- and last-mile delivery; the launch date will follow system testing."
+            "Climate activist Sonam Wangchuk alleged that the Ladakh Lieutenant Governor’s office was behind an online campaign targeting him and his schools, and appealed to the President for intervention. The report said there was no immediate response from the L-G office; the allegation has not been independently established."
           ],
-          "moreUrl": "https://indianexpress.com/article/india/indian-railways-door-to-door-parcel-service-8-cities-10952889/"
+          "moreUrl": "https://indianexpress.com/article/india/sonam-wangchuk-smear-campaign-ladakh-lieutenant-governor-10955042/"
         }
       ]
     },
     {
-      "separator": "— KARNATAKA • COURTS, SECURITY & GOVERNANCE —",
+      "separator": "— KARNATAKA • RECRUITMENT, VOTERS & CITY SERVICES —",
       "className": "news-section city-section",
-      "ariaLabel": "Karnataka courts, security, and governance news",
+      "ariaLabel": "Karnataka recruitment, voter registration, and city services news",
       "stories": [
         {
           "className": "section-lead city-lead",
           "headlineClass": "section-headline",
           "source": "The Indian Express",
-          "kicker": "KARNATAKA • HIGH COURT",
-          "headline": "HIGH COURT QUASHES BJP DEFAMATION CASE AGAINST CONGRESS LEADERS",
+          "kicker": "KARNATAKA • STATE RECRUITMENT",
+          "headline": "KUMARASWAMY SEEKS POSTPONEMENT OF KPSC RECRUITMENT EXAMS",
           "paragraphs": [
-            "The Karnataka High Court quashed a criminal defamation case against Chief Minister D K Shivakumar, former chief minister Siddaramaiah and the Congress over 2023 campaign advertisements and posts. The complaint followed the party’s “corruption rate card” campaign targeting the previous BJP government."
+            "Union Minister H D Kumaraswamy called for postponing KPSC recruitment examinations, including the November 15 test for 319 KAS posts, citing alleged irregularities. Investigations are underway; the report described a demand to defer the tests, not a decision to postpone them."
           ],
-          "moreUrl": "https://indianexpress.com/article/cities/bangalore/karnataka-high-court-quashes-defamation-case-siddaramaiah-shivakumar-10953426/"
+          "moreUrl": "https://indianexpress.com/article/cities/bangalore/kpsc-recruitment-row-kumaraswamy-kas-exam-postponement-10954946/"
         },
         {
           "className": "section-brief",
           "headlineClass": "lower-headline",
-          "source": "The Indian Express",
-          "kicker": "SHIVAMOGGA • NATIONAL SECURITY",
-          "headline": "NIA TAKES OVER SHIVAMOGGA RADICALISATION CASE",
+          "source": "The Bengaluru Live",
+          "kicker": "KARNATAKA • VOTER ROLLS",
+          "headline": "CEO SENDS DUPLICATE VOTER-ID CASES FOR VERIFICATION",
           "paragraphs": [
-            "The National Investigation Agency has taken over a Shivamogga case involving alleged Islamic State radicalisation after Karnataka Police invoked the Unlawful Activities (Prevention) Act. The federal agency will lead the investigation."
+            "Karnataka’s Chief Electoral Officer said cases involving duplicate EPIC numbers after the voter-roll revision arose from application-processing situations, including multiple Form 6 submissions and pending transfers. The cases have been referred to election officers for verification and corrective action."
           ],
-          "moreUrl": "https://indianexpress.com/article/cities/bangalore/shivamogga-bhadravathi-is-radicalisation-case-nia-investigation-10953174/"
+          "moreUrl": "https://thebengalurulive.com/karnataka-election-office-says-duplicate-voter-ids-after-sir-arose-from-application-processing-cases-sent-for-verification/"
         },
         {
           "className": "section-brief society-note",
           "headlineClass": "lower-headline",
-          "source": "The New Indian Express",
-          "kicker": "BENGALURU • LAND & GOVERNANCE",
-          "headline": "STATE TO RECLAIM MOST TURF CLUB LAND, LEASE FOUR ACRES",
+          "source": "The Bengaluru Live",
+          "kicker": "BENGALURU • FOOTPATHS & SAFETY",
+          "headline": "BENGALURU SOUTH ORDERS CABLE CLEARANCE AND FOOTPATH REPAIRS",
           "paragraphs": [
-            "The Cabinet approved a 30-year lease of four acres to Bengaluru Turf Club and plans to take back the balance of the government property for development. The club has asked for more time to relocate, and the state has not made a final decision on its racing operations."
+            "During a Ward One inspection in J.P. Nagar, Bengaluru South officials directed agencies to remove unauthorized and exposed cables, repair damaged footpath slabs and clear roadside waste. The civic drive is intended to improve pedestrian safety and public spaces."
           ],
-          "moreUrl": "https://www.newindianexpress.com/cities/bengaluru/2026/Nov/06/karnataka-cabinet-nods-to-30-year-lease-of-four-acres-to-bengaluru-turf-club"
+          "moreUrl": "https://thebengalurulive.com/bengaluru-south-commissioner-orders-removal-of-cables-from-footpaths-in-jp-nagar-ward-one-inspection/"
         }
       ]
     },
     {
-      "separator": "— INDIA • CRICKET & BENGALURU WEATHER —",
+      "separator": "— INDIA • UNDER-19 CRICKET & BENGALURU WEATHER —",
       "className": "news-section sports-section",
-      "ariaLabel": "India cricket and Bengaluru weather news",
+      "ariaLabel": "India under-19 cricket and Bengaluru weather news",
       "stories": [
         {
           "className": "section-lead sports-lead",
           "headlineClass": "section-headline",
-          "source": "International Cricket Council",
-          "kicker": "INDIA • CRICKET",
-          "headline": "MOHAMMED SHAMI RETIRES FROM TEST CRICKET",
+          "source": "The Indian Express",
+          "kicker": "INDIA • UNDER-19 CRICKET",
+          "headline": "INDIA MEET PAKISTAN IN UNDER-19 ASIA CUP TODAY",
           "paragraphs": [
-            "India fast bowler Mohammed Shami has announced his retirement from Test cricket, ending a 64-match career with 229 wickets. He made his debut against the West Indies in 2013 and last played a Test in the 2023 World Test Championship final."
+            "India face Pakistan in the Under-19 Asia Cup group stage in Al Amerat on Sunday, with the match scheduled to begin at 10:30 a.m. IST. Both teams won their opening matches; a victory would put the winner in a strong position in the group."
           ],
-          "moreUrl": "https://www.icc-cricket.com/news/india-s-veteran-fast-bowler-brings-test-career-to-a-close"
+          "moreUrl": "https://indianexpress.com/article/sports/cricket/india-vs-pakistan-u19-asia-cup-live-cricket-streaming-ind-vs-pak-10955020/"
         },
         {
           "className": "section-brief listings-box",
-          "kicker": "SATURDAY • AT A GLANCE",
-          "headline": "WEEKEND NOTES",
+          "kicker": "SUNDAY • AT A GLANCE",
+          "headline": "TODAY IN BRIEF",
           "listing": [
             [
-              "TODAY",
-              "Bengaluru forecast: cloudy with light rain"
+              "10:30 AM",
+              "India vs Pakistan, U19 Asia Cup"
             ],
             [
-              "NOV 8",
-              "Diwali"
+              "WEATHER",
+              "Bengaluru: partly cloudy; no warning"
             ]
           ]
         },
@@ -237,9 +232,9 @@
           "headlineClass": "lower-headline",
           "source": "India Meteorological Department",
           "kicker": "BENGALURU • WEATHER",
-          "headline": "IMD EXPECTS CLOUD AND LIGHT RAIN; NO WARNING TODAY",
+          "headline": "PARTLY CLOUDY SKIES FORECAST; NO WARNING TODAY",
           "paragraphs": [
-            "The India Meteorological Department forecast generally cloudy skies and light rain in Bengaluru on Saturday, with a minimum of 21°C and a maximum of 29°C. No warning is in effect for the city today."
+            "The India Meteorological Department forecast partly cloudy skies in Bengaluru on Sunday, with a minimum temperature of 20°C and a maximum of 29°C. No weather warning is in effect for the city."
           ],
           "moreUrl": "https://city.imd.gov.in/citywx/citywxnew_warnings.php?id=43295"
         }
