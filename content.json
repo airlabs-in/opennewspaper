@@ -10,7 +10,7 @@
     "editionLabel": "DAILY READ",
     "editionSummary": "Complete Morning Ledger",
     "edition": "BENGALURU • INDIA EDITION",
-    "dateline": "BENGALURU, SUNDAY, NOVEMBER 8, 2026",
+    "dateline": "BENGALURU, MONDAY, NOVEMBER 9, 2026",
     "greeting": "GOOD MORNING :)",
     "footer": "Open Newspaper • Bengaluru and India Edition • Independent coverage from open sources."
   },
@@ -42,188 +42,193 @@
   ],
   "cityWatch": {
     "label": "CITY WATCH",
-    "text": "Bengaluru South civic teams have been told to clear exposed cables, repair damaged footpath slabs and remove waste in J.P. Nagar.",
-    "attribution": "— The Bengaluru Live"
+    "text": "Chief Minister D K Shivakumar is scheduled to review BDA projects today, with traffic relief, urban development and housing issues on the agenda.",
+    "attribution": "— ANI / Chief Minister’s Office"
   },
   "lead": {
-    "source": "NDTV",
-    "kicker": "BENGALURU • FLIGHT SECURITY",
-    "headline": "HIJACK THREAT NOTE FORCES BENGALURU–LUCKNOW FLIGHT TO TURN BACK",
-    "deck": "A handwritten note found in the aircraft lavatory prompted a precautionary return to Kempegowda International Airport; all 178 passengers were deboarded for checks",
+    "source": "India Today",
+    "kicker": "UTTAR PRADESH • FOOD SAFETY",
+    "headline": "OVER 150 FALL ILL AFTER EATING PANI PURI IN SIDDHARTHNAGAR",
+    "deck": "Children are among those being treated; doctors are waiting for test results to establish what caused the suspected outbreak",
     "paragraphs": [
-      "An IndiGo flight from Bengaluru to Lucknow returned to Kempegowda International Airport after a passenger found a handwritten threat note in the aircraft lavatory late Saturday.",
-      "The aircraft landed back at Bengaluru as a precaution. The 178 passengers were deboarded while security teams carried out checks; the airport activated its standard emergency response.",
-      "The airline said it followed security procedures. Authorities were examining the aircraft and the note; no confirmed suspect or finding had been announced in the report."
+      "More than 150 people, including children, reportedly fell ill after eating pani puri from a roadside vendor in Siddharthnagar district, Uttar Pradesh. Several children were admitted to hospital with vomiting and other symptoms.",
+      "An emergency duty doctor said around 30 to 32 children had been brought in for treatment. Doctors suspect contaminated water or spoiled food, but the cause has not been confirmed.",
+      "Patients are receiving care as authorities await test reports and investigate the source of the suspected foodborne outbreak."
     ],
     "image": {
-      "src": "https://c.ndtvimg.com/2026-11/mrbelgsk_after-note-was-found-pilots-chose-to-return-to-the-airport-in-bengaluru-as-a-precaution_625x300_07_November_26.png?im=FitAndFill%2Calgorithm%3Ddnn%2Cwidth%3D773%2Cheight%3D435",
-      "alt": "IndiGo aircraft returned to Bengaluru after a threat note was found onboard",
-      "caption": "The flight returned to Bengaluru as a precaution. Photo: NDTV"
+      "src": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/pani-purigolgappa-side-effects-203003653-16x9.jpg?VersionId=jovZuW.goGStLAwRoomwdwBgGYdc7f2g&size=690%3A388",
+      "alt": "Representative pani puri image accompanying the report on the Siddharthnagar illness outbreak",
+      "caption": "Representative image. Photo: Pixabay / India Today"
     },
-    "moreUrl": "https://www.ndtv.com/india-news/hijack-threat-note-in-toilet-bengaluru-lucknow-flight-makes-u-turn-ignore-and-see-consequences-12298199?pfrom=top_widget_trending"
+    "moreUrl": "https://www.indiatoday.in/cities/other-cities/story/siddharthnagar-food-poisoning-over-150-ill-roadside-pani-puri-3035014-2026-11-09"
   },
   "sidebarStory": {
     "className": "sidebar-item",
     "headlineClass": "side-headline",
     "tag": "div",
-    "source": "The Times of India",
-    "kicker": "BENGALURU • EYE SAFETY",
-    "headline": "MINTO HOSPITAL TREATS FIRST CRACKER INJURY OF THE SEASON",
-    "subhead": "A six-year-old boy suffered a chemical injury to his right eye while watching a bijli firecracker, doctors said",
+    "source": "The New Indian Express",
+    "kicker": "BENGALURU • ROAD SAFETY",
+    "headline": "FOUR KILLED IN THREE SEPARATE BENGALURU ROAD CRASHES",
+    "subhead": "The fatal crashes occurred between Friday evening and Saturday morning in Electronics City, HSR Layout and KR Puram",
     "paragraphs": [
-      "Minto Eye Hospital reported its first cracker-related injury of the season after a six-year-old boy sustained a grade-two chemical injury to his right eye on Friday. He is receiving treatment."
+      "Four people died in three separate road accidents in Bengaluru. Two people on a motorcycle were killed in a hit-and-run on the Bommasandra flyover; police are reviewing CCTV footage to identify the vehicle. Two other motorcyclists died in separate crashes."
     ],
-    "moreUrl": "https://timesofindia.indiatimes.com/city/bengaluru/bengaluru-eye-hospital-reports-first-cracker-injury-before-deepavali/amp_articleshow/135645010.cms"
+    "moreUrl": "https://www.newindianexpress.com/states/karnataka/2026/Nov/08/four-killed-in-separate-road-accidents-in-bengaluru-2"
   },
   "groups": [
     {
-      "separator": "— BENGALURU • ENFORCEMENT, SUPPORT & JOBS —",
+      "separator": "— BENGALURU • TRAFFIC, CONNECTIVITY & CITY LIFE —",
       "className": "lower-page-grid",
-      "ariaLabel": "Bengaluru enforcement, public support, and jobs news",
+      "ariaLabel": "Bengaluru traffic, connectivity, and city life news",
       "stories": [
         {
           "className": "lower-column",
           "headlineClass": "lower-headline",
-          "source": "Moneycontrol",
-          "kicker": "BENGALURU • CRYPTO & ENFORCEMENT",
-          "headline": "ED SEARCHES COINDCX AND DELTA EXCHANGE OFFICES",
+          "source": "The New Indian Express",
+          "kicker": "BENGALURU • HEBBAL TRAFFIC",
+          "headline": "HEBBAL FLYOVER TO STAY OPEN DURING 18-MONTH CORRIDOR WORK",
           "paragraphs": [
-            "The Enforcement Directorate searched three Bengaluru premises linked to CoinDCX and Delta Exchange on November 4 and 5 over alleged unauthorized cross-border transactions involving crypto derivatives and tokenized foreign stocks. The companies said they cooperated with officials; CoinDCX said customer funds and operations were safe."
+            "The BDA says Hebbal Flyover and Ballari Road will not be fully closed during construction of the elevated corridor toward Mehkri Circle. One lane in each direction may be occupied by barricades, while two lanes and the service road are expected to remain open; goods vehicles will face restrictions under traffic police advisories."
           ],
-          "moreUrl": "https://www.moneycontrol.com/news/business/ed-searches-coindcx-delta-exchange-offices-in-bengaluru-over-alleged-fema-violations-14073770.html"
+          "moreUrl": "https://www.newindianexpress.com/amp/story/cities/bengaluru/2026/Nov/08/bengalurus-hebbal-flyover-ballari-road-wont-be-fully-shut"
         },
         {
           "className": "lower-column center-border",
           "headlineClass": "lower-headline",
-          "source": "The Bengaluru Live",
-          "kicker": "BENGALURU • SOCIAL WELFARE",
-          "headline": "OVER 52,000 SUSPENDED PENSIONS RESTORED IN BENGALURU URBAN",
+          "source": "Vijaya Karnataka",
+          "kicker": "BENGALURU • INFRASTRUCTURE",
+          "headline": "KARNATAKA CLEARS EXTRA ₹1,118.5 CRORE FOR 134-KM OUTER ROAD",
           "paragraphs": [
-            "The district administration restored pension benefits for 52,632 beneficiaries after reviewing suspended applications, Deputy Commissioner said. The review covered about 6,700 cases in Anekal; officials cited technical issues and income-threshold checks among the reasons for suspension."
+            "The Karnataka Cabinet approved an additional ₹1,118.5 crore for the 134-km Bengaluru Peripheral Road, connecting Anekal, Sarjapur, Varthur and Nelamangala. The project also includes an elevated stretch at Varthur and railway crossing flyovers; the report gave no revised completion date."
           ],
-          "moreUrl": "https://thebengalurulive.com/suspended-pensions-restored-for-52632-beneficiaries-in-bengaluru-urban-district-says-deputy-commissioner/"
+          "moreUrl": "https://vijaykarnataka.com/news/bengaluru-city/cabinet-approves-additional-grant-of-rs-1118-50-crore-for-completion-of-bengaluru-ring-road/amp_articleshow/135579776.cms"
         },
         {
           "className": "lower-column",
           "headlineClass": "lower-headline",
-          "source": "Business Standard",
-          "kicker": "BENGALURU • AIRPORT & EMPLOYMENT",
-          "headline": "BIAL SAYS KANNADIGAS FORM MAJORITY OF ITS WORKFORCE",
+          "source": "The New Indian Express",
+          "kicker": "MALLESHWARAM • COMMUNITY",
+          "headline": "RESIDENTS REOPEN RESTORED AANE PARK AFTER TWO DECADES",
           "paragraphs": [
-            "Bengaluru airport operator BIAL said Kannadigas make up a majority of its workforce and that airport expansion is creating local jobs. The statement followed a Karnataka Rakshana Vedike request for more employment for local residents; BIAL did not provide workforce figures in its response."
+            "Residents and volunteers have restored Malleswaram’s long-neglected Aane Park, including its elephant slide and children’s play area. A mural celebrating the neighbourhood’s history is another feature of the community-led revival, carried out with the Horticulture Department."
           ],
-          "moreUrl": "https://www.business-standard.com/industry/aviation/bial-responds-to-local-jobs-row-says-kannadigas-form-majority-of-workforce-126110701196_1.html"
+          "moreUrl": "https://www.newindianexpress.com/cities/bengaluru/2026/Nov/08/bengalurus-malleswarams-aane-park-open-now",
+          "image": {
+            "src": "https://cf-images.assettype.com/newindianexpress%2F2026-11-07%2Fm3sy11vx%2FMalleswaram%E2%80%99s-%E2%80%98Aane.jpg?auto=format%2Ccompress&fit=max&w=480",
+            "alt": "The restored elephant-themed Aane Park in Malleswaram",
+            "caption": "The restored elephant park in Malleswaram. Photo: The New Indian Express"
+          }
         }
       ]
     },
     {
-      "separator": "— INDIA • AIR QUALITY, RESERVATION & LADAKH —",
+      "separator": "— INDIA • PUBLIC SAFETY, RAIL & HEALTH —",
       "className": "news-section foreign-section",
-      "ariaLabel": "India air quality, reservation, and Ladakh news",
+      "ariaLabel": "India public safety, rail, and health news",
       "stories": [
         {
           "className": "section-lead",
           "headlineClass": "section-headline",
           "source": "The Indian Express",
-          "kicker": "DELHI-NCR • AIR POLLUTION",
-          "headline": "GRAP III CURBS IMPOSED AS DELHI AIR TURNS SEVERE",
+          "kicker": "BIHAR • POLICE INVESTIGATION",
+          "headline": "MISSING CONSTABLE FOUND DEAD IN RIVER; FOUR ARRESTED",
           "paragraphs": [
-            "Delhi recorded an air quality index of 382 on Friday, its worst pre-Diwali reading in eight years, according to the report. The Commission for Air Quality Management invoked Stage III measures across the National Capital Region, including restrictions on some construction and vehicle use."
+            "Bihar Police constable Dhaneshwar Kumar’s body was recovered from the Dardha River two days after he went missing during a drug and arms investigation in Jehanabad. Police said questioning indicated he was assaulted and thrown into the river; four people have been arrested as the investigation continues."
           ],
-          "moreUrl": "https://indianexpress.com/article/cities/delhi/delhis-sees-worst-pre-diwali-air-in-8-years-aqi-nears-severe-levels-10953810/"
+          "moreUrl": "https://indianexpress.com/article/cities/patna/drug-bust-bihar-cop-body-found-in-river-10955095/"
         },
         {
           "className": "section-brief",
           "headlineClass": "lower-headline",
-          "source": "LiveLaw",
-          "kicker": "INDIA • SUPREME COURT",
-          "headline": "SALARY ALONE CANNOT DETERMINE OBC CREAMY-LAYER STATUS: SC",
+          "source": "Press Information Bureau",
+          "kicker": "INDIA • CANCER CARE",
+          "headline": "NEW PRICE CAPS ON 137 ANTI-CANCER DRUGS TAKE EFFECT TODAY",
           "paragraphs": [
-            "The Supreme Court clarified that salary income alone cannot determine whether an OBC candidate falls within the creamy layer; parents’ service category is relevant under the applicable rules. The ruling will not reopen completed selections or promotions. The Court said it applies to the still-incomplete allocation process for the 2025 Civil Services Examination."
+            "Revised prices for 137 non-scheduled anti-cancer medicines take effect on November 9 after the government capped trade margins. The Department of Pharmaceuticals estimates annual consumer savings of ₹3,502 crore; retailers, hospitals and drug controllers are to implement and monitor the revised prices."
           ],
-          "moreUrl": "https://www.livelaw.in/amp/top-stories/supreme-court-clarifies-judgment-on-obc-creamy-layer-computation-557608"
+          "moreUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2333536&lang=1&reg=3"
         },
         {
           "className": "section-brief",
           "headlineClass": "lower-headline",
           "source": "The Indian Express",
-          "kicker": "LADAKH • POLITICS",
-          "headline": "WANGCHUK ALLEGES ONLINE SMEAR CAMPAIGN BY LADAKH L-G OFFICE",
+          "kicker": "GUJARAT • RAILWAYS",
+          "headline": "STONE SHATTERS WINDOW ON SABARMATI–VERAVAL VANDE BHARAT",
           "paragraphs": [
-            "Climate activist Sonam Wangchuk alleged that the Ladakh Lieutenant Governor’s office was behind an online campaign targeting him and his schools, and appealed to the President for intervention. The report said there was no immediate response from the L-G office; the allegation has not been independently established."
+            "A stone-pelting incident in Amreli district shattered a window on the Sabarmati–Veraval Vande Bharat Express on Diwali morning. The report called it the third such incident involving a Vande Bharat train in Gujarat in four months."
           ],
-          "moreUrl": "https://indianexpress.com/article/india/sonam-wangchuk-smear-campaign-ladakh-lieutenant-governor-10955042/"
+          "moreUrl": "https://indianexpress.com/article/cities/ahmedabad/vande-bharat-train-attack-gujarat-diwali-stone-pelting-10955696/"
         }
       ]
     },
     {
-      "separator": "— KARNATAKA • RECRUITMENT, VOTERS & CITY SERVICES —",
+      "separator": "— BENGALURU • METRO & DEVELOPMENT —",
       "className": "news-section city-section",
-      "ariaLabel": "Karnataka recruitment, voter registration, and city services news",
+      "ariaLabel": "Bengaluru Metro and development news",
       "stories": [
         {
           "className": "section-lead city-lead",
           "headlineClass": "section-headline",
-          "source": "The Indian Express",
-          "kicker": "KARNATAKA • STATE RECRUITMENT",
-          "headline": "KUMARASWAMY SEEKS POSTPONEMENT OF KPSC RECRUITMENT EXAMS",
+          "source": "The Times of India",
+          "kicker": "BENGALURU • METRO FUNDING",
+          "headline": "BJP AND CONGRESS TRADE CLAIMS OVER CREDIT FOR NAMMA METRO",
           "paragraphs": [
-            "Union Minister H D Kumaraswamy called for postponing KPSC recruitment examinations, including the November 15 test for 319 KAS posts, citing alleged irregularities. Investigations are underway; the report described a demand to defer the tests, not a decision to postpone them."
+            "Ahead of the Pink Line’s planned opening, BJP MP Tejasvi Surya and Congress MLA Dinesh Gundu Rao disputed how much credit the Centre and Karnataka deserve for Bengaluru Metro. Surya cited the two governments’ committed contributions; Rao said Karnataka bears most of the project cost."
           ],
-          "moreUrl": "https://indianexpress.com/article/cities/bangalore/kpsc-recruitment-row-kumaraswamy-kas-exam-postponement-10954946/"
+          "moreUrl": "https://timesofindia.indiatimes.com/city/bengaluru/bjp-congress-functionaries-clash-over-who-gets-credit-for-bengaluru-metro/amp_articleshow/135664011.cms"
         },
         {
           "className": "section-brief",
           "headlineClass": "lower-headline",
-          "source": "The Bengaluru Live",
-          "kicker": "KARNATAKA • VOTER ROLLS",
-          "headline": "CEO SENDS DUPLICATE VOTER-ID CASES FOR VERIFICATION",
+          "source": "Asianet Newsable (ANI)",
+          "kicker": "BENGALURU • BDA REVIEW",
+          "headline": "CHIEF MINISTER SET TO REVIEW BDA PROJECTS TODAY",
           "paragraphs": [
-            "Karnataka’s Chief Electoral Officer said cases involving duplicate EPIC numbers after the voter-roll revision arose from application-processing situations, including multiple Form 6 submissions and pending transfers. The cases have been referred to election officers for verification and corrective action."
+            "Chief Minister D K Shivakumar is scheduled to review Bangalore Development Authority projects on Monday, focusing on traffic relief, urban development and long-pending housing issues. The Chief Minister’s Office said new initiatives and a computerised housing application system were expected to be discussed."
           ],
-          "moreUrl": "https://thebengalurulive.com/karnataka-election-office-says-duplicate-voter-ids-after-sir-arose-from-application-processing-cases-sent-for-verification/"
+          "moreUrl": "https://newsable.asianetnews.com/india/karnataka-cm-dk-shivakumar-to-review-key-bangalore-development-projects-articleshow-aw43bb2"
         },
         {
           "className": "section-brief society-note",
           "headlineClass": "lower-headline",
-          "source": "The Bengaluru Live",
-          "kicker": "BENGALURU • FOOTPATHS & SAFETY",
-          "headline": "BENGALURU SOUTH ORDERS CABLE CLEARANCE AND FOOTPATH REPAIRS",
+          "source": "The Times of India",
+          "kicker": "BENGALURU • Namma METRO",
+          "headline": "PINK LINE ELEVATED STRETCH LIKELY TO OPEN THIS FRIDAY",
           "paragraphs": [
-            "During a Ward One inspection in J.P. Nagar, Bengaluru South officials directed agencies to remove unauthorized and exposed cables, repair damaged footpath slabs and clear roadside waste. The civic drive is intended to improve pedestrian safety and public spaces."
+            "The 7.5-km elevated stretch of Namma Metro’s Pink Line, from Kalena Agrahara to Tavarekere, is likely to be inaugurated on November 13, with passenger service expected the following day. The report noted that BMRCL had not formally confirmed the inauguration date."
           ],
-          "moreUrl": "https://thebengalurulive.com/bengaluru-south-commissioner-orders-removal-of-cables-from-footpaths-in-jp-nagar-ward-one-inspection/"
+          "moreUrl": "https://timesofindia.indiatimes.com/city/bengaluru/pm-likely-to-inaugurate-pink-lines-elevated-stretch-on-nov-13/amp_articleshow/135470104.cms"
         }
       ]
     },
     {
-      "separator": "— INDIA • UNDER-19 CRICKET & BENGALURU WEATHER —",
+      "separator": "— INDIA • TENNIS & BENGALURU WEATHER —",
       "className": "news-section sports-section",
-      "ariaLabel": "India under-19 cricket and Bengaluru weather news",
+      "ariaLabel": "India tennis and Bengaluru weather news",
       "stories": [
         {
           "className": "section-lead sports-lead",
           "headlineClass": "section-headline",
-          "source": "The Indian Express",
-          "kicker": "INDIA • UNDER-19 CRICKET",
-          "headline": "INDIA MEET PAKISTAN IN UNDER-19 ASIA CUP TODAY",
+          "source": "India Today",
+          "kicker": "CHENNAI • TENNIS",
+          "headline": "CHENNAI OPEN SINGLES FINAL MOVED TO 11 AM TODAY",
           "paragraphs": [
-            "India face Pakistan in the Under-19 Asia Cup group stage in Al Amerat on Sunday, with the match scheduled to begin at 10:30 a.m. IST. Both teams won their opening matches; a victory would put the winner in a strong position in the group."
+            "The WTA 250 Chennai Open women’s singles final between defending champion Janice Tjen and Magda Linette was postponed after rain and poor air quality disrupted Sunday’s play. Organisers rescheduled the match for 11 a.m. Monday; the same tickets remain valid."
           ],
-          "moreUrl": "https://indianexpress.com/article/sports/cricket/india-vs-pakistan-u19-asia-cup-live-cricket-streaming-ind-vs-pak-10955020/"
+          "moreUrl": "https://www.indiatoday.in/amp/sports/tennis/story/chennai-open-tennis-air-quality-rain-singles-final-postponed-3035007-2026-11-08"
         },
         {
           "className": "section-brief listings-box",
-          "kicker": "SUNDAY • AT A GLANCE",
-          "headline": "TODAY IN BRIEF",
+          "kicker": "MONDAY • AT A GLANCE",
+          "headline": "MONDAY’S AGENDA",
           "listing": [
             [
-              "10:30 AM",
-              "India vs Pakistan, U19 Asia Cup"
+              "11:00 AM",
+              "Chennai Open women’s singles final"
             ],
             [
-              "WEATHER",
-              "Bengaluru: partly cloudy; no warning"
+              "TODAY",
+              "137 anti-cancer drug price revisions take effect"
             ]
           ]
         },
@@ -232,9 +237,9 @@
           "headlineClass": "lower-headline",
           "source": "India Meteorological Department",
           "kicker": "BENGALURU • WEATHER",
-          "headline": "PARTLY CLOUDY SKIES FORECAST; NO WARNING TODAY",
+          "headline": "PARTLY CLOUDY; NO WARNING FOR BENGALURU TODAY",
           "paragraphs": [
-            "The India Meteorological Department forecast partly cloudy skies in Bengaluru on Sunday, with a minimum temperature of 20°C and a maximum of 29°C. No weather warning is in effect for the city."
+            "The India Meteorological Department forecast partly cloudy skies in Bengaluru on Monday, with a minimum temperature of 20°C and a maximum of 29°C. No warning is in effect for the city."
           ],
           "moreUrl": "https://city.imd.gov.in/citywx/citywxnew_warnings.php?id=43295"
         }
