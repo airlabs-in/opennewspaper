@@ -10,226 +10,197 @@
     "editionLabel": "DAILY READ",
     "editionSummary": "Complete Morning Ledger",
     "edition": "BENGALURU • INDIA EDITION",
-    "dateline": "BENGALURU, MONDAY, NOVEMBER 9, 2026",
+    "dateline": "BENGALURU, TUESDAY, NOVEMBER 10, 2026",
     "greeting": "GOOD MORNING :)",
     "footer": "Open Newspaper • Bengaluru and India Edition • Independent coverage from open sources."
   },
   "newsIndex": [
-    [
-      "Bengaluru & Karnataka",
-      "City"
-    ],
-    [
-      "India & Public Affairs",
-      "Nation"
-    ],
-    [
-      "Transport & Traffic",
-      "City"
-    ],
-    [
-      "Weather & Preparedness",
-      "India"
-    ],
-    [
-      "Technology & Start-ups",
-      "City"
-    ],
-    [
-      "Business & Policy",
-      "Nation"
-    ]
+    ["Bengaluru & Karnataka", "City"],
+    ["India & Public Affairs", "Nation"],
+    ["Transport & Traffic", "City"],
+    ["Weather & Preparedness", "India"],
+    ["Technology & Start-ups", "City"],
+    ["Business & Policy", "Nation"]
   ],
   "cityWatch": {
     "label": "CITY WATCH",
-    "text": "Chief Minister D K Shivakumar is scheduled to review BDA projects today, with traffic relief, urban development and housing issues on the agenda.",
-    "attribution": "— ANI / Chief Minister’s Office"
+    "text": "Bengaluru South civic teams say 143 abandoned vehicles have been towed after notices; another 110 are still marked for removal. The drive covered roadsides and footpaths across several divisions.",
+    "attribution": "— Bengaluru South City Corporation / Urban Acres"
   },
   "lead": {
-    "source": "India Today",
-    "kicker": "UTTAR PRADESH • FOOD SAFETY",
-    "headline": "OVER 150 FALL ILL AFTER EATING PANI PURI IN SIDDHARTHNAGAR",
-    "deck": "Children are among those being treated; doctors are waiting for test results to establish what caused the suspected outbreak",
+    "source": "The Week / PTI",
+    "kicker": "BENGALURU • HOUSING POLICY",
+    "headline": "BDA CUTS REGULARISATION FEES BY HALF FOR OLDER HOMES",
+    "deck": "Karnataka’s new measure covers eligible homes built before 2008 on BDA-acquired land; residents have until December 17 to apply",
     "paragraphs": [
-      "More than 150 people, including children, reportedly fell ill after eating pani puri from a roadside vendor in Siddharthnagar district, Uttar Pradesh. Several children were admitted to hospital with vomiting and other symptoms.",
-      "An emergency duty doctor said around 30 to 32 children had been brought in for treatment. Doctors suspect contaminated water or spoiled food, but the cause has not been confirmed.",
-      "Patients are receiving care as authorities await test reports and investigate the source of the suspected foodborne outbreak."
+      "The Karnataka government has cut by half the regularisation charges for eligible homes built before 2008 on land acquired by the Bangalore Development Authority. Chief Minister D K Shivakumar said the measure could benefit more than one lakh Bengaluru residents.",
+      "The revised fees are 5%, 12.5%, 20% or 25% of the guidance value, depending on the plot size, and applications may be made online or in person. The deadline is December 17, 2026; applicants must provide proof of possession.",
+      "The announcement also includes measures for existing BDA site owners and farmers who voluntarily surrendered land."
     ],
-    "image": {
-      "src": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/pani-purigolgappa-side-effects-203003653-16x9.jpg?VersionId=jovZuW.goGStLAwRoomwdwBgGYdc7f2g&size=690%3A388",
-      "alt": "Representative pani puri image accompanying the report on the Siddharthnagar illness outbreak",
-      "caption": "Representative image. Photo: Pixabay / India Today"
-    },
-    "moreUrl": "https://www.indiatoday.in/cities/other-cities/story/siddharthnagar-food-poisoning-over-150-ill-roadside-pani-puri-3035014-2026-11-09"
+    "moreUrl": "https://www.theweek.in/wire-updates/national/2026/11/09/bda-offers-land-ownership-guarantee-to-over-1-lakh-bengaluru-residents-under-amended-law-cm.amp.html"
   },
   "sidebarStory": {
     "className": "sidebar-item",
     "headlineClass": "side-headline",
     "tag": "div",
     "source": "The New Indian Express",
-    "kicker": "BENGALURU • ROAD SAFETY",
-    "headline": "FOUR KILLED IN THREE SEPARATE BENGALURU ROAD CRASHES",
-    "subhead": "The fatal crashes occurred between Friday evening and Saturday morning in Electronics City, HSR Layout and KR Puram",
+    "kicker": "ANDHRA PRADESH • ENTERTAINMENT",
+    "headline": "PAWAN KALYAN AND ANNA KONIDELA ANNOUNCE SEPARATION",
+    "subhead": "The actor and Andhra Pradesh deputy chief minister said in a joint statement that they will remain devoted parents",
     "paragraphs": [
-      "Four people died in three separate road accidents in Bengaluru. Two people on a motorcycle were killed in a hit-and-run on the Bommasandra flyover; police are reviewing CCTV footage to identify the vehicle. Two other motorcyclists died in separate crashes."
+      "Pawan Kalyan and Anna Konidela have announced that their marriage has ended after 13 years. Their joint statement described the decision as mutual and said they would continue to support their children; it gave no reason for the separation."
     ],
-    "moreUrl": "https://www.newindianexpress.com/states/karnataka/2026/Nov/08/four-killed-in-separate-road-accidents-in-bengaluru-2"
+    "moreUrl": "https://www.newindianexpress.com/amp/story/states/andhra-pradesh/2026/Nov/09/andhra-deputy-cm-pawan-kalyan-and-anna-announce-separation-end-13-year-marriage"
   },
   "groups": [
     {
-      "separator": "— BENGALURU • TRAFFIC, CONNECTIVITY & CITY LIFE —",
+      "separator": "— BENGALURU • CIVIC LIFE & PEOPLE —",
       "className": "lower-page-grid",
-      "ariaLabel": "Bengaluru traffic, connectivity, and city life news",
+      "ariaLabel": "Bengaluru civic life and people news",
       "stories": [
         {
           "className": "lower-column",
           "headlineClass": "lower-headline",
           "source": "The New Indian Express",
-          "kicker": "BENGALURU • HEBBAL TRAFFIC",
-          "headline": "HEBBAL FLYOVER TO STAY OPEN DURING 18-MONTH CORRIDOR WORK",
+          "kicker": "BENGALURU • LEGISLATURE",
+          "headline": "CITY TO HOST FIRST COMMONWEALTH WOMEN PARLIAMENTARIANS CONFERENCE IN INDIA",
           "paragraphs": [
-            "The BDA says Hebbal Flyover and Ballari Road will not be fully closed during construction of the elevated corridor toward Mehkri Circle. One lane in each direction may be occupied by barricades, while two lanes and the service road are expected to remain open; goods vehicles will face restrictions under traffic police advisories."
+            "Bengaluru will host the first standalone Commonwealth Women Parliamentarians India Region Conference on November 17 and 18. About 150 women legislators and delegates from 15–20 countries are expected to discuss leadership and online harms including cyber abuse and deepfakes."
           ],
-          "moreUrl": "https://www.newindianexpress.com/amp/story/cities/bengaluru/2026/Nov/08/bengalurus-hebbal-flyover-ballari-road-wont-be-fully-shut"
+          "moreUrl": "https://www.newindianexpress.com/cities/bengaluru/2026/Nov/09/bengaluru-to-host-first-standalone-commonwealth-women-parliamentarians-conference-on-november-17-18",
+          "image": {
+            "src": "https://cf-images.assettype.com/newindianexpress%2F2026-11-09%2Fgyucngj1%2F95674a5c-00d9-4c82-bd82-8063f5fc67e7.jpg?auto=format%2Ccompress&fit=max&w=480",
+            "alt": "Karnataka legislature leaders announcing the Bengaluru conference at Vidhana Soudha",
+            "caption": "Assembly Speaker G S Patil and Council Chair Saleem Ahmed at the announcement. Photo: The New Indian Express"
+          }
         },
         {
           "className": "lower-column center-border",
           "headlineClass": "lower-headline",
-          "source": "Vijaya Karnataka",
-          "kicker": "BENGALURU • INFRASTRUCTURE",
-          "headline": "KARNATAKA CLEARS EXTRA ₹1,118.5 CRORE FOR 134-KM OUTER ROAD",
+          "source": "The New Indian Express",
+          "kicker": "BENGALURU • REAL ESTATE",
+          "headline": "DEVELOPER AND BORROWERS ACCUSED OF MULTI-CRORE BANK FRAUD",
           "paragraphs": [
-            "The Karnataka Cabinet approved an additional ₹1,118.5 crore for the 134-km Bengaluru Peripheral Road, connecting Anekal, Sarjapur, Varthur and Nelamangala. The project also includes an elevated stretch at Varthur and railway crossing flyovers; the report gave no revised completion date."
+            "Police complaints by State Bank of India allege that a Bengaluru developer and borrowers used fictitious buyers and inflated flat valuations to obtain loans. The complaints cite alleged losses of ₹4.88 crore and ₹5.55 crore; the allegations have not been adjudicated."
           ],
-          "moreUrl": "https://vijaykarnataka.com/news/bengaluru-city/cabinet-approves-additional-grant-of-rs-1118-50-crore-for-completion-of-bengaluru-ring-road/amp_articleshow/135579776.cms"
+          "moreUrl": "https://www.newindianexpress.com/amp/story/cities/bengaluru/2026/Nov/09/bengaluru-based-developer-borrowers-accused-of-cheating-banks-of-crores"
         },
         {
           "className": "lower-column",
           "headlineClass": "lower-headline",
-          "source": "The New Indian Express",
-          "kicker": "MALLESHWARAM • COMMUNITY",
-          "headline": "RESIDENTS REOPEN RESTORED AANE PARK AFTER TWO DECADES",
+          "source": "Urban Acres",
+          "kicker": "BENGALURU • PUBLIC SPACE",
+          "headline": "143 ABANDONED VEHICLES REMOVED FROM ROADS AND FOOTPATHS",
           "paragraphs": [
-            "Residents and volunteers have restored Malleswaram’s long-neglected Aane Park, including its elephant slide and children’s play area. A mural celebrating the neighbourhood’s history is another feature of the community-led revival, carried out with the Horticulture Department."
+            "Bengaluru South civic authorities removed 143 vehicles after a seven-day notice period, following a joint drive with traffic police. Officials had identified 595 vehicles; another 110 remain marked for towing, while 195 were reclaimed after owners paid fines."
           ],
-          "moreUrl": "https://www.newindianexpress.com/cities/bengaluru/2026/Nov/08/bengalurus-malleswarams-aane-park-open-now",
-          "image": {
-            "src": "https://cf-images.assettype.com/newindianexpress%2F2026-11-07%2Fm3sy11vx%2FMalleswaram%E2%80%99s-%E2%80%98Aane.jpg?auto=format%2Ccompress&fit=max&w=480",
-            "alt": "The restored elephant-themed Aane Park in Malleswaram",
-            "caption": "The restored elephant park in Malleswaram. Photo: The New Indian Express"
-          }
+          "moreUrl": "https://urbanacres.in/bengaluru-clears-143-abandoned-vehicles-blocking-roads-and-footpaths/"
         }
       ]
     },
     {
-      "separator": "— INDIA • PUBLIC SAFETY, RAIL & HEALTH —",
+      "separator": "— INDIA • COURTS, DIPLOMACY & PILGRIMAGE —",
       "className": "news-section foreign-section",
-      "ariaLabel": "India public safety, rail, and health news",
+      "ariaLabel": "India courts, diplomacy, and pilgrimage news",
       "stories": [
         {
           "className": "section-lead",
           "headlineClass": "section-headline",
-          "source": "The Indian Express",
-          "kicker": "BIHAR • POLICE INVESTIGATION",
-          "headline": "MISSING CONSTABLE FOUND DEAD IN RIVER; FOUR ARRESTED",
+          "source": "The Times of India",
+          "kicker": "MANIPUR • CENSUS 2027",
+          "headline": "HIGH COURT KEEPS MANIPUR CENSUS ON HOLD UNTIL APRIL 2027",
           "paragraphs": [
-            "Bihar Police constable Dhaneshwar Kumar’s body was recovered from the Dardha River two days after he went missing during a drug and arms investigation in Jehanabad. Police said questioning indicated he was assaulted and thrown into the river; four people have been arrested as the investigation continues."
+            "The Manipur High Court directed the Centre to keep the Census 2027 exercise in the state on hold until April 30, 2027, while authorities consider concerns raised amid ethnic violence and displacement. It asked the Census Commissioner to decide seven representations and allowed further submissions through November 25."
           ],
-          "moreUrl": "https://indianexpress.com/article/cities/patna/drug-bust-bihar-cop-body-found-in-river-10955095/"
+          "moreUrl": "https://timesofindia.indiatimes.com/india/manipur-census-on-hold-till-april-2027-as-high-court-seeks-answers-from-the-centre/amp_articleshow/135679686.cms"
         },
         {
           "className": "section-brief",
           "headlineClass": "lower-headline",
           "source": "Press Information Bureau",
-          "kicker": "INDIA • CANCER CARE",
-          "headline": "NEW PRICE CAPS ON 137 ANTI-CANCER DRUGS TAKE EFFECT TODAY",
+          "kicker": "INDIA • UKRAINE",
+          "headline": "MODI AND ZELENSKYY DISCUSS PEACE EFFORTS AND BILATERAL TIES",
           "paragraphs": [
-            "Revised prices for 137 non-scheduled anti-cancer medicines take effect on November 9 after the government capped trade margins. The Department of Pharmaceuticals estimates annual consumer savings of ₹3,502 crore; retailers, hospitals and drug controllers are to implement and monitor the revised prices."
+            "Prime Minister Narendra Modi spoke by phone with Ukrainian President Volodymyr Zelenskyy on November 9. Modi reiterated India’s support for a resolution through dialogue and diplomacy, and the leaders discussed strengthening bilateral cooperation."
           ],
-          "moreUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2333536&lang=1&reg=3"
+          "moreUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PMO=3&PRID=2334434&lang=1&reg=1"
         },
         {
           "className": "section-brief",
           "headlineClass": "lower-headline",
-          "source": "The Indian Express",
-          "kicker": "GUJARAT • RAILWAYS",
-          "headline": "STONE SHATTERS WINDOW ON SABARMATI–VERAVAL VANDE BHARAT",
+          "source": "The Economic Times / PTI",
+          "kicker": "INDIA • HAJ 2027",
+          "headline": "INDIA SECURES HAJ QUOTA OF 1,75,025 PILGRIMS FOR 2027",
           "paragraphs": [
-            "A stone-pelting incident in Amreli district shattered a window on the Sabarmati–Veraval Vande Bharat Express on Diwali morning. The report called it the third such incident involving a Vande Bharat train in Gujarat in four months."
+            "India and Saudi Arabia signed their bilateral Haj agreement for 2027, setting India’s quota at 1,75,025 pilgrims. Union Minister Kiren Rijiju met Saudi Minister of Hajj and Umrah Tawfiq bin Fawzan Al Rabiah in Jeddah before the agreement was signed."
           ],
-          "moreUrl": "https://indianexpress.com/article/cities/ahmedabad/vande-bharat-train-attack-gujarat-diwali-stone-pelting-10955696/"
+          "moreUrl": "https://economictimes.indiatimes.com/news/india/india-gets-quota-of-1-75-lakh-pilgrims-under-saudi-arabias-haj-2027-agreement/articleshow/135688340.cms"
         }
       ]
     },
     {
-      "separator": "— BENGALURU • METRO & DEVELOPMENT —",
+      "separator": "— INDIA • JUSTICE & PUBLIC LIFE —",
       "className": "news-section city-section",
-      "ariaLabel": "Bengaluru Metro and development news",
+      "ariaLabel": "India justice and public life news",
       "stories": [
         {
           "className": "section-lead city-lead",
           "headlineClass": "section-headline",
-          "source": "The Times of India",
-          "kicker": "BENGALURU • METRO FUNDING",
-          "headline": "BJP AND CONGRESS TRADE CLAIMS OVER CREDIT FOR NAMMA METRO",
+          "source": "Hindustan Times",
+          "kicker": "UTTAR PRADESH • SUPREME COURT",
+          "headline": "SC ASKS UP TO FIND PRISONERS STILL JAILED AFTER GETTING BAIL",
           "paragraphs": [
-            "Ahead of the Pink Line’s planned opening, BJP MP Tejasvi Surya and Congress MLA Dinesh Gundu Rao disputed how much credit the Centre and Karnataka deserve for Bengaluru Metro. Surya cited the two governments’ committed contributions; Rao said Karnataka bears most of the project cost."
+            "The Supreme Court directed Uttar Pradesh to identify undertrial prisoners who remain in jail despite being granted bail, in consultation with District Legal Services Authorities. The bench said the state must ensure their release and called for bail orders to reach jails promptly through email and the e-prisons system."
           ],
-          "moreUrl": "https://timesofindia.indiatimes.com/city/bengaluru/bjp-congress-functionaries-clash-over-who-gets-credit-for-bengaluru-metro/amp_articleshow/135664011.cms"
+          "moreUrl": "https://www.hindustantimes.com/india-news/sc-directs-uttar-pradesh-to-identify-undertrial-prisoners-languishing-in-jails-despite-getting-bail-101794219420702-amp.html"
         },
         {
           "className": "section-brief",
           "headlineClass": "lower-headline",
-          "source": "Asianet Newsable (ANI)",
-          "kicker": "BENGALURU • BDA REVIEW",
-          "headline": "CHIEF MINISTER SET TO REVIEW BDA PROJECTS TODAY",
+          "source": "NDTV",
+          "kicker": "MAHARASHTRA • FIRE",
+          "headline": "SIX OF FAMILY DIE IN DIWALI-NIGHT HOUSE FIRE IN DHARASHIV",
           "paragraphs": [
-            "Chief Minister D K Shivakumar is scheduled to review Bangalore Development Authority projects on Monday, focusing on traffic relief, urban development and long-pending housing issues. The Chief Minister’s Office said new initiatives and a computerised housing application system were expected to be discussed."
+            "Six members of a family died after a fire swept through their home and grocery shop in Yedshi village, Maharashtra, on Diwali night. A teenager survived; authorities are investigating the cause, while villagers alleged that the fire tender arrived late."
           ],
-          "moreUrl": "https://newsable.asianetnews.com/india/karnataka-cm-dk-shivakumar-to-review-key-bangalore-development-projects-articleshow-aw43bb2"
+          "moreUrl": "https://www.ndtv.com/india-news/6-of-family-die-as-fire-engulfs-house-attached-store-on-diwali-in-maharashtra-12305239"
         },
         {
           "className": "section-brief society-note",
           "headlineClass": "lower-headline",
-          "source": "The Times of India",
-          "kicker": "BENGALURU • Namma METRO",
-          "headline": "PINK LINE ELEVATED STRETCH LIKELY TO OPEN THIS FRIDAY",
+          "source": "The News Mill",
+          "kicker": "DELHI • CHHATH PREPARATIONS",
+          "headline": "DELHI PREPARES MORE THAN 1,400 GHATS FOR CHHATH PUJA",
           "paragraphs": [
-            "The 7.5-km elevated stretch of Namma Metro’s Pink Line, from Kalena Agrahara to Tavarekere, is likely to be inaugurated on November 13, with passenger service expected the following day. The report noted that BMRCL had not formally confirmed the inauguration date."
+            "Delhi is preparing more than 1,400 ghats and an 11-kilometre stretch of the Munak Canal for Chhath Puja. The city’s arrangements are being put in place ahead of the festival, which draws large gatherings of devotees."
           ],
-          "moreUrl": "https://timesofindia.indiatimes.com/city/bengaluru/pm-likely-to-inaugurate-pink-lines-elevated-stretch-on-nov-13/amp_articleshow/135470104.cms"
+          "moreUrl": "https://thenewsmill.com/2026/11/delhi-readies-1400-ghats-and-11km-munak-canal-for-chhath-puja/"
         }
       ]
     },
     {
-      "separator": "— INDIA • TENNIS & BENGALURU WEATHER —",
+      "separator": "— BENGALURU • FESTIVALS & PUBLIC SAFETY —",
       "className": "news-section sports-section",
-      "ariaLabel": "India tennis and Bengaluru weather news",
+      "ariaLabel": "India cricket and Bengaluru weather news",
       "stories": [
         {
           "className": "section-lead sports-lead",
           "headlineClass": "section-headline",
-          "source": "India Today",
-          "kicker": "CHENNAI • TENNIS",
-          "headline": "CHENNAI OPEN SINGLES FINAL MOVED TO 11 AM TODAY",
+          "source": "International Cricket Council",
+          "kicker": "INDIA • NEW ZEALAND ODI",
+          "headline": "INDIA TAKE 2–0 LEAD INTO THIRD ODI IN HAMILTON",
           "paragraphs": [
-            "The WTA 250 Chennai Open women’s singles final between defending champion Janice Tjen and Magda Linette was postponed after rain and poor air quality disrupted Sunday’s play. Organisers rescheduled the match for 11 a.m. Monday; the same tickets remain valid."
+            "India face New Zealand in the third one-day international in Hamilton on Tuesday, with the visitors leading the five-match series 2–0 after close wins in Auckland and Wellington. The match is scheduled for 7:30 a.m. India time at Seddon Park."
           ],
-          "moreUrl": "https://www.indiatoday.in/amp/sports/tennis/story/chennai-open-tennis-air-quality-rain-singles-final-postponed-3035007-2026-11-08"
+          "moreUrl": "https://www.icc-cricket.com/news/india-stave-off-new-zealand-challenge-in-close-wellington-win"
         },
         {
           "className": "section-brief listings-box",
-          "kicker": "MONDAY • AT A GLANCE",
-          "headline": "MONDAY’S AGENDA",
+          "kicker": "TUESDAY • AT A GLANCE",
+          "headline": "TODAY’S AGENDA",
           "listing": [
-            [
-              "11:00 AM",
-              "Chennai Open women’s singles final"
-            ],
-            [
-              "TODAY",
-              "137 anti-cancer drug price revisions take effect"
-            ]
+            ["7:30 AM", "India vs New Zealand, third ODI in Hamilton"],
+            ["NOV 17–18", "Commonwealth women parliamentarians conference in Bengaluru"]
           ]
         },
         {
@@ -237,9 +208,9 @@
           "headlineClass": "lower-headline",
           "source": "India Meteorological Department",
           "kicker": "BENGALURU • WEATHER",
-          "headline": "PARTLY CLOUDY; NO WARNING FOR BENGALURU TODAY",
+          "headline": "IMD FORECASTS A DRY, PARTLY CLOUDY TUESDAY",
           "paragraphs": [
-            "The India Meteorological Department forecast partly cloudy skies in Bengaluru on Monday, with a minimum temperature of 20°C and a maximum of 29°C. No warning is in effect for the city."
+            "The India Meteorological Department forecast partly cloudy skies in Bengaluru on Tuesday, with a minimum temperature of 20°C and a maximum of 29°C. No warning is in effect for the city."
           ],
           "moreUrl": "https://city.imd.gov.in/citywx/citywxnew_warnings.php?id=43295"
         }
