@@ -5,12 +5,12 @@
     "tagline": "Open sources. Fresh news. One paper. A newspaper assembled from the open web",
     "established": "2026",
     "weatherLabel": "BENGALURU WEATHER",
-    "weatherSummary": "Partly cloudy. Bengaluru: 29°C / 19°C; no warning today.",
+    "weatherSummary": "Mainly clear. Bengaluru: 29°C / 19°C; no warning today.",
     "motto": "FROM OPEN SOURCES DESK",
     "editionLabel": "DAILY READ",
     "editionSummary": "Complete Morning Ledger",
     "edition": "BENGALURU • INDIA EDITION",
-    "dateline": "BENGALURU, WEDNESDAY, NOVEMBER 11, 2026",
+    "dateline": "BENGALURU, THURSDAY, NOVEMBER 12, 2026",
     "greeting": "GOOD MORNING :)",
     "footer": "Open Newspaper • Bengaluru and India Edition • Independent coverage from open sources."
   },
@@ -42,184 +42,201 @@
   ],
   "cityWatch": {
     "label": "CITY WATCH",
-    "text": "The BJP has announced a day-long demonstration at Freedom Park today, from 10 a.m. to 6 p.m., seeking rollback of recent milk-product and bus-fare increases.",
-    "attribution": "— The Times of India"
+    "text": "GAIL has proposed a ₹123.42-crore plant at the KCDC site to process 300 tonnes of Bengaluru’s segregated organic waste daily into compressed biogas and manure.",
+    "attribution": "— The Hindu"
   },
   "lead": {
-    "source": "Moneycontrol",
+    "source": "The Economic Times",
     "kicker": "BENGALURU • NAMMA METRO",
-    "headline": "BLUE LINE TRIAL REACHES OUTER RING ROAD; FIRST STRETCH TARGETS MAY 2027",
-    "deck": "A test train ran from Byappanahalli towards Doddanekundi on the IT corridor, a milestone for commuters awaiting the Silk Board–KR Pura section",
+    "headline": "PINK LINE TO OPEN ON NOVEMBER 14, TAKING BENGALURU METRO PAST 100 KM",
+    "deck": "The 7.5-km elevated Kalena Agrahara–Tavarekere stretch is set to begin passenger service at 6 a.m., adding a key Bannerghatta Road connection.",
     "paragraphs": [
-      "Namma Metro’s Blue Line train reached Bengaluru’s Outer Ring Road technology corridor during a trial run on November 10. The train travelled on the up line from Byappanahalli depot to Doddanekundi, moving the project closer to mainline testing.",
-      "BMRCL is targeting May 2027 to open the 13-station Silk Board–KR Pura section, subject to testing and statutory clearances. The longer Blue Line will eventually connect south Bengaluru with Kempegowda International Airport.",
-      "Officials said the trial checks electrical systems, rolling stock and infrastructure readiness."
+      "Prime Minister Narendra Modi is scheduled to inaugurate the elevated Pink Line section on November 14. Passenger services on the 7.5-km Kalena Agrahara–Tavarekere corridor are set to start at 6 a.m.",
+      "The opening will take Bengaluru’s operational metro network beyond 100 km for the first time, to about 103 km. The line includes the Jayadeva interchange, connecting Bannerghatta Road commuters to the wider network.",
+      "The Economic Times reports that the new stretch will link passengers with destinations including Electronic City, Silk Board, HSR Layout, Jayanagar, Majestic and Whitefield."
     ],
-    "image": {
-      "src": "https://static.langimg.com/photo/imgsize-2257332%2Cmsid-135713890/vijaykarnataka.jpg",
-      "alt": "Namma Metro train pictured with the Blue Line trial-run report for Bengaluru’s Outer Ring Road corridor",
-      "caption": "Namma Metro Blue Line trial run on the ORR. Photo: Vijaya Karnataka"
-    },
-    "moreUrl": "https://www.moneycontrol.com/news/india/bengaluru-metro-blue-line-train-reaches-outer-ring-road-as-trial-runs-begin-14076338.html"
+    "moreUrl": "https://economictimes.indiatimes.com/news/india/pm-modi-to-open-bengaluru-metro-stretch-cm-shivakumar-seeks-extra-fund-faster-approvals/articleshow/135746964.cms"
   },
   "sidebarStory": {
     "className": "sidebar-item",
     "headlineClass": "side-headline",
     "tag": "div",
-    "source": "Press Trust of India / NDTV",
-    "kicker": "INDIA • CYBERCRIME",
-    "headline": "SC ASKS WHATSAPP TO DETAIL PLAN TO CURB DIGITAL-ARREST SCAMS",
-    "subhead": "The court also wants RBI proposals on fraud prevention and compensation for victims when banks fail due diligence",
+    "source": "The Indian Express",
+    "kicker": "INDIA • FARMERS & FERTILISER",
+    "headline": "CABINET SETS ₹62,370-CRORE RABI FERTILISER SUBSIDY",
+    "subhead": "The allocation is 64% higher than last year; DAP will continue at a fixed price of ₹1,350 per bag.",
     "paragraphs": [
-      "The Supreme Court has asked WhatsApp and other online intermediaries to submit proposals to prevent digital-arrest scams. It also directed state police chiefs to report cases and told the RBI to place its list of authorised financial institutions before the court.",
-      "The bench said banks should compensate customers when investigations find that a failure of due diligence enabled fraud; it cited ₹800 crore in reported losses to digital scams this year."
+      "The Union Cabinet approved ₹62,370 crore in subsidy for phosphatic and potassic fertilisers for the 2026–27 rabi season, a 64% increase over last year’s allocation.",
+      "The subsidy applies from October 1 to March 31. The government said its special provision to keep a 50-kg bag of di-ammonium phosphate at ₹1,350 will continue."
     ],
-    "moreUrl": "https://www.ndtv.com/india-news/list-measures-to-stop-digital-arrests-cybercrimes-top-court-to-whatsapp-12309989/amp/1"
+    "moreUrl": "https://indianexpress.com/article/business/fertiliser-subsidy-rabi-season-2026-27-cabinet-approval-10959144/"
   },
   "groups": [
     {
-      "separator": "— BENGALURU • MOBILITY & PUBLIC SAFETY —",
+      "separator": "— BENGALURU • CITY SERVICES & CULTURE —",
       "className": "lower-page-grid",
-      "ariaLabel": "Bengaluru mobility and public safety news",
+      "ariaLabel": "Bengaluru city services, transport and culture news",
       "stories": [
         {
           "className": "lower-column",
           "headlineClass": "lower-headline",
-          "source": "BLR Today",
-          "kicker": "BENGALURU • DIWALI SAFETY",
-          "headline": "FIREWORKS ACCIDENTS IN BENGALURU TOP 150; BYSTANDERS ALSO INJURED",
+          "source": "The Times of India",
+          "kicker": "BENGALURU • EMERGENCY RESPONSE",
+          "headline": "AI PILOT HELPS CITY POLICE REACH 1.5 LAKH 112 CALLERS",
           "paragraphs": [
-            "Reports from Bengaluru put the number of people injured in fireworks accidents above 150, with bystanders among those affected. Hospitals and eye specialists have urged residents to take precautions during the festival period."
+            "Bengaluru police say a three-month pilot using multilingual AI calls gathered feedback from more than 1.5 lakh people who used the 112 emergency response service.",
+            "Police Commissioner Seemant Kumar Singh said average response time had fallen from about 15 minutes to six minutes. Trained staff will continue to handle sensitive and complex conversations."
           ],
-          "moreUrl": "https://inblr.today/news/bengaluru-fireworks-accidents-cross-150-injuries-bystanders"
+          "moreUrl": "https://timesofindia.indiatimes.com/city/bengaluru/ai-helps-bengaluru-police-gather-feedback-from-1-5-lakh-people-in-3-months/articleshow/135746219.cms"
         },
         {
           "className": "lower-column center-border",
           "headlineClass": "lower-headline",
-          "source": "BLR Today",
-          "kicker": "BENGALURU • RAILWAYS",
-          "headline": "SOUTHERN RAILWAY REVISES TIMINGS FOR 19 TRAINS THROUGH BENGALURU",
+          "source": "Deccan Chronicle",
+          "kicker": "BENGALURU • HOCKEY",
+          "headline": "POLICE RECOVER OLYMPIC GOLD AND SEVEN OTHER MEDALS STOLEN FROM MM SOMAYA",
           "paragraphs": [
-            "The railway division has revised arrival and departure times for 19 trains operating through major Bengaluru stations. Passengers should check the latest timetable for their service before travelling."
+            "Police arrested two people and recovered the 1980 Olympic gold medal and seven other international medals belonging to former India hockey captain M.M. Somaya.",
+            "A Kodava dagger, camera, Olympic kit bag and the two-wheeler allegedly used in the theft were also recovered, police said."
           ],
-          "moreUrl": "https://inblr.today/news/bengaluru-south-railway-revises-arrival-departure-times-19-trains"
+          "moreUrl": "https://www.deccanchronicle.com/southern-states/karnataka/two-arrested-for-stealing-hockey-legend-mm-somayas-international-medals-2003656"
         },
         {
           "className": "lower-column",
           "headlineClass": "lower-headline",
-          "source": "BLR Today",
-          "kicker": "MALLESHWARAM • BUILDING SAFETY",
-          "headline": "FALLING CONCRETE AND IRON NEAR METRO STATION ALARM COMMUTERS",
+          "source": "Prop News Time",
+          "kicker": "BENGALURU • TRAFFIC & TRANSIT",
+          "headline": "MASTER PLAN SOUGHT FOR TIN FACTORY JUNCTION BOTTLENECK",
           "paragraphs": [
-            "Commuters near Malleshwaram’s Mandhi Mall Metro station reported cement and iron falling from nearby apartment buildings. Residents have raised concerns about safety around the construction sites."
+            "Greater Bengaluru Development Minister Krishna Byre Gowda has directed the city authority and metro agencies to prepare an integrated plan for the congested KR Puram junction.",
+            "The proposal is to coordinate bus bays, metro and bus transfers, taxi access and pedestrian safety; officials were also told to restore roads affected by construction."
           ],
-          "moreUrl": "https://inblr.today/news/malleshwaram-rusting-cement-iron-falling-apartment-buildings-near-metro"
+          "moreUrl": "https://propnewstime.com/latestnewsstories/NDAwODM%3D/bengaluru-development-minister-seeks-master-plan-to-revamp-tin-factory-junction"
         }
       ]
     },
     {
-      "separator": "— INDIA • DIPLOMACY & PUBLIC AFFAIRS —",
+      "separator": "— INDIA • PUBLIC AFFAIRS & POLICY —",
       "className": "news-section foreign-section",
-      "ariaLabel": "India diplomacy and public affairs news",
+      "ariaLabel": "India public affairs, security and policy news",
       "stories": [
         {
           "className": "section-lead",
           "headlineClass": "section-headline",
-          "source": "The New Indian Express",
-          "kicker": "INDIA • UKRAINE PEACE EFFORTS",
-          "headline": "INDIA PUTS BLACK SEA SHIPPING AND GRAIN FLOWS ON PEACE AGENDA",
+          "source": "The Indian Express",
+          "kicker": "JAMMU & KASHMIR • SECURITY",
+          "headline": "THREE CRPF PERSONNEL INJURED IN KULGAM CHECKPOINT ATTACK",
           "paragraphs": [
-            "As Russia, Ukraine and the United States began talks in Abu Dhabi, India said it was engaging both sides on safer commercial shipping in the Black Sea, grain and energy exports, and possible non-attack arrangements. The proposals aim to reduce escalation and protect critical infrastructure."
+            "Suspected terrorists opened fire on a CRPF checkpoint in Kulgam district on Wednesday, injuring three personnel; one was reported to be critical.",
+            "Security forces launched a search operation. The Indian Express reported that investigators were questioning three suspected overground workers over possible logistical support."
           ],
-          "moreUrl": "https://www.newindianexpress.com/india/2026/Nov/10/india-engaging-with-moscow-kyiv-on-black-sea-shipping-safety-grain-energy-exports"
+          "image": {
+            "src": "https://images.indianexpress.com/2026/11/kulgam.jpg?w=1024",
+            "alt": "Security personnel in Kulgam after an attack on a CRPF checkpoint",
+            "caption": "Security personnel in Kulgam after Wednesday’s attack. Photo: ANI / The Indian Express"
+          },
+          "moreUrl": "https://indianexpress.com/article/india/kulgam-terror-attack-jammu-kashmir-crpf-jawans-injured-10958851/"
         },
         {
           "className": "section-brief",
           "headlineClass": "lower-headline",
           "source": "The Indian Express",
-          "kicker": "INDIA • US LAWSUIT",
-          "headline": "INDIA REJECTS PANNUN CASE AGAINST NSA DOVAL AND EX-RAW CHIEF",
+          "kicker": "INDIA • TRAVEL & IMMIGRATION",
+          "headline": "INDIA STREAMLINES VISA SYSTEM, CUTS MAIN CATEGORIES FROM 13 TO 9",
           "paragraphs": [
-            "The External Affairs Ministry rejected claims in a US civil lawsuit involving National Security Adviser Ajit Doval and former R&AW chief Samant Goel, calling the attacks on senior officials fabricated and malicious. India said the US midterm elections are an internal matter while stressing bipartisan support for bilateral ties."
+            "The Home Ministry has reduced India’s main visa categories from 13 to nine and sub-categories from 49 to 23. It says application forms will ask for 65–70% fewer fields.",
+            "The revised framework widens the visitor visa to cover some short business, medical and cultural visits. Visas under the new system are expected to begin by the end of 2026."
           ],
-          "moreUrl": "https://indianexpress.com/article/india/india-rejects-khalistani-terrorist-gurpatwant-singh-pannun-attacks-on-nsa-raw-chief-10958090/"
+          "moreUrl": "https://indianexpress.com/article/india/india-cuts-visa-categories-application-form-fields-rationalisation-foreign-nationals-10959379/"
         },
         {
           "className": "section-brief",
           "headlineClass": "lower-headline",
-          "source": "The Indian Express",
-          "kicker": "NEW DELHI • POLITICS",
-          "headline": "CONGRESS TO HOST ‘BHARAT SUMMIT’ WITH DELEGATES FROM 70 COUNTRIES",
+          "source": "Press Trust of India / NDTV",
+          "kicker": "NEW DELHI • CULTURE",
+          "headline": "CABINET CLEARS ₹3,230-CRORE YUGE YUGEEN BHARAT MUSEUM",
           "paragraphs": [
-            "The Congress is hosting an international conference with delegates from 70 countries. Party leaders Rahul Gandhi and Mallikarjun Kharge, global policymakers and figures from progressive movements are expected to participate."
+            "The Union Cabinet approved a ₹3,230-crore project to develop the Yuge Yugeen Bharat Museum in the North and South Block complex in New Delhi.",
+            "The plan will adapt the historic buildings into a museum tracing India’s civilisational history, with completion targeted for 2031."
           ],
-          "moreUrl": "https://indianexpress.com/article/india/congress-to-host-bharat-summit-with-delegates-from-70-countries-10958224/"
+          "moreUrl": "https://www.ndtv.com/india-news/centre-approves-rs-3-230-crore-yuge-yugeen-bharat-museum-development-12313655"
         }
       ]
     },
     {
-      "separator": "— INDIA • JUSTICE, TRAVEL & EDUCATION —",
+      "separator": "— INDIA • RAIL, CITIES & ENVIRONMENT —",
       "className": "news-section city-section",
-      "ariaLabel": "India justice, travel, and education news",
+      "ariaLabel": "India rail, city and environment news",
       "stories": [
         {
           "className": "section-lead city-lead",
           "headlineClass": "section-headline",
           "source": "The Indian Express",
-          "kicker": "JAMMU & KASHMIR • ROAD ACCIDENT",
-          "headline": "18 TOURISTS INJURED IN SRINAGAR–SONAMARG CRASH; EIGHT CRITICAL",
+          "kicker": "UTTAR PRADESH • RAILWAYS",
+          "headline": "FOUR CHAURI CHAURA EXPRESS COACHES DERAIL IN UTTAR PRADESH",
           "paragraphs": [
-            "Eighteen tourists were injured in a road accident on the Srinagar–Sonamarg route, with eight reported in critical condition. Lieutenant Governor Manoj Sinha directed officials to ensure specialised medical care for those hurt."
+            "Four coaches of the Chauri Chaura Express derailed while leaving Kanpur Central on Wednesday evening. No passengers were injured or killed, North Central Railway said.",
+            "The Railways arranged a special train for affected passengers and offered full refunds to those who did not wish to continue their journey."
           ],
-          "moreUrl": "https://indianexpress.com/article/india/srinagar-sonamarg-tourist-road-accident-10958139/"
+          "moreUrl": "https://indianexpress.com/article/india/chauri-chaura-express-derail-uttar-pradesh-kanpur-central-railway-station-helpline-10959354/"
         },
         {
           "className": "section-brief",
           "headlineClass": "lower-headline",
-          "source": "NDTV",
-          "kicker": "TAMIL NADU • PUBLIC LIBRARIES",
-          "headline": "HIGH COURT ORDERS CASE IN ALLEGED LIBRARY BOOK-PURCHASE SCAM",
+          "source": "The Indian Express",
+          "kicker": "INDIA • URBAN CLEAN-UP",
+          "headline": "DEADLINE TO CLEAR LEGACY LANDFILLS EXTENDED TO DECEMBER 2027",
           "paragraphs": [
-            "The Madras High Court ordered police to register a case and froze a publisher’s bank account over alleged irregularities in public-library book purchases. The inquiry began after concerns were raised about questionable authorship and inflated prices at a new Coimbatore library."
+            "The Centre has pushed back the deadline to remediate legacy dumpsites across the country to December 2027.",
+            "The work falls under Swachh Bharat Mission–Urban 2.0, launched in 2021; the original mission period was due to end on October 1, 2026."
           ],
-          "moreUrl": "https://www.ndtv.com/india-news/periyar-library-book-scam-high-court-orders-police-case-freezes-publishers-bank-account-12309986/amp/1"
+          "moreUrl": "https://indianexpress.com/article/india/deadline-remediate-country-all-legacy-landfills-pushed-december-2027-10959454/"
         },
         {
           "className": "section-brief society-note",
           "headlineClass": "lower-headline",
-          "source": "Union Public Service Commission",
-          "kicker": "INDIA • CIVIL SERVICES",
-          "headline": "UPSC OPENS DAF WINDOW FOR 2,526 CIVIL SERVICES MAINS QUALIFIERS",
+          "source": "The Indian Express",
+          "kicker": "INDIA • CLEAN CITIES",
+          "headline": "NAVI MUMBAI TOPS INDIA’S CLEANEST-CITY SURVEY",
           "paragraphs": [
-            "Candidates shortlisted for the Civil Services Personality Test can submit or update their Detailed Application Form from November 11 through 25, until 6 p.m. The commission said interview dates will be announced separately."
+            "Navi Mumbai was named India’s cleanest city in the 2025–26 Swachh Survekshan, the Centre’s tenth annual cleanliness survey.",
+            "Surat and Vijayawada placed second and third, respectively."
           ],
-          "moreUrl": "https://www.upsc.gov.in/whats-new/Civil%20Services%20%28Main%29%20Examination%2C%202026/Written%20Result%20%28with%20name%29"
+          "moreUrl": "https://indianexpress.com/article/india/navi-mumbai-cleanest-city-india-swachh-survekshan-awards-2025-26-surat-vijayawada-10959238/"
         }
       ]
     },
     {
-      "separator": "— INDIA • YOUNG ACHIEVERS & BENGALURU WEATHER —",
+      "separator": "— INDIA • AGRICULTURE, SCIENCE & BENGALURU WEATHER —",
       "className": "news-section sports-section",
-      "ariaLabel": "India student achievements and Bengaluru weather news",
+      "ariaLabel": "India agriculture and science updates, with Bengaluru weather",
       "stories": [
         {
           "className": "section-lead sports-lead",
           "headlineClass": "section-headline",
           "source": "The Indian Express",
-          "kicker": "INDIA • INTERNATIONAL OLYMPIAD",
-          "headline": "INDIAN JUNIORS WIN FIVE MEDALS AT ASTRONOMY OLYMPIAD",
+          "kicker": "INDIA • CLEAN ENERGY",
+          "headline": "₹250-CRORE FUNDING FOR PROPOSED AGROWASTE-TO-FUELS PLANT",
           "paragraphs": [
-            "Indian students won five medals, including two gold, two silver and one bronze, at the International Olympiad on Astronomy and Astrophysics for Juniors in Thailand. The five-member team competed against students from 25 countries."
+            "Greenjoules has secured ₹250 crore for a proposed plant that would convert agricultural residues such as paddy straw, husk and bagasse into bio-crude.",
+            "The company says its process uses catalytic treatment to turn farm waste into fuel, creating another possible use for crop residues."
           ],
-          "moreUrl": "https://indianexpress.com/article/education/india-wins-five-medals-international-astronomy-astrophysics-olympiad-junior-2026-jee-main-advanced-10957213/"
+          "moreUrl": "https://indianexpress.com/article/india/greenjoules-pune-khed-city-bio-crude-plant-amazon-zerodha-funding-10959177/"
         },
         {
           "className": "section-brief listings-box",
-          "kicker": "WEDNESDAY • AT A GLANCE",
+          "source": "BCCI",
+          "kicker": "THURSDAY • AT A GLANCE",
           "headline": "TODAY’S AGENDA",
           "listing": [
-            "TODAY",
-            "National Education Day observed across India"
+            [
+              "TODAY",
+              "India U19 vs Afghanistan U19 • Asia Cup semi-final, 10:30 a.m. IST"
+            ],
+            [
+              "FRIDAY",
+              "PM Narendra Modi’s Bengaluru visit and city project events"
+            ]
           ]
         },
         {
@@ -227,11 +244,13 @@
           "headlineClass": "lower-headline",
           "source": "India Meteorological Department",
           "kicker": "BENGALURU • WEATHER",
-          "headline": "PARTLY CLOUDY TODAY; NO CITY WARNING IN FORCE",
-          "paragraphs": [
-            "The India Meteorological Department forecast partly cloudy skies in Bengaluru on Wednesday, with a minimum temperature of 19°C and a maximum of 29°C. No warning is in effect for the city."
-          ],
-          "moreUrl": "https://city.imd.gov.in/citywx/citywxnew_warnings.php?id=43295"
+          "headline": "MAINLY CLEAR TODAY; NO CITY WARNING IN FORCE",
+          "weather": {
+            "paragraphs": [
+              "The India Meteorological Department forecasts mainly clear skies for Bengaluru on Thursday, with a minimum of 19°C and maximum of 29°C. No warning is in force."
+            ],
+            "moreUrl": "https://city.imd.gov.in/citywx/citywxnew_warnings.php?id=43295"
+          }
         }
       ]
     }
