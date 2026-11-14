@@ -5,12 +5,12 @@
     "tagline": "Open sources. Fresh news. One paper. A newspaper assembled from the open web",
     "established": "2026",
     "weatherLabel": "BENGALURU WEATHER",
-    "weatherSummary": "Partly cloudy. Bengaluru: 29°C / 19°C; no warning today.",
+    "weatherSummary": "Partly cloudy. Bengaluru: 30°C / 16°C; no warning today.",
     "motto": "FROM OPEN SOURCES DESK",
     "editionLabel": "DAILY READ",
     "editionSummary": "Complete Morning Ledger",
     "edition": "BENGALURU • INDIA EDITION",
-    "dateline": "BENGALURU, FRIDAY, NOVEMBER 13, 2026",
+    "dateline": "BENGALURU, SATURDAY, NOVEMBER 14, 2026",
     "greeting": "GOOD MORNING :)",
     "footer": "Open Newspaper • Bengaluru and India Edition • Independent coverage from open sources."
   },
@@ -42,195 +42,200 @@
   ],
   "cityWatch": {
     "label": "CITY WATCH",
-    "text": "Greater Bengaluru Authority chief commissioner Maheshwar Rao has asked the five city corporations to speed up pothole repairs and penalise unauthorised digging on newly asphalted roads.",
-    "attribution": "— The Hindu"
+    "text": "Karnataka plans to appeal the High Court ruling on its enhanced SC/ST quota and ask the Prime Minister to include the hike in the Constitution’s Ninth Schedule.",
+    "attribution": "— Public TV"
   },
   "lead": {
-    "source": "Business Standard",
-    "kicker": "INDIA • COST OF LIVING",
-    "headline": "RETAIL INFLATION HITS 6.09%, BREACHING RBI’S UPPER BAND",
-    "deck": "October’s consumer inflation crossed 6% for the first time in two years as food prices climbed, intensifying pressure on household budgets and the central bank.",
+    "source": "The Indian Express",
+    "kicker": "KARNATAKA • JUSTICE",
+    "headline": "WOMAN PRESUMED MURDERED TURNS UP ALIVE AFTER MAN SPENT 2.6 YEARS IN JAIL",
+    "deck": "A woman reported missing in Mandya in 2019 returned this week. Police say they have reopened the case; the man charged with her murder was released on bail in 2024.",
     "paragraphs": [
-      "India’s retail inflation rose to 6.09% in October, up from 5.54% in September, and moved above the Reserve Bank of India’s 6% upper tolerance limit for the first time in two years.",
-      "Food inflation accelerated to 8.94% from 7.74%. Onion prices rose 116.22% year on year and garlic 60.74%, according to provisional figures released by the Ministry of Statistics and Programme Implementation.",
-      "The reading follows the change to the consumer price index series and may strengthen expectations of another rate increase. The RBI’s next policy decision is due in December."
+      "A construction worker spent 2.6 years in prison after being charged with murdering Manju N, who disappeared from Pandavapura in 2019. She returned alive on November 11, exposing major gaps in the investigation.",
+      "Police had relied on a call she made from the worker’s phone before she went missing. He said he had lent it to a stranger at a bus stand and denied knowing her. He was released on bail in February 2024.",
+      "Manju told reporters she had eloped and did not know a murder case had been filed. Police say she is now at a women’s support centre and that they will investigate the case; her lawyer has informed the court."
     ],
-    "moreUrl": "https://www.business-standard.com/economy/news/retail-inflation-at-6-09-in-october-breaches-rbi-s-upper-band-after-2-yrs-126111201088_1.html"
+    "image": {
+      "src": "https://images.indianexpress.com/2026/11/mandya-crime.jpg?w=1024",
+      "alt": "Illustrative AI-generated image for the Mandya case after the woman presumed murdered returned alive",
+      "caption": "Illustrative AI-generated image. Photo: The Indian Express."
+    },
+    "moreUrl": "https://indianexpress.com/article/cities/bangalore/karnataka-woman-found-alive-murder-case-mandya-10961457/"
   },
   "sidebarStory": {
     "className": "sidebar-item",
     "headlineClass": "side-headline",
     "tag": "div",
-    "source": "Business Standard",
-    "kicker": "CONSUMERS • RIDE-HAILING",
-    "headline": "OLA FINED ₹10 LAKH OVER ADVANCE-TIP PROMPTS",
-    "subhead": "The consumer regulator says the app misled riders by suggesting an advance tip could improve their chances of getting a quicker ride.",
+    "source": "The Indian Express",
+    "kicker": "NATIONAL SECURITY • AIR FORCE",
+    "headline": "IAF WING COMMANDER ACCUSED OF SHARING WAR PLANS WITH PAKISTANI OPERATIVE",
+    "subhead": "A Delhi police chargesheet alleges that classified deployment, drone and aircraft details were sent to a suspected intelligence operative.",
     "paragraphs": [
-      "The Central Consumer Protection Authority directed ANI Technologies, which operates Ola, to stop the advance tipping prompt and imposed a ₹10-lakh penalty.",
-      "The authority said the prompt created a misleading impression that paying extra could speed up driver acceptance. Its order was issued on November 10."
+      "Police allege the officer shared war-plan documents, drone capabilities, military deployment locations and details of frontline aircraft movements. The chargesheet says the disclosures risked exposing operational vulnerabilities.",
+      "Investigators also allege the officer installed spyware on devices used by five subordinates. The case is being prosecuted under the Official Secrets Act."
     ],
-    "moreUrl": "https://www.business-standard.com/amp/companies/news/ccpa-orders-ola-to-stop-advance-tipping-feature-imposes-10-lakh-fine-126111200184_1.html"
+    "moreUrl": "https://indianexpress.com/article/india/indian-air-force-officer-arrest-pakistan-spy-war-plans-leak-official-secrets-act-10960907/lite/"
   },
   "groups": [
     {
-      "separator": "— BENGALURU • CITY & TECHNOLOGY —",
+      "separator": "— BENGALURU & KARNATAKA • CITY, JOBS & INFRASTRUCTURE —",
       "className": "lower-page-grid",
-      "ariaLabel": "Bengaluru city, civic and technology news",
+      "ariaLabel": "Bengaluru and Karnataka local employment, infrastructure and crime news",
       "stories": [
         {
           "className": "lower-column",
           "headlineClass": "lower-headline",
-          "source": "The Times of India",
-          "kicker": "BENGALURU • ROAD SAFETY",
-          "headline": "BRIDE-TO-BE AND COUSIN KILLED IN CONTAINER-TRUCK CRASH",
+          "source": "Bangalore Mirror",
+          "kicker": "BENGALURU • AIRPORT JOBS",
+          "headline": "LOCALS SEEK TRANSPARENT HIRING DATA AT KEMPEGOWDA AIRPORT",
           "paragraphs": [
-            "A woman due to marry later this month and her cousin died after a container truck hit their scooter in Bengaluru on Thursday.",
-            "The pair had been travelling to deliver a final wedding invitation, police said. The fatal collision has renewed attention on heavy vehicles and two-wheeler safety on the city’s roads."
+            "A Kannada organisation has asked for a clear assessment of how many Kannadigas work across Kempegowda International Airport and its contractors.",
+            "Bangalore International Airport Ltd said it is engaging with authorities and stakeholders after representatives sought stronger local recruitment."
           ],
-          "moreUrl": "https://timesofindia.indiatimes.com/city/bengaluru/ride-to-hand-over-last-wedding-invitation-turned-into-her-final-journey-bride-to-be-crushed-to-death-by-container-truck-in-bengaluru/amp_articleshow/135776509.cms"
+          "moreUrl": "https://bangaloremirror.indiatimes.com/bangalore/others/kannadigas-demand-airport-jobs-data/amp_articleshow/135785725.cms"
         },
         {
           "className": "lower-column center-border",
           "headlineClass": "lower-headline",
           "source": "The Indian Express",
-          "kicker": "BENGALURU • PROPERTY RECORDS",
-          "headline": "GBA OFFICIAL, 32 OTHERS BOOKED OVER 98 E-KHATAS",
+          "kicker": "KARNATAKA • DRINKING WATER",
+          "headline": "STATE SEEKS TO BLACKLIST L&T OVER DELAYS AFFECTING 388 HABITATIONS",
           "paragraphs": [
-            "An assistant commissioner of the Greater Bengaluru Authority and 32 others have been booked for allegedly issuing digital property records for 98 ineligible properties.",
-            "The FIR says the e-khatas were issued between January and June despite rules barring papers for certain unauthorised properties."
+            "Rural Development Minister Eshwar Khandre directed officials to blacklist Larsen & Toubro over delays to a drinking-water project serving 388 habitations in Dharwad and Belagavi districts.",
+            "The project is meant to bring water from the Renukasagar reservoir. Officials were also told to issue final notices to other contractors that have missed deadlines."
           ],
-          "moreUrl": "https://indianexpress.com/article/cities/bangalore/bengaluru-e-khata-scam-gba-officer-98-ineligible-properties-10960491/"
+          "moreUrl": "https://indianexpress.com/article/cities/bangalore/karnataka-minister-eshwar-khandre-orders-blacklisting-delay-rural-water-supply-works-10960587/"
         },
         {
           "className": "lower-column",
           "headlineClass": "lower-headline",
-          "source": "The Week / PTI",
-          "kicker": "KARNATAKA • QUANTUM TECH",
-          "headline": "KARNATAKA TO DRAFT QUANTUM TECHNOLOGY POLICY",
+          "source": "The Indian Express",
+          "kicker": "BENGALURU • POLICE",
+          "headline": "ONE ACCUSED IN WHITEFIELD LAWYER’S MURDER HELD IN BIHAR",
           "paragraphs": [
-            "The state plans a policy to support quantum research, education, startups and industry, minister Ajay Dharam Singh said.",
-            "Officials were also asked to prepare for Quantum India Bengaluru 2027, which the government hopes to develop as a global platform."
+            "Police arrested Amit Kumar Dubey in Bihar in connection with the October killing of Bengaluru advocate B Manjunath.",
+            "The prime suspect, accused of shooting the 43-year-old lawyer, remained at large in the latest police update."
           ],
-          "moreUrl": "https://www.theweek.in/wire-updates/national/2026/11/12/karnataka-to-formulate-quantum-technology-policy-to-promote-research-startups-investment-minister.amp.html"
+          "moreUrl": "https://indianexpress.com/article/cities/bangalore/bengaluru-advocate-murder-accused-arrested-bihar-10961182/lite/"
         }
       ]
     },
     {
-      "separator": "— INDIA • PUBLIC AFFAIRS & HEALTH —",
+      "separator": "— INDIA • SECURITY, RIGHTS & PUBLIC HEALTH —",
       "className": "news-section foreign-section",
-      "ariaLabel": "India elections, public health and financial services news",
+      "ariaLabel": "India national security, public health and conflict news",
       "stories": [
         {
           "className": "section-lead",
           "headlineClass": "section-headline",
           "source": "The Indian Express",
-          "kicker": "INDIA • ELECTIONS",
-          "headline": "DRAFT VOTER ROLLS GROW 1–3% IN STATES AFTER REVISION",
+          "kicker": "MANIPUR • SECURITY",
+          "headline": "FOUR KILLED IN SUSPECTED MILITANT ATTACK ON TWO CARS",
           "paragraphs": [
-            "Draft electoral rolls published in the first round of post-SIR revisions show voter numbers rising by between 1% and 3% across the covered states and union territories.",
-            "The Election Commission said schedules for several remaining states, including Karnataka, would be announced later. The draft lists are open to claims and corrections."
+            "Two men and two women were killed when suspected militants fired on two vehicles in Manipur’s Ukhrul district, police said.",
+            "The shooting took place on the Imphal–Ukhrul road, a day after a woman was killed in a separate attack in the state."
           ],
-          "moreUrl": "https://indianexpress.com/article/india/draft-electoral-voter-rolls-2026-ssr-nine-states-elector-increase-10960798/"
+          "moreUrl": "https://indianexpress.com/article/india/manipur-ukhrul-firing-four-killed-imphal-road-attack-10961705/lite/"
         },
         {
           "className": "section-brief",
           "headlineClass": "lower-headline",
-          "source": "The Indian Express",
-          "kicker": "TELANGANA • HEALTH & CRIME",
-          "headline": "43 WOMEN RESCUED IN ALLEGED HYDERABAD EGG-HARVESTING RACKET",
+          "source": "The New Indian Express",
+          "kicker": "DELHI • AIR QUALITY",
+          "headline": "CAPITAL’S AIR FORECAST TO STAY VERY POOR THROUGH WEEKEND",
           "paragraphs": [
-            "Police rescued 43 women in an alleged illegal egg-extraction and sale operation in Hyderabad and are investigating possible links to 23 IVF centres.",
-            "Eight suspects have been arrested. Investigators say some women were recruited through financial promises and are examining whether coercion or deception was involved."
+            "Delhi’s AQI settled at 373 on Friday evening after several stations recorded severe pollution earlier in the day.",
+            "The Air Quality Early Warning System expects very poor air to persist through November 16, keeping health concerns high across the capital."
           ],
-          "moreUrl": "https://indianexpress.com/article/india/hyderabad-illegal-egg-harvesting-ivf-racket-10959415/lite/"
+          "moreUrl": "https://www.newindianexpress.com/cities/delhi/2026/Nov/13/delhis-aqi-drops-to-373-but-16-monitoring-stations-record-severe-pollution"
         },
         {
           "className": "section-brief",
           "headlineClass": "lower-headline",
-          "source": "Reserve Bank of India",
-          "kicker": "INDIA • MONEY TRANSFERS",
-          "headline": "RBI CONSOLIDATES RULES FOR DOMESTIC MONEY TRANSFERS",
+          "source": "NDTV / Reuters",
+          "kicker": "INDIA • INTERNET GOVERNANCE",
+          "headline": "PROBE UNDER WAY AFTER FORGED COURT ORDERS LED TO 129 SITE BLOCKS",
           "paragraphs": [
-            "New RBI directions bring domestic money-transfer instructions for banks and authorised payment operators into a single framework, effective immediately.",
-            "The rules cover cash-based remittances, including services used by people without bank accounts, and require cash remittances to be identified in transaction messages."
+            "India is investigating how telecom officials were persuaded to block 129 betting websites using court orders that investigators say were forged.",
+            "Police have sought ministry records as part of the inquiry into documents presented in the names of the Rajasthan and Allahabad High Courts."
           ],
-          "moreUrl": "https://www.rbi.org.in/scripts/notificationuser.aspx/upload/Scripts/NotificationUser.aspx?Id=13752&Mode=0"
+          "moreUrl": "https://www.ndtv.com/india-news/fake-court-orders-seals-how-fraudsters-got-129-websites-blocked-department-of-telecom-high-court-12315546"
         }
       ]
     },
     {
-      "separator": "— BENGALURU & INDIA • BUSINESS, TRAVEL & CULTURE —",
+      "separator": "— INDIA • TRADE, INDUSTRY & JUSTICE —",
       "className": "news-section city-section",
-      "ariaLabel": "Bengaluru and India business, travel and culture news",
+      "ariaLabel": "India trade policy, industry and justice news",
       "stories": [
         {
           "className": "section-lead city-lead",
           "headlineClass": "section-headline",
-          "source": "Oneindia",
-          "kicker": "BENGALURU • CONSUMER ALERT",
-          "headline": "RAMESHWARAM CAFE WARNS OF FAKE FRANCHISE OFFERS",
+          "source": "The Indian Express",
+          "kicker": "INDIA • US TRADE TALKS",
+          "headline": "US ASSURES INDIA A TARIFF EDGE OVER RIVALS IN PROPOSED TRADE DEAL",
           "paragraphs": [
-            "The Bengaluru-founded restaurant chain has issued a public warning after fake franchise letters circulated using its name.",
-            "The company cautioned prospective partners against paying money in response to unauthorised offers. The chain has expanded beyond Karnataka to cities including Hyderabad, Pune and Mumbai."
+            "US negotiators have assured India that a proposed bilateral trade agreement will give Indian goods a comparative tariff advantage over competing countries, a senior government official said.",
+            "The two countries are continuing talks on the first phase of the deal, with parts of the customs and trade-facilitation chapter reported resolved."
           ],
-          "moreUrl": "https://www.oneindia.com/bengaluru/the-rameshwaram-cafe-issues-public-notice-after-fake-franchise-letters-surface-8257807.html"
+          "moreUrl": "https://indianexpress.com/article/business/india-us-trade-deal-comparative-advantage-tariffs-midterm-elections-10961869/"
         },
         {
           "className": "section-brief",
           "headlineClass": "lower-headline",
           "source": "The Indian Express",
-          "kicker": "RAILWAYS • BENGALURU–GOA",
-          "headline": "NEW VANDE BHARAT TO LINK BENGALURU, MANGALURU AND MADGAON",
+          "kicker": "MAHARASHTRA • ENERGY & ENVIRONMENT",
+          "headline": "CENTRE ORDERS PROBE AFTER ADANI PROJECT COST CUT BY 99%",
           "paragraphs": [
-            "A new Vande Bharat service is set to connect Bengaluru with Mangaluru and Madgaon, with regular operations scheduled to begin November 15.",
-            "The route adds a direct fast-train option between the state capital, the Karnataka coast and Goa; the existing Mangaluru–Madgaon Vande Bharat is due to be discontinued."
+            "The Centre has ordered a probe after Adani Green Energy revised the estimated cost of its 1,500-MW Tarali pumped-storage project from ₹5,675 crore to ₹56.75 crore.",
+            "The revision also sharply reduced the proposed wildlife conservation deposit, prompting scrutiny of the changed estimate."
           ],
-          "moreUrl": "https://indianexpress.com/article/india/pm-modi-flag-off-bengaluru-mangaluru-madgaon-vande-bharat-express-november-13-10959736/lite/"
+          "moreUrl": "https://indianexpress.com/article/india/today-india-breaking-news-live-updates-13-november-2026-delhi-aqi-severe-aiims-iaf-officer-espionage-adani-satara-10961128/lite/"
         },
         {
           "className": "section-brief",
           "headlineClass": "lower-headline",
-          "source": "Press Information Bureau",
-          "kicker": "NEW DELHI • TRADE FAIR",
-          "headline": "45TH INDIA INTERNATIONAL TRADE FAIR OPENS TODAY",
+          "source": "The Indian Express",
+          "kicker": "UTTARAKHAND • ANKITA BHANDARI CASE",
+          "headline": "COURT ORDERS NARCO AND POLYGRAPH TESTS FOR ACTOR IN MURDER PROBE",
           "paragraphs": [
-            "The 2026 India International Trade Fair opens at Bharat Mandapam, bringing more than 3,500 exhibitors from India and abroad across 17 halls.",
-            "The fair runs through November 27. Public entry begins November 14; the first day is for business visitors."
+            "A Dehradun court ordered actor Urmila Sanawar to undergo narco-analysis and polygraph examinations over an audio recording that refers to a “VIP” in connection with the 2022 murder of 19-year-old Ankita Bhandari.",
+            "The order concerns a new line of inquiry into the high-profile case."
           ],
-          "moreUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2335428&lang=1&reg=3"
+          "moreUrl": "https://indianexpress.com/article/india/ankita-bhandari-case-dehradun-court-narco-polygraph-tests-actor-urmila-sanawar-10962052/lite/"
         }
       ]
     },
     {
-      "separator": "— INDIA • INDUSTRY, RAIL & BENGALURU WEATHER —",
+      "separator": "— INDIA • TECHNOLOGY, EDUCATION & BENGALURU WEATHER —",
       "className": "news-section sports-section",
-      "ariaLabel": "India industry and rail updates, with Bengaluru weather",
+      "ariaLabel": "India technology and education updates, with Bengaluru weather",
       "stories": [
         {
           "className": "section-lead sports-lead",
           "headlineClass": "section-headline",
-          "source": "The Indian Express",
-          "kicker": "INDIA • BATTERY RECYCLING",
-          "headline": "INDIA BANS EXPORTS OF LITHIUM-ION BATTERY BLACK MASS",
+          "source": "The New Indian Express",
+          "kicker": "INDIA • DIGITAL SERVICES",
+          "headline": "MICROSOFT OUTAGE DISRUPTS AIRLINE SUPPORT AS RECOVERY CONTINUES",
           "paragraphs": [
-            "The government has prohibited exports of lithium-ion battery black mass, the material recovered when spent batteries and electronics are processed.",
-            "The change is intended to retain battery-recycling material for domestic processing as India builds its critical-minerals and cell-manufacturing capacity."
+            "Microsoft said it was gradually restoring traffic in parts of its Asia-Pacific infrastructure, including India, after Outlook, Teams and other services were disrupted for a second day.",
+            "SpiceJet cancelled three Delhi departures and two others were delayed; IndiGo said its email support was affected while flight operations continued."
           ],
-          "moreUrl": "https://indianexpress.com/article/business/india-bans-lithium-ion-battery-black-mass-exports-10958913/"
+          "moreUrl": "https://www.newindianexpress.com/india/2026/Nov/13/microsoft-restores-parts-of-india-apac-infrastructure-after-global-service-disruption"
         },
         {
           "className": "section-brief listings-box",
-          "source": "BCCI / Press Information Bureau",
-          "kicker": "FRIDAY • AT A GLANCE",
+          "source": "Bengaluru events desk / World Diabetes Day",
+          "kicker": "SATURDAY • AT A GLANCE",
           "headline": "TODAY’S AGENDA",
           "listing": [
             [
-              "7:30 A.M. IST",
-              "India vs New Zealand • fourth ODI"
+              "CHILDREN’S DAY",
+              "Storytelling, workshops and family events are scheduled around Bengaluru today."
             ],
             [
-              "TODAY",
-              "45th India International Trade Fair opens for business visitors; public entry begins Nov 14"
+              "WORLD DIABETES DAY",
+              "KLES Diabetes Centre in Belagavi begins a week of screening and diabetes education."
             ]
           ]
         },
@@ -242,7 +247,7 @@
           "headline": "PARTLY CLOUDY TODAY; NO CITY WARNING IN FORCE",
           "weather": {
             "paragraphs": [
-              "The India Meteorological Department forecasts partly cloudy skies for Bengaluru on Friday, with a minimum of 19°C and maximum of 29°C. No warning is in force."
+              "The India Meteorological Department forecasts partly cloudy skies for Bengaluru on Saturday, with a minimum of 16°C and maximum of 30°C. No warning is in force."
             ],
             "moreUrl": "https://city.imd.gov.in/citywx/citywxnew_warnings.php?id=43295"
           }
