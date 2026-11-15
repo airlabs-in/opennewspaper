@@ -5,12 +5,12 @@
     "tagline": "Open sources. Fresh news. One paper. A newspaper assembled from the open web",
     "established": "2026",
     "weatherLabel": "BENGALURU WEATHER",
-    "weatherSummary": "Partly cloudy. Bengaluru: 30°C / 16°C; no warning today.",
+    "weatherSummary": "Partly cloudy. Bengaluru: 29°C / 17°C; no warning today.",
     "motto": "FROM OPEN SOURCES DESK",
     "editionLabel": "DAILY READ",
     "editionSummary": "Complete Morning Ledger",
     "edition": "BENGALURU • INDIA EDITION",
-    "dateline": "BENGALURU, SATURDAY, NOVEMBER 14, 2026",
+    "dateline": "BENGALURU, SUNDAY, NOVEMBER 15, 2026",
     "greeting": "GOOD MORNING :)",
     "footer": "Open Newspaper • Bengaluru and India Edition • Independent coverage from open sources."
   },
@@ -42,200 +42,195 @@
   ],
   "cityWatch": {
     "label": "CITY WATCH",
-    "text": "Karnataka plans to appeal the High Court ruling on its enhanced SC/ST quota and ask the Prime Minister to include the hike in the Constitution’s Ninth Schedule.",
-    "attribution": "— Public TV"
+    "text": "Karnataka High Court calls for a digital system to track the city’s trees and prevent hazards from falling branches.",
+    "attribution": "— Deccan Herald"
   },
   "lead": {
     "source": "The Indian Express",
-    "kicker": "KARNATAKA • JUSTICE",
-    "headline": "WOMAN PRESUMED MURDERED TURNS UP ALIVE AFTER MAN SPENT 2.6 YEARS IN JAIL",
-    "deck": "A woman reported missing in Mandya in 2019 returned this week. Police say they have reopened the case; the man charged with her murder was released on bail in 2024.",
+    "kicker": "INDIA • CRICKET",
+    "headline": "INDIA EDGE PAKISTAN IN LAST-BALL U-19 ASIA CUP FINAL THRILLER",
+    "deck": "Mohit Ulva’s boundary off the final delivery completed a one-wicket chase of 338 in Oman and gave India a record ninth title.",
     "paragraphs": [
-      "A construction worker spent 2.6 years in prison after being charged with murdering Manju N, who disappeared from Pandavapura in 2019. She returned alive on November 11, exposing major gaps in the investigation.",
-      "Police had relied on a call she made from the worker’s phone before she went missing. He said he had lent it to a stranger at a bus stand and denied knowing her. He was released on bail in February 2024.",
-      "Manju told reporters she had eloped and did not know a murder case had been filed. Police say she is now at a women’s support centre and that they will investigate the case; her lawyer has informed the court."
+      "India beat Pakistan by one wicket in a dramatic Under-19 Asia Cup final at Al Amerat, chasing down 338 on the last ball.",
+      "Pakistan had set the imposing target after posting 337 for nine. India’s chase faltered late, but Mohit Ulva and Manal Chauhan kept the side in contention with a decisive ninth-wicket stand.",
+      "Ulva struck the winning boundary from the final delivery, sealing India’s ninth title in the competition."
     ],
-    "image": {
-      "src": "https://images.indianexpress.com/2026/11/mandya-crime.jpg?w=1024",
-      "alt": "Illustrative AI-generated image for the Mandya case after the woman presumed murdered returned alive",
-      "caption": "Illustrative AI-generated image. Photo: The Indian Express."
-    },
-    "moreUrl": "https://indianexpress.com/article/cities/bangalore/karnataka-woman-found-alive-murder-case-mandya-10961457/"
+    "moreUrl": "https://indianexpress.com/article/sports/cricket/india-defeat-pakistan-1-wicket-u19-asia-cup-title-10963098/"
   },
   "sidebarStory": {
     "className": "sidebar-item",
     "headlineClass": "side-headline",
     "tag": "div",
-    "source": "The Indian Express",
-    "kicker": "NATIONAL SECURITY • AIR FORCE",
-    "headline": "IAF WING COMMANDER ACCUSED OF SHARING WAR PLANS WITH PAKISTANI OPERATIVE",
-    "subhead": "A Delhi police chargesheet alleges that classified deployment, drone and aircraft details were sent to a suspected intelligence operative.",
+    "source": "The Times of India",
+    "kicker": "BENGALURU • NAMMA METRO",
+    "headline": "PINK LINE STRETCH OPENS AS BENGALURU METRO NETWORK CROSSES 100 KM",
+    "subhead": "The 7.5-km elevated section from Kalena Agrahara to Tavarekere began commercial service on Saturday, adding a key south Bengaluru connection.",
     "paragraphs": [
-      "Police allege the officer shared war-plan documents, drone capabilities, military deployment locations and details of frontline aircraft movements. The chargesheet says the disclosures risked exposing operational vulnerabilities.",
-      "Investigators also allege the officer installed spyware on devices used by five subordinates. The case is being prosecuted under the Official Secrets Act."
+      "Prime Minister Narendra Modi inaugurated the elevated stretch of the Pink Line on November 14, and passenger services began the same day.",
+      "The new section extends the city’s metro network beyond 100 km. The remaining underground stretch is expected to open later, completing the line towards Nagawara."
     ],
-    "moreUrl": "https://indianexpress.com/article/india/indian-air-force-officer-arrest-pakistan-spy-war-plans-leak-official-secrets-act-10960907/lite/"
+    "moreUrl": "https://timesofindia.indiatimes.com/city/bengaluru/pm-opens-pink-line-stretch-bluru-joins-100-km-metro-club/articleshow/135814784.cms"
   },
   "groups": [
     {
-      "separator": "— BENGALURU & KARNATAKA • CITY, JOBS & INFRASTRUCTURE —",
+      "separator": "— BENGALURU & KARNATAKA • CITY, GOVERNANCE & TRANSPORT —",
       "className": "lower-page-grid",
-      "ariaLabel": "Bengaluru and Karnataka local employment, infrastructure and crime news",
+      "ariaLabel": "Bengaluru and Karnataka city, public safety and governance news",
       "stories": [
         {
           "className": "lower-column",
           "headlineClass": "lower-headline",
-          "source": "Bangalore Mirror",
-          "kicker": "BENGALURU • AIRPORT JOBS",
-          "headline": "LOCALS SEEK TRANSPARENT HIRING DATA AT KEMPEGOWDA AIRPORT",
+          "source": "Deccan Herald",
+          "kicker": "BENGALURU • URBAN FORESTRY",
+          "headline": "HIGH COURT SEEKS DIGITAL TREE RECORD TO PREVENT CITY HAZARDS",
           "paragraphs": [
-            "A Kannada organisation has asked for a clear assessment of how many Kannadigas work across Kempegowda International Airport and its contractors.",
-            "Bangalore International Airport Ltd said it is engaging with authorities and stakeholders after representatives sought stronger local recruitment."
+            "Karnataka High Court pressed for a digital system to monitor Bengaluru’s trees and reduce risks from hazardous or falling trees.",
+            "The proposal would help authorities track trees and respond to safety concerns across the city."
           ],
-          "moreUrl": "https://bangaloremirror.indiatimes.com/bangalore/others/kannadigas-demand-airport-jobs-data/amp_articleshow/135785725.cms"
+          "moreUrl": "https://www.deccanherald.com/india/karnataka/bengaluru/who-is-watching-bengalurus-trees-karnataka-hc-pushes-for-digital-system-to-prevent-tree-hazards-in-city-3828181"
         },
         {
           "className": "lower-column center-border",
           "headlineClass": "lower-headline",
-          "source": "The Indian Express",
-          "kicker": "KARNATAKA • DRINKING WATER",
-          "headline": "STATE SEEKS TO BLACKLIST L&T OVER DELAYS AFFECTING 388 HABITATIONS",
+          "source": "Hindustan Times",
+          "kicker": "KARNATAKA • RECRUITMENT SCAM",
+          "headline": "ED ATTACHES ₹1.22 CRORE ASSETS IN KPSC RECRUITMENT SCAM",
           "paragraphs": [
-            "Rural Development Minister Eshwar Khandre directed officials to blacklist Larsen & Toubro over delays to a drinking-water project serving 388 habitations in Dharwad and Belagavi districts.",
-            "The project is meant to bring water from the Renukasagar reservoir. Officials were also told to issue final notices to other contractors that have missed deadlines."
+            "The Enforcement Directorate attached assets worth ₹1.22 crore in its investigation into alleged irregularities in Karnataka Public Service Commission recruitment.",
+            "The action adds a financial investigation to a case drawing scrutiny over the integrity of public-service hiring."
           ],
-          "moreUrl": "https://indianexpress.com/article/cities/bangalore/karnataka-minister-eshwar-khandre-orders-blacklisting-delay-rural-water-supply-works-10960587/"
+          "moreUrl": "https://www.hindustantimes.com/cities/bengaluru-news/ed-attaches-rs-1-22-crore-worth-assets-in-kpsc-recruitment-scam-101794650504552.html"
         },
         {
           "className": "lower-column",
           "headlineClass": "lower-headline",
-          "source": "The Indian Express",
-          "kicker": "BENGALURU • POLICE",
-          "headline": "ONE ACCUSED IN WHITEFIELD LAWYER’S MURDER HELD IN BIHAR",
+          "source": "The Times of India",
+          "kicker": "BENGALURU • HEBBAL LAKE",
+          "headline": "CHILDREN USE INSECT COSTUMES TO PROTEST PROPOSED HEBBAL LAKE TUNNEL",
           "paragraphs": [
-            "Police arrested Amit Kumar Dubey in Bihar in connection with the October killing of Bengaluru advocate B Manjunath.",
-            "The prime suspect, accused of shooting the 43-year-old lawyer, remained at large in the latest police update."
+            "Children dressed as butterflies, ants and other insects gathered at Hebbal Lake to oppose the proposed short tunnel project and raise concerns about green-space loss.",
+            "The young protesters used placards and costumes to draw attention to the lake’s ecology and the impact of construction on the area."
           ],
-          "moreUrl": "https://indianexpress.com/article/cities/bangalore/bengaluru-advocate-murder-accused-arrested-bihar-10961182/lite/"
+          "moreUrl": "https://timesofindia.indiatimes.com/city/bengaluru/children-dress-up-as-insects-to-highlight-hebbal-lake-concerns-in-bengaluru/articleshow/135837486.cms"
         }
       ]
     },
     {
-      "separator": "— INDIA • SECURITY, RIGHTS & PUBLIC HEALTH —",
+      "separator": "— INDIA • AIR QUALITY, WEATHER & SECURITY —",
       "className": "news-section foreign-section",
-      "ariaLabel": "India national security, public health and conflict news",
+      "ariaLabel": "India air quality, weather and national security news",
       "stories": [
         {
           "className": "section-lead",
           "headlineClass": "section-headline",
           "source": "The Indian Express",
-          "kicker": "MANIPUR • SECURITY",
-          "headline": "FOUR KILLED IN SUSPECTED MILITANT ATTACK ON TWO CARS",
+          "kicker": "NCR • AIR POLLUTION",
+          "headline": "CENTRE ORDERS 191 POLLUTING UNITS SEALED, FIXES OFFICIALS’ ACCOUNTABILITY",
           "paragraphs": [
-            "Two men and two women were killed when suspected militants fired on two vehicles in Manipur’s Ukhrul district, police said.",
-            "The shooting took place on the Imphal–Ukhrul road, a day after a woman was killed in a separate attack in the state."
+            "With Delhi’s air nearing the severe category, the Centre ordered 191 non-compliant polluting industries in the National Capital Region sealed.",
+            "States were asked to nominate senior officials to oversee implementation of pollution-control measures across the region."
           ],
-          "moreUrl": "https://indianexpress.com/article/india/manipur-ukhrul-firing-four-killed-imphal-road-attack-10961705/lite/"
+          "moreUrl": "https://indianexpress.com/article/india/delhi-air-pollution-bhupender-yadav-caqm-crackdown-191-industries-sealed-officials-accountability-10963249/lite/"
         },
         {
           "className": "section-brief",
           "headlineClass": "lower-headline",
-          "source": "The New Indian Express",
-          "kicker": "DELHI • AIR QUALITY",
-          "headline": "CAPITAL’S AIR FORECAST TO STAY VERY POOR THROUGH WEEKEND",
+          "source": "India Meteorological Department",
+          "kicker": "BAY OF BENGAL • CYCLONE WATCH",
+          "headline": "LOW-PRESSURE SYSTEM MAY STRENGTHEN INTO CYCLONE BY NOVEMBER 16",
           "paragraphs": [
-            "Delhi’s AQI settled at 373 on Friday evening after several stations recorded severe pollution earlier in the day.",
-            "The Air Quality Early Warning System expects very poor air to persist through November 16, keeping health concerns high across the capital."
+            "A well-marked low-pressure area over the southeast Bay of Bengal is forecast to intensify and move northwest.",
+            "The IMD said a cyclonic storm may form over the central south and adjoining west-central Bay of Bengal around the evening of November 16."
           ],
-          "moreUrl": "https://www.newindianexpress.com/cities/delhi/2026/Nov/13/delhis-aqi-drops-to-373-but-16-monitoring-stations-record-severe-pollution"
+          "moreUrl": "https://internal.imd.gov.in/press_release/20261114_pr_5489.pdf"
         },
         {
           "className": "section-brief",
           "headlineClass": "lower-headline",
-          "source": "NDTV / Reuters",
-          "kicker": "INDIA • INTERNET GOVERNANCE",
-          "headline": "PROBE UNDER WAY AFTER FORGED COURT ORDERS LED TO 129 SITE BLOCKS",
+          "source": "The Hindustan Times",
+          "kicker": "NEW DELHI • PARLIAMENT SECURITY CASE",
+          "headline": "COURT DENIES BAIL TO TWO MEN IN 2023 PARLIAMENT SECURITY BREACH CASE",
           "paragraphs": [
-            "India is investigating how telecom officials were persuaded to block 129 betting websites using court orders that investigators say were forged.",
-            "Police have sought ministry records as part of the inquiry into documents presented in the names of the Rajasthan and Allahabad High Courts."
+            "A Delhi court rejected bail pleas by two accused in the Parliament security breach case.",
+            "The case concerns the 2023 incident in which intruders entered the Lok Sabha chamber and released coloured smoke."
           ],
-          "moreUrl": "https://www.ndtv.com/india-news/fake-court-orders-seals-how-fraudsters-got-129-websites-blocked-department-of-telecom-high-court-12315546"
+          "moreUrl": "https://www.hindustantimes.com/india-news/delhi-court-denies-bail-to-2-men-in-2023-parliament-security-breach-case-101794642496590.html"
         }
       ]
     },
     {
-      "separator": "— INDIA • TRADE, INDUSTRY & JUSTICE —",
+      "separator": "— INDIA • EDUCATION, ECONOMY & SPORT —",
       "className": "news-section city-section",
-      "ariaLabel": "India trade policy, industry and justice news",
+      "ariaLabel": "India education, economy and sport news",
       "stories": [
         {
           "className": "section-lead city-lead",
           "headlineClass": "section-headline",
-          "source": "The Indian Express",
-          "kicker": "INDIA • US TRADE TALKS",
-          "headline": "US ASSURES INDIA A TARIFF EDGE OVER RIVALS IN PROPOSED TRADE DEAL",
+          "source": "The New Indian Express",
+          "kicker": "INDIA • EXAM SECURITY",
+          "headline": "NTA SETS UP PERMANENT OBSERVER POOL AFTER NEET-UG PAPER LEAK",
           "paragraphs": [
-            "US negotiators have assured India that a proposed bilateral trade agreement will give Indian goods a comparative tariff advantage over competing countries, a senior government official said.",
-            "The two countries are continuing talks on the first phase of the deal, with parts of the customs and trade-facilitation chapter reported resolved."
+            "The National Testing Agency is building a permanent pool of independent observers as part of changes following the NEET-UG paper leak earlier this year.",
+            "The proposed pool includes retired armed-forces and government personnel who would monitor examinations separately from local centre officials."
           ],
-          "moreUrl": "https://indianexpress.com/article/business/india-us-trade-deal-comparative-advantage-tariffs-midterm-elections-10961869/"
+          "moreUrl": "https://www.newindianexpress.com/india/2026/Nov/12/paper-leak-impact-nta-to-appoint-retired-armed-forces-personnel-as-observers-2"
         },
         {
           "className": "section-brief",
           "headlineClass": "lower-headline",
           "source": "The Indian Express",
-          "kicker": "MAHARASHTRA • ENERGY & ENVIRONMENT",
-          "headline": "CENTRE ORDERS PROBE AFTER ADANI PROJECT COST CUT BY 99%",
+          "kicker": "HIMACHAL PRADESH • POLITICS",
+          "headline": "FIR REGISTERED OVER KANGANA RANAUT’S SOCIAL MEDIA POST",
           "paragraphs": [
-            "The Centre has ordered a probe after Adani Green Energy revised the estimated cost of its 1,500-MW Tarali pumped-storage project from ₹5,675 crore to ₹56.75 crore.",
-            "The revision also sharply reduced the proposed wildlife conservation deposit, prompting scrutiny of the changed estimate."
+            "Himachal Pradesh Police registered an FIR over a November 10 post on BJP MP Kangana Ranaut’s X account.",
+            "Police said the post contained alleged remarks about members of the Gandhi family, including former prime ministers Indira Gandhi and Rajiv Gandhi."
           ],
-          "moreUrl": "https://indianexpress.com/article/india/today-india-breaking-news-live-updates-13-november-2026-delhi-aqi-severe-aiims-iaf-officer-espionage-adani-satara-10961128/lite/"
+          "moreUrl": "https://indianexpress.com/article/cities/chandigarh/kangana-controversial-social-media-post-fir-registered-shimla-10962834/"
         },
         {
           "className": "section-brief",
           "headlineClass": "lower-headline",
-          "source": "The Indian Express",
-          "kicker": "UTTARAKHAND • ANKITA BHANDARI CASE",
-          "headline": "COURT ORDERS NARCO AND POLYGRAPH TESTS FOR ACTOR IN MURDER PROBE",
+          "source": "Hindustan Times",
+          "kicker": "INDIA • BETTING SCAM PROBE",
+          "headline": "CBI SEARCHES 33 LOCATIONS ACROSS SIX STATES IN MAHADEV APP CASE",
           "paragraphs": [
-            "A Dehradun court ordered actor Urmila Sanawar to undergo narco-analysis and polygraph examinations over an audio recording that refers to a “VIP” in connection with the 2022 murder of 19-year-old Ankita Bhandari.",
-            "The order concerns a new line of inquiry into the high-profile case."
+            "The CBI searched 33 locations across six states in its investigation into the Mahadev online betting app case.",
+            "Investigators recovered phones, digital devices and documents that officials said point to alleged mule bank accounts and hawala channels."
           ],
-          "moreUrl": "https://indianexpress.com/article/india/ankita-bhandari-case-dehradun-court-narco-polygraph-tests-actor-urmila-sanawar-10962052/lite/"
+          "moreUrl": "https://www.hindustantimes.com/india-news/mahadev-betting-app-case-cbi-searches-in-6-states-lead-to-recovery-of-digital-devices-key-docs-101794634230346.html"
         }
       ]
     },
     {
-      "separator": "— INDIA • TECHNOLOGY, EDUCATION & BENGALURU WEATHER —",
+      "separator": "— INDIA • SPORT, SUNDAY AGENDA & BENGALURU WEATHER —",
       "className": "news-section sports-section",
-      "ariaLabel": "India technology and education updates, with Bengaluru weather",
+      "ariaLabel": "India sport, Bengaluru Sunday events and weather",
       "stories": [
         {
           "className": "section-lead sports-lead",
           "headlineClass": "section-headline",
-          "source": "The New Indian Express",
-          "kicker": "INDIA • DIGITAL SERVICES",
-          "headline": "MICROSOFT OUTAGE DISRUPTS AIRLINE SUPPORT AS RECOVERY CONTINUES",
+          "source": "International Shooting Sport Federation",
+          "kicker": "INDIA • SHOOTING",
+          "headline": "INDIA FINISH THIRD WITH 13 MEDALS AT WORLD CHAMPIONSHIPS",
           "paragraphs": [
-            "Microsoft said it was gradually restoring traffic in parts of its Asia-Pacific infrastructure, including India, after Outlook, Teams and other services were disrupted for a second day.",
-            "SpiceJet cancelled three Delhi departures and two others were delayed; IndiGo said its email support was affected while flight operations continued."
+            "India closed the Doha World Shooting Championships with 13 medals—two gold, seven silver and four bronze—to finish third in the standings.",
+            "China topped the table and Italy placed second as the two-week rifle, pistol and shotgun competition concluded."
           ],
-          "moreUrl": "https://www.newindianexpress.com/india/2026/Nov/13/microsoft-restores-parts-of-india-apac-infrastructure-after-global-service-disruption"
+          "moreUrl": "https://issfdev.azurewebsites.net/news/5339"
         },
         {
           "className": "section-brief listings-box",
-          "source": "Bengaluru events desk / World Diabetes Day",
-          "kicker": "SATURDAY • AT A GLANCE",
+          "source": "BookMyShow / The City 24/7",
+          "kicker": "SUNDAY • AT A GLANCE",
           "headline": "TODAY’S AGENDA",
           "listing": [
             [
-              "CHILDREN’S DAY",
-              "Storytelling, workshops and family events are scheduled around Bengaluru today."
+              "DHRUPAD UTSAV",
+              "Performances continue at Alliance Française de Bangalore through Sunday evening."
             ],
             [
-              "WORLD DIABETES DAY",
-              "KLES Diabetes Centre in Belagavi begins a week of screening and diabetes education."
+              "JAVED AKHTAR & SHABANA AZMI",
+              "Poetry and conversation with Javed Akhtar and Shabana Azmi runs from 4:30 to 6:30 p.m."
             ]
           ]
         },
@@ -247,7 +242,7 @@
           "headline": "PARTLY CLOUDY TODAY; NO CITY WARNING IN FORCE",
           "weather": {
             "paragraphs": [
-              "The India Meteorological Department forecasts partly cloudy skies for Bengaluru on Saturday, with a minimum of 16°C and maximum of 30°C. No warning is in force."
+              "The IMD forecast for Bengaluru on Sunday is partly cloudy skies, with a minimum of 17°C and maximum of 29°C. No warning is in force."
             ],
             "moreUrl": "https://city.imd.gov.in/citywx/citywxnew_warnings.php?id=43295"
           }
