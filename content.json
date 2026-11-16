@@ -5,12 +5,12 @@
     "tagline": "Open sources. Fresh news. One paper. A newspaper assembled from the open web",
     "established": "2026",
     "weatherLabel": "BENGALURU WEATHER",
-    "weatherSummary": "Partly cloudy. Bengaluru: 29°C / 17°C; no warning today.",
+    "weatherSummary": "Partly cloudy. Bengaluru: 25°C / 18°C; no warning today.",
     "motto": "FROM OPEN SOURCES DESK",
     "editionLabel": "DAILY READ",
     "editionSummary": "Complete Morning Ledger",
     "edition": "BENGALURU • INDIA EDITION",
-    "dateline": "BENGALURU, SUNDAY, NOVEMBER 15, 2026",
+    "dateline": "BENGALURU, MONDAY, NOVEMBER 16, 2026",
     "greeting": "GOOD MORNING :)",
     "footer": "Open Newspaper • Bengaluru and India Edition • Independent coverage from open sources."
   },
@@ -42,195 +42,200 @@
   ],
   "cityWatch": {
     "label": "CITY WATCH",
-    "text": "Karnataka High Court calls for a digital system to track the city’s trees and prevent hazards from falling branches.",
-    "attribution": "— Deccan Herald"
+    "text": "Bengaluru’s ₹2,000-crore stormwater overhaul will target 402 km of drains across four valleys to strengthen flood protection.",
+    "attribution": "— Bangalore Mirror"
   },
   "lead": {
-    "source": "The Indian Express",
-    "kicker": "INDIA • CRICKET",
-    "headline": "INDIA EDGE PAKISTAN IN LAST-BALL U-19 ASIA CUP FINAL THRILLER",
-    "deck": "Mohit Ulva’s boundary off the final delivery completed a one-wicket chase of 338 in Oman and gave India a record ninth title.",
+    "source": "Bangalore Mirror",
+    "kicker": "BENGALURU • WATER SECURITY",
+    "headline": "CAUVERY BASIN RESERVOIR STORAGE NEARLY HALVES, RAISING WATER CONCERNS FOR BENGALURU",
+    "deck": "The four major reservoirs held 56.77 TMC on November 13, down 47% from a year earlier; KRS was at 43% of capacity as groundwater extraction outpaces recharge.",
     "paragraphs": [
-      "India beat Pakistan by one wicket in a dramatic Under-19 Asia Cup final at Al Amerat, chasing down 338 on the last ball.",
-      "Pakistan had set the imposing target after posting 337 for nine. India’s chase faltered late, but Mohit Ulva and Manal Chauhan kept the side in contention with a decisive ninth-wicket stand.",
-      "Ulva struck the winning boundary from the final delivery, sealing India’s ninth title in the competition."
+      "Storage in the four major Cauvery basin reservoirs has fallen to 56.77 TMC, compared with 107.32 TMC on the same date last year, a shortfall of 47.1%, according to data cited by Bangalore Mirror.",
+      "Krishna Raja Sagara, a major source for Bengaluru, held 21.30 TMC on November 13, down from 48.95 TMC a year earlier. That is 43% of its gross capacity.",
+      "The report says groundwater extraction has exceeded natural recharge as the city heads towards the warmer months, when water demand typically increases."
     ],
-    "moreUrl": "https://indianexpress.com/article/sports/cricket/india-defeat-pakistan-1-wicket-u19-asia-cup-title-10963098/"
+    "image": {
+      "src": "https://static.toiimg.com/thumb/imgsize-162614%2Cmsid-135845654%2Cwidth-400%2Cresizemode-4/135845654.jpg",
+      "alt": "Image accompanying Bangalore Mirror’s report on declining Cauvery basin reservoir storage and Bengaluru water security.",
+      "caption": "Photo accompanying the water security report. Bangalore Mirror."
+    },
+    "moreUrl": "https://bangaloremirror.indiatimes.com/bangalore/others/running-on-empty/articleshow/135840969.cms"
   },
   "sidebarStory": {
     "className": "sidebar-item",
     "headlineClass": "side-headline",
     "tag": "div",
     "source": "The Times of India",
-    "kicker": "BENGALURU • NAMMA METRO",
-    "headline": "PINK LINE STRETCH OPENS AS BENGALURU METRO NETWORK CROSSES 100 KM",
-    "subhead": "The 7.5-km elevated section from Kalena Agrahara to Tavarekere began commercial service on Saturday, adding a key south Bengaluru connection.",
+    "kicker": "KARNATAKA • LAW & POLITICS",
+    "headline": "KARNATAKA MOVES TOWARDS REPEAL OF BJP-ERA ANTI-CONVERSION LAW",
+    "subhead": "The proposal is with the state law department and may be brought to the Belagavi winter session; a separate anti-cow-slaughter law is still under review.",
     "paragraphs": [
-      "Prime Minister Narendra Modi inaugurated the elevated stretch of the Pink Line on November 14, and passenger services began the same day.",
-      "The new section extends the city’s metro network beyond 100 km. The remaining underground stretch is expected to open later, completing the line towards Nagawara."
+      "The Karnataka government has sent its proposal to repeal the anti-conversion law for legal scrutiny, ministers and legislators told The Times of India.",
+      "Congress leaders say they expect a bill to return the state to the pre-2022 framework during the winter session, while repeal of the anti-cow-slaughter law remains under discussion."
     ],
-    "moreUrl": "https://timesofindia.indiatimes.com/city/bengaluru/pm-opens-pink-line-stretch-bluru-joins-100-km-metro-club/articleshow/135814784.cms"
+    "moreUrl": "https://timesofindia.indiatimes.com/city/bengaluru/legal-department-to-scrutinise-anti-conversion-law-and-bill-to-revoke-it-likely-in-belagavi-session-but-congress-cautious-on-overturning-anti-cow-slaughter-law/amp_articleshow/135860413.cms"
   },
   "groups": [
     {
-      "separator": "— BENGALURU & KARNATAKA • CITY, GOVERNANCE & TRANSPORT —",
+      "separator": "— BENGALURU & KARNATAKA • EDUCATION, MOBILITY & HEALTH —",
       "className": "lower-page-grid",
-      "ariaLabel": "Bengaluru and Karnataka city, public safety and governance news",
+      "ariaLabel": "Bengaluru and Karnataka education, mobility and public health news",
       "stories": [
         {
           "className": "lower-column",
           "headlineClass": "lower-headline",
-          "source": "Deccan Herald",
-          "kicker": "BENGALURU • URBAN FORESTRY",
-          "headline": "HIGH COURT SEEKS DIGITAL TREE RECORD TO PREVENT CITY HAZARDS",
+          "source": "The Times of India",
+          "kicker": "KARNATAKA • HIGHER EDUCATION",
+          "headline": "STATE ISSUES APPOINTMENT ORDERS FOR 222 GOVERNMENT COLLEGE PRINCIPALS",
           "paragraphs": [
-            "Karnataka High Court pressed for a digital system to monitor Bengaluru’s trees and reduce risks from hazardous or falling trees.",
-            "The proposal would help authorities track trees and respond to safety concerns across the city."
+            "The collegiate education department has issued appointment orders to 222 principals of government first-grade colleges, ending a recruitment process that began in 2022.",
+            "Document checks are continuing for other candidates, and postings for the newly appointed principals will be assigned through counselling."
           ],
-          "moreUrl": "https://www.deccanherald.com/india/karnataka/bengaluru/who-is-watching-bengalurus-trees-karnataka-hc-pushes-for-digital-system-to-prevent-tree-hazards-in-city-3828181"
+          "moreUrl": "https://timesofindia.indiatimes.com/city/bengaluru/karnataka-govt-appoints-to-principals-to-222-colleges/amp_articleshow/135841368.cms"
         },
         {
           "className": "lower-column center-border",
           "headlineClass": "lower-headline",
-          "source": "Hindustan Times",
-          "kicker": "KARNATAKA • RECRUITMENT SCAM",
-          "headline": "ED ATTACHES ₹1.22 CRORE ASSETS IN KPSC RECRUITMENT SCAM",
+          "source": "The Times of India",
+          "kicker": "BENGALURU • TAXI OPERATORS",
+          "headline": "DRIVER GROUPS SEEK 100-CAB CAP ON PROPOSED GREEN SM FLEET",
           "paragraphs": [
-            "The Enforcement Directorate attached assets worth ₹1.22 crore in its investigation into alleged irregularities in Karnataka Public Service Commission recruitment.",
-            "The action adds a financial investigation to a case drawing scrutiny over the integrity of public-service hiring."
+            "Private transport associations have asked Karnataka to cap the proposed Green SM electric taxi fleet at 100 vehicles and review its licences and fares.",
+            "The federation says nearly eight lakh families rely on the city’s taxi and autorickshaw sector; some commuters argue that more competition could lower fares."
           ],
-          "moreUrl": "https://www.hindustantimes.com/cities/bengaluru-news/ed-attaches-rs-1-22-crore-worth-assets-in-kpsc-recruitment-scam-101794650504552.html"
+          "moreUrl": "https://timesofindia.indiatimes.com/city/bengaluru/bengalurus-taxi-operators-seek-cap-on-green-sm-fleet-flag-threat-to-livelihoods/amp_articleshow/135841019.cms"
         },
         {
           "className": "lower-column",
           "headlineClass": "lower-headline",
           "source": "The Times of India",
-          "kicker": "BENGALURU • HEBBAL LAKE",
-          "headline": "CHILDREN USE INSECT COSTUMES TO PROTEST PROPOSED HEBBAL LAKE TUNNEL",
+          "kicker": "KARNATAKA • PUBLIC HEALTH",
+          "headline": "GRUHA AROGYA SCHEME HAS SCREENED NEARLY 2.7 CRORE PEOPLE",
           "paragraphs": [
-            "Children dressed as butterflies, ants and other insects gathered at Hebbal Lake to oppose the proposed short tunnel project and raise concerns about green-space loss.",
-            "The young protesters used placards and costumes to draw attention to the lake’s ecology and the impact of construction on the area."
+            "Karnataka’s door-to-door Gruha Arogya programme has screened nearly 2.7 crore people for non-communicable diseases since its launch in October 2024.",
+            "State figures show 26.5 lakh people diagnosed with diabetes and 39.6 lakh with hypertension under the programme."
           ],
-          "moreUrl": "https://timesofindia.indiatimes.com/city/bengaluru/children-dress-up-as-insects-to-highlight-hebbal-lake-concerns-in-bengaluru/articleshow/135837486.cms"
+          "moreUrl": "https://timesofindia.indiatimes.com/city/bengaluru/karnataka-screens-2-7-crore-for-non-communicable-diseases-under-gruha-arogya-scheme/articleshow/135837731.cms"
         }
       ]
     },
     {
-      "separator": "— INDIA • AIR QUALITY, WEATHER & SECURITY —",
+      "separator": "— INDIA • DIPLOMACY, SECURITY & PUBLIC FINANCE —",
       "className": "news-section foreign-section",
-      "ariaLabel": "India air quality, weather and national security news",
+      "ariaLabel": "India diplomacy, national security and public finance news",
       "stories": [
         {
           "className": "section-lead",
           "headlineClass": "section-headline",
-          "source": "The Indian Express",
-          "kicker": "NCR • AIR POLLUTION",
-          "headline": "CENTRE ORDERS 191 POLLUTING UNITS SEALED, FIXES OFFICIALS’ ACCOUNTABILITY",
+          "source": "Hindustan Times",
+          "kicker": "MANILA • INDIA-ASEAN",
+          "headline": "INDO-PACIFIC SECURITY AND TRADE ON AGENDA AS MODI VISITS MANILA",
           "paragraphs": [
-            "With Delhi’s air nearing the severe category, the Centre ordered 191 non-compliant polluting industries in the National Capital Region sealed.",
-            "States were asked to nominate senior officials to oversee implementation of pollution-control measures across the region."
+            "Prime Minister Narendra Modi is due in Manila for the India-ASEAN and East Asia summits, with US President Donald Trump among the leaders expected at the meetings.",
+            "Officials say India wants stronger maritime coordination with Southeast Asian partners and progress on reviewing the India-ASEAN trade-in-goods agreement."
           ],
-          "moreUrl": "https://indianexpress.com/article/india/delhi-air-pollution-bhupender-yadav-caqm-crackdown-191-industries-sealed-officials-accountability-10963249/lite/"
-        },
-        {
-          "className": "section-brief",
-          "headlineClass": "lower-headline",
-          "source": "India Meteorological Department",
-          "kicker": "BAY OF BENGAL • CYCLONE WATCH",
-          "headline": "LOW-PRESSURE SYSTEM MAY STRENGTHEN INTO CYCLONE BY NOVEMBER 16",
-          "paragraphs": [
-            "A well-marked low-pressure area over the southeast Bay of Bengal is forecast to intensify and move northwest.",
-            "The IMD said a cyclonic storm may form over the central south and adjoining west-central Bay of Bengal around the evening of November 16."
-          ],
-          "moreUrl": "https://internal.imd.gov.in/press_release/20261114_pr_5489.pdf"
-        },
-        {
-          "className": "section-brief",
-          "headlineClass": "lower-headline",
-          "source": "The Hindustan Times",
-          "kicker": "NEW DELHI • PARLIAMENT SECURITY CASE",
-          "headline": "COURT DENIES BAIL TO TWO MEN IN 2023 PARLIAMENT SECURITY BREACH CASE",
-          "paragraphs": [
-            "A Delhi court rejected bail pleas by two accused in the Parliament security breach case.",
-            "The case concerns the 2023 incident in which intruders entered the Lok Sabha chamber and released coloured smoke."
-          ],
-          "moreUrl": "https://www.hindustantimes.com/india-news/delhi-court-denies-bail-to-2-men-in-2023-parliament-security-breach-case-101794642496590.html"
-        }
-      ]
-    },
-    {
-      "separator": "— INDIA • EDUCATION, ECONOMY & SPORT —",
-      "className": "news-section city-section",
-      "ariaLabel": "India education, economy and sport news",
-      "stories": [
-        {
-          "className": "section-lead city-lead",
-          "headlineClass": "section-headline",
-          "source": "The New Indian Express",
-          "kicker": "INDIA • EXAM SECURITY",
-          "headline": "NTA SETS UP PERMANENT OBSERVER POOL AFTER NEET-UG PAPER LEAK",
-          "paragraphs": [
-            "The National Testing Agency is building a permanent pool of independent observers as part of changes following the NEET-UG paper leak earlier this year.",
-            "The proposed pool includes retired armed-forces and government personnel who would monitor examinations separately from local centre officials."
-          ],
-          "moreUrl": "https://www.newindianexpress.com/india/2026/Nov/12/paper-leak-impact-nta-to-appoint-retired-armed-forces-personnel-as-observers-2"
-        },
-        {
-          "className": "section-brief",
-          "headlineClass": "lower-headline",
-          "source": "The Indian Express",
-          "kicker": "HIMACHAL PRADESH • POLITICS",
-          "headline": "FIR REGISTERED OVER KANGANA RANAUT’S SOCIAL MEDIA POST",
-          "paragraphs": [
-            "Himachal Pradesh Police registered an FIR over a November 10 post on BJP MP Kangana Ranaut’s X account.",
-            "Police said the post contained alleged remarks about members of the Gandhi family, including former prime ministers Indira Gandhi and Rajiv Gandhi."
-          ],
-          "moreUrl": "https://indianexpress.com/article/cities/chandigarh/kangana-controversial-social-media-post-fir-registered-shimla-10962834/"
+          "moreUrl": "https://www.hindustantimes.com/india-news/pm-modi-trump-to-join-asean-summit-in-manila-global-conflicts-maritime-economic-ties-on-agenda-101794760688896.html"
         },
         {
           "className": "section-brief",
           "headlineClass": "lower-headline",
           "source": "Hindustan Times",
-          "kicker": "INDIA • BETTING SCAM PROBE",
-          "headline": "CBI SEARCHES 33 LOCATIONS ACROSS SIX STATES IN MAHADEV APP CASE",
+          "kicker": "RAJASTHAN • RAIL SECURITY",
+          "headline": "TWO HELD IN PUNJAB OVER RAILWAY TRACK BLAST IN RAJASTHAN",
           "paragraphs": [
-            "The CBI searched 33 locations across six states in its investigation into the Mahadev online betting app case.",
-            "Investigators recovered phones, digital devices and documents that officials said point to alleged mule bank accounts and hawala channels."
+            "Police arrested a woman and an alleged accomplice in Punjab in connection with an explosion that damaged railway tracks in Rajasthan’s Sri Ganganagar district.",
+            "The blast occurred near the Anupgarh-Suratgarh line on November 3, about 75 minutes after a passenger train passed the stretch. Investigators are probing the alleged conspiracy."
           ],
-          "moreUrl": "https://www.hindustantimes.com/india-news/mahadev-betting-app-case-cbi-searches-in-6-states-lead-to-recovery-of-digital-devices-key-docs-101794634230346.html"
+          "moreUrl": "https://www.hindustantimes.com/india-news/punjab-woman-accomplice-held-in-rajasthan-train-track-blast-police-suspect-isis-romance-strategy-to-recruit-women-101794756092207.html"
+        },
+        {
+          "className": "section-brief",
+          "headlineClass": "lower-headline",
+          "source": "Press Information Bureau / Ministry of Health",
+          "kicker": "INDIA • HEALTH SPENDING",
+          "headline": "GOVERNMENT HEALTH SPENDING TRIPLES; HOUSEHOLD SHARE OF COSTS FALLS",
+          "paragraphs": [
+            "National Health Accounts estimates show government health spending rose to ₹4.14 lakh crore in 2023–24 from ₹1.30 lakh crore in 2013–14.",
+            "The share of total health spending paid directly by households fell from 64.2% to 42.7% over the decade, though families still paid ₹4.06 lakh crore out of pocket in 2023–24."
+          ],
+          "moreUrl": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2336478&lang=2&reg=48"
         }
       ]
     },
     {
-      "separator": "— INDIA • SPORT, SUNDAY AGENDA & BENGALURU WEATHER —",
+      "separator": "— INDIA • ECONOMY, SPORT & NATIONAL AFFAIRS —",
+      "className": "news-section city-section",
+      "ariaLabel": "India economy, sport and national affairs news",
+      "stories": [
+        {
+          "className": "section-lead city-lead",
+          "headlineClass": "section-headline",
+          "source": "Ministry of Commerce and Industry",
+          "kicker": "INDIA • EXPORTS",
+          "headline": "INDIA’S OCTOBER EXPORTS REACH ESTIMATED $89.99 BILLION",
+          "paragraphs": [
+            "Combined merchandise and services exports in October 2026 are estimated at $89.99 billion, up 29.9% from a year earlier, according to the commerce ministry.",
+            "Merchandise exports were estimated at $39.76 billion, while services exports reached $50.23 billion. The ministry cited gains across petroleum products, electronics, gems and jewellery, chemicals and engineering goods."
+          ],
+          "moreUrl": "https://www.commerce.gov.in/files/2026-11/PIB%20Release-October%202026%20%281%29.pdf"
+        },
+        {
+          "className": "section-brief",
+          "headlineClass": "lower-headline",
+          "source": "The Indian Express",
+          "kicker": "INDIA • CRICKET",
+          "headline": "INDIA DEFEND 209 TO WIN FIRST ODI SERIES IN NEW ZEALAND IN SEVEN YEARS",
+          "paragraphs": [
+            "India beat New Zealand by 22 runs in the fifth ODI, defending a target of 210 and taking the series 3-1.",
+            "The bowlers led the defence after India’s batting side was dismissed for 209 in Tauranga. It was India’s first ODI series win in New Zealand since 2019."
+          ],
+          "moreUrl": "https://indianexpress.com/article/sports/cricket/india-clinch-odi-series-win-new-zealand-defend-209-runs-tauranga-10964007/lite/"
+        },
+        {
+          "className": "section-brief",
+          "headlineClass": "lower-headline",
+          "source": "The Times of India",
+          "kicker": "KARNATAKA • PROPERTY COSTS",
+          "headline": "STATE MAY RAISE PROPERTY GUIDANCE VALUES FOR A SECOND TIME IN THREE YEARS",
+          "paragraphs": [
+            "Karnataka’s stamps and registration department is preparing another revision of property guidance values, which determine minimum property registration valuations.",
+            "The department says its review is nearing completion. Any increase could vary by location, road access and development potential, including around Bengaluru."
+          ],
+          "moreUrl": "https://timesofindia.indiatimes.com/city/bengaluru/after-milk-and-bus-fares-property-registration-costs-may-rise-as-state-government-moves-to-revise-guidance-value-for-second-time-in-three-years/articleshow/135860310.cms"
+        }
+      ]
+    },
+    {
+      "separator": "— INDIA • FOOTBALL, BENGALURU EVENTS & WEATHER —",
       "className": "news-section sports-section",
-      "ariaLabel": "India sport, Bengaluru Sunday events and weather",
+      "ariaLabel": "India football, Bengaluru events and weather",
       "stories": [
         {
           "className": "section-lead sports-lead",
           "headlineClass": "section-headline",
-          "source": "International Shooting Sport Federation",
-          "kicker": "INDIA • SHOOTING",
-          "headline": "INDIA FINISH THIRD WITH 13 MEDALS AT WORLD CHAMPIONSHIPS",
+          "source": "All India Football Federation",
+          "kicker": "INDIA • SAFF CHAMPIONSHIP",
+          "headline": "INDIA HOLD OFF BHUTAN TO REACH SAFF CHAMPIONSHIP FINAL",
           "paragraphs": [
-            "India closed the Doha World Shooting Championships with 13 medals—two gold, seven silver and four bronze—to finish third in the standings.",
-            "China topped the table and Italy placed second as the two-week rifle, pistol and shotgun competition concluded."
+            "India beat Bhutan 2-1 in the semifinal in Dhaka on Saturday to advance to the SAFF Championship final.",
+            "The Blue Tigers will face the winner of the Bangladesh-Pakistan semifinal on November 17, with a record-extending 10th title in reach."
           ],
-          "moreUrl": "https://issfdev.azurewebsites.net/news/5339"
+          "moreUrl": "https://www.the-aiff.com/article/india-hold-off-bhutan-fightback-to-reach-saff-championship-final"
         },
         {
           "className": "section-brief listings-box",
-          "source": "BookMyShow / The City 24/7",
-          "kicker": "SUNDAY • AT A GLANCE",
-          "headline": "TODAY’S AGENDA",
+          "source": "STPI / Lok Sabha Secretariat",
+          "kicker": "MONDAY • LOOKING AHEAD",
+          "headline": "THIS WEEK IN BENGALURU",
           "listing": [
             [
-              "DHRUPAD UTSAV",
-              "Performances continue at Alliance Française de Bangalore through Sunday evening."
+              "BENGALURU TECH SUMMIT",
+              "The 29th summit runs November 17–19 at Bangalore International Exhibition Centre."
             ],
             [
-              "JAVED AKHTAR & SHABANA AZMI",
-              "Poetry and conversation with Javed Akhtar and Shabana Azmi runs from 4:30 to 6:30 p.m."
+              "WOMEN PARLIAMENTARIANS’ CONFERENCE",
+              "The India Region conference begins Tuesday at Vidhana Soudha and runs through November 18."
             ]
           ]
         },
@@ -242,7 +247,7 @@
           "headline": "PARTLY CLOUDY TODAY; NO CITY WARNING IN FORCE",
           "weather": {
             "paragraphs": [
-              "The IMD forecast for Bengaluru on Sunday is partly cloudy skies, with a minimum of 17°C and maximum of 29°C. No warning is in force."
+              "The IMD forecast for Bengaluru on Monday is partly cloudy skies, with a minimum of 18°C and maximum of 25°C. No warning is in force."
             ],
             "moreUrl": "https://city.imd.gov.in/citywx/citywxnew_warnings.php?id=43295"
           }
