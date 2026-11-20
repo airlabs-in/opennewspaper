@@ -5,12 +5,12 @@
     "tagline": "Open sources. Fresh news. One paper. A newspaper assembled from the open web",
     "established": "2026",
     "weatherLabel": "BENGALURU WEATHER",
-    "weatherSummary": "Partly cloudy. Bengaluru: 29°C / 16°C; no warning today.",
+    "weatherSummary": "Mostly cloudy. Bengaluru: 29°C / 22°C; no rain expected.",
     "motto": "FROM OPEN SOURCES DESK",
     "editionLabel": "DAILY READ",
     "editionSummary": "Complete Morning Ledger",
     "edition": "BENGALURU • INDIA EDITION",
-    "dateline": "BENGALURU, WEDNESDAY, NOVEMBER 18, 2026",
+    "dateline": "BENGALURU, FRIDAY, NOVEMBER 20, 2026",
     "greeting": "GOOD MORNING :)",
     "footer": "Open Newspaper • Bengaluru and India Edition • Independent coverage from open sources."
   },
@@ -42,48 +42,47 @@
   ],
   "cityWatch": {
     "label": "CITY WATCH",
-    "text": "BESCOM has scheduled 10 am–5 pm power interruptions today in Rajajinagar, parts of Malleswaram and nearby western Bengaluru localities.",
-    "attribution": "— Goodreturns"
+    "text": "A Bengaluru restaurant was fined ₹10,000 after charging a customer ₹15 for a branded takeaway bag, the consumer forum ruled.",
+    "attribution": "— The Times of India"
   },
   "lead": {
-    "source": "The Indian Express",
-    "kicker": "BENGALURU • ROAD SAFETY",
-    "headline": "TWO ENGINEERING STUDENTS KILLED, FOUR INJURED IN BENGALURU RURAL CRASH",
-    "deck": "The second-year Sapthagiri College students were travelling to a college outreach activity when their car hit a roadside tree near Gudemaranahalli early Tuesday; police say the cause is still under investigation.",
+    "source": "The Bengaluru Live",
+    "kicker": "BENGALURU • ROADS & INFRASTRUCTURE",
+    "headline": "₹2,321 CRORE TO WHITE-TOP 88 BENGALURU ROADS; ₹487 CRORE CLEARED FOR ORR LINK",
+    "deck": "The Karnataka government approved a fourth-phase white-topping project for 88 city roads and funding for a Central Silk Board–K R Pura Outer Ring Road link.",
     "paragraphs": [
-      "Two 19-year-old engineering students, Janavi and Vaishnavi, were killed and four classmates were injured when their car crashed into a roadside tree near Gudemaranahalli in Bengaluru South district on Tuesday morning.",
-      "The second-year Sapthagiri College of Engineering students were travelling to Hutridurga near Kunigal for a college outreach programme. Police said the car appeared to lose control before hitting the tree.",
-      "The four injured students were taken to hospital. The exact circumstances leading to the crash are still being investigated."
+      "The state approved ₹2,321 crore to white-top 88 Bengaluru roads in the project's fourth phase. The package includes walkable footpaths, redesigned junctions, lighting and utility works.",
+      "A separate ₹487-crore allocation was approved for the Central Silk Board to K R Pura ORR link, a key eastern Bengaluru corridor."
     ],
-    "moreUrl": "https://indianexpress.com/article/cities/bangalore/bengaluru-road-accident-two-engineering-students-killed-magadi-10966621/lite/",
+    "moreUrl": "https://thebengalurulive.com/government-approves-2321-crore-for-white-topping-88-bengaluru-roads-in-fourth-phase-487-crore-for-central-silk-board-to-k-r-pura-orr/",
     "image": {
-      "src": "https://images.indianexpress.com/2026/11/car-accident.jpg?w=640",
-      "alt": "The car that crashed into a roadside tree near Gudemaranahalli in Bengaluru South district.",
-      "caption": "The crash site near Gudemaranahalli. Express photo / Special Arrangement."
+      "src": "https://thebengalurulive.com/wp-content/uploads/2026/11/featured-63.jpg",
+      "alt": "Officials inspect white-topping work on Hennur-Bagalur Road in Bengaluru.",
+      "caption": "File photo: officials inspect white-topping work on Hennur-Bagalur Road. The Bengaluru Live."
     }
   },
   "sidebarStory": {
     "className": "sidebar-item",
     "headlineClass": "side-headline",
     "tag": "div",
-    "source": "The Times of India",
-    "kicker": "INDIA • CRICKET",
-    "headline": "MS DHONI RETIRES FROM IPL, TAKES UP CHENNAI SUPER KINGS MENTOR ROLE",
-    "subhead": "The five-time IPL-winning captain will begin as CSK’s Team Mentor in 2027, ending a playing career in the league that spanned nearly two decades.",
+    "source": "Associated Press",
+    "kicker": "INDIA • JAPAN DEFENCE TIES",
+    "headline": "INDIA AND JAPAN AGREE TO DEEPEN DEFENCE COOPERATION AND HOLD LIVE-FIRE DRILLS",
+    "subhead": "The agreement includes Japanese missile training at Indian ranges and closer defence-industry work.",
     "paragraphs": [
-      "Chennai Super Kings announced Tuesday that Mahendra Singh Dhoni has retired as an IPL player and will become the franchise’s Team Mentor for the 2027 season.",
-      "Dhoni led CSK to five IPL titles and made 272 appearances for the side. The announcement came on the league’s player-retention deadline."
+      "After talks in Tokyo, the two governments agreed to expand military and defence-industry cooperation, including allowing Japanese troops to conduct live-fire missile training at Indian firing ranges during future joint exercises.",
+      "The ministers also discussed technology and equipment cooperation under a “design with Japan, make in India” framework."
     ],
-    "moreUrl": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ms-dhoni-retires-from-ipl-ahead-of-2027-season-to-be-csk-mentor/articleshow/135918991.cms",
+    "moreUrl": "https://apnews.com/article/japan-india-military-missile-radar-5b29b80bebf7a9b61422d19e9b3eed7f",
     "image": {
-      "src": "https://static.toiimg.com/thumb/msid-135919880%2Cimgsize-90645%2Cwidth-400%2Cheight-225%2Cresizemode-4/ms-dhoni.jpg",
-      "alt": "MS Dhoni, in a photograph accompanying news of his IPL retirement and new Chennai Super Kings mentor role.",
-      "caption": "MS Dhoni. The Times of India."
+      "src": "https://dims.apnews.com/dims4/default/c144275/2147483647/strip/true/crop/5760x3840%2B0%2B0/resize/599x399%21/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa6%2F0c%2F6c96001db9bcd482ba90490b8f6a%2F3311675bba504dc6a4d80b137b86fb04",
+      "alt": "India and Japan foreign and defence ministers at a joint press conference in Tokyo on November 19, 2026.",
+      "caption": "India and Japanese ministers meet in Tokyo. Rodrigo Reyes Marin/Pool Photo via AP."
     }
   },
   "groups": [
     {
-      "separator": "— BENGALURU & KARNATAKA • CIVIC LIFE, INFRASTRUCTURE & WORK —",
+      "separator": "— BENGALURU & KARNATAKA • POLICING, ROADS & METRO —",
       "className": "lower-page-grid",
       "ariaLabel": "Bengaluru and Karnataka civic, infrastructure and employment news",
       "stories": [
@@ -91,163 +90,163 @@
           "className": "lower-column",
           "headlineClass": "lower-headline",
           "source": "The Indian Express",
-          "kicker": "BENGALURU • RESIDENTS & PUBLIC SAFETY",
-          "headline": "KARNATAKA PLANS POLICE-LED HOUSEHOLD SURVEY ACROSS BENGALURU",
+          "kicker": "BENGALURU • POLICING",
+          "headline": "BENGALURU'S FIRST CHIEF POLICE COMMISSIONER SETS OUT PRIORITIES FOR FIVE NEW ZONES",
           "paragraphs": [
-            "Chief Minister D K Shivakumar says the state will direct police to build household-level records of Bengaluru residents, citing public safety and the need to know who lives where.",
-            "The announcement followed publication of revised electoral rolls. A Home Department official told The Indian Express that implementation details have not yet been discussed."
+            "R Hithendra, the city's first Chief Commissioner of Police, said five territorial commissionerates would be made operational as soon as possible.",
+            "The new structure divides Bengaluru into North, South, East, West and Central zones, with a separate traffic commissioner."
           ],
-          "moreUrl": "https://indianexpress.com/article/cities/bangalore/karnataka-household-data-collection-bengaluru-police-dk-shivakumar-10965509/"
+          "moreUrl": "https://indianexpress.com/article/cities/bangalore/bengaluru-five-police-commissionerates-new-structure-hithendra-10969265/"
         },
         {
           "className": "lower-column center-border",
           "headlineClass": "lower-headline",
-          "source": "Bangalore Mirror",
-          "kicker": "BENGALURU • LALBAGH & INFRASTRUCTURE",
-          "headline": "TUNNEL ROAD PLANS SHIFT TO SPARE LALBAGH; FOUR ALTERNATIVES UNDER STUDY",
+          "source": "Today in Bengaluru / Construction World",
+          "kicker": "BENGALURU • NAMMA METRO",
+          "headline": "BLUE LINE COMPLETES A 6-KM TRIAL RUN IN LATEST TEST PHASE",
           "paragraphs": [
-            "The state has decided against acquiring land inside Lalbagh Botanical Garden for the Hebbal–Silk Board tunnel road after objections over potential damage to its biodiversity and ancient rock formations.",
-            "Officials are assessing four possible alignments before a feasibility report goes to the Cabinet; route changes could affect cost and timing."
+            "The Bengaluru Metro Blue Line completed a trial run covering six kilometres, according to a report in the city's November 20 morning roundup.",
+            "The airport corridor is a closely watched project for commuters travelling between eastern Bengaluru and Kempegowda International Airport."
           ],
-          "moreUrl": "https://bangaloremirror.indiatimes.com/bangalore/civic/tunnel-project-may-take-a-new-route-to-avoid-touching-lalbagh/articleshow/135906057.cms"
+          "moreUrl": "https://todayin.email/e/in-bengaluru/2026-11-20"
         },
         {
           "className": "lower-column",
           "headlineClass": "lower-headline",
-          "source": "The Indian Express",
-          "kicker": "SWEDEN • TECH CAREERS",
-          "headline": "SWEDEN SEEKS INDIAN ENGINEERS TO FILL 18,000 TECH SPECIALIST VACANCIES",
+          "source": "The Times of India",
+          "kicker": "BENGALURU • STARTUPS & INVESTMENT",
+          "headline": "24 VENTURE FUNDS ANNOUNCE ₹1,050 CRORE FOR DEEPTECH STARTUPS",
           "paragraphs": [
-            "Sweden’s ambassador to India, Petra Menander, says her country needs about 18,000 technology specialists and is looking to attract skilled Indian professionals.",
-            "Last year, about 2,600 Indians applied for their first Swedish work permits, mainly in high-skilled fields, she said in an interview in Bengaluru."
+            "Twenty-four venture capital firms announced investments worth ₹1,050 crore in more than 68 deeptech startups at the Bengaluru Tech Summit.",
+            "Karnataka's IT minister said the state's startup ecosystem had raised $4.4 billion this year, accounting for 43 per cent of technology investment in India, figures cited at the event."
           ],
-          "moreUrl": "https://indianexpress.com/article/cities/bangalore/sweden-jobs-for-indians-tech-work-permit-opportunities-10965643/lite/"
+          "moreUrl": "https://timesofindia.indiatimes.com/business/india-business/24-vcs-announce-rs-1050-cr-investments-in-deeptech-startups/articleshow/135999354.cms"
         }
       ]
     },
     {
-      "separator": "— INDIA • COURTS, PUBLIC SAFETY & SHIPPING —",
+      "separator": "— INDIA • BUSINESS, SECURITY & POLITICS —",
       "className": "news-section foreign-section",
       "ariaLabel": "India court decisions, public safety and shipping news",
       "stories": [
         {
           "className": "section-lead",
           "headlineClass": "section-headline",
-          "source": "The New Indian Express",
-          "kicker": "INDIA • SUPREME COURT",
-          "headline": "SUPREME COURT GRANTS BAIL TO TWO CONVICTS IN BILKIS BANO CASE",
+          "source": "NDTV / Press Trust of India",
+          "kicker": "INDIA • BUSINESS & JOBS",
+          "headline": "MODI CHALLENGES INDIA INC TO TURN TAX RELIEF INTO HIGHER PAY AND MORE JOBS",
           "paragraphs": [
-            "The Supreme Court suspended the life sentences of Bipinchand Joshi and Pradeep Modhiya and granted them conditional bail while their appeals remain pending.",
-            "The bench noted they had spent more than 17 years in prison; one has a severe disability. The order was uploaded on the Court’s website this week."
+            "Addressing FICCI's annual convention, Prime Minister Narendra Modi asked companies whether lower corporate taxes had translated into stronger hiring and higher employee wages.",
+            "He urged industry to invest more in agriculture and allied sectors and to suggest further reforms for economic growth."
           ],
-          "moreUrl": "https://www.newindianexpress.com/india/2026/Nov/16/sc-suspends-life-sentences-of-two-men-convicted-in-bilkis-bano-gang-rape-case-grants-bail"
+          "moreUrl": "https://www.ndtv.com/india-news/pm-modi-at-ficci-i-gave-tax-cuts-have-you-hiked-salaries-created-jobs-pm-narendra-modi-asks-india-inc-12351154"
         },
         {
           "className": "section-brief",
           "headlineClass": "lower-headline",
-          "source": "ThePrint / Press Trust of India",
-          "kicker": "UTTARAKHAND • ROAD SAFETY",
-          "headline": "17 KILLED, 38 INJURED IN FIVE UTTARAKHAND CRASHES IN 24 HOURS",
+          "source": "Associated Press",
+          "kicker": "KASHMIR • SECURITY",
+          "headline": "INDIAN TROOPS KILL MILITANT COMMANDER AFTER VILLAGE SIEGE IN SOUTHERN KASHMIR",
           "paragraphs": [
-            "Five accidents in Tehri Garhwal and Rudraprayag districts between Monday night and Tuesday morning killed at least 17 people and injured 38, police said.",
-            "In the deadliest incident, a bus carrying 34 passengers plunged about 100 metres into a gorge near Gular bridge; nine people died and 25 were injured."
+            "Government forces killed Mohammed Lateef Bhat in Kulgam district after security personnel surrounded villages following an ambush that wounded three paramilitary soldiers, police said.",
+            "Residents described hardship during searches and detentions. The Associated Press said it could not independently verify all details of the operation."
           ],
-          "moreUrl": "https://theprint.in/india/17-killed-and-38-injured-in-five-accidents-in-uttarakhand-in-24-hours/3101449/"
+          "moreUrl": "https://apnews.com/article/4c8bb73e494d85b769d85a8c98ea1baf"
         },
         {
           "className": "section-brief",
           "headlineClass": "lower-headline",
-          "source": "NDTV / Indo Asian News Service",
-          "kicker": "STRAIT OF HORMUZ • INDIAN CREW",
-          "headline": "INDIA CONDEMNS TANKER ATTACK; ONE INDIAN SEAFARER REMAINS MISSING",
+          "source": "The Times of India",
+          "kicker": "TAMIL NADU • POLITICS",
+          "headline": "TVK MLA V S BABU DIES AFTER PROLONGED HOSPITALISATION",
           "paragraphs": [
-            "India condemned the attack on Panama-flagged LPG tanker MT Tara Gas in the Strait of Hormuz. Of 24 Indian nationals aboard, 21 reached shore safely, two were taken to hospital and one remains missing.",
-            "The Indian Embassy in Oman is coordinating with local authorities on search and rescue efforts, the Ministry of External Affairs said."
+            "Tamilaga Vettri Kazhagam legislator V S Babu has died after a prolonged hospital stay, according to the Times of India's November 19 live coverage.",
+            "The death marks a major loss for the party and its supporters in Tamil Nadu."
           ],
-          "moreUrl": "https://www.ndtv.com/india-news/must-end-india-condemns-hormuz-tanker-attack-after-indian-goes-missing-12340896"
+          "moreUrl": "https://timesofindia.indiatimes.com/india/india-international-breaking-news-today-november-19/liveblog/135970352.cms"
         }
       ]
     },
     {
-      "separator": "— INDIA • ENERGY, TECHNOLOGY & CULTURE —",
+      "separator": "— BENGALURU • TECHNOLOGY, ENERGY & HEALTH —",
       "className": "news-section city-section",
       "ariaLabel": "India energy, technology and culture news",
       "stories": [
         {
           "className": "section-lead city-lead",
           "headlineClass": "section-headline",
-          "source": "The Indian Express",
-          "kicker": "INDIA • CLEAN AVIATION",
-          "headline": "INDIAN OIL’S PANIPAT UNIT READY TO PRODUCE INDIA’S FIRST COMMERCIAL SAF",
+          "source": "Deccan Herald / Today in Bengaluru",
+          "kicker": "BENGALURU • CLEAN ENERGY",
+          "headline": "RESTAURANT WASTE OIL IS BEING TURNED INTO BIOFUEL",
           "paragraphs": [
-            "Indian Oil’s first commercial-scale sustainable aviation fuel plant at Panipat has received approvals to begin production, using used cooking oil as feedstock.",
-            "The 30,000-tonne-a-year plant produced its first batch on Monday and could meet nearly all of India’s proposed 2027 sustainable aviation fuel blending requirement for international flights."
+            "A Bengaluru initiative is collecting used cooking oil from restaurants and converting the waste into biofuel, giving eateries a route to divert spent oil from unsafe reuse.",
+            "The effort connects the city's food businesses with a local fuel-making operation, according to Deccan Herald coverage in the morning roundup."
           ],
-          "moreUrl": "https://indianexpress.com/article/business/india-first-sustainable-aviation-fuel-plant-ioc-panipat-refinery-blending-mandate-10966651/lite/"
+          "moreUrl": "https://todayin.email/e/in-bengaluru/2026-11-20"
         },
         {
           "className": "section-brief",
           "headlineClass": "lower-headline",
-          "source": "NDTV",
-          "kicker": "TECHNOLOGY • FUTURE OF WORK",
-          "headline": "IBM CHIEF SAYS AI AGENTS COULD DISPLACE ABOUT 10% OF WORKERS IN FIVE YEARS",
+          "source": "Deccan Herald / Today in Bengaluru",
+          "kicker": "BENGALURU • HEART CARE",
+          "headline": "GOVINDARAJANAGAR HOSPITAL TO BECOME A JAYADEVA CARDIAC CARE CENTRE",
           "paragraphs": [
-            "IBM CEO Arvind Krishna told NDTV that AI could handle about half of the world’s mainly white-collar work over the next five years, potentially displacing roughly 10% of workers.",
-            "He said new roles may also grow around building, maintaining and checking AI agents, but society should prepare alternative employment pathways for affected workers."
+            "The Govindarajanagar hospital is to be converted into a cardiac-care centre under the Jayadeva Institute, expanding specialist heart services in western Bengaluru.",
+            "The move was among the city health developments reported in Thursday's Bengaluru news roundup."
           ],
-          "moreUrl": "https://www.ndtv.com/india-news/ai-agents-could-displace-about-10-of-workers-in-5-years-ibm-chief-to-ndtv-12341127"
+          "moreUrl": "https://todayin.email/e/in-bengaluru/2026-11-20"
         },
         {
           "className": "section-brief",
           "headlineClass": "lower-headline",
-          "source": "The Indian Express",
-          "kicker": "INDIA • MUSIC & GRAMMYS",
-          "headline": "TAMIL SONG “VARUVAAIY” EARNS FIRST-EVER GRAMMY NOMINATION FOR THE LANGUAGE",
+          "source": "The Hindu BusinessLine / Varta",
+          "kicker": "BENGALURU • CLIMATE STARTUPS",
+          "headline": "CHANGENOW HUB OPENS IN BENGALURU TO TAKE CLIMATE STARTUPS GLOBAL",
           "paragraphs": [
-            "“Varuvaaiy,” composed by Devan Ekambaram and featuring vocalist Susha, has been nominated for Best Global Music Performance at the 69th Grammy Awards.",
-            "The song reimagines a devotional poem by Tamil poet Subramania Bharati. The nomination marks the first time a Tamil song has been nominated for a Grammy, The Indian Express reported."
+            "The ChangeNOW Hub launched at the Bengaluru Tech Summit to help Indian climate-focused startups expand internationally.",
+            "Organisers said Bengaluru's technology ecosystem and focus on climate and urban sustainability made it a natural base for the initiative."
           ],
-          "moreUrl": "https://indianexpress.com/article/entertainment/varuvaaiy-grammy-nomination-first-tamil-song-devan-ekambaram-subhiksha-rangarajan-susha-10965899/"
+          "moreUrl": "https://vartareports.in/story/e5b7d91a2311288b"
         }
       ]
     },
     {
-      "separator": "— INDIA • FOOTBALL, COURTS & BENGALURU WEATHER —",
+      "separator": "— INDIA • CRICKET, CULTURE & BENGALURU WEATHER —",
       "className": "news-section sports-section",
       "ariaLabel": "India football, courts and Bengaluru weather",
       "stories": [
         {
           "className": "section-lead sports-lead",
           "headlineClass": "section-headline",
-          "source": "All India Football Federation",
-          "kicker": "INDIA • SAFF CHAMPIONSHIP",
-          "headline": "INDIA BEAT PAKISTAN 2–1 TO WIN RECORD 10TH SAFF TITLE",
+          "source": "Board of Control for Cricket in India",
+          "kicker": "CRICKET • ASIA CUP RISING STARS",
+          "headline": "INDIA A OPEN THEIR RISING STARS CAMPAIGN AGAINST NEPAL TODAY",
           "paragraphs": [
-            "India came from behind to beat 10-man Pakistan 2–1 in Tuesday’s final in Dhaka, securing a record-extending 10th SAFF Championship crown.",
-            "Sandip Mandi scored the 88th-minute winner, completing India’s third consecutive title in the tournament."
+            "India A begin their DP World Men's Asia Cup Rising Stars campaign against Nepal in Doha on Friday, with a young squad led by high-profile prospects.",
+            "The BCCI match centre lists the fixture for November 20 at West End Park International Stadium."
           ],
-          "moreUrl": "https://www.the-aiff.com/index.php/article/mandis-late-winner-seals-india-comeback-and-historic-saff-title-hat-trick"
+          "moreUrl": "https://www.bcci.tv/matches/8c695e34-c511-467e-8083-643a91417043/india-a-vs-nepal"
         },
         {
           "className": "section-brief listings-box",
-          "source": "NDTV / Press Trust of India",
-          "kicker": "UTTAR PRADESH • COURTS",
-          "headline": "AZAM KHAN GETS INTERIM BAIL AFTER SUPREME COURT AND ALLAHABAD HC RELIEF",
+          "source": "NDTV",
+          "kicker": "INDIA • CINEMA",
+          "headline": "DHANUSH'S “OM” TOPS HIS PREVIOUS FILM IN ADVANCE BOOKINGS",
           "paragraphs": [
-            "The Supreme Court rejected Uttar Pradesh’s challenge to a stay on Samajwadi Party leader Azam Khan’s conviction in a fake birth certificate case; the Allahabad High Court separately granted him interim bail in an ED money-laundering case.",
-            "The High Court said written grounds of arrest had not been supplied. Khan’s lawyer said he was likely to be released Wednesday."
+            "Dhanush's upcoming film OM: Chapter 1 – Udhiram crossed ₹7 crore in worldwide opening-day advance bookings, including block seats, as of midday Thursday.",
+            "The film, also starring Mammootty and Sai Pallavi, surpassed the advance-booking total of Raayan, NDTV reported."
           ],
-          "moreUrl": "https://www.ndtv.com/india-news/azam-khan-gets-relief-as-supreme-court-stays-conviction-high-court-grants-interim-bail-12341315"
+          "moreUrl": "https://www.ndtv.com/entertainment/dhanushs-om-surpasses-raayan-in-advance-bookings-eyes-biggest-opening-of-his-career-12350030"
         },
         {
           "className": "section-brief classifieds-box",
           "headlineClass": "lower-headline",
-          "source": "India Meteorological Department",
+          "source": "India Meteorological Department / Today in Bengaluru",
           "kicker": "BENGALURU • WEATHER",
-          "headline": "PARTLY CLOUDY TODAY; NO CITY WARNING IN FORCE",
+          "headline": "MOSTLY CLOUDY IN BENGALURU; NO RAIN EXPECTED",
           "weather": {
             "paragraphs": [
-              "The IMD forecast for Bengaluru on Wednesday is partly cloudy skies, with a minimum of 16°C and maximum of 29°C. No warning is in force."
+              "The forecast for Bengaluru on Friday is mostly cloudy, with temperatures between 22°C and 29°C and no rain expected."
             ],
             "moreUrl": "https://city.imd.gov.in/citywx/citywxnew_warnings.php?id=43295"
           }
