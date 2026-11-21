@@ -5,12 +5,12 @@
     "tagline": "Open sources. Fresh news. One paper. A newspaper assembled from the open web",
     "established": "2026",
     "weatherLabel": "BENGALURU WEATHER",
-    "weatherSummary": "Mostly cloudy. Bengaluru: 29°C / 22°C; no rain expected.",
+    "weatherSummary": "Mist early. Bengaluru: 30°C / 15°C; no warning today.",
     "motto": "FROM OPEN SOURCES DESK",
     "editionLabel": "DAILY READ",
     "editionSummary": "Complete Morning Ledger",
     "edition": "BENGALURU • INDIA EDITION",
-    "dateline": "BENGALURU, FRIDAY, NOVEMBER 20, 2026",
+    "dateline": "BENGALURU, SATURDAY, NOVEMBER 21, 2026",
     "greeting": "GOOD MORNING :)",
     "footer": "Open Newspaper • Bengaluru and India Edition • Independent coverage from open sources."
   },
@@ -24,15 +24,15 @@
       "Nation"
     ],
     [
-      "Technology & Energy",
+      "India & Society",
       "Nation"
     ],
     [
-      "Football & Culture",
+      "Cricket & Hockey",
       "India"
     ],
     [
-      "Civic Infrastructure",
+      "Public Safety",
       "City"
     ],
     [
@@ -42,47 +42,42 @@
   ],
   "cityWatch": {
     "label": "CITY WATCH",
-    "text": "A Bengaluru restaurant was fined ₹10,000 after charging a customer ₹15 for a branded takeaway bag, the consumer forum ruled.",
-    "attribution": "— The Times of India"
+    "text": "IMD forecasts mist in Bengaluru on Saturday, with a low of 15°C and a high of 30°C; no warning is in force.",
+    "attribution": "— India Meteorological Department"
   },
   "lead": {
-    "source": "The Bengaluru Live",
-    "kicker": "BENGALURU • ROADS & INFRASTRUCTURE",
-    "headline": "₹2,321 CRORE TO WHITE-TOP 88 BENGALURU ROADS; ₹487 CRORE CLEARED FOR ORR LINK",
-    "deck": "The Karnataka government approved a fourth-phase white-topping project for 88 city roads and funding for a Central Silk Board–K R Pura Outer Ring Road link.",
+    "source": "The Indian Express",
+    "kicker": "BENGALURU • PUBLIC SAFETY",
+    "headline": "SOUTH BENGALURU MAN ARRESTED IN MURDER OF LIVE-IN PARTNER'S 18-YEAR-OLD SON",
+    "deck": "Police arrested a 44-year-old man over the killing of an engineering student and an attack on the student's mother at a south Bengaluru home.",
     "paragraphs": [
-      "The state approved ₹2,321 crore to white-top 88 Bengaluru roads in the project's fourth phase. The package includes walkable footpaths, redesigned junctions, lighting and utility works.",
-      "A separate ₹487-crore allocation was approved for the Central Silk Board to K R Pura ORR link, a key eastern Bengaluru corridor."
+      "A 44-year-old man was arrested Friday over the alleged murder of his partner's 18-year-old son and an attack on the boy's mother at their rented home in south Bengaluru.",
+      "Police said the incident took place on November 16. The engineering student, Soham Das, died; his mother was injured and is receiving treatment. The investigation is ongoing."
     ],
-    "moreUrl": "https://thebengalurulive.com/government-approves-2321-crore-for-white-topping-88-bengaluru-roads-in-fourth-phase-487-crore-for-central-silk-board-to-k-r-pura-orr/",
+    "moreUrl": "https://indianexpress.com/article/cities/bangalore/bengaluru-live-in-partner-murder-case-sudeep-arrested-10971931/lite/",
     "image": {
-      "src": "https://thebengalurulive.com/wp-content/uploads/2026/11/featured-63.jpg",
-      "alt": "Officials inspect white-topping work on Hennur-Bagalur Road in Bengaluru.",
-      "caption": "File photo: officials inspect white-topping work on Hennur-Bagalur Road. The Bengaluru Live."
+      "src": "https://images.indianexpress.com/2026/11/Karnataka-murder-2.jpg?w=640",
+      "alt": "Accused Sudeep and deceased engineering student Soham Das, as pictured in The Indian Express report.",
+      "caption": "Accused Sudeep and Soham Das. Express photo / Special Arrangement."
     }
   },
   "sidebarStory": {
     "className": "sidebar-item",
     "headlineClass": "side-headline",
     "tag": "div",
-    "source": "Associated Press",
-    "kicker": "INDIA • JAPAN DEFENCE TIES",
-    "headline": "INDIA AND JAPAN AGREE TO DEEPEN DEFENCE COOPERATION AND HOLD LIVE-FIRE DRILLS",
-    "subhead": "The agreement includes Japanese missile training at Indian ranges and closer defence-industry work.",
+    "source": "The Indian Express",
+    "kicker": "KARNATAKA • VIRAL CAMPUS VIDEO",
+    "headline": "POLICE SEARCH FOR MEDICAL STUDENT AFTER SHE IS DRAGGED INTO SUV ON CAMPUS",
+    "subhead": "The Mangaluru incident prompted a probe after video clips spread online.",
     "paragraphs": [
-      "After talks in Tokyo, the two governments agreed to expand military and defence-industry cooperation, including allowing Japanese troops to conduct live-fire missile training at Indian firing ranges during future joint exercises.",
-      "The ministers also discussed technology and equipment cooperation under a “design with Japan, make in India” framework."
+      "Police in Mangaluru registered a case and began efforts to trace a medical student allegedly taken from Kanachur Medical College by relatives opposed to her interfaith relationship.",
+      "The Indian Express said it could not verify the circulating video. Police said the woman is an adult and has the right to decide where she lives and with whom."
     ],
-    "moreUrl": "https://apnews.com/article/japan-india-military-missile-radar-5b29b80bebf7a9b61422d19e9b3eed7f",
-    "image": {
-      "src": "https://dims.apnews.com/dims4/default/c144275/2147483647/strip/true/crop/5760x3840%2B0%2B0/resize/599x399%21/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa6%2F0c%2F6c96001db9bcd482ba90490b8f6a%2F3311675bba504dc6a4d80b137b86fb04",
-      "alt": "India and Japan foreign and defence ministers at a joint press conference in Tokyo on November 19, 2026.",
-      "caption": "India and Japanese ministers meet in Tokyo. Rodrigo Reyes Marin/Pool Photo via AP."
-    }
+    "moreUrl": "https://indianexpress.com/article/cities/bangalore/mangaluru-medical-student-abduction-kanachur-college-10971501/"
   },
   "groups": [
     {
-      "separator": "— BENGALURU & KARNATAKA • POLICING, ROADS & METRO —",
+      "separator": "— BENGALURU & KARNATAKA • CRIME, LAW & CULTURE —",
       "className": "lower-page-grid",
       "ariaLabel": "Bengaluru and Karnataka civic, infrastructure and employment news",
       "stories": [
@@ -90,166 +85,165 @@
           "className": "lower-column",
           "headlineClass": "lower-headline",
           "source": "The Indian Express",
-          "kicker": "BENGALURU • POLICING",
-          "headline": "BENGALURU'S FIRST CHIEF POLICE COMMISSIONER SETS OUT PRIORITIES FOR FIVE NEW ZONES",
+          "kicker": "KARNATAKA • RECRUITMENT SCAM",
+          "headline": "POLICE CAN PRESS CORRUPTION CHARGES AGAINST THREE KPSC OFFICERS",
           "paragraphs": [
-            "R Hithendra, the city's first Chief Commissioner of Police, said five territorial commissionerates would be made operational as soon as possible.",
-            "The new structure divides Bengaluru into North, South, East, West and Central zones, with a separate traffic commissioner."
+            "Karnataka has allowed police to invoke the Prevention of Corruption Act against suspended KPSC chairman Shivashankarappa Sahukar, commission member B V Geetha and IAS officer Gyanendra Kumar Gangwar.",
+            "The move could enable prosecution under the stricter law as investigators pursue alleged irregularities in a recruitment scam."
           ],
-          "moreUrl": "https://indianexpress.com/article/cities/bangalore/bengaluru-five-police-commissionerates-new-structure-hithendra-10969265/"
+          "moreUrl": "https://indianexpress.com/article/cities/bangalore/kpsc-recruitment-scam-prevention-corruption-act-bv-geetha-suspension-10971208/"
         },
         {
           "className": "lower-column center-border",
           "headlineClass": "lower-headline",
-          "source": "Today in Bengaluru / Construction World",
-          "kicker": "BENGALURU • NAMMA METRO",
-          "headline": "BLUE LINE COMPLETES A 6-KM TRIAL RUN IN LATEST TEST PHASE",
+          "source": "The Indian Express",
+          "kicker": "KARNATAKA • WILDLIFE",
+          "headline": "STATE ORDERS PROBE INTO VIRAL VIDEO OF TAMIL NADU MINISTER ON TIGER SAFARI",
           "paragraphs": [
-            "The Bengaluru Metro Blue Line completed a trial run covering six kilometres, according to a report in the city's November 20 morning roundup.",
-            "The airport corridor is a closely watched project for commuters travelling between eastern Bengaluru and Kempegowda International Airport."
+            "Karnataka has ordered an inquiry after a video appeared to show Tamil Nadu minister Vanni Arasu pursuing wildlife in a reserve using a forest department vehicle.",
+            "Forest Minister Ramalinga Reddy said the rules apply regardless of a visitor's status. The video appeared to show a tiger and elephants; authorities are examining the circumstances."
           ],
-          "moreUrl": "https://todayin.email/e/in-bengaluru/2026-11-20"
+          "moreUrl": "https://indianexpress.com/article/cities/bangalore/vanni-arasu-tiger-chase-video-karnataka-probe-10971884/"
         },
         {
           "className": "lower-column",
           "headlineClass": "lower-headline",
-          "source": "The Times of India",
-          "kicker": "BENGALURU • STARTUPS & INVESTMENT",
-          "headline": "24 VENTURE FUNDS ANNOUNCE ₹1,050 CRORE FOR DEEPTECH STARTUPS",
+          "source": "The Indian Express",
+          "kicker": "KARNATAKA • CULTURE & LAW",
+          "headline": "FIR FILED OVER ALLEGED REMARKS ABOUT SOCIAL REFORMER BASAVANNA",
           "paragraphs": [
-            "Twenty-four venture capital firms announced investments worth ₹1,050 crore in more than 68 deeptech startups at the Bengaluru Tech Summit.",
-            "Karnataka's IT minister said the state's startup ecosystem had raised $4.4 billion this year, accounting for 43 per cent of technology investment in India, figures cited at the event."
+            "Police registered a case against writer Ravi Hanj and publisher Vishweshwar Bhat over alleged derogatory remarks about 12th-century social reformer Basavanna in the book Basava Mantapa and a later interview.",
+            "The book has drawn objections from sections of the Veerashaiva-Lingayat community and criticism from leaders of both the Congress and BJP."
           ],
-          "moreUrl": "https://timesofindia.indiatimes.com/business/india-business/24-vcs-announce-rs-1050-cr-investments-in-deeptech-startups/articleshow/135999354.cms"
+          "moreUrl": "https://indianexpress.com/article/cities/bangalore/basavanna-remarks-row-ravi-hanj-vishweshwar-bhat-fir-10971262/"
         }
       ]
     },
     {
-      "separator": "— INDIA • BUSINESS, SECURITY & POLITICS —",
+      "separator": "— INDIA • LAW, POLITICS & RIGHTS —",
       "className": "news-section foreign-section",
       "ariaLabel": "India court decisions, public safety and shipping news",
       "stories": [
         {
           "className": "section-lead",
           "headlineClass": "section-headline",
-          "source": "NDTV / Press Trust of India",
-          "kicker": "INDIA • BUSINESS & JOBS",
-          "headline": "MODI CHALLENGES INDIA INC TO TURN TAX RELIEF INTO HIGHER PAY AND MORE JOBS",
-          "paragraphs": [
-            "Addressing FICCI's annual convention, Prime Minister Narendra Modi asked companies whether lower corporate taxes had translated into stronger hiring and higher employee wages.",
-            "He urged industry to invest more in agriculture and allied sectors and to suggest further reforms for economic growth."
-          ],
-          "moreUrl": "https://www.ndtv.com/india-news/pm-modi-at-ficci-i-gave-tax-cuts-have-you-hiked-salaries-created-jobs-pm-narendra-modi-asks-india-inc-12351154"
-        },
-        {
-          "className": "section-brief",
-          "headlineClass": "lower-headline",
           "source": "Associated Press",
-          "kicker": "KASHMIR • SECURITY",
-          "headline": "INDIAN TROOPS KILL MILITANT COMMANDER AFTER VILLAGE SIEGE IN SOUTHERN KASHMIR",
+          "kicker": "INDIA • US COURT CASE",
+          "headline": "NIKHIL GUPTA SENTENCED TO MORE THAN 19 YEARS IN US ASSASSINATION PLOT",
           "paragraphs": [
-            "Government forces killed Mohammed Lateef Bhat in Kulgam district after security personnel surrounded villages following an ambush that wounded three paramilitary soldiers, police said.",
-            "Residents described hardship during searches and detentions. The Associated Press said it could not independently verify all details of the operation."
+            "Nikhil Gupta, 55, was sentenced in New York to just over 19½ years in prison for conspiring to hire a hit man to kill Sikh separatist leader Gurpatwant Singh Pannun, an American citizen.",
+            "Gupta apologised in court. The sentence follows his guilty plea in the murder-for-hire plot, according to prosecutors and court records reported by the Associated Press."
           ],
-          "moreUrl": "https://apnews.com/article/4c8bb73e494d85b769d85a8c98ea1baf"
+          "moreUrl": "https://apnews.com/article/862cf5a608b00694f2cc661ece763134"
         },
         {
           "className": "section-brief",
           "headlineClass": "lower-headline",
-          "source": "The Times of India",
-          "kicker": "TAMIL NADU • POLITICS",
-          "headline": "TVK MLA V S BABU DIES AFTER PROLONGED HOSPITALISATION",
+          "source": "NDTV",
+          "kicker": "TELANGANA • SOCIAL MEDIA",
+          "headline": "YOUTH CONGRESS PROTESTS META ACCOUNT RESTRICTIONS IN HYDERABAD",
           "paragraphs": [
-            "Tamilaga Vettri Kazhagam legislator V S Babu has died after a prolonged hospital stay, according to the Times of India's November 19 live coverage.",
-            "The death marks a major loss for the party and its supporters in Tamil Nadu."
+            "Telangana Youth Congress workers protested outside Meta's Hyderabad office after accounts belonging to two national office-bearers were restricted.",
+            "Workers alleged political interference and demanded that the accounts be restored. Police detained state party leaders and other protesters, NDTV reported."
           ],
-          "moreUrl": "https://timesofindia.indiatimes.com/india/india-international-breaking-news-today-november-19/liveblog/135970352.cms"
+          "moreUrl": "https://www.ndtv.com/india-news/youth-congress-protest-outside-hyderabad-meta-office-over-account-curbs-12356134"
+        },
+        {
+          "className": "section-brief",
+          "headlineClass": "lower-headline",
+          "source": "Bar and Bench",
+          "kicker": "ODISHA • TRIBAL RIGHTS",
+          "headline": "SUPREME COURT QUASHES LAND ACQUISITION AFTER GRAM SABHA REJECTION",
+          "paragraphs": [
+            "The Supreme Court set aside Odisha's acquisition of land in three Sundargarh villages for a Dalmia Cement mining project, finding that prior Gram Sabha consent had not been obtained.",
+            "The court noted that the two village assemblies had rejected the proposal in 2020, Bar and Bench reported."
+          ],
+          "moreUrl": "https://www.barandbench.com/news/litigation/supreme-court-quashes-odishas-2021-land-acquisition-for-dalmia-cement-mining-project"
         }
       ]
     },
     {
-      "separator": "— BENGALURU • TECHNOLOGY, ENERGY & HEALTH —",
+      "separator": "— INDIA • SECURITY, WEATHER & THE ECONOMY —",
       "className": "news-section city-section",
       "ariaLabel": "India energy, technology and culture news",
       "stories": [
         {
           "className": "section-lead city-lead",
           "headlineClass": "section-headline",
-          "source": "Deccan Herald / Today in Bengaluru",
-          "kicker": "BENGALURU • CLEAN ENERGY",
-          "headline": "RESTAURANT WASTE OIL IS BEING TURNED INTO BIOFUEL",
+          "source": "India Meteorological Department",
+          "kicker": "ODISHA • CYCLONE AKVAN",
+          "headline": "CYCLONE AKVAN WEAKENS INTO DEEP DEPRESSION OVER SOUTH ODISHA",
           "paragraphs": [
-            "A Bengaluru initiative is collecting used cooking oil from restaurants and converting the waste into biofuel, giving eateries a route to divert spent oil from unsafe reuse.",
-            "The effort connects the city's food businesses with a local fuel-making operation, according to Deccan Herald coverage in the morning roundup."
+            "The IMD said Cyclone Akvan weakened into a deep depression over coastal Odisha on Friday morning, near Gopalpur, after moving north-northeast across the coast.",
+            "The system was forecast to continue northward and weaken further. The bulletin lists the storm's position and movement as of 11:30 am IST on November 20."
           ],
-          "moreUrl": "https://todayin.email/e/in-bengaluru/2026-11-20"
+          "moreUrl": "https://mausam.imd.gov.in/Forecast/marquee_data/39.%20National%20Bulletin%20No%2039-20Nov2026_1130IST.pdf"
         },
         {
           "className": "section-brief",
           "headlineClass": "lower-headline",
-          "source": "Deccan Herald / Today in Bengaluru",
-          "kicker": "BENGALURU • HEART CARE",
-          "headline": "GOVINDARAJANAGAR HOSPITAL TO BECOME A JAYADEVA CARDIAC CARE CENTRE",
+          "source": "The Indian Express",
+          "kicker": "UTTAR PRADESH • CRIME",
+          "headline": "DAWOOD-LINKED GANGSTER KILLED IN JOINT POLICE ENCOUNTER",
           "paragraphs": [
-            "The Govindarajanagar hospital is to be converted into a cardiac-care centre under the Jayadeva Institute, expanding specialist heart services in western Bengaluru.",
-            "The move was among the city health developments reported in Thursday's Bengaluru news roundup."
+            "Naseem Durrani, who was linked to underworld figure Dawood Ibrahim, was killed in a joint operation by Delhi Police and Noida STF in Bulandshahr, Uttar Pradesh.",
+            "Investigators were examining his suspected role in the November 16 shooting death of a man outside Delhi Law Minister Kapil Mishra's camp office, The Indian Express reported."
           ],
-          "moreUrl": "https://todayin.email/e/in-bengaluru/2026-11-20"
+          "moreUrl": "https://indianexpress.com/article/india/today-india-breaking-news-live-updates-20-november-2026-gangster-naseem-durrani-encounter-delhi-aqi-cyclone-nikhil-gupta-sentencing-accident-pollution-south-weather-odisha-chennai-10970814/"
         },
         {
           "className": "section-brief",
           "headlineClass": "lower-headline",
-          "source": "The Hindu BusinessLine / Varta",
-          "kicker": "BENGALURU • CLIMATE STARTUPS",
-          "headline": "CHANGENOW HUB OPENS IN BENGALURU TO TAKE CLIMATE STARTUPS GLOBAL",
+          "source": "NDTV / Confederation of All India Traders",
+          "kicker": "INDIA • WEDDING SEASON",
+          "headline": "52 LAKH WEDDINGS COULD GENERATE ₹7.5 LAKH CRORE IN BUSINESS",
           "paragraphs": [
-            "The ChangeNOW Hub launched at the Bengaluru Tech Summit to help Indian climate-focused startups expand internationally.",
-            "Organisers said Bengaluru's technology ecosystem and focus on climate and urban sustainability made it a natural base for the initiative."
+            "India is expected to host 52 lakh weddings between November 21 and December 15, generating an estimated ₹7.5 lakh crore in business, according to the traders' body CAIT.",
+            "The forecast spans retail, hospitality, transport, food and jewellery, with Delhi-NCR expected to account for around five lakh weddings and ₹2.5 lakh crore."
           ],
-          "moreUrl": "https://vartareports.in/story/e5b7d91a2311288b"
+          "moreUrl": "https://www.ndtv.com/india-news/52-lakh-weddings-in-india-in-25-days-over-rs-7-lakh-crore-business-expected-12352163"
         }
       ]
     },
     {
-      "separator": "— INDIA • CRICKET, CULTURE & BENGALURU WEATHER —",
+      "separator": "— INDIA • CRICKET, HOCKEY & COURTS —",
       "className": "news-section sports-section",
       "ariaLabel": "India football, courts and Bengaluru weather",
       "stories": [
         {
           "className": "section-lead sports-lead",
           "headlineClass": "section-headline",
-          "source": "Board of Control for Cricket in India",
-          "kicker": "CRICKET • ASIA CUP RISING STARS",
-          "headline": "INDIA A OPEN THEIR RISING STARS CAMPAIGN AGAINST NEPAL TODAY",
+          "source": "The News Mill / ANI",
+          "kicker": "CRICKET • INDIA IN NEW ZEALAND",
+          "headline": "JAISWAL AND RAHUL SET A NEW-CENTURY OPENING RECORD IN NEW ZEALAND",
           "paragraphs": [
-            "India A begin their DP World Men's Asia Cup Rising Stars campaign against Nepal in Doha on Friday, with a young squad led by high-profile prospects.",
-            "The BCCI match centre lists the fixture for November 20 at West End Park International Stadium."
+            "Yashasvi Jaiswal and KL Rahul put on 130 runs in the first Test at Wellington, India's first century opening partnership on New Zealand soil this century.",
+            "Jaiswal made 85 from 89 balls as India reached 159 for one at stumps on day two, The News Mill reported with ANI inputs."
           ],
-          "moreUrl": "https://www.bcci.tv/matches/8c695e34-c511-467e-8083-643a91417043/india-a-vs-nepal"
+          "moreUrl": "https://thenewsmill.com/2026/11/jaiswal-and-kl-rahul-set-india-opener-record-in-new-zealand-test/"
         },
         {
           "className": "section-brief listings-box",
-          "source": "NDTV",
-          "kicker": "INDIA • CINEMA",
-          "headline": "DHANUSH'S “OM” TOPS HIS PREVIOUS FILM IN ADVANCE BOOKINGS",
+          "source": "International Hockey Federation",
+          "kicker": "HOCKEY • WOMEN'S ASIAN CHAMPIONS TROPHY",
+          "headline": "INDIA STARTS TITLE DEFENCE WITH 4–1 WIN OVER MALAYSIA",
           "paragraphs": [
-            "Dhanush's upcoming film OM: Chapter 1 – Udhiram crossed ₹7 crore in worldwide opening-day advance bookings, including block seats, as of midday Thursday.",
-            "The film, also starring Mammootty and Sai Pallavi, surpassed the advance-booking total of Raayan, NDTV reported."
+            "India came from behind to beat Malaysia 4–1 in its opening match of the Women's Asian Champions Trophy in Bhopal.",
+            "Mumtaz Khan scored on her return and debutant Puja Sahoo also found the net as India began its title defence with a win."
           ],
-          "moreUrl": "https://www.ndtv.com/entertainment/dhanushs-om-surpasses-raayan-in-advance-bookings-eyes-biggest-opening-of-his-career-12350030"
+          "moreUrl": "https://tms.fih.ch/matches/23405"
         },
         {
           "className": "section-brief classifieds-box",
           "headlineClass": "lower-headline",
-          "source": "India Meteorological Department / Today in Bengaluru",
-          "kicker": "BENGALURU • WEATHER",
-          "headline": "MOSTLY CLOUDY IN BENGALURU; NO RAIN EXPECTED",
-          "weather": {
-            "paragraphs": [
-              "The forecast for Bengaluru on Friday is mostly cloudy, with temperatures between 22°C and 29°C and no rain expected."
-            ],
-            "moreUrl": "https://city.imd.gov.in/citywx/citywxnew_warnings.php?id=43295"
-          }
+          "source": "The Indian Express",
+          "kicker": "MUMBAI • AIR QUALITY",
+          "headline": "BOMBAY HIGH COURT WEIGHS COMPLETE FIRECRACKER BAN OVER POOR AIR",
+          "paragraphs": [
+            "The Bombay High Court expressed concern over poor air quality after Diwali and is considering a complete ban on firecrackers in Mumbai.",
+            "The court criticised the lack of compliance with existing restrictions as it weighed stronger measures, The Indian Express reported."
+          ],
+          "moreUrl": "https://indianexpress.com/article/cities/mumbai/bombay-hc-drastic-order-firecracker-ban-mumbai-air-quality-diwali-10970679/"
         }
       ]
     }
