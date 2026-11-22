@@ -5,12 +5,12 @@
     "tagline": "Open sources. Fresh news. One paper. A newspaper assembled from the open web",
     "established": "2026",
     "weatherLabel": "BENGALURU WEATHER",
-    "weatherSummary": "Mist early. Bengaluru: 30°C / 15°C; no warning today.",
+    "weatherSummary": "Partly cloudy. Bengaluru: 30°C / 16°C; no warning today.",
     "motto": "FROM OPEN SOURCES DESK",
     "editionLabel": "DAILY READ",
     "editionSummary": "Complete Morning Ledger",
     "edition": "BENGALURU • INDIA EDITION",
-    "dateline": "BENGALURU, SATURDAY, NOVEMBER 21, 2026",
+    "dateline": "BENGALURU, SUNDAY, NOVEMBER 22, 2026",
     "greeting": "GOOD MORNING :)",
     "footer": "Open Newspaper • Bengaluru and India Edition • Independent coverage from open sources."
   },
@@ -42,208 +42,208 @@
   ],
   "cityWatch": {
     "label": "CITY WATCH",
-    "text": "IMD forecasts mist in Bengaluru on Saturday, with a low of 15°C and a high of 30°C; no warning is in force.",
+    "text": "IMD forecasts a partly cloudy Sunday in Bengaluru, with a low of 16°C and a high of 30°C; no warning is in force.",
     "attribution": "— India Meteorological Department"
   },
   "lead": {
-    "source": "The Indian Express",
-    "kicker": "BENGALURU • PUBLIC SAFETY",
-    "headline": "SOUTH BENGALURU MAN ARRESTED IN MURDER OF LIVE-IN PARTNER'S 18-YEAR-OLD SON",
-    "deck": "Police arrested a 44-year-old man over the killing of an engineering student and an attack on the student's mother at a south Bengaluru home.",
+    "source": "The Bengaluru Live",
+    "kicker": "BENGALURU • CIVIC & TRANSPORT",
+    "headline": "AI-POWERED PARKING TO COVER 12 MAJOR ROADS IN HSR LAYOUT",
+    "deck": "Bengaluru South City Corporation plans 3,982 paid parking spaces across 18 km of commercial roads, with digital payments and live space monitoring.",
     "paragraphs": [
-      "A 44-year-old man was arrested Friday over the alleged murder of his partner's 18-year-old son and an attack on the boy's mother at their rented home in south Bengaluru.",
-      "Police said the incident took place on November 16. The engineering student, Soham Das, died; his mother was injured and is receiving treatment. The investigation is ongoing."
+      "A new AI-based smart parking system is planned for 12 major commercial roads in HSR Layout, spanning 18.02 km. The Bengaluru South City Corporation says it is intended to ease congestion and protect footpaths.",
+      "The plan provides about 3,355 two-wheeler spaces and more than 627 car spaces. Rates are set at INR 15 per hour for two-wheelers and INR 30 for cars, with AI cameras to show availability and monitor parking."
     ],
-    "moreUrl": "https://indianexpress.com/article/cities/bangalore/bengaluru-live-in-partner-murder-case-sudeep-arrested-10971931/lite/",
+    "moreUrl": "https://thebengalurulive.com/hsr-layout-smart-parking-12-roads-to-get-ai-based-paid-parking-at-rs-15-an-hour-for-two-wheelers-rs-30-for-cars/",
     "image": {
-      "src": "https://images.indianexpress.com/2026/11/Karnataka-murder-2.jpg?w=640",
-      "alt": "Accused Sudeep and deceased engineering student Soham Das, as pictured in The Indian Express report.",
-      "caption": "Accused Sudeep and Soham Das. Express photo / Special Arrangement."
+      "src": "https://thebengalurulive.com/wp-content/uploads/2026/11/photo-8.jpeg",
+      "alt": "Bengaluru South City Corporation officials and Parklens India representatives at the HSR Layout smart parking agreement signing.",
+      "caption": "The HSR Layout smart parking agreement signing. Photo: The Bengaluru Live."
     }
   },
   "sidebarStory": {
     "className": "sidebar-item",
     "headlineClass": "side-headline",
     "tag": "div",
-    "source": "The Indian Express",
-    "kicker": "KARNATAKA • VIRAL CAMPUS VIDEO",
-    "headline": "POLICE SEARCH FOR MEDICAL STUDENT AFTER SHE IS DRAGGED INTO SUV ON CAMPUS",
-    "subhead": "The Mangaluru incident prompted a probe after video clips spread online.",
+    "source": "NDTV",
+    "kicker": "INDIA • POLITICS & CRICKET",
+    "headline": "CRICKETER YUZVENDRA CHAHAL JOINS BJP OBC MORCHA EXECUTIVE",
+    "subhead": "The leg-spinner has been named a special invitee to the party committee.",
     "paragraphs": [
-      "Police in Mangaluru registered a case and began efforts to trace a medical student allegedly taken from Kanachur Medical College by relatives opposed to her interfaith relationship.",
-      "The Indian Express said it could not verify the circulating video. Police said the woman is an adult and has the right to decide where she lives and with whom."
+      "India leg-spinner Yuzvendra Chahal joined the BJP and was appointed a special invitee to the national executive committee of its OBC Morcha, the party announced Saturday.",
+      "Chahal thanked party leaders in a social media post. The BJP also announced a slate of committee appointments from several states, NDTV reported."
     ],
-    "moreUrl": "https://indianexpress.com/article/cities/bangalore/mangaluru-medical-student-abduction-kanachur-college-10971501/"
+    "moreUrl": "https://www.ndtv.com/india-news/yuzvendra-chahal-joins-bjp-gets-role-in-partys-obc-morcha-committee-12359712"
   },
   "groups": [
     {
-      "separator": "— BENGALURU & KARNATAKA • CRIME, LAW & CULTURE —",
+      "separator": "— BENGALURU & KARNATAKA • CITY, EDUCATION & PUBLIC SAFETY —",
       "className": "lower-page-grid",
-      "ariaLabel": "Bengaluru and Karnataka civic, infrastructure and employment news",
+      "ariaLabel": "Bengaluru civic, education, worker and public safety news",
       "stories": [
         {
           "className": "lower-column",
           "headlineClass": "lower-headline",
-          "source": "The Indian Express",
-          "kicker": "KARNATAKA • RECRUITMENT SCAM",
-          "headline": "POLICE CAN PRESS CORRUPTION CHARGES AGAINST THREE KPSC OFFICERS",
+          "source": "The State Line",
+          "kicker": "BENGALURU • HEALTH WORKERS",
+          "headline": "ASHA WORKERS KEEP FREEDOM PARK PROTEST GOING AFTER TALKS FAIL",
           "paragraphs": [
-            "Karnataka has allowed police to invoke the Prevention of Corruption Act against suspended KPSC chairman Shivashankarappa Sahukar, commission member B V Geetha and IAS officer Gyanendra Kumar Gangwar.",
-            "The move could enable prosecution under the stricter law as investigators pursue alleged irregularities in a recruitment scam."
+            "Karnataka ASHA workers have continued their day-and-night protest at Bengaluru Freedom Park after rejecting the state government assurance on a pay increase.",
+            "The workers are seeking a monthly honorarium of INR 15,000. Their association said the protest had entered its fifth day as of Saturday."
           ],
-          "moreUrl": "https://indianexpress.com/article/cities/bangalore/kpsc-recruitment-scam-prevention-corruption-act-bv-geetha-suspension-10971208/"
+          "moreUrl": "https://thestateline.in/asha-workers-reject-ktaka-ministers-assurances-bengaluru-protest-enters-fifth-day/"
         },
         {
           "className": "lower-column center-border",
           "headlineClass": "lower-headline",
-          "source": "The Indian Express",
-          "kicker": "KARNATAKA • WILDLIFE",
-          "headline": "STATE ORDERS PROBE INTO VIRAL VIDEO OF TAMIL NADU MINISTER ON TIGER SAFARI",
+          "source": "The Times of India",
+          "kicker": "BENGALURU • EDUCATION",
+          "headline": "NPS SARJAPUR ROAD ANNOUNCES CAMPUS CLOSURE, SAYS IT HAS FOUND NEW SITE",
           "paragraphs": [
-            "Karnataka has ordered an inquiry after a video appeared to show Tamil Nadu minister Vanni Arasu pursuing wildlife in a reserve using a forest department vehicle.",
-            "Forest Minister Ramalinga Reddy said the rules apply regardless of a visitor's status. The video appeared to show a tiger and elephants; authorities are examining the circumstances."
+            "National Public School Sarjapur Road told parents it would stop operating at its current site after this academic year, citing a dispute with its landlord.",
+            "The chairman later told The Times of India that the school had found a nearby location and planned to move its 350 students. Parents said they had not yet received formal details."
           ],
-          "moreUrl": "https://indianexpress.com/article/cities/bangalore/vanni-arasu-tiger-chase-video-karnataka-probe-10971884/"
+          "moreUrl": "https://timesofindia.indiatimes.com/city/bengaluru/national-public-school-sarjapur-road-announces-closure-over-land-dispute-in-bengaluru/amp_articleshow/136061009.cms"
         },
         {
           "className": "lower-column",
           "headlineClass": "lower-headline",
-          "source": "The Indian Express",
-          "kicker": "KARNATAKA • CULTURE & LAW",
-          "headline": "FIR FILED OVER ALLEGED REMARKS ABOUT SOCIAL REFORMER BASAVANNA",
+          "source": "Deccan Herald via BLR Today",
+          "kicker": "BENGALURU • ROAD SAFETY",
+          "headline": "28-YEAR-OLD SCOOTER RIDER KILLED IN KENGERI HIT-AND-RUN",
           "paragraphs": [
-            "Police registered a case against writer Ravi Hanj and publisher Vishweshwar Bhat over alleged derogatory remarks about 12th-century social reformer Basavanna in the book Basava Mantapa and a later interview.",
-            "The book has drawn objections from sections of the Veerashaiva-Lingayat community and criticism from leaders of both the Congress and BJP."
+            "A 28-year-old scooter rider, Mohammed Khasim, died after an unidentified vehicle hit him and fled near Kengeri early Sunday, according to a report carried by BLR Today.",
+            "Khasim was returning to his home in Kambipura when he was struck on Ring Road. Residents took him to a nearby hospital, where he died."
           ],
-          "moreUrl": "https://indianexpress.com/article/cities/bangalore/basavanna-remarks-row-ravi-hanj-vishweshwar-bhat-fir-10971262/"
+          "moreUrl": "https://inblr.today/news/kengeri-28-year-old-scooter-rider-killed-hit-run-near-bengaluru"
         }
       ]
     },
     {
-      "separator": "— INDIA • LAW, POLITICS & RIGHTS —",
+      "separator": "— INDIA • POLITICS, DIPLOMACY & JUSTICE —",
       "className": "news-section foreign-section",
-      "ariaLabel": "India court decisions, public safety and shipping news",
+      "ariaLabel": "India political, diplomatic and judicial developments",
       "stories": [
         {
           "className": "section-lead",
           "headlineClass": "section-headline",
-          "source": "Associated Press",
-          "kicker": "INDIA • US COURT CASE",
-          "headline": "NIKHIL GUPTA SENTENCED TO MORE THAN 19 YEARS IN US ASSASSINATION PLOT",
+          "source": "The Indian Express",
+          "kicker": "INDIA • BORDER DIPLOMACY",
+          "headline": "INDIA AND CHINA COMMANDERS HOLD FRESH TALKS TO EASE ARUNACHAL FRONTIER TENSIONS",
           "paragraphs": [
-            "Nikhil Gupta, 55, was sentenced in New York to just over 19½ years in prison for conspiring to hire a hit man to kill Sikh separatist leader Gurpatwant Singh Pannun, an American citizen.",
-            "Gupta apologised in court. The sentence follows his guilty plea in the murder-for-hire plot, according to prosecutors and court records reported by the Associated Press."
+            "Indian Army III Corps commander Lt General Girish Kalia met his Chinese counterpart and other officers for talks aimed at calming tensions along the Arunachal Pradesh frontier, The Indian Express reported Sunday.",
+            "The meeting is part of efforts to manage local friction along the Line of Actual Control. Both sides have used commander-level talks to address border issues and prevent escalation."
           ],
-          "moreUrl": "https://apnews.com/article/862cf5a608b00694f2cc661ece763134"
+          "moreUrl": "https://indianexpress.com/article/india/india-china-commanders-meet-again-to-try-and-calm-arunachal-frontier-10973140/"
         },
         {
           "className": "section-brief",
           "headlineClass": "lower-headline",
-          "source": "NDTV",
-          "kicker": "TELANGANA • SOCIAL MEDIA",
-          "headline": "YOUTH CONGRESS PROTESTS META ACCOUNT RESTRICTIONS IN HYDERABAD",
+          "source": "Hindustan Times",
+          "kicker": "EDUCATION • NEET-UG",
+          "headline": "ALL 14 ACCUSED PLEAD NOT GUILTY IN NEET PAPER-LEAK CASE",
           "paragraphs": [
-            "Telangana Youth Congress workers protested outside Meta's Hyderabad office after accounts belonging to two national office-bearers were restricted.",
-            "Workers alleged political interference and demanded that the accounts be restored. Police detained state party leaders and other protesters, NDTV reported."
+            "A Delhi fast-track court formally framed charges against all 14 accused in the NEET-UG 2026 paper-leak case on Saturday. The accused denied the allegations and opted to face trial.",
+            "The court directed that prosecution evidence begin on November 25, with proceedings to continue day by day. The cancelled exam had been taken by about 22 lakh candidates."
           ],
-          "moreUrl": "https://www.ndtv.com/india-news/youth-congress-protest-outside-hyderabad-meta-office-over-account-curbs-12356134"
+          "moreUrl": "https://www.hindustantimes.com/india-news/neetug-2026-paper-leak-case-delhi-court-frames-charges-against-14-all-accused-to-face-trial-101795255981583.html/"
         },
         {
           "className": "section-brief",
           "headlineClass": "lower-headline",
-          "source": "Bar and Bench",
-          "kicker": "ODISHA • TRIBAL RIGHTS",
-          "headline": "SUPREME COURT QUASHES LAND ACQUISITION AFTER GRAM SABHA REJECTION",
+          "source": "Hindustan Times / ANI",
+          "kicker": "INDIA • NEPAL RELATIONS",
+          "headline": "NEPAL PM BALENDRA SHAH BEGINS FIRST OFFICIAL BILATERAL INDIA VISIT",
           "paragraphs": [
-            "The Supreme Court set aside Odisha's acquisition of land in three Sundargarh villages for a Dalmia Cement mining project, finding that prior Gram Sabha consent had not been obtained.",
-            "The court noted that the two village assemblies had rejected the proposal in 2020, Bar and Bench reported."
+            "Nepal Prime Minister Balendra Shah is due in New Delhi Sunday for his first official bilateral visit to India since taking office. He is scheduled to meet External Affairs Minister S Jaishankar after arriving.",
+            "Shah and Prime Minister Narendra Modi are due to hold delegation-level talks Monday, with energy projects and wider economic cooperation on the agenda."
           ],
-          "moreUrl": "https://www.barandbench.com/news/litigation/supreme-court-quashes-odishas-2021-land-acquisition-for-dalmia-cement-mining-project"
+          "moreUrl": "https://www.hindustantimes.com/india-news/nepal-pm-balen-shah-to-visit-india-on-november-2223-101795157552755.html"
         }
       ]
     },
     {
-      "separator": "— INDIA • SECURITY, WEATHER & THE ECONOMY —",
+      "separator": "— INDIA • PUBLIC HEALTH, SAFETY & INFRASTRUCTURE —",
       "className": "news-section city-section",
-      "ariaLabel": "India energy, technology and culture news",
+      "ariaLabel": "India public health, public safety and infrastructure news",
       "stories": [
         {
           "className": "section-lead city-lead",
           "headlineClass": "section-headline",
-          "source": "India Meteorological Department",
-          "kicker": "ODISHA • CYCLONE AKVAN",
-          "headline": "CYCLONE AKVAN WEAKENS INTO DEEP DEPRESSION OVER SOUTH ODISHA",
+          "source": "The New Indian Express",
+          "kicker": "MANIPUR • PUBLIC HEALTH EMERGENCY",
+          "headline": "SUSPECTED SPURIOUS LIQUOR DEATHS RISE TO 16 IN MANIPUR",
           "paragraphs": [
-            "The IMD said Cyclone Akvan weakened into a deep depression over coastal Odisha on Friday morning, near Gopalpur, after moving north-northeast across the coast.",
-            "The system was forecast to continue northward and weaken further. The bulletin lists the storm's position and movement as of 11:30 am IST on November 20."
+            "The death toll in the suspected hooch tragedy in Manipur Chandel district rose to 16 by Saturday, with more than 600 people reported hospitalised after consuming adulterated liquor.",
+            "The state has formed a high-level committee to investigate the source and composition of the suspected liquor and the medical circumstances of the deaths. The cause remains under investigation."
           ],
-          "moreUrl": "https://mausam.imd.gov.in/Forecast/marquee_data/39.%20National%20Bulletin%20No%2039-20Nov2026_1130IST.pdf"
+          "moreUrl": "https://www.newindianexpress.com/india/2026/Nov/21/death-toll-in-suspected-hooch-tragedy-in-manipur-rises-to-16-six-held"
         },
         {
           "className": "section-brief",
           "headlineClass": "lower-headline",
           "source": "The Indian Express",
-          "kicker": "UTTAR PRADESH • CRIME",
-          "headline": "DAWOOD-LINKED GANGSTER KILLED IN JOINT POLICE ENCOUNTER",
+          "kicker": "INDIA • WOMEN'S HEALTH",
+          "headline": "HPV VACCINATION DRIVE CROSSES ONE CRORE DOSES IN NINE MONTHS",
           "paragraphs": [
-            "Naseem Durrani, who was linked to underworld figure Dawood Ibrahim, was killed in a joint operation by Delhi Police and Noida STF in Bulandshahr, Uttar Pradesh.",
-            "Investigators were examining his suspected role in the November 16 shooting death of a man outside Delhi Law Minister Kapil Mishra's camp office, The Indian Express reported."
+            "India has administered more than one crore HPV vaccine doses in less than nine months, reaching about 87 per cent of its annual target cohort of 14-year-old girls, according to the Health Ministry.",
+            "Six states have reached full coverage of their identified target populations. Karnataka is among the states reporting coverage above 90 per cent."
           ],
-          "moreUrl": "https://indianexpress.com/article/india/today-india-breaking-news-live-updates-20-november-2026-gangster-naseem-durrani-encounter-delhi-aqi-cyclone-nikhil-gupta-sentencing-accident-pollution-south-weather-odisha-chennai-10970814/"
+          "moreUrl": "https://indianexpress.com/article/india/india-hpv-vaccination-drive-one-crore-doses-87-percent-coverage-10972825/"
         },
         {
           "className": "section-brief",
           "headlineClass": "lower-headline",
-          "source": "NDTV / Confederation of All India Traders",
-          "kicker": "INDIA • WEDDING SEASON",
-          "headline": "52 LAKH WEDDINGS COULD GENERATE ₹7.5 LAKH CRORE IN BUSINESS",
+          "source": "Press Information Bureau",
+          "kicker": "BIHAR • CONNECTIVITY",
+          "headline": "NITISH SETU OPENS AS PART OF INR 34,470-CRORE BIHAR PROJECTS",
           "paragraphs": [
-            "India is expected to host 52 lakh weddings between November 21 and December 15, generating an estimated ₹7.5 lakh crore in business, according to the traders' body CAIT.",
-            "The forecast spans retail, hospitality, transport, food and jewellery, with Delhi-NCR expected to account for around five lakh weddings and ₹2.5 lakh crore."
+            "Prime Minister Narendra Modi inaugurated the six-lane Dargah-Bidupur cable bridge over the Ganga in Bihar on Saturday, naming it Nitish Setu in honour of former chief minister Nitish Kumar.",
+            "The 19.7-km bridge links Patna and Vaishali districts. The wider programme included projects worth about INR 34,470 crore across connectivity, energy and public services."
           ],
-          "moreUrl": "https://www.ndtv.com/india-news/52-lakh-weddings-in-india-in-25-days-over-rs-7-lakh-crore-business-expected-12352163"
+          "moreUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2339564&lang=1&reg=3"
         }
       ]
     },
     {
-      "separator": "— INDIA • CRICKET, HOCKEY & COURTS —",
+      "separator": "— INDIA • CRICKET, HOCKEY & REGIONAL WATER —",
       "className": "news-section sports-section",
-      "ariaLabel": "India football, courts and Bengaluru weather",
+      "ariaLabel": "Indian cricket, hockey and regional diplomacy",
       "stories": [
         {
           "className": "section-lead sports-lead",
           "headlineClass": "section-headline",
-          "source": "The News Mill / ANI",
+          "source": "India Today",
           "kicker": "CRICKET • INDIA IN NEW ZEALAND",
-          "headline": "JAISWAL AND RAHUL SET A NEW-CENTURY OPENING RECORD IN NEW ZEALAND",
+          "headline": "PANT HITS 128 AS INDIA STRETCHES LEAD TO 261 IN WELLINGTON TEST",
           "paragraphs": [
-            "Yashasvi Jaiswal and KL Rahul put on 130 runs in the first Test at Wellington, India's first century opening partnership on New Zealand soil this century.",
-            "Jaiswal made 85 from 89 balls as India reached 159 for one at stumps on day two, The News Mill reported with ANI inputs."
+            "Rishabh Pant scored 128 on Day 4 of the first Test against New Zealand, becoming the first visiting wicketkeeper to score Test hundreds in all SENA countries, The Indian Express reported.",
+            "At lunch, India were 629 for six in their first innings, leading by 261. The century was Pant's first Test hundred since returning from injury."
           ],
-          "moreUrl": "https://thenewsmill.com/2026/11/jaiswal-and-kl-rahul-set-india-opener-record-in-new-zealand-test/"
+          "moreUrl": "https://indianexpress.com/article/sports/cricket/rishabh-pant-first-wicketkeeper-hundreds-all-sena-countries-ind-vs-nz-1st-test-10973183/"
         },
         {
           "className": "section-brief listings-box",
-          "source": "International Hockey Federation",
+          "source": "Hockey India",
           "kicker": "HOCKEY • WOMEN'S ASIAN CHAMPIONS TROPHY",
-          "headline": "INDIA STARTS TITLE DEFENCE WITH 4–1 WIN OVER MALAYSIA",
+          "headline": "INDIA WOMEN SET TO OPEN BHOPAL CAMPAIGN AGAINST THAILAND",
           "paragraphs": [
-            "India came from behind to beat Malaysia 4–1 in its opening match of the Women's Asian Champions Trophy in Bhopal.",
-            "Mumtaz Khan scored on her return and debutant Puja Sahoo also found the net as India began its title defence with a win."
+            "India are scheduled to face Thailand in Bhopal on Sunday in the Women's Asian Champions Trophy, with the hosts looking to add another title to their 2016 and 2023 wins.",
+            "The round-robin tournament features six Asian teams. The India-Thailand match is listed for 7 pm local time by Hockey India."
           ],
-          "moreUrl": "https://tms.fih.ch/matches/23405"
+          "moreUrl": "https://www.hockeyindia.org/index.php/schedule/matches/madhya-pradesh-women%27s-asian-champions-trophy-bhopal-2026"
         },
         {
           "className": "section-brief classifieds-box",
           "headlineClass": "lower-headline",
-          "source": "The Indian Express",
-          "kicker": "MUMBAI • AIR QUALITY",
-          "headline": "BOMBAY HIGH COURT WEIGHS COMPLETE FIRECRACKER BAN OVER POOR AIR",
+          "source": "The Hindu",
+          "kicker": "INDIA • BANGLADESH WATER TIES",
+          "headline": "INDIAN TEAM IN DHAKA FOR TALKS AHEAD OF GANGA TREATY EXPIRY",
           "paragraphs": [
-            "The Bombay High Court expressed concern over poor air quality after Diwali and is considering a complete ban on firecrackers in Mumbai.",
-            "The court criticised the lack of compliance with existing restrictions as it weighed stronger measures, The Indian Express reported."
+            "An Indian delegation has reached Dhaka as the two countries prepare for Joint River Commission discussions scheduled for November 22 and 23, The Hindu reported.",
+            "The Ganga Water Treaty is due to expire in December. The talks come as India and Bangladesh weigh how to handle the agreement's renewal and future water-sharing arrangements."
           ],
-          "moreUrl": "https://indianexpress.com/article/cities/mumbai/bombay-hc-drastic-order-firecracker-ban-mumbai-air-quality-diwali-10970679/"
+          "moreUrl": "https://www.thehindu.com/news/national/indian-team-reaches-dhaka-ahead-of-ganga-water-treatys-expiry/article71728827.ece"
         }
       ]
     }
