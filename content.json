@@ -5,12 +5,12 @@
     "tagline": "Open sources. Fresh news. One paper. A newspaper assembled from the open web",
     "established": "2026",
     "weatherLabel": "BENGALURU WEATHER",
-    "weatherSummary": "Partly cloudy. Bengaluru: 30°C / 16°C; no warning today.",
+    "weatherSummary": "Fog or mist early, then generally clear. Bengaluru: 29°C / 18°C; no warning today.",
     "motto": "FROM OPEN SOURCES DESK",
     "editionLabel": "DAILY READ",
     "editionSummary": "Complete Morning Ledger",
     "edition": "BENGALURU • INDIA EDITION",
-    "dateline": "BENGALURU, SUNDAY, NOVEMBER 22, 2026",
+    "dateline": "BENGALURU, MONDAY, NOVEMBER 23, 2026",
     "greeting": "GOOD MORNING :)",
     "footer": "Open Newspaper • Bengaluru and India Edition • Independent coverage from open sources."
   },
@@ -42,208 +42,204 @@
   ],
   "cityWatch": {
     "label": "CITY WATCH",
-    "text": "IMD forecasts a partly cloudy Sunday in Bengaluru, with a low of 16°C and a high of 30°C; no warning is in force.",
+    "text": "IMD forecasts fog or mist in Bengaluru early Monday, with a low of 18°C and a high of 29°C; no warning is in force.",
     "attribution": "— India Meteorological Department"
   },
   "lead": {
-    "source": "The Bengaluru Live",
-    "kicker": "BENGALURU • CIVIC & TRANSPORT",
-    "headline": "AI-POWERED PARKING TO COVER 12 MAJOR ROADS IN HSR LAYOUT",
-    "deck": "Bengaluru South City Corporation plans 3,982 paid parking spaces across 18 km of commercial roads, with digital payments and live space monitoring.",
+    "source": "The Indian Express",
+    "kicker": "BENGALURU • FAMILY & POLITICS",
+    "headline": "YS SHARMILA STOPPED FROM ENTERING YELAHANKA FAMILY HOME",
+    "deck": "Police cited an interim court order when the Andhra Pradesh Congress chief and her mother tried to reach the Bengaluru residence amid a dispute with her brother, Y S Jagan Mohan Reddy.",
     "paragraphs": [
-      "A new AI-based smart parking system is planned for 12 major commercial roads in HSR Layout, spanning 18.02 km. The Bengaluru South City Corporation says it is intended to ease congestion and protect footpaths.",
-      "The plan provides about 3,355 two-wheeler spaces and more than 627 car spaces. Rates are set at INR 15 per hour for two-wheelers and INR 30 for cars, with AI cameras to show availability and monitor parking."
+      "YS Sharmila and her mother, Y S Vijayalakshmi, were stopped by Bengaluru police on Sunday evening while trying to visit Yelahanka Palace, where the family of Sharmila’s brother, former Andhra Pradesh chief minister Y S Jagan Mohan Reddy, is staying.",
+      "Police cited an interim court order restraining Sharmila and her representatives from entering or interfering with the disputed property. Sharmila said she was unaware of the order and questioned why she was prevented from visiting what she considers a family home. The dispute has sharpened ahead of her daughter’s wedding later this week."
     ],
-    "moreUrl": "https://thebengalurulive.com/hsr-layout-smart-parking-12-roads-to-get-ai-based-paid-parking-at-rs-15-an-hour-for-two-wheelers-rs-30-for-cars/",
-    "image": {
-      "src": "https://thebengalurulive.com/wp-content/uploads/2026/11/photo-8.jpeg",
-      "alt": "Bengaluru South City Corporation officials and Parklens India representatives at the HSR Layout smart parking agreement signing.",
-      "caption": "The HSR Layout smart parking agreement signing. Photo: The Bengaluru Live."
-    }
+    "moreUrl": "https://indianexpress.com/article/india/ys-sharmila-denied-permission-yelahanka-palace-bengaluru-10973982/"
   },
   "sidebarStory": {
     "className": "sidebar-item",
     "headlineClass": "side-headline",
     "tag": "div",
-    "source": "NDTV",
-    "kicker": "INDIA • POLITICS & CRICKET",
-    "headline": "CRICKETER YUZVENDRA CHAHAL JOINS BJP OBC MORCHA EXECUTIVE",
-    "subhead": "The leg-spinner has been named a special invitee to the party committee.",
+    "source": "India Today",
+    "kicker": "WORLD • CLIMATE",
+    "headline": "COP31 ENDS WITHOUT AN OVERARCHING CLIMATE DEAL",
+    "subhead": "Negotiators failed to agree after divisions over fossil fuels and climate finance.",
     "paragraphs": [
-      "India leg-spinner Yuzvendra Chahal joined the BJP and was appointed a special invitee to the national executive committee of its OBC Morcha, the party announced Saturday.",
-      "Chahal thanked party leaders in a social media post. The BJP also announced a slate of committee appointments from several states, NDTV reported."
+      "The UN climate talks in Antalya ended without a consensus agreement after the final proposal omitted an explicit reference to fossil fuels. The European Union and several other countries rejected the text.",
+      "The negotiations ran almost 48 hours beyond their scheduled close. Developing countries also criticised the proposed climate-finance increase for lacking a clear baseline."
     ],
-    "moreUrl": "https://www.ndtv.com/india-news/yuzvendra-chahal-joins-bjp-gets-role-in-partys-obc-morcha-committee-12359712"
+    "moreUrl": "https://www.indiatoday.in/amp/science/story/cop31-climate-talks-collapse-fossil-fuels-climate-finance-3044587-2026-11-22"
   },
   "groups": [
     {
-      "separator": "— BENGALURU & KARNATAKA • CITY, EDUCATION & PUBLIC SAFETY —",
+      "separator": "— BENGALURU & KARNATAKA • TRANSIT, CIVIC SERVICES & CITY LIFE —",
       "className": "lower-page-grid",
-      "ariaLabel": "Bengaluru civic, education, worker and public safety news",
+      "ariaLabel": "Bengaluru transit, civic services and city life news",
       "stories": [
         {
           "className": "lower-column",
           "headlineClass": "lower-headline",
-          "source": "The State Line",
-          "kicker": "BENGALURU • HEALTH WORKERS",
-          "headline": "ASHA WORKERS KEEP FREEDOM PARK PROTEST GOING AFTER TALKS FAIL",
+          "source": "The Times of India",
+          "kicker": "BENGALURU • PUBLIC TRANSPORT",
+          "headline": "BMTC AUDIT FLAGS MORE THAN INR 4 CRORE IN ALLEGED IRREGULARITIES",
           "paragraphs": [
-            "Karnataka ASHA workers have continued their day-and-night protest at Bengaluru Freedom Park after rejecting the state government assurance on a pay increase.",
-            "The workers are seeking a monthly honorarium of INR 15,000. Their association said the protest had entered its fifth day as of Saturday."
+            "An internal audit at BMTC’s Central Store-1 found alleged irregularities involving missing bus spare parts over five years. Wilson Garden police have registered an FIR naming 21 serving and retired officials and a private supplier.",
+            "The complaint describes alleged forged invoices, altered stock records and shortages of thousands of parts. The allegations are under investigation."
           ],
-          "moreUrl": "https://thestateline.in/asha-workers-reject-ktaka-ministers-assurances-bengaluru-protest-enters-fifth-day/"
+          "moreUrl": "https://timesofindia.indiatimes.com/city/bengaluru/bmtc-central-store-audit-flags-rs-4-crore-irregularities-fir-filed-against-21-over-missing-spare-parts-in-bengaluru/articleshow/136081685.cms"
         },
         {
           "className": "lower-column center-border",
           "headlineClass": "lower-headline",
-          "source": "The Times of India",
-          "kicker": "BENGALURU • EDUCATION",
-          "headline": "NPS SARJAPUR ROAD ANNOUNCES CAMPUS CLOSURE, SAYS IT HAS FOUND NEW SITE",
+          "source": "IBC World",
+          "kicker": "KARNATAKA • PUBLIC SERVICE EXAMS",
+          "headline": "KPSC OPENS OBJECTION WINDOW FOR PROVISIONAL KAS RESULTS",
           "paragraphs": [
-            "National Public School Sarjapur Road told parents it would stop operating at its current site after this academic year, citing a dispute with its landlord.",
-            "The chairman later told The Times of India that the school had found a nearby location and planned to move its 350 students. Parents said they had not yet received formal details."
+            "The Karnataka Public Service Commission released provisional results for the 2026–27 KAS preliminary examination six days after the test. The recruitment covers 319 Gazetted Probationer posts.",
+            "Candidates disputing their provisional results can file supported objections online until 11 am on Monday. The commission says answer-key objections are not being accepted at this stage."
           ],
-          "moreUrl": "https://timesofindia.indiatimes.com/city/bengaluru/national-public-school-sarjapur-road-announces-closure-over-land-dispute-in-bengaluru/amp_articleshow/136061009.cms"
+          "moreUrl": "https://www.ibcworldnews.com/news/kpsc-releases-kas-prelims-results-in-just-six-days-objections-close"
         },
         {
           "className": "lower-column",
           "headlineClass": "lower-headline",
-          "source": "Deccan Herald via BLR Today",
-          "kicker": "BENGALURU • ROAD SAFETY",
-          "headline": "28-YEAR-OLD SCOOTER RIDER KILLED IN KENGERI HIT-AND-RUN",
+          "source": "The Times of India",
+          "kicker": "BENGALURU • PARKS & CULTURE",
+          "headline": "CUBBON PARK TO HOST 13-DAY FLOWER FESTIVAL FROM NOVEMBER 25",
           "paragraphs": [
-            "A 28-year-old scooter rider, Mohammed Khasim, died after an unidentified vehicle hit him and fled near Kengeri early Sunday, according to a report carried by BLR Today.",
-            "Khasim was returning to his home in Kambipura when he was struck on Ring Road. Residents took him to a nearby hospital, where he died."
+            "Cubbon Park will host its fifth flower show in 155 years, with the 13-day festival scheduled from November 25 to December 7. Organisers expect more than 15 lakh cut flowers and 1.2 lakh potted plants.",
+            "Planned displays include floral versions of Hoysala architecture, the Gandabherunda emblem and a Namma Metro coach, alongside exhibits and activities for families."
           ],
-          "moreUrl": "https://inblr.today/news/kengeri-28-year-old-scooter-rider-killed-hit-run-near-bengaluru"
+          "moreUrl": "https://timesofindia.indiatimes.com/city/bengaluru/bengalurus-cubbon-park-to-host-fifth-flower-show-in-its-155-year-history-to-be-held-from-november-25-to-december-7/articleshow/136076415.cms"
         }
       ]
     },
     {
-      "separator": "— INDIA • POLITICS, DIPLOMACY & JUSTICE —",
+      "separator": "— INDIA • CLIMATE, PUBLIC POLICY & PARLIAMENT —",
       "className": "news-section foreign-section",
-      "ariaLabel": "India political, diplomatic and judicial developments",
+      "ariaLabel": "India climate, public policy and parliamentary news",
+      "stories": [
+        {
+          "className": "section-lead",
+          "headlineClass": "section-headline",
+          "source": "India Today",
+          "kicker": "GLOBAL CLIMATE • COP31",
+          "headline": "COP31 COLLAPSES WITHOUT DEAL AFTER FOSSIL-FUEL ROW",
+          "paragraphs": [
+            "Governments failed to reach an overarching agreement at COP31 in Antalya after the final proposal made no explicit mention of fossil fuels. The European Union and several countries said the text was too weak, while developing nations also objected to the climate-finance provisions.",
+            "The two-week talks ran nearly 48 hours past their scheduled close. The impasse is a setback for efforts to agree on a shared path for climate action."
+          ],
+          "moreUrl": "https://www.indiatoday.in/amp/science/story/cop31-climate-talks-collapse-fossil-fuels-climate-finance-3044587-2026-11-22"
+        },
+        {
+          "className": "section-brief",
+          "headlineClass": "lower-headline",
+          "source": "The New Indian Express",
+          "kicker": "PARLIAMENT • MAHARASHTRA",
+          "headline": "RAJYA SABHA MP RAMRAO WADKUTE DIES AT 72",
+          "paragraphs": [
+            "BJP Rajya Sabha member Ramrao Wadkute died in New Delhi after suffering a severe heart attack, party leaders said. He represented Maharashtra and had taken his oath as a member in April.",
+            "Prime Minister Narendra Modi and other leaders expressed condolences, recalling Wadkute’s public service."
+          ],
+          "moreUrl": "https://www.newindianexpress.com/india/2026/Nov/22/bjp-rajya-sabha-mp-ramrao-wadkute-dies-of-cardiac-arrest-in-delhi-3"
+        },
+        {
+          "className": "section-brief",
+          "headlineClass": "lower-headline",
+          "source": "The Indian Express",
+          "kicker": "LEGAL EDUCATION • ARTIFICIAL INTELLIGENCE",
+          "headline": "CJI CALLS FOR COMPULSORY LEGAL-AID WORK AND AI RULES IN LAW COURSES",
+          "paragraphs": [
+            "Chief Justice of India Surya Kant proposed making a minimum period of legal-aid work a graduation requirement for law students. He also urged common guidelines for disclosing the use of AI in legal research.",
+            "The proposals were made at a legal-education conference in Hyderabad, where he argued for practical training and responsible use of new tools."
+          ],
+          "moreUrl": "https://indianexpress.com/article/education/cji-surya-kant-clea-ai-guidelines-legal-research-mandatory-law-school-courses-llb-legal-aid-10973516/lite/"
+        }
+      ]
+    },
+    {
+      "separator": "— INDIA • CONSUMER HEALTH, ROAD SAFETY & INNOVATION —",
+      "className": "news-section city-section",
+      "ariaLabel": "India consumer health, road safety and innovation news",
+      "stories": [
+        {
+          "className": "section-lead city-lead",
+          "headlineClass": "section-headline",
+          "source": "The Indian Express",
+          "kicker": "INDIA • FOOD SAFETY",
+          "headline": "FSSAI SANCTIONS PROSECUTION AFTER BISLERI WATER SAMPLE FOUND UNSAFE",
+          "paragraphs": [
+            "The Food Safety and Standards Authority of India sanctioned prosecution against Bisleri International after a packaged drinking-water sample was found unsafe and non-compliant with prescribed bromate limits.",
+            "The sample was sent for further testing after the company appealed; a laboratory again declared it unsafe. The regulator also sanctioned action against other firms and suspended two licences."
+          ],
+          "moreUrl": "https://indianexpress.com/article/india/bisleri-water-unsafe-fssai-prosecution-packaged-sample-10974022/lite/"
+        },
+        {
+          "className": "section-brief",
+          "headlineClass": "lower-headline",
+          "source": "The Indian Express",
+          "kicker": "RAJASTHAN • ROAD SAFETY",
+          "headline": "NINE PILGRIMS KILLED AS VEHICLE HITS PARKED TRUCK IN KOTA",
+          "paragraphs": [
+            "Nine people from Maharashtra were killed and eight injured when their multi-utility vehicle struck a parked truck on the Kota–Udaipur highway while they were returning from a pilgrimage to Khatu Shyamji.",
+            "The injured were taken to hospital. Police are investigating the crash."
+          ],
+          "moreUrl": "https://www.ndtv.com/india-news/9-devotees-returning-from-khatu-shyam-temple-killed-as-their-vehicle-rams-parked-truck-in-rajasthans-kota-12360576"
+        },
+        {
+          "className": "section-brief",
+          "headlineClass": "lower-headline",
+          "source": "The Times of India",
+          "kicker": "BIHAR • TECHNOLOGY & EDUCATION",
+          "headline": "PM OPENS IIT PATNA AI CENTRE, ANNOUNCES RESEARCH PARK",
+          "paragraphs": [
+            "Prime Minister Narendra Modi inaugurated an artificial-intelligence centre at IIT Patna and laid the foundation stone for a research park project.",
+            "The programme also included a proposed 120-bed startup hostel, part of a wider push to expand research and entrepreneurship infrastructure at the institute."
+          ],
+          "moreUrl": "https://timesofindia.indiatimes.com/city/patna/pm-opens-iit-patnas-ai-centre-lays-stone-for-research-park/amp_articleshow/136057293.cms"
+        }
+      ]
+    },
+    {
+      "separator": "— INDIA • CRICKET, CHESS & HOCKEY —",
+      "className": "news-section sports-section",
+      "ariaLabel": "Indian cricket, chess and hockey news",
       "stories": [
         {
           "className": "section-lead",
           "headlineClass": "section-headline",
           "source": "The Indian Express",
-          "kicker": "INDIA • BORDER DIPLOMACY",
-          "headline": "INDIA AND CHINA COMMANDERS HOLD FRESH TALKS TO EASE ARUNACHAL FRONTIER TENSIONS",
+          "kicker": "CRICKET • ASIA CUP RISING STARS",
+          "headline": "TILAK VARMA CENTURY IN VAIN AS PAKISTAN A BEAT INDIA A",
           "paragraphs": [
-            "Indian Army III Corps commander Lt General Girish Kalia met his Chinese counterpart and other officers for talks aimed at calming tensions along the Arunachal Pradesh frontier, The Indian Express reported Sunday.",
-            "The meeting is part of efforts to manage local friction along the Line of Actual Control. Both sides have used commander-level talks to address border issues and prevent escalation."
+            "Tilak Varma scored a century and Abhishek Sharma made 70, but India A fell 48 runs short while chasing Pakistan A’s 314 in the Asia Cup Rising Stars match in Doha.",
+            "Pakistan set the target after posting 313. India lost early wickets, and the middle-order fightback could not complete the chase."
           ],
-          "moreUrl": "https://indianexpress.com/article/india/india-china-commanders-meet-again-to-try-and-calm-arunachal-frontier-10973140/"
-        },
-        {
-          "className": "section-brief",
-          "headlineClass": "lower-headline",
-          "source": "Hindustan Times",
-          "kicker": "EDUCATION • NEET-UG",
-          "headline": "ALL 14 ACCUSED PLEAD NOT GUILTY IN NEET PAPER-LEAK CASE",
-          "paragraphs": [
-            "A Delhi fast-track court formally framed charges against all 14 accused in the NEET-UG 2026 paper-leak case on Saturday. The accused denied the allegations and opted to face trial.",
-            "The court directed that prosecution evidence begin on November 25, with proceedings to continue day by day. The cancelled exam had been taken by about 22 lakh candidates."
-          ],
-          "moreUrl": "https://www.hindustantimes.com/india-news/neetug-2026-paper-leak-case-delhi-court-frames-charges-against-14-all-accused-to-face-trial-101795255981583.html/"
-        },
-        {
-          "className": "section-brief",
-          "headlineClass": "lower-headline",
-          "source": "Hindustan Times / ANI",
-          "kicker": "INDIA • NEPAL RELATIONS",
-          "headline": "NEPAL PM BALENDRA SHAH BEGINS FIRST OFFICIAL BILATERAL INDIA VISIT",
-          "paragraphs": [
-            "Nepal Prime Minister Balendra Shah is due in New Delhi Sunday for his first official bilateral visit to India since taking office. He is scheduled to meet External Affairs Minister S Jaishankar after arriving.",
-            "Shah and Prime Minister Narendra Modi are due to hold delegation-level talks Monday, with energy projects and wider economic cooperation on the agenda."
-          ],
-          "moreUrl": "https://www.hindustantimes.com/india-news/nepal-pm-balen-shah-to-visit-india-on-november-2223-101795157552755.html"
-        }
-      ]
-    },
-    {
-      "separator": "— INDIA • PUBLIC HEALTH, SAFETY & INFRASTRUCTURE —",
-      "className": "news-section city-section",
-      "ariaLabel": "India public health, public safety and infrastructure news",
-      "stories": [
-        {
-          "className": "section-lead city-lead",
-          "headlineClass": "section-headline",
-          "source": "The New Indian Express",
-          "kicker": "MANIPUR • PUBLIC HEALTH EMERGENCY",
-          "headline": "SUSPECTED SPURIOUS LIQUOR DEATHS RISE TO 16 IN MANIPUR",
-          "paragraphs": [
-            "The death toll in the suspected hooch tragedy in Manipur Chandel district rose to 16 by Saturday, with more than 600 people reported hospitalised after consuming adulterated liquor.",
-            "The state has formed a high-level committee to investigate the source and composition of the suspected liquor and the medical circumstances of the deaths. The cause remains under investigation."
-          ],
-          "moreUrl": "https://www.newindianexpress.com/india/2026/Nov/21/death-toll-in-suspected-hooch-tragedy-in-manipur-rises-to-16-six-held"
-        },
-        {
-          "className": "section-brief",
-          "headlineClass": "lower-headline",
-          "source": "The Indian Express",
-          "kicker": "INDIA • WOMEN'S HEALTH",
-          "headline": "HPV VACCINATION DRIVE CROSSES ONE CRORE DOSES IN NINE MONTHS",
-          "paragraphs": [
-            "India has administered more than one crore HPV vaccine doses in less than nine months, reaching about 87 per cent of its annual target cohort of 14-year-old girls, according to the Health Ministry.",
-            "Six states have reached full coverage of their identified target populations. Karnataka is among the states reporting coverage above 90 per cent."
-          ],
-          "moreUrl": "https://indianexpress.com/article/india/india-hpv-vaccination-drive-one-crore-doses-87-percent-coverage-10972825/"
-        },
-        {
-          "className": "section-brief",
-          "headlineClass": "lower-headline",
-          "source": "Press Information Bureau",
-          "kicker": "BIHAR • CONNECTIVITY",
-          "headline": "NITISH SETU OPENS AS PART OF INR 34,470-CRORE BIHAR PROJECTS",
-          "paragraphs": [
-            "Prime Minister Narendra Modi inaugurated the six-lane Dargah-Bidupur cable bridge over the Ganga in Bihar on Saturday, naming it Nitish Setu in honour of former chief minister Nitish Kumar.",
-            "The 19.7-km bridge links Patna and Vaishali districts. The wider programme included projects worth about INR 34,470 crore across connectivity, energy and public services."
-          ],
-          "moreUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2339564&lang=1&reg=3"
-        }
-      ]
-    },
-    {
-      "separator": "— INDIA • CRICKET, HOCKEY & REGIONAL WATER —",
-      "className": "news-section sports-section",
-      "ariaLabel": "Indian cricket, hockey and regional diplomacy",
-      "stories": [
-        {
-          "className": "section-lead sports-lead",
-          "headlineClass": "section-headline",
-          "source": "India Today",
-          "kicker": "CRICKET • INDIA IN NEW ZEALAND",
-          "headline": "PANT HITS 128 AS INDIA STRETCHES LEAD TO 261 IN WELLINGTON TEST",
-          "paragraphs": [
-            "Rishabh Pant scored 128 on Day 4 of the first Test against New Zealand, becoming the first visiting wicketkeeper to score Test hundreds in all SENA countries, The Indian Express reported.",
-            "At lunch, India were 629 for six in their first innings, leading by 261. The century was Pant's first Test hundred since returning from injury."
-          ],
-          "moreUrl": "https://indianexpress.com/article/sports/cricket/rishabh-pant-first-wicketkeeper-hundreds-all-sena-countries-ind-vs-nz-1st-test-10973183/"
+          "moreUrl": "https://indianexpress.com/article/sports/cricket/tilak-varma-100-pakistan-a-defeat-india-a-rising-stars-asia-cup-10974124/"
         },
         {
           "className": "section-brief listings-box",
-          "source": "Hockey India",
-          "kicker": "HOCKEY • WOMEN'S ASIAN CHAMPIONS TROPHY",
-          "headline": "INDIA WOMEN SET TO OPEN BHOPAL CAMPAIGN AGAINST THAILAND",
+          "headlineClass": "lower-headline",
+          "source": "The Times of India",
+          "kicker": "CHESS • WORLD CHAMPIONSHIP",
+          "headline": "GUKESH AND SINDAROV SET FOR WORLD TITLE MATCH",
           "paragraphs": [
-            "India are scheduled to face Thailand in Bhopal on Sunday in the Women's Asian Champions Trophy, with the hosts looking to add another title to their 2016 and 2023 wins.",
-            "The round-robin tournament features six Asian teams. The India-Thailand match is listed for 7 pm local time by Hockey India."
+            "World champion D Gukesh and challenger Javokhir Sindarov are preparing for Game 1 of the 2026 World Chess Championship on November 24 in Geneva. The match features the youngest title-match pairing in chess history.",
+            "Gukesh said he is approaching the contest with a winning mindset as the players begin the final stage of preparations."
           ],
-          "moreUrl": "https://www.hockeyindia.org/index.php/schedule/matches/madhya-pradesh-women%27s-asian-champions-trophy-bhopal-2026"
+          "moreUrl": "https://timesofindia.indiatimes.com/sports/chess/gukesh-vs-sindarov-press-conference-who-said-what-before-world-chess-championship-2026/amp_articleshow/136079292.cms"
         },
         {
           "className": "section-brief classifieds-box",
           "headlineClass": "lower-headline",
-          "source": "The Hindu",
-          "kicker": "INDIA • BANGLADESH WATER TIES",
-          "headline": "INDIAN TEAM IN DHAKA FOR TALKS AHEAD OF GANGA TREATY EXPIRY",
+          "source": "The Week / PTI",
+          "kicker": "HOCKEY • INDIA–NEW ZEALAND",
+          "headline": "INDIA FINISH UNBEATEN AND WIN CENTENARY HOCKEY SERIES",
           "paragraphs": [
-            "An Indian delegation has reached Dhaka as the two countries prepare for Joint River Commission discussions scheduled for November 22 and 23, The Hindu reported.",
-            "The Ganga Water Treaty is due to expire in December. The talks come as India and Bangladesh weigh how to handle the agreement's renewal and future water-sharing arrangements."
+            "India drew 2–2 with New Zealand in the final match in Auckland to take the three-game Centenary of Sporting Unity series 1–0. India had won the opener 3–2 and drew the next two matches.",
+            "The series marked 100 years of sporting ties between the countries."
           ],
-          "moreUrl": "https://www.thehindu.com/news/national/indian-team-reaches-dhaka-ahead-of-ganga-water-treatys-expiry/article71728827.ece"
+          "moreUrl": "https://www.theweek.in/wire-updates/sports/2026/11/22/indian-play-out-2-2-draw-with-nz-win-century-of-sporting-unity-series.amp.html"
         }
       ]
     }
