@@ -5,12 +5,12 @@
     "tagline": "Open sources. Fresh news. One paper. A newspaper assembled from the open web",
     "established": "2026",
     "weatherLabel": "BENGALURU WEATHER",
-    "weatherSummary": "Fog or mist early, then generally clear. Bengaluru: 29°C / 18°C; no warning today.",
+    "weatherSummary": "Cloudy with light rain. Bengaluru: 29°C / 18°C; no warning today.",
     "motto": "FROM OPEN SOURCES DESK",
     "editionLabel": "DAILY READ",
     "editionSummary": "Complete Morning Ledger",
     "edition": "BENGALURU • INDIA EDITION",
-    "dateline": "BENGALURU, MONDAY, NOVEMBER 23, 2026",
+    "dateline": "BENGALURU, TUESDAY, NOVEMBER 24, 2026",
     "greeting": "GOOD MORNING :)",
     "footer": "Open Newspaper • Bengaluru and India Edition • Independent coverage from open sources."
   },
@@ -42,33 +42,43 @@
   ],
   "cityWatch": {
     "label": "CITY WATCH",
-    "text": "IMD forecasts fog or mist in Bengaluru early Monday, with a low of 18°C and a high of 29°C; no warning is in force.",
+    "text": "IMD forecasts generally cloudy skies with a chance of light rain in Bengaluru today; temperatures 18–29°C, with no warning in force.",
     "attribution": "— India Meteorological Department"
   },
   "lead": {
-    "source": "The Indian Express",
-    "kicker": "BENGALURU • FAMILY & POLITICS",
-    "headline": "YS SHARMILA STOPPED FROM ENTERING YELAHANKA FAMILY HOME",
-    "deck": "Police cited an interim court order when the Andhra Pradesh Congress chief and her mother tried to reach the Bengaluru residence amid a dispute with her brother, Y S Jagan Mohan Reddy.",
+    "source": "Hindustan Times",
+    "kicker": "KARNATAKA • CRIME & JUSTICE",
+    "headline": "KODAGU COURT SENTENCES MAN TO DEATH IN 2024 MURDER OF MINOR",
+    "deck": "A sessions court convicted Onkarappa in the killing of a 16-year-old girl. The sentence must be confirmed by the Karnataka High Court before it can be carried out.",
     "paragraphs": [
-      "YS Sharmila and her mother, Y S Vijayalakshmi, were stopped by Bengaluru police on Sunday evening while trying to visit Yelahanka Palace, where the family of Sharmila’s brother, former Andhra Pradesh chief minister Y S Jagan Mohan Reddy, is staying.",
-      "Police cited an interim court order restraining Sharmila and her representatives from entering or interfering with the disputed property. Sharmila said she was unaware of the order and questioned why she was prevented from visiting what she considers a family home. The dispute has sharpened ahead of her daughter’s wedding later this week."
+      "A Kodagu sessions court sentenced Onkarappa to death for the 2024 murder of a 16-year-old girl, finding him guilty of murder and sexual assault. The judge also imposed a fine of ₹80,000 and ordered ₹16.5 lakh compensation for the victim’s family.",
+      "The case followed officials’ intervention to stop a proposed marriage while the girl was underage. The death sentence is subject to confirmation by the Karnataka High Court."
     ],
-    "moreUrl": "https://indianexpress.com/article/india/ys-sharmila-denied-permission-yelahanka-palace-bengaluru-10973982/"
+    "moreUrl": "https://www.hindustantimes.com/cities/bengaluru-news/karnataka-court-sentences-man-to-death-for-beheading-16-year-old-girl-after-wedding-halted-101795437197524.html",
+    "image": {
+      "src": "https://www.hindustantimes.com/ht-img/img/2026/11/23/400x225/The-16-year-old-was-killed-after-officials-interve_1795437313703_LRX0.jpg",
+      "alt": "The 16-year-old girl whose killing was heard by a Kodagu sessions court.",
+      "caption": "A Kodagu sessions court sentenced Onkarappa; the death sentence requires High Court confirmation. Photo: Hindustan Times."
+    }
   },
   "sidebarStory": {
     "className": "sidebar-item",
     "headlineClass": "side-headline",
     "tag": "div",
-    "source": "India Today",
-    "kicker": "WORLD • CLIMATE",
-    "headline": "COP31 ENDS WITHOUT AN OVERARCHING CLIMATE DEAL",
-    "subhead": "Negotiators failed to agree after divisions over fossil fuels and climate finance.",
+    "source": "The Bengaluru Live",
+    "kicker": "BENGALURU • WATER SUPPLY",
+    "headline": "BWSSB PLANS 12-HOUR CAUVERY WATER SHUTDOWN TOMORROW",
+    "subhead": "Pumping will stop from 6am to 6pm Wednesday; residents are urged to store water.",
     "paragraphs": [
-      "The UN climate talks in Antalya ended without a consensus agreement after the final proposal omitted an explicit reference to fossil fuels. The European Union and several other countries rejected the text.",
-      "The negotiations ran almost 48 hours beyond their scheduled close. Developing countries also criticised the proposed climate-finance increase for lacking a clear baseline."
+      "The Bengaluru Water Supply and Sewerage Board says Cauvery pumping will be suspended across all stages on November 25 for urgent repair and maintenance at T.K. Halli, Harohalli and Tataguni.",
+      "The board asked residents to store enough water for daily needs. Its notice did not specify which localities may be affected."
     ],
-    "moreUrl": "https://www.indiatoday.in/amp/science/story/cop31-climate-talks-collapse-fossil-fuels-climate-finance-3044587-2026-11-22"
+    "moreUrl": "https://thebengalurulive.com/bwssb-to-shut-cauvery-pumping-stations-at-all-stages-for-12-hours-on-november-25-asks-residents-to-store-water/",
+    "image": {
+      "src": "https://thebengalurulive.com/wp-content/uploads/2026/11/photo-8.jpg",
+      "alt": "File photo of pipework at a water pumping station.",
+      "caption": "File photo: pipework at a water pumping station. Photo: The Bengaluru Live."
+    }
   },
   "groups": [
     {
@@ -80,37 +90,34 @@
           "className": "lower-column",
           "headlineClass": "lower-headline",
           "source": "The Times of India",
-          "kicker": "BENGALURU • PUBLIC TRANSPORT",
-          "headline": "BMTC AUDIT FLAGS MORE THAN INR 4 CRORE IN ALLEGED IRREGULARITIES",
+          "kicker": "BENGALURU • CULTURE",
+          "headline": "BENGALURU JATRE TO BRING 250 EVENTS FROM DECEMBER 4",
           "paragraphs": [
-            "An internal audit at BMTC’s Central Store-1 found alleged irregularities involving missing bus spare parts over five years. Wilson Garden police have registered an FIR naming 21 serving and retired officials and a private supplier.",
-            "The complaint describes alleged forged invoices, altered stock records and shortages of thousands of parts. The allegations are under investigation."
+            "A 10-day Bengaluru Jatre will run from December 4 to 13, with nearly 250 cultural events across the city. Its opening procession is set to feature about 500 folk artistes in 20 troupes along Brigade Road and M.G. Road."
           ],
-          "moreUrl": "https://timesofindia.indiatimes.com/city/bengaluru/bmtc-central-store-audit-flags-rs-4-crore-irregularities-fir-filed-against-21-over-missing-spare-parts-in-bengaluru/articleshow/136081685.cms"
+          "moreUrl": "https://timesofindia.indiatimes.com/city/bengaluru/ten-day-bengaluru-jatre-from-december-4-grand-procession-on-mg-road-brigade-road-to-launch-festivities/articleshow/136109143.cms"
         },
         {
           "className": "lower-column center-border",
           "headlineClass": "lower-headline",
-          "source": "IBC World",
-          "kicker": "KARNATAKA • PUBLIC SERVICE EXAMS",
-          "headline": "KPSC OPENS OBJECTION WINDOW FOR PROVISIONAL KAS RESULTS",
+          "source": "The Indian Express",
+          "kicker": "KARNATAKA • HUMAN-WILDLIFE CONFLICT",
+          "headline": "MLA SUBMITS RESIGNATION LETTER OVER ELEPHANT RELOCATION",
           "paragraphs": [
-            "The Karnataka Public Service Commission released provisional results for the 2026–27 KAS preliminary examination six days after the test. The recruitment covers 319 Gazetted Probationer posts.",
-            "Candidates disputing their provisional results can file supported objections online until 11 am on Monday. The commission says answer-key objections are not being accepted at this stage."
+            "Congress MLA Nayana Motamma submitted her resignation to the Assembly Speaker’s office in protest over an elephant relocation operation. The office received but has not accepted the letter; she warned the move could worsen human-elephant conflict."
           ],
-          "moreUrl": "https://www.ibcworldnews.com/news/kpsc-releases-kas-prelims-results-in-just-six-days-objections-close"
+          "moreUrl": "https://indianexpress.com/article/india/karnataka-congress-mla-nayana-motamma-resigns-elephant-row-bhadra-tiger-reserve-10974975/"
         },
         {
           "className": "lower-column",
           "headlineClass": "lower-headline",
-          "source": "The Times of India",
-          "kicker": "BENGALURU • PARKS & CULTURE",
-          "headline": "CUBBON PARK TO HOST 13-DAY FLOWER FESTIVAL FROM NOVEMBER 25",
+          "source": "The Bengaluru Live",
+          "kicker": "BENGALURU • METRO",
+          "headline": "BLUE LINE METRO TRIAL TRAIN TO ARRIVE AT DODDANEKKUNDI TODAY",
           "paragraphs": [
-            "Cubbon Park will host its fifth flower show in 155 years, with the 13-day festival scheduled from November 25 to December 7. Organisers expect more than 15 lakh cut flowers and 1.2 lakh potted plants.",
-            "Planned displays include floral versions of Hoysala architecture, the Gandabherunda emblem and a Namma Metro coach, alongside exhibits and activities for families."
+            "A trial train for Bengaluru Metro’s Blue Line Phase 2A is scheduled to arrive at Doddanekkundi from K.R. Puram on November 24. This is a project milestone; passenger services are not beginning today."
           ],
-          "moreUrl": "https://timesofindia.indiatimes.com/city/bengaluru/bengalurus-cubbon-park-to-host-fifth-flower-show-in-its-155-year-history-to-be-held-from-november-25-to-december-7/articleshow/136076415.cms"
+          "moreUrl": "https://thebengalurulive.com/blue-line-phase-2a-metro-trial-train-to-arrive-at-doddanekkundi-from-kr-puram-on-november-24/"
         }
       ]
     },
@@ -122,38 +129,35 @@
         {
           "className": "section-lead",
           "headlineClass": "section-headline",
-          "source": "India Today",
-          "kicker": "GLOBAL CLIMATE • COP31",
-          "headline": "COP31 COLLAPSES WITHOUT DEAL AFTER FOSSIL-FUEL ROW",
+          "source": "Hindustan Times",
+          "kicker": "DELHI • AIR POLLUTION",
+          "headline": "SUPREME COURT FAVOURS BS-VI-ONLY VEHICLES IN DELHI THROUGH WINTER",
           "paragraphs": [
-            "Governments failed to reach an overarching agreement at COP31 in Antalya after the final proposal made no explicit mention of fossil fuels. The European Union and several countries said the text was too weak, while developing nations also objected to the climate-finance provisions.",
-            "The two-week talks ran nearly 48 hours past their scheduled close. The impasse is a setback for efforts to agree on a shared path for climate action."
+            "The Supreme Court said only vehicles meeting BS-VI emission standards should be allowed to ply in Delhi during winter as it considered measures to tackle seasonal air pollution. The observation concerns Delhi and is not a nationwide vehicle ban."
           ],
-          "moreUrl": "https://www.indiatoday.in/amp/science/story/cop31-climate-talks-collapse-fossil-fuels-climate-finance-3044587-2026-11-22"
+          "moreUrl": "https://www.hindustantimes.com/india-news/only-bs-vi-vehicles-to-ply-in-delhi-during-winter-supreme-court-101795430179054.html"
         },
         {
           "className": "section-brief",
           "headlineClass": "lower-headline",
-          "source": "The New Indian Express",
-          "kicker": "PARLIAMENT • MAHARASHTRA",
-          "headline": "RAJYA SABHA MP RAMRAO WADKUTE DIES AT 72",
+          "source": "New Indian Express",
+          "kicker": "PARLIAMENT • ANTI-DEFECTION LAW",
+          "headline": "SUPREME COURT SEEKS RESPONSES ON ANTI-DEFECTION REFORM PLEA",
           "paragraphs": [
-            "BJP Rajya Sabha member Ramrao Wadkute died in New Delhi after suffering a severe heart attack, party leaders said. He represented Maharashtra and had taken his oath as a member in April.",
-            "Prime Minister Narendra Modi and other leaders expressed condolences, recalling Wadkute’s public service."
+            "The Supreme Court sought responses from the Centre, Election Commission and Law Commission on a plea for anti-defection reforms, including continuing disqualification proceedings after resignation and setting a decision deadline."
           ],
-          "moreUrl": "https://www.newindianexpress.com/india/2026/Nov/22/bjp-rajya-sabha-mp-ramrao-wadkute-dies-of-cardiac-arrest-in-delhi-3"
+          "moreUrl": "https://www.newindianexpress.com/india/2026/Nov/23/sc-seeks-response-of-centre-ec-on-pil-for-reforms-in-anti-defection-law"
         },
         {
           "className": "section-brief",
           "headlineClass": "lower-headline",
-          "source": "The Indian Express",
-          "kicker": "LEGAL EDUCATION • ARTIFICIAL INTELLIGENCE",
-          "headline": "CJI CALLS FOR COMPULSORY LEGAL-AID WORK AND AI RULES IN LAW COURSES",
+          "source": "EdexLive / IANS",
+          "kicker": "CYBERSECURITY • PUBLIC SERVICES",
+          "headline": "I4C ISSUES CYBER-HYGIENE ADVISORY ON WHATSAPP WEB",
           "paragraphs": [
-            "Chief Justice of India Surya Kant proposed making a minimum period of legal-aid work a graduation requirement for law students. He also urged common guidelines for disclosing the use of AI in legal research.",
-            "The proposals were made at a legal-education conference in Hyderabad, where he argued for practical training and responsible use of new tools."
+            "The Indian Cyber Crime Coordination Centre has urged public servants to avoid WhatsApp Web for official or sensitive work, following reports of suspicious access to defence-related groups."
           ],
-          "moreUrl": "https://indianexpress.com/article/education/cji-surya-kant-clea-ai-guidelines-legal-research-mandatory-law-school-courses-llb-legal-aid-10973516/lite/"
+          "moreUrl": "https://www.edexlive.com/news/i4c-issues-strict-cyber-hygiene-protocol-for-public-servants-and-office-goers-relying-on-whatsapp-web"
         }
       ]
     },
@@ -165,38 +169,35 @@
         {
           "className": "section-lead city-lead",
           "headlineClass": "section-headline",
-          "source": "The Indian Express",
-          "kicker": "INDIA • FOOD SAFETY",
-          "headline": "FSSAI SANCTIONS PROSECUTION AFTER BISLERI WATER SAMPLE FOUND UNSAFE",
-          "paragraphs": [
-            "The Food Safety and Standards Authority of India sanctioned prosecution against Bisleri International after a packaged drinking-water sample was found unsafe and non-compliant with prescribed bromate limits.",
-            "The sample was sent for further testing after the company appealed; a laboratory again declared it unsafe. The regulator also sanctioned action against other firms and suspended two licences."
-          ],
-          "moreUrl": "https://indianexpress.com/article/india/bisleri-water-unsafe-fssai-prosecution-packaged-sample-10974022/lite/"
-        },
-        {
-          "className": "section-brief",
-          "headlineClass": "lower-headline",
-          "source": "The Indian Express",
-          "kicker": "RAJASTHAN • ROAD SAFETY",
-          "headline": "NINE PILGRIMS KILLED AS VEHICLE HITS PARKED TRUCK IN KOTA",
-          "paragraphs": [
-            "Nine people from Maharashtra were killed and eight injured when their multi-utility vehicle struck a parked truck on the Kota–Udaipur highway while they were returning from a pilgrimage to Khatu Shyamji.",
-            "The injured were taken to hospital. Police are investigating the crash."
-          ],
-          "moreUrl": "https://www.ndtv.com/india-news/9-devotees-returning-from-khatu-shyam-temple-killed-as-their-vehicle-rams-parked-truck-in-rajasthans-kota-12360576"
-        },
-        {
-          "className": "section-brief",
-          "headlineClass": "lower-headline",
           "source": "The Times of India",
-          "kicker": "BIHAR • TECHNOLOGY & EDUCATION",
-          "headline": "PM OPENS IIT PATNA AI CENTRE, ANNOUNCES RESEARCH PARK",
+          "kicker": "BENGALURU • CYBERCRIME",
+          "headline": "11 UNAUTHORISED IMPS TRANSFERS DRAIN ₹42.4 LAKH FROM BENGALURU FIRM",
           "paragraphs": [
-            "Prime Minister Narendra Modi inaugurated an artificial-intelligence centre at IIT Patna and laid the foundation stone for a research park project.",
-            "The programme also included a proposed 120-bed startup hostel, part of a wider push to expand research and entrepreneurship infrastructure at the institute."
+            "A Bengaluru company reported 11 unauthorised IMPS transfers totalling about ₹42.4 lakh within half an hour, despite two-level approval and OTP safeguards. Police are investigating the transactions."
           ],
-          "moreUrl": "https://timesofindia.indiatimes.com/city/patna/pm-opens-iit-patnas-ai-centre-lays-stone-for-research-park/amp_articleshow/136057293.cms"
+          "moreUrl": "https://timesofindia.indiatimes.com/city/bengaluru/11-unauthorised-transactions-drain-rs-42-4-lakh-from-bengaluru-firm-in-30-minutes/articleshow/136111600.cms"
+        },
+        {
+          "className": "section-brief",
+          "headlineClass": "lower-headline",
+          "source": "NDTV",
+          "kicker": "TAMIL NADU • COURTS & RELIGION",
+          "headline": "GATHERINGS RESTRICTED IN MADURAI AROUND HILLTOP DEEPAM ROW",
+          "paragraphs": [
+            "Madurai authorities restricted gatherings through November 25 after the Supreme Court allowed a one-time lighting of the Karthigai Deepam lamp at a hilltop stone pillar on November 24. The order does not settle the wider dispute."
+          ],
+          "moreUrl": "https://www.ndtv.com/india-news/gatherings-banned-in-madurai-as-court-allows-deepam-on-hill-at-centre-of-row-12368047/amp/1"
+        },
+        {
+          "className": "section-brief",
+          "headlineClass": "lower-headline",
+          "source": "The Indian Express",
+          "kicker": "HARYANA • DOWRY ALLEGATION",
+          "headline": "DELHI POLICE CONSTABLE SUSPENDED AFTER WEDDING CALLED OFF",
+          "paragraphs": [
+            "A Delhi Police constable posted in Sonipat has been suspended after allegations that a wedding was called off over a car demand as dowry. The constable has denied demanding dowry, and the complaint is under inquiry."
+          ],
+          "moreUrl": "https://indianexpress.com/article/cities/chandigarh/delhi-police-constable-suspended-sonipat-dowry-wedding-row-10975417/lite/"
         }
       ]
     },
@@ -208,38 +209,35 @@
         {
           "className": "section-lead",
           "headlineClass": "section-headline",
-          "source": "The Indian Express",
-          "kicker": "CRICKET • ASIA CUP RISING STARS",
-          "headline": "TILAK VARMA CENTURY IN VAIN AS PAKISTAN A BEAT INDIA A",
+          "source": "Goal.com",
+          "kicker": "FOOTBALL • AFC CHAMPIONS LEAGUE TWO",
+          "headline": "EAST BENGAL FACE MUST-WIN TEST AGAINST AL-HUSSEIN",
           "paragraphs": [
-            "Tilak Varma scored a century and Abhishek Sharma made 70, but India A fell 48 runs short while chasing Pakistan A’s 314 in the Asia Cup Rising Stars match in Doha.",
-            "Pakistan set the target after posting 313. India lost early wickets, and the middle-order fightback could not complete the chase."
+            "East Bengal meet Jordan’s Al-Hussein in Kolkata on November 24 in an AFC Champions League Two group match. A defeat would end the Indian side’s campaign; kickoff is scheduled for 7:15pm IST."
           ],
-          "moreUrl": "https://indianexpress.com/article/sports/cricket/tilak-varma-100-pakistan-a-defeat-india-a-rising-stars-asia-cup-10974124/"
+          "moreUrl": "https://www.goal.com/en-in/news/live-stream-online-tv-where-to-watch-east-bengal-fc-v-al-hussein-sc/blt742f63b9fd8a3e0e"
         },
         {
           "className": "section-brief listings-box",
           "headlineClass": "lower-headline",
-          "source": "The Times of India",
-          "kicker": "CHESS • WORLD CHAMPIONSHIP",
-          "headline": "GUKESH AND SINDAROV SET FOR WORLD TITLE MATCH",
+          "source": "The Lucknow Tribune",
+          "kicker": "BADMINTON • BWF WORLD TOUR",
+          "headline": "SYED MODI INTERNATIONAL OPENS IN LUCKNOW",
           "paragraphs": [
-            "World champion D Gukesh and challenger Javokhir Sindarov are preparing for Game 1 of the 2026 World Chess Championship on November 24 in Geneva. The match features the youngest title-match pairing in chess history.",
-            "Gukesh said he is approaching the contest with a winning mindset as the players begin the final stage of preparations."
+            "The Syed Modi India International, a BWF Super 300 tournament, begins in Lucknow on November 24 and runs through November 29."
           ],
-          "moreUrl": "https://timesofindia.indiatimes.com/sports/chess/gukesh-vs-sindarov-press-conference-who-said-what-before-world-chess-championship-2026/amp_articleshow/136079292.cms"
+          "moreUrl": "https://thelucknowtribune.org/lucknow-to-host-syed-modi-international-badminton-championships-from-november-24/"
         },
         {
           "className": "section-brief classifieds-box",
           "headlineClass": "lower-headline",
-          "source": "The Week / PTI",
-          "kicker": "HOCKEY • INDIA–NEW ZEALAND",
-          "headline": "INDIA FINISH UNBEATEN AND WIN CENTENARY HOCKEY SERIES",
+          "source": "Al Jazeera",
+          "kicker": "CRICKET • INDIA–NEW ZEALAND",
+          "headline": "INDIA AND NEW ZEALAND SHARE FIRST TEST AFTER DRAW",
           "paragraphs": [
-            "India drew 2–2 with New Zealand in the final match in Auckland to take the three-game Centenary of Sporting Unity series 1–0. India had won the opener 3–2 and drew the next two matches.",
-            "The series marked 100 years of sporting ties between the countries."
+            "The opening Test ended in a draw after India declared at 720 for nine and New Zealand reached 239 for five in its second innings, 113 runs behind."
           ],
-          "moreUrl": "https://www.theweek.in/wire-updates/sports/2026/11/22/indian-play-out-2-2-draw-with-nz-win-century-of-sporting-unity-series.amp.html"
+          "moreUrl": "https://www.aljazeera.com/sports/2026/11/23/new-zealand-india-first-test-cricket-wtc-phillips-mitchell-nicholls"
         }
       ]
     }
