@@ -5,12 +5,12 @@
     "tagline": "Open sources. Fresh news. One paper. A newspaper assembled from the open web",
     "established": "2026",
     "weatherLabel": "BENGALURU WEATHER",
-    "weatherSummary": "Cloudy with light rain. Bengaluru: 29°C / 18°C; no warning today.",
+    "weatherSummary": "Partly cloudy; light rain possible. Bengaluru: 29°C / 18°C. No city warning reported.",
     "motto": "FROM OPEN SOURCES DESK",
     "editionLabel": "DAILY READ",
     "editionSummary": "Complete Morning Ledger",
     "edition": "BENGALURU • INDIA EDITION",
-    "dateline": "BENGALURU, TUESDAY, NOVEMBER 24, 2026",
+    "dateline": "BENGALURU, WEDNESDAY, NOVEMBER 25, 2026",
     "greeting": "GOOD MORNING :)",
     "footer": "Open Newspaper • Bengaluru and India Edition • Independent coverage from open sources."
   },
@@ -42,38 +42,38 @@
   ],
   "cityWatch": {
     "label": "CITY WATCH",
-    "text": "IMD forecasts generally cloudy skies with a chance of light rain in Bengaluru today; temperatures 18–29°C, with no warning in force.",
+    "text": "IMD forecasts light rain or thundershowers at a few places in Bengaluru Urban today; the city forecast gives a high of 29°C and low of 18°C.",
     "attribution": "— India Meteorological Department"
   },
   "lead": {
-    "source": "Hindustan Times",
-    "kicker": "KARNATAKA • CRIME & JUSTICE",
-    "headline": "KODAGU COURT SENTENCES MAN TO DEATH IN 2024 MURDER OF MINOR",
-    "deck": "A sessions court convicted Onkarappa in the killing of a 16-year-old girl. The sentence must be confirmed by the Karnataka High Court before it can be carried out.",
+    "source": "India Today",
+    "kicker": "CRICKET • INDIA A • RISING STARS ASIA CUP",
+    "headline": "15-YEAR-OLD VAIBHAV SOORYAVANSHI BLASTS 204 OFF 53 BALLS",
+    "deck": "The teenager set List A records for the fastest century and double century as India A chased 250 against the UAE in just 14.2 overs.",
     "paragraphs": [
-      "A Kodagu sessions court sentenced Onkarappa to death for the 2024 murder of a 16-year-old girl, finding him guilty of murder and sexual assault. The judge also imposed a fine of ₹80,000 and ordered ₹16.5 lakh compensation for the victim’s family.",
-      "The case followed officials’ intervention to stop a proposed marriage while the girl was underage. The death sentence is subject to confirmation by the Karnataka High Court."
+      "Vaibhav Sooryavanshi reached a century in 28 balls and a double century in 52, finishing with 204 off 53 deliveries and a record 28 sixes. The 15-year-old powered India A to a seven-wicket win over the UAE in the Rising Stars Asia Cup in Doha.",
+      "India A completed the 250-run chase in 14.2 overs. Sooryavanshi’s innings rewrote List A records for the fastest hundred and double hundred, and for the most sixes in an innings."
     ],
-    "moreUrl": "https://www.hindustantimes.com/cities/bengaluru-news/karnataka-court-sentences-man-to-death-for-beheading-16-year-old-girl-after-wedding-halted-101795437197524.html",
+    "moreUrl": "https://www.indiatoday.in/sports/cricket/story/vaibhav-sooryavanshi-world-record-28-ball-century-rising-stars-asia-cup-3045933-2026-11-24",
     "image": {
-      "src": "https://www.hindustantimes.com/ht-img/img/2026/11/23/400x225/The-16-year-old-was-killed-after-officials-interve_1795437313703_LRX0.jpg",
-      "alt": "The 16-year-old girl whose killing was heard by a Kodagu sessions court.",
-      "caption": "A Kodagu sessions court sentenced Onkarappa; the death sentence requires High Court confirmation. Photo: Hindustan Times."
+      "src": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/vaibhav-sooryavanshi-rising-stars-asia-cup-242313580-16x9_0.jpg?VersionId=oqS_FbC.IZ5fOXV23BPhcF7RxWWk26fr&size=690%3A388",
+      "alt": "Vaibhav Sooryavanshi celebrating a record century for India A.",
+      "caption": "Sooryavanshi made 204 from 53 balls against the UAE. Photo: BCCI / India Today."
     }
   },
   "sidebarStory": {
     "className": "sidebar-item",
     "headlineClass": "side-headline",
     "tag": "div",
-    "source": "The Bengaluru Live",
+    "source": "The Times of India",
     "kicker": "BENGALURU • WATER SUPPLY",
-    "headline": "BWSSB PLANS 12-HOUR CAUVERY WATER SHUTDOWN TOMORROW",
-    "subhead": "Pumping will stop from 6am to 6pm Wednesday; residents are urged to store water.",
+    "headline": "CAUVERY WATER PUMPING SUSPENDED ACROSS BENGALURU TODAY",
+    "subhead": "BWSSB’s scheduled 6am–6pm shutdown affects all stages of the Cauvery supply scheme.",
     "paragraphs": [
-      "The Bengaluru Water Supply and Sewerage Board says Cauvery pumping will be suspended across all stages on November 25 for urgent repair and maintenance at T.K. Halli, Harohalli and Tataguni.",
-      "The board asked residents to store enough water for daily needs. Its notice did not specify which localities may be affected."
+      "The Bengaluru Water Supply and Sewerage Board has halted pumping for emergency repairs and maintenance at T.K. Halli, Harohalli and Tataguni. Supply may be disrupted across the city during the 12-hour work window.",
+      "BWSSB advised residents to store enough water in advance. The notice did not specify locality-by-locality restoration times."
     ],
-    "moreUrl": "https://thebengalurulive.com/bwssb-to-shut-cauvery-pumping-stations-at-all-stages-for-12-hours-on-november-25-asks-residents-to-store-water/",
+    "moreUrl": "https://timesofindia.indiatimes.com/city/bengaluru/bengaluru-water-supply-to-be-disrupted-for-12-hours-on-november-25-as-bwssb-shuts-cauvery-pumping-stations-from-6am-to-6pm-for-emergency-repair-and-maintenance-work/amp_articleshow/136118610.cms",
     "image": {
       "src": "https://thebengalurulive.com/wp-content/uploads/2026/11/photo-8.jpg",
       "alt": "File photo of pipework at a water pumping station.",
@@ -89,35 +89,50 @@
         {
           "className": "lower-column",
           "headlineClass": "lower-headline",
-          "source": "The Times of India",
-          "kicker": "BENGALURU • CULTURE",
-          "headline": "BENGALURU JATRE TO BRING 250 EVENTS FROM DECEMBER 4",
+          "source": "India Today",
+          "kicker": "BENGALURU • NAMMA METRO",
+          "headline": "BLUE LINE TRIALS BEGIN ON OUTER RING ROAD CORRIDOR",
           "paragraphs": [
-            "A 10-day Bengaluru Jatre will run from December 4 to 13, with nearly 250 cultural events across the city. Its opening procession is set to feature about 500 folk artistes in 20 troupes along Brigade Road and M.G. Road."
+            "Trial runs have begun on the first four stations of the Blue Line Phase 2A, from K.R. Puram towards Doddanekkundi. Passenger service on the 19-km K.R. Puram–Central Silk Board section is targeted for mid-2027, after signalling work and safety certification."
           ],
-          "moreUrl": "https://timesofindia.indiatimes.com/city/bengaluru/ten-day-bengaluru-jatre-from-december-4-grand-procession-on-mg-road-brigade-road-to-launch-festivities/articleshow/136109143.cms"
+          "moreUrl": "https://www.indiatoday.in/cities/bengaluru/story/bengaluru-blue-line-metro-phase-2a-trials-mid-2027-opening-ptag-3046068-2026-11-24",
+          "image": {
+            "src": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/bengaluru-metro-242818682-16x9_0.png?VersionId=RSJlUxPDjBY5V760i6_ey241llfkNFlN&size=690%3A388",
+            "alt": "Bengaluru Metro Blue Line train at the Phase 2A corridor.",
+            "caption": "Blue Line trial runs have started on the Outer Ring Road section. Photo: India Today / X @krishnabgowda."
+          }
         },
         {
           "className": "lower-column center-border",
           "headlineClass": "lower-headline",
           "source": "The Indian Express",
-          "kicker": "KARNATAKA • HUMAN-WILDLIFE CONFLICT",
-          "headline": "MLA SUBMITS RESIGNATION LETTER OVER ELEPHANT RELOCATION",
+          "kicker": "BENGALURU • PUBLIC SAFETY",
+          "headline": "POLICE REGISTER FIR OVER THREAT TO DILJIT DOSANJH CONCERT",
           "paragraphs": [
-            "Congress MLA Nayana Motamma submitted her resignation to the Assembly Speaker’s office in protest over an elephant relocation operation. The office received but has not accepted the letter; she warned the move could worsen human-elephant conflict."
+            "Bengaluru police have registered an FIR after an email threatened an IED blast at Diljit Dosanjh’s November 29 concert at NICE Grounds. The threat was sent earlier this month to Hubballi-Dharwad civic officials; police are investigating its origin."
           ],
-          "moreUrl": "https://indianexpress.com/article/india/karnataka-congress-mla-nayana-motamma-resigns-elephant-row-bhadra-tiger-reserve-10974975/"
+          "moreUrl": "https://indianexpress.com/article/cities/bangalore/diljit-dosanjh-bengaluru-concert-bomb-threat-ied-blast-police-file-fir-10976779/",
+          "image": {
+            "src": "https://images.indianexpress.com/2026/10/diljit-dosanjh-2.jpg?w=1024",
+            "alt": "Singer Diljit Dosanjh performing on stage.",
+            "caption": "Diljit Dosanjh is scheduled to perform in Bengaluru on November 29. File photo: The Indian Express."
+          }
         },
         {
           "className": "lower-column",
           "headlineClass": "lower-headline",
-          "source": "The Bengaluru Live",
-          "kicker": "BENGALURU • METRO",
-          "headline": "BLUE LINE METRO TRIAL TRAIN TO ARRIVE AT DODDANEKKUNDI TODAY",
+          "source": "Hindustan Times",
+          "kicker": "KARNATAKA • SCHOOL HEALTH",
+          "headline": "FREE SANITARY NAPKINS MANDATORY IN SCHOOLS FOR GIRLS IN CLASSES 6–12",
           "paragraphs": [
-            "A trial train for Bengaluru Metro’s Blue Line Phase 2A is scheduled to arrive at Doddanekkundi from K.R. Puram on November 24. This is a project milestone; passenger services are not beginning today."
+            "Karnataka has directed government, aided and private schools and pre-university colleges to provide free biodegradable sanitary napkins. Schools have three months to set up menstrual-hygiene corners; officials will inspect compliance."
           ],
-          "moreUrl": "https://thebengalurulive.com/blue-line-phase-2a-metro-trial-train-to-arrive-at-doddanekkundi-from-kr-puram-on-november-24/"
+          "moreUrl": "https://www.hindustantimes.com/india-news/karnataka-makes-free-sanitary-napkins-mandatory-in-schools-warns-of-action-for-lapses-101795433120122.html",
+          "image": {
+            "src": "https://www.hindustantimes.com/ht-img/img/2026/11/23/400x225/The-state-has-directed-schools-to-install-sanitary_1795433292833_3CF2.jpg",
+            "alt": "Sanitary napkin vending machine in a girls’ school toilet.",
+            "caption": "Karnataka directed schools to make sanitary napkins freely available and ensure safe disposal. Representative photo: Hindustan Times."
+          }
         }
       ]
     },
@@ -129,35 +144,40 @@
         {
           "className": "section-lead",
           "headlineClass": "section-headline",
-          "source": "Hindustan Times",
-          "kicker": "DELHI • AIR POLLUTION",
-          "headline": "SUPREME COURT FAVOURS BS-VI-ONLY VEHICLES IN DELHI THROUGH WINTER",
+          "source": "The Indian Express",
+          "kicker": "TAMIL NADU • SUPREME COURT ORDER",
+          "headline": "MADURAI HILLTOP PILLAR LEFT UNLIT DESPITE SUPREME COURT ORDER",
           "paragraphs": [
-            "The Supreme Court said only vehicles meeting BS-VI emission standards should be allowed to ply in Delhi during winter as it considered measures to tackle seasonal air pollution. The observation concerns Delhi and is not a nationwide vehicle ban."
+            "Tamil Nadu authorities lit the Karthigai Deepam at its customary shrine on Thirupparankundram hill, while leaving the nearby pillar unlit despite a Supreme Court direction for a one-time lamp there. The state had sought review but had no stay by dusk; the court asked the district collector to report within three days."
           ],
-          "moreUrl": "https://www.hindustantimes.com/india-news/only-bs-vi-vehicles-to-ply-in-delhi-during-winter-supreme-court-101795430179054.html"
+          "moreUrl": "https://indianexpress.com/article/india/tamil-nadu-defies-supreme-court-order-karthigai-deepam-lit-only-at-uchi-pillaiyar-thirupparankundram-hill-vijay-ctr-nirmal-kumar-10976857/",
+          "image": {
+            "src": "https://images.indianexpress.com/2026/11/tamil-nadu-deepathoon-protest.jpg.jpeg?w=1024",
+            "alt": "Police and demonstrators at a protest over the unlit Deepathoon pillar in Madurai.",
+            "caption": "The disputed hilltop pillar remained unlit on Tuesday evening. Photo: PTI / The Indian Express."
+          }
         },
         {
           "className": "section-brief",
           "headlineClass": "lower-headline",
-          "source": "New Indian Express",
-          "kicker": "PARLIAMENT • ANTI-DEFECTION LAW",
-          "headline": "SUPREME COURT SEEKS RESPONSES ON ANTI-DEFECTION REFORM PLEA",
+          "source": "ThePrint / PTI",
+          "kicker": "SAUDI ARABIA • INDIAN NATIONALS",
+          "headline": "TWO INDIANS AMONG 11 INJURED IN RIYADH TOWER ATTACK",
           "paragraphs": [
-            "The Supreme Court sought responses from the Centre, Election Commission and Law Commission on a plea for anti-defection reforms, including continuing disqualification proceedings after resignation and setting a decision deadline."
+            "Two Indian nationals were among 11 people injured when a tower in Riyadh’s King Abdullah Financial District was targeted in an attack attributed by Saudi authorities to Yemen’s Houthi militia. India’s embassy confirmed the injuries and said it was arranging assistance."
           ],
-          "moreUrl": "https://www.newindianexpress.com/india/2026/Nov/23/sc-seeks-response-of-centre-ec-on-pil-for-reforms-in-anti-defection-law"
+          "moreUrl": "https://theprint.in/world/2-indians-among-11-injured-in-houthi-attack-in-saudi-arabias-capital/3108064/"
         },
         {
           "className": "section-brief",
           "headlineClass": "lower-headline",
-          "source": "EdexLive / IANS",
-          "kicker": "CYBERSECURITY • PUBLIC SERVICES",
-          "headline": "I4C ISSUES CYBER-HYGIENE ADVISORY ON WHATSAPP WEB",
+          "source": "The Economic Times",
+          "kicker": "TRIBAL WELFARE • PUBLIC SERVICES",
+          "headline": "CENTRE PLANS WELFARE OUTREACH NETWORK ACROSS 76,000 TRIBAL VILLAGES",
           "paragraphs": [
-            "The Indian Cyber Crime Coordination Centre has urged public servants to avoid WhatsApp Web for official or sensitive work, following reports of suspicious access to defence-related groups."
+            "The Centre is setting up Adi Sewa Kendras and training local volunteers in nearly 76,000 tribal-dominated villages across 28 states and Union Territories. The programme will track access to health, education, nutrition, housing, livelihoods and social-security schemes."
           ],
-          "moreUrl": "https://www.edexlive.com/news/i4c-issues-strict-cyber-hygiene-protocol-for-public-servants-and-office-goers-relying-on-whatsapp-web"
+          "moreUrl": "https://economictimes.indiatimes.com/news/india/centre-builds-tribal-outreach-network-across-76000-villages/articleshow/136141602.cms"
         }
       ]
     },
@@ -170,34 +190,34 @@
           "className": "section-lead city-lead",
           "headlineClass": "section-headline",
           "source": "The Times of India",
-          "kicker": "BENGALURU • CYBERCRIME",
-          "headline": "11 UNAUTHORISED IMPS TRANSFERS DRAIN ₹42.4 LAKH FROM BENGALURU FIRM",
+          "kicker": "BENGALURU • CRIME & SAFETY",
+          "headline": "MAN ARRESTED AFTER BENGALURU WOMAN’S DEATH AT LODGE",
           "paragraphs": [
-            "A Bengaluru company reported 11 unauthorised IMPS transfers totalling about ₹42.4 lakh within half an hour, despite two-level approval and OTP safeguards. Police are investigating the transactions."
+            "A 23-year-old Bengaluru woman died after falling from a lodge window during an incident police are investigating as murder. Her male friend has been arrested; police said the woman’s family alleged he had threatened to share private videos."
           ],
-          "moreUrl": "https://timesofindia.indiatimes.com/city/bengaluru/11-unauthorised-transactions-drain-rs-42-4-lakh-from-bengaluru-firm-in-30-minutes/articleshow/136111600.cms"
+          "moreUrl": "https://timesofindia.indiatimes.com/city/bengaluru/do-whatever-you-want-bengaluru-woman-dies-after-boyfriend-pushes-her-out-of-lodge-window-during-argument/articleshow/136125984.cms"
         },
         {
           "className": "section-brief",
           "headlineClass": "lower-headline",
-          "source": "NDTV",
-          "kicker": "TAMIL NADU • COURTS & RELIGION",
-          "headline": "GATHERINGS RESTRICTED IN MADURAI AROUND HILLTOP DEEPAM ROW",
+          "source": "The Economic Times",
+          "kicker": "INDIA • ECONOMY",
+          "headline": "JEFFERIES ESTIMATES INDIA’S OCTOBER ACTIVITY GROWTH AT FOUR-YEAR HIGH",
           "paragraphs": [
-            "Madurai authorities restricted gatherings through November 25 after the Supreme Court allowed a one-time lighting of the Karthigai Deepam lamp at a hilltop stone pillar on November 24. The order does not settle the wider dispute."
+            "India’s economic activity grew an estimated 9% year-on-year in October, its fastest pace in four years, according to a Jefferies indicator. Strong industry and a later festive season supported the reading, while rural demand remained subdued."
           ],
-          "moreUrl": "https://www.ndtv.com/india-news/gatherings-banned-in-madurai-as-court-allows-deepam-on-hill-at-centre-of-row-12368047/amp/1"
+          "moreUrl": "https://economictimes.indiatimes.com/news/economy/indicators/indias-economic-activity-growth-hits-four-year-high-of-9-in-october/articleshow/136141602.cms"
         },
         {
           "className": "section-brief",
           "headlineClass": "lower-headline",
-          "source": "The Indian Express",
-          "kicker": "HARYANA • DOWRY ALLEGATION",
-          "headline": "DELHI POLICE CONSTABLE SUSPENDED AFTER WEDDING CALLED OFF",
+          "source": "The New Indian Express",
+          "kicker": "KARNATAKA • HIGH COURT",
+          "headline": "HIGH COURT QUASHES FRESH PROBE AGAINST FORMER KSOU VICE-CHANCELLOR",
           "paragraphs": [
-            "A Delhi Police constable posted in Sonipat has been suspended after allegations that a wedding was called off over a car demand as dowry. The constable has denied demanding dowry, and the complaint is under inquiry."
+            "The Karnataka High Court set aside an order for a fresh investigation into a 2012 KSOU computer-and-furniture procurement case and accepted the police closure report. The proceedings against former vice-chancellor K S Rangappa and another petitioner were dropped."
           ],
-          "moreUrl": "https://indianexpress.com/article/cities/chandigarh/delhi-police-constable-suspended-sonipat-dowry-wedding-row-10975417/lite/"
+          "moreUrl": "https://www.newindianexpress.com/amp/story/states/karnataka/2026/Nov/24/karnataka-high-court-quashes-proceedings-against-former-ksou-vice-chancellor"
         }
       ]
     },
@@ -209,35 +229,40 @@
         {
           "className": "section-lead",
           "headlineClass": "section-headline",
-          "source": "Goal.com",
-          "kicker": "FOOTBALL • AFC CHAMPIONS LEAGUE TWO",
-          "headline": "EAST BENGAL FACE MUST-WIN TEST AGAINST AL-HUSSEIN",
+          "source": "India Today",
+          "kicker": "CRICKET • INDIA A",
+          "headline": "15-YEAR-OLD SOORYAVANSHI SMASHES 204 OFF 53 BALLS IN WORLD-RECORD CHASE",
           "paragraphs": [
-            "East Bengal meet Jordan’s Al-Hussein in Kolkata on November 24 in an AFC Champions League Two group match. A defeat would end the Indian side’s campaign; kickoff is scheduled for 7:15pm IST."
+            "Vaibhav Sooryavanshi reached a List A century in 28 balls and a double century in 52, finishing with 204 off 53 deliveries and a record 28 sixes. India A chased the UAE’s 250-run target in 14.2 overs to win by seven wickets in the Rising Stars Asia Cup."
           ],
-          "moreUrl": "https://www.goal.com/en-in/news/live-stream-online-tv-where-to-watch-east-bengal-fc-v-al-hussein-sc/blt742f63b9fd8a3e0e"
+          "moreUrl": "https://www.indiatoday.in/sports/cricket/story/vaibhav-sooryavanshi-world-record-28-ball-century-rising-stars-asia-cup-3045933-2026-11-24",
+          "image": {
+            "src": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/vaibhav-sooryavanshi-rising-stars-asia-cup-242313580-16x9_0.jpg?VersionId=oqS_FbC.IZ5fOXV23BPhcF7RxWWk26fr&size=690%3A388",
+            "alt": "Vaibhav Sooryavanshi celebrating a record century for India A.",
+            "caption": "Sooryavanshi made 204 from 53 balls against the UAE. Photo: BCCI / India Today."
+          }
         },
         {
           "className": "section-brief listings-box",
           "headlineClass": "lower-headline",
-          "source": "The Lucknow Tribune",
-          "kicker": "BADMINTON • BWF WORLD TOUR",
-          "headline": "SYED MODI INTERNATIONAL OPENS IN LUCKNOW",
+          "source": "The New Indian Express",
+          "kicker": "CRICKET • SYED MUSHTAQ ALI TROPHY",
+          "headline": "PRIYANSH ARYA’S 181 SETS NEW INDIAN T20 RECORD",
           "paragraphs": [
-            "The Syed Modi India International, a BWF Super 300 tournament, begins in Lucknow on November 24 and runs through November 29."
+            "Delhi captain Priyansh Arya hit 181 from 68 balls against Tamil Nadu in the Syed Mushtaq Ali Trophy, the highest T20 score by an Indian and second-highest in the men’s format. Delhi won by 116 runs."
           ],
-          "moreUrl": "https://thelucknowtribune.org/lucknow-to-host-syed-modi-international-badminton-championships-from-november-24/"
+          "moreUrl": "https://www.newindianexpress.com/sport/cricket/2026/Nov/24/syed-mushtaq-ali-trophy-priyansh-shatters-records-powers-delhi-to-big-win-over-tamil-nadu"
         },
         {
           "className": "section-brief classifieds-box",
           "headlineClass": "lower-headline",
-          "source": "Al Jazeera",
-          "kicker": "CRICKET • INDIA–NEW ZEALAND",
-          "headline": "INDIA AND NEW ZEALAND SHARE FIRST TEST AFTER DRAW",
+          "source": "FIDE",
+          "kicker": "CHESS • WORLD CHAMPIONSHIP",
+          "headline": "GUKESH AND SINDAROV DRAW OPENING WORLD TITLE GAME",
           "paragraphs": [
-            "The opening Test ended in a draw after India declared at 720 for nine and New Zealand reached 239 for five in its second innings, 113 runs behind."
+            "Defending champion D Gukesh and challenger Javokhir Sindarov drew the first game of their 2026 World Championship match in Geneva. Game two is scheduled for Wednesday, November 25."
           ],
-          "moreUrl": "https://www.aljazeera.com/sports/2026/11/23/new-zealand-india-first-test-cricket-wtc-phillips-mitchell-nicholls"
+          "moreUrl": "https://www.fide.com/salesforce-fide-world-championship-match-a-draw-in-the-opening-game/"
         }
       ]
     }
