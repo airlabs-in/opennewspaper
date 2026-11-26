@@ -5,12 +5,12 @@
     "tagline": "Open sources. Fresh news. One paper. A newspaper assembled from the open web",
     "established": "2026",
     "weatherLabel": "BENGALURU WEATHER",
-    "weatherSummary": "Partly cloudy; light rain possible. Bengaluru: 29°C / 18°C. No city warning reported.",
+    "weatherSummary": "Cloudy skies and light rain likely. Bengaluru: 27–28°C / 19–20°C. No severe-weather warning for the city.",
     "motto": "FROM OPEN SOURCES DESK",
     "editionLabel": "DAILY READ",
     "editionSummary": "Complete Morning Ledger",
     "edition": "BENGALURU • INDIA EDITION",
-    "dateline": "BENGALURU, WEDNESDAY, NOVEMBER 25, 2026",
+    "dateline": "BENGALURU, THURSDAY, NOVEMBER 26, 2026",
     "greeting": "GOOD MORNING :)",
     "footer": "Open Newspaper • Bengaluru and India Edition • Independent coverage from open sources."
   },
@@ -42,23 +42,23 @@
   ],
   "cityWatch": {
     "label": "CITY WATCH",
-    "text": "IMD forecasts light rain or thundershowers at a few places in Bengaluru Urban today; the city forecast gives a high of 29°C and low of 18°C.",
-    "attribution": "— India Meteorological Department"
+    "text": "Cloudy skies and light rain are likely across Bengaluru today, with a high of 27–28°C and low of 19–20°C; wet roads may slow commutes.",
+    "attribution": "— News9live, citing IMD"
   },
   "lead": {
-    "source": "India Today",
-    "kicker": "CRICKET • INDIA A • RISING STARS ASIA CUP",
-    "headline": "15-YEAR-OLD VAIBHAV SOORYAVANSHI BLASTS 204 OFF 53 BALLS",
-    "deck": "The teenager set List A records for the fastest century and double century as India A chased 250 against the UAE in just 14.2 overs.",
+    "source": "The Indian Express",
+    "kicker": "INDIA • TRADE & TARIFFS",
+    "headline": "US PROPOSES TARIFFS OF UP TO 25% ON INDIA; 17% RATE TIED TO TRADE DEAL",
+    "deck": "The USTR has proposed duties of up to 25% on Indian goods, with a possible 17% rate if a reciprocal trade deal is reached. India says it is examining the proposal.",
     "paragraphs": [
-      "Vaibhav Sooryavanshi reached a century in 28 balls and a double century in 52, finishing with 204 off 53 deliveries and a record 28 sixes. The 15-year-old powered India A to a seven-wicket win over the UAE in the Rising Stars Asia Cup in Doha.",
-      "India A completed the 250-run chase in 14.2 overs. Sooryavanshi’s innings rewrote List A records for the fastest hundred and double hundred, and for the most sixes in an innings."
+      "The US Trade Representative has proposed tariffs of up to 25% on Indian goods in two Section 301 investigations, with exemptions for certain products. The proposal follows probes into industrial capacity and goods made with forced labour.",
+      "The USTR says it may consider a 17% rate if India reaches a reciprocal trade agreement addressing the findings. The proposal is not yet a final tariff decision; India’s Commerce Ministry says it is examining the notice and that trade concerns belong in ongoing negotiations."
     ],
-    "moreUrl": "https://www.indiatoday.in/sports/cricket/story/vaibhav-sooryavanshi-world-record-28-ball-century-rising-stars-asia-cup-3045933-2026-11-24",
+    "moreUrl": "https://indianexpress.com/article/business/united-states-proposes-25-percent-section-301-tariffs-india-17-percent-trade-deal-ustr-10978398/",
     "image": {
-      "src": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/vaibhav-sooryavanshi-rising-stars-asia-cup-242313580-16x9_0.jpg?VersionId=oqS_FbC.IZ5fOXV23BPhcF7RxWWk26fr&size=690%3A388",
-      "alt": "Vaibhav Sooryavanshi celebrating a record century for India A.",
-      "caption": "Sooryavanshi made 204 from 53 balls against the UAE. Photo: BCCI / India Today."
+      "alt": "Narendra Modi and Donald Trump, pictured at a previous meeting, as the US proposes new tariffs on Indian goods.",
+      "caption": "The tariff proposal comes as New Delhi and Washington negotiate a trade agreement. File photo: The Indian Express.",
+      "src": "https://images.indianexpress.com/2026/11/narendra-modi-donald-trump.jpg.jpeg?w=1024"
     }
   },
   "sidebarStory": {
@@ -66,18 +66,18 @@
     "headlineClass": "side-headline",
     "tag": "div",
     "source": "The Times of India",
-    "kicker": "BENGALURU • WATER SUPPLY",
-    "headline": "CAUVERY WATER PUMPING SUSPENDED ACROSS BENGALURU TODAY",
-    "subhead": "BWSSB’s scheduled 6am–6pm shutdown affects all stages of the Cauvery supply scheme.",
+    "kicker": "BENGALURU • FLIPKART LEADERSHIP",
+    "headline": "FLIPKART CEO KALYAN KRISHNAMURTHY TO LEAVE AFTER MORE THAN 11 YEARS",
+    "subhead": "The Bengaluru-based retailer says its board and product chief Balaji Thiagarajan will lead in the interim.",
     "paragraphs": [
-      "The Bengaluru Water Supply and Sewerage Board has halted pumping for emergency repairs and maintenance at T.K. Halli, Harohalli and Tataguni. Supply may be disrupted across the city during the 12-hour work window.",
-      "BWSSB advised residents to store enough water in advance. The notice did not specify locality-by-locality restoration times."
+      "Flipkart announced that Kalyan Krishnamurthy is concluding his tenure as chief executive after more than 11 years with the company. Walmart International chief Chris Nicholas credited him with helping the business grow and strengthen its governance.",
+      "The company says it will name a successor in the coming weeks. Chief Product and Technology Officer Balaji Thiagarajan and the board will lead the organisation in the interim."
     ],
-    "moreUrl": "https://timesofindia.indiatimes.com/city/bengaluru/bengaluru-water-supply-to-be-disrupted-for-12-hours-on-november-25-as-bwssb-shuts-cauvery-pumping-stations-from-6am-to-6pm-for-emergency-repair-and-maintenance-work/amp_articleshow/136118610.cms",
+    "moreUrl": "https://stories.flipkart.com/announcement/kalyan-krishnamurthy-to-leave-flipkart-after-more-than-eleven-years-with-the-company",
     "image": {
-      "src": "https://thebengalurulive.com/wp-content/uploads/2026/11/photo-8.jpg",
-      "alt": "File photo of pipework at a water pumping station.",
-      "caption": "File photo: pipework at a water pumping station. Photo: The Bengaluru Live."
+      "alt": "Flipkart CEO Kalyan Krishnamurthy.",
+      "caption": "Kalyan Krishnamurthy is leaving Flipkart after more than 11 years. Photo: Kalyan Krishnamurthy/X / India Today.",
+      "src": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/kalyan-krishnamurthy-253005122-16x9_0.jpg?VersionId=H4VUhgjeCnr8It1rooJF0X.ErP6IT.yG&size=690%3A388"
     }
   },
   "groups": [
@@ -89,180 +89,182 @@
         {
           "className": "lower-column",
           "headlineClass": "lower-headline",
-          "source": "India Today",
-          "kicker": "BENGALURU • NAMMA METRO",
-          "headline": "BLUE LINE TRIALS BEGIN ON OUTER RING ROAD CORRIDOR",
+          "source": "The Indian Express",
+          "kicker": "BENGALURU • LALBAGH & INFRASTRUCTURE",
+          "headline": "KARNATAKA DROPS LALBAGH ROUTE FOR TUNNEL ROAD AFTER PUBLIC PUSHBACK",
           "paragraphs": [
-            "Trial runs have begun on the first four stations of the Blue Line Phase 2A, from K.R. Puram towards Doddanekkundi. Passenger service on the 19-km K.R. Puram–Central Silk Board section is targeted for mid-2027, after signalling work and safety certification."
+            "The state government has dropped plans to acquire about six acres inside Lalbagh for the north–south tunnel road and is considering two alternative alignments, Bengaluru Development Minister Krishna Byre Gowda said.",
+            "The proposed 16.75-km twin-tunnel project would connect Hebbal and Silk Board. The government says it remains committed to moving the route away from the botanical garden."
           ],
-          "moreUrl": "https://www.indiatoday.in/cities/bengaluru/story/bengaluru-blue-line-metro-phase-2a-trials-mid-2027-opening-ptag-3046068-2026-11-24",
+          "moreUrl": "https://indianexpress.com/article/cities/bangalore/bengaluru-tunnel-road-will-not-pass-lalbagh-alternatives-under-discussion-krishna-byre-gowda-10978459/lite/",
           "image": {
-            "src": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/bengaluru-metro-242818682-16x9_0.png?VersionId=RSJlUxPDjBY5V760i6_ey241llfkNFlN&size=690%3A388",
-            "alt": "Bengaluru Metro Blue Line train at the Phase 2A corridor.",
-            "caption": "Blue Line trial runs have started on the Outer Ring Road section. Photo: India Today / X @krishnabgowda."
+            "src": "https://images.indianexpress.com/2026/08/Bengaluru-protest.jpg?w=640",
+            "alt": "Bengaluru residents take part in a campaign calling for Lalbagh to be protected.",
+            "caption": "Residents joined the “Walk in Lalbagh” campaign to oppose the original route. Photo: The Indian Express."
           }
         },
         {
           "className": "lower-column center-border",
           "headlineClass": "lower-headline",
           "source": "The Indian Express",
-          "kicker": "BENGALURU • PUBLIC SAFETY",
-          "headline": "POLICE REGISTER FIR OVER THREAT TO DILJIT DOSANJH CONCERT",
+          "kicker": "BENGALURU • CRIME",
+          "headline": "POLICE SEARCH FOR LAWYER ACCUSED OF KILLING SISTER IN PROPERTY DISPUTE",
           "paragraphs": [
-            "Bengaluru police have registered an FIR after an email threatened an IED blast at Diljit Dosanjh’s November 29 concert at NICE Grounds. The threat was sent earlier this month to Hubballi-Dharwad civic officials; police are investigating its origin."
+            "Police say a 39-year-old woman was allegedly beaten with a cricket bat by her elder brother after a property dispute at Junnasandra, within Bellandur police limits.",
+            "Investigators say the accused, a 42-year-old lawyer, fled after the attack and a case has been registered. The family’s two children and mother were at home, according to police."
           ],
-          "moreUrl": "https://indianexpress.com/article/cities/bangalore/diljit-dosanjh-bengaluru-concert-bomb-threat-ied-blast-police-file-fir-10976779/",
-          "image": {
-            "src": "https://images.indianexpress.com/2026/10/diljit-dosanjh-2.jpg?w=1024",
-            "alt": "Singer Diljit Dosanjh performing on stage.",
-            "caption": "Diljit Dosanjh is scheduled to perform in Bengaluru on November 29. File photo: The Indian Express."
-          }
+          "moreUrl": "https://indianexpress.com/article/cities/bangalore/bengaluru-woman-killed-brother-property-dispute-junnasandra-10978599/lite/"
         },
         {
           "className": "lower-column",
           "headlineClass": "lower-headline",
           "source": "Hindustan Times",
-          "kicker": "KARNATAKA • SCHOOL HEALTH",
-          "headline": "FREE SANITARY NAPKINS MANDATORY IN SCHOOLS FOR GIRLS IN CLASSES 6–12",
+          "kicker": "BENGALURU • EVENTS",
+          "headline": "TWO BENGALURU SCREENINGS OF PAKISTANI SERIAL CANCELLED AFTER BACKLASH",
           "paragraphs": [
-            "Karnataka has directed government, aided and private schools and pre-university colleges to provide free biodegradable sanitary napkins. Schools have three months to set up menstrual-hygiene corners; officials will inspect compliance."
+            "Organisers withdrew two planned private screenings of the Pakistani television serial Dar-e-Nijaat, scheduled for November 28 and December 5, after online criticism.",
+            "Police said neither organiser had obtained prior permission and warned against holding the events. Both organisers confirmed the screenings had been cancelled."
           ],
-          "moreUrl": "https://www.hindustantimes.com/india-news/karnataka-makes-free-sanitary-napkins-mandatory-in-schools-warns-of-action-for-lapses-101795433120122.html",
+          "moreUrl": "https://www.hindustantimes.com/india-news/pakistan-tv-serial-dar-e-nijaat-screenings-cancelled-in-bengaluru-amid-protests-police-flag-lack-of-permission-101795606949650-amp.html",
           "image": {
-            "src": "https://www.hindustantimes.com/ht-img/img/2026/11/23/400x225/The-state-has-directed-schools-to-install-sanitary_1795433292833_3CF2.jpg",
-            "alt": "Sanitary napkin vending machine in a girls’ school toilet.",
-            "caption": "Karnataka directed schools to make sanitary napkins freely available and ensure safe disposal. Representative photo: Hindustan Times."
+            "src": "https://www.hindustantimes.com/ht-img/img/2026/11/25/550x309/paktvseries_1795607193119_Hs5z_1795607193282_WwPK_104acd55-f10d-46f1-a849-0aa9d459620a_gcyT.jpg",
+            "alt": "Poster for the Pakistani television serial Dar-e-Nijaat.",
+            "caption": "The two planned Bengaluru screenings of Dar-e-Nijaat were cancelled. Poster: Instagram / Hindustan Times."
           }
         }
       ]
     },
     {
-      "separator": "— INDIA • CLIMATE, PUBLIC POLICY & PARLIAMENT —",
+      "separator": "— INDIA • COURTS, DIPLOMACY & PUBLIC POLICY —",
       "className": "news-section foreign-section",
-      "ariaLabel": "India climate, public policy and parliamentary news",
+      "ariaLabel": "India courts, diplomacy and public policy news",
       "stories": [
         {
           "className": "section-lead",
           "headlineClass": "section-headline",
           "source": "The Indian Express",
-          "kicker": "TAMIL NADU • SUPREME COURT ORDER",
-          "headline": "MADURAI HILLTOP PILLAR LEFT UNLIT DESPITE SUPREME COURT ORDER",
+          "kicker": "INDIA • SUPREME COURT",
+          "headline": "SUPREME COURT SETS ASIDE ORDER SEEKING PROBE INTO RAHUL GANDHI’S ASSETS",
           "paragraphs": [
-            "Tamil Nadu authorities lit the Karthigai Deepam at its customary shrine on Thirupparankundram hill, while leaving the nearby pillar unlit despite a Supreme Court direction for a one-time lamp there. The state had sought review but had no stay by dusk; the court asked the district collector to report within three days."
+            "The Supreme Court set aside an Allahabad High Court order directing the CBI and Enforcement Directorate to verify allegations that Congress leader Rahul Gandhi held assets disproportionate to his known income.",
+            "The three-judge bench sent the petition back to the High Court for fresh consideration, including whether it is maintainable. It did not decide the underlying allegations."
           ],
-          "moreUrl": "https://indianexpress.com/article/india/tamil-nadu-defies-supreme-court-order-karthigai-deepam-lit-only-at-uchi-pillaiyar-thirupparankundram-hill-vijay-ctr-nirmal-kumar-10976857/",
-          "image": {
-            "src": "https://images.indianexpress.com/2026/11/tamil-nadu-deepathoon-protest.jpg.jpeg?w=1024",
-            "alt": "Police and demonstrators at a protest over the unlit Deepathoon pillar in Madurai.",
-            "caption": "The disputed hilltop pillar remained unlit on Tuesday evening. Photo: PTI / The Indian Express."
-          }
+          "moreUrl": "https://indianexpress.com/article/legal-news/rahul-gandhi-assets-case-supreme-court-sets-aside-order-cbi-ed-verification-10978094/"
         },
         {
           "className": "section-brief",
           "headlineClass": "lower-headline",
-          "source": "ThePrint / PTI",
-          "kicker": "SAUDI ARABIA • INDIAN NATIONALS",
-          "headline": "TWO INDIANS AMONG 11 INJURED IN RIYADH TOWER ATTACK",
+          "source": "The Indian Express",
+          "kicker": "INDIA • BORDER SECURITY",
+          "headline": "INDIA AND CHINA HOLD MILITARY-LEVEL TALKS IN ARUNACHAL PRADESH",
           "paragraphs": [
-            "Two Indian nationals were among 11 people injured when a tower in Riyadh’s King Abdullah Financial District was targeted in an attack attributed by Saudi authorities to Yemen’s Houthi militia. India’s embassy confirmed the injuries and said it was arranging assistance."
+            "Military commanders from India and China held a second round of talks in Arunachal Pradesh, focusing on rules for engagement and communication to prevent local friction along the Line of Actual Control from escalating.",
+            "The discussions included establishing procedures for interactions in the eastern sector. Officials described the exchanges as aimed at maintaining peace and preventing escalation."
           ],
-          "moreUrl": "https://theprint.in/world/2-indians-among-11-injured-in-houthi-attack-in-saudi-arabias-capital/3108064/"
+          "moreUrl": "https://indianexpress.com/article/india/peace-along-lac-india-china-hold-military-level-talks-in-arunachal-10978638/"
         },
         {
           "className": "section-brief",
           "headlineClass": "lower-headline",
-          "source": "The Economic Times",
-          "kicker": "TRIBAL WELFARE • PUBLIC SERVICES",
-          "headline": "CENTRE PLANS WELFARE OUTREACH NETWORK ACROSS 76,000 TRIBAL VILLAGES",
+          "source": "The Week / PTI",
+          "kicker": "INDIA • COURTS & CIVIL LIBERTIES",
+          "headline": "SC SEEKS CENTRE, DELHI RESPONSE ON PLEAS OVER DETENTIONS AT CEC PROTEST",
           "paragraphs": [
-            "The Centre is setting up Adi Sewa Kendras and training local volunteers in nearly 76,000 tribal-dominated villages across 28 states and Union Territories. The programme will track access to health, education, nutrition, housing, livelihoods and social-security schemes."
+            "The Supreme Court directed the Centre and Delhi government to file comprehensive responses to petitions alleging that political leaders were illegally detained during an October protest against the Chief Election Commissioner.",
+            "The bench gave the authorities ten days to respond. The petitions raise allegations about police action during the demonstration; the court has not ruled on their merits."
           ],
-          "moreUrl": "https://economictimes.indiatimes.com/news/india/centre-builds-tribal-outreach-network-across-76000-villages/articleshow/136141602.cms"
+          "moreUrl": "https://www.theweek.in/wire-updates/national/2026/11/25/sc-directs-centre-to-file-comprehensive-response-on-pleas-against-detention-of-political-leaders-during-delhi-protests.amp.html"
         }
       ]
     },
     {
-      "separator": "— INDIA • CONSUMER HEALTH, ROAD SAFETY & INNOVATION —",
+      "separator": "— INDIA • ECONOMY, SCIENCE & ENVIRONMENT —",
       "className": "news-section city-section",
-      "ariaLabel": "India consumer health, road safety and innovation news",
+      "ariaLabel": "India economy, science and environment news",
       "stories": [
         {
           "className": "section-lead city-lead",
           "headlineClass": "section-headline",
-          "source": "The Times of India",
-          "kicker": "BENGALURU • CRIME & SAFETY",
-          "headline": "MAN ARRESTED AFTER BENGALURU WOMAN’S DEATH AT LODGE",
+          "source": "The Indian Express",
+          "kicker": "INDIA • ECONOMY & PRICES",
+          "headline": "RBI BULLETIN WARNS FOOD-PRICE PRESSURE MAY KEEP NOVEMBER INFLATION HIGH",
           "paragraphs": [
-            "A 23-year-old Bengaluru woman died after falling from a lodge window during an incident police are investigating as murder. Her male friend has been arrested; police said the woman’s family alleged he had threatened to share private videos."
+            "An RBI bulletin says broad pressure on food prices may keep retail inflation elevated in November after it crossed 6% in October. The report points to a possible rate increase at the central bank’s December policy review.",
+            "The bulletin cited price pressures across most consumption divisions, while warning that energy costs and global uncertainty remain risks."
           ],
-          "moreUrl": "https://timesofindia.indiatimes.com/city/bengaluru/do-whatever-you-want-bengaluru-woman-dies-after-boyfriend-pushes-her-out-of-lodge-window-during-argument/articleshow/136125984.cms"
+          "moreUrl": "https://indianexpress.com/article/business/india-retail-inflation-november-2026-rbi-report-10978576/lite/"
         },
         {
           "className": "section-brief",
           "headlineClass": "lower-headline",
-          "source": "The Economic Times",
-          "kicker": "INDIA • ECONOMY",
-          "headline": "JEFFERIES ESTIMATES INDIA’S OCTOBER ACTIVITY GROWTH AT FOUR-YEAR HIGH",
+          "source": "NDTV",
+          "kicker": "INDIA • SPACE & TECHNOLOGY",
+          "headline": "FIRST INDUSTRY-BUILT PSLV ROCKET NOW TARGETED FOR EARLY 2027",
           "paragraphs": [
-            "India’s economic activity grew an estimated 9% year-on-year in October, its fastest pace in four years, according to a Jefferies indicator. Strong industry and a later festive season supported the reading, while rural demand remained subdued."
+            "ISRO Chairman V Narayanan says the maiden PSLV-N1 launch, built by a HAL–L&T consortium, is expected in the first quarter of 2027, nearly three years after its original target.",
+            "The rocket is ready, but launch timing depends on payload coordination and an available window, according to L&T. The ₹860-crore contract covers five rockets."
           ],
-          "moreUrl": "https://economictimes.indiatimes.com/news/economy/indicators/indias-economic-activity-growth-hits-four-year-high-of-9-in-october/articleshow/136141602.cms"
+          "moreUrl": "https://www.ndtv.com/india-news/indias-1st-private-built-pslv-rocket-delayed-again-what-is-holding-up-the-860-crore-project-12377591",
+          "image": {
+            "src": "https://c.ndtvimg.com/2026-11/o55q7bnk_pslv-datafy_625x300_26_November_26.jpg?im=FaceCrop%2Calgorithm%3Ddnn%2Cwidth%3D650%2Cheight%3D400",
+            "alt": "PSLV launch vehicle representing India’s first industry-built PSLV-N1 programme.",
+            "caption": "The PSLV-N1 launch is waiting on payload coordination and a launch window. Photo: NDTV."
+          }
         },
         {
           "className": "section-brief",
           "headlineClass": "lower-headline",
-          "source": "The New Indian Express",
-          "kicker": "KARNATAKA • HIGH COURT",
-          "headline": "HIGH COURT QUASHES FRESH PROBE AGAINST FORMER KSOU VICE-CHANCELLOR",
+          "source": "The Indian Express",
+          "kicker": "INDIA • GREAT NICOBAR PROJECT",
+          "headline": "CENTRE GETS UNTIL DECEMBER 10 TO FILE AGAIN ON NICOBAR FOREST RIGHTS",
           "paragraphs": [
-            "The Karnataka High Court set aside an order for a fresh investigation into a 2012 KSOU computer-and-furniture procurement case and accepted the police closure report. The proceedings against former vice-chancellor K S Rangappa and another petitioner were dropped."
+            "The National Green Tribunal gave the Centre until December 10 to submit fresh material in a case concerning forest rights and clearances for the Great Nicobar development project.",
+            "The proposed project includes a transshipment port, township, power plant and airport. The case concerns claims that forest-rights procedures were not properly completed."
           ],
-          "moreUrl": "https://www.newindianexpress.com/amp/story/states/karnataka/2026/Nov/24/karnataka-high-court-quashes-proceedings-against-former-ksou-vice-chancellor"
+          "moreUrl": "https://indianexpress.com/article/india/nicobar-forest-rights-matter-centre-gets-time-until-december-10-to-file-fresh-submissions-10978526/"
         }
       ]
     },
     {
-      "separator": "— INDIA • CRICKET, CHESS & HOCKEY —",
+      "separator": "— INDIA • HOCKEY, CHESS & BADMINTON —",
       "className": "news-section sports-section",
-      "ariaLabel": "Indian cricket, chess and hockey news",
+      "ariaLabel": "Indian hockey, chess and badminton news",
       "stories": [
         {
           "className": "section-lead",
           "headlineClass": "section-headline",
-          "source": "India Today",
-          "kicker": "CRICKET • INDIA A",
-          "headline": "15-YEAR-OLD SOORYAVANSHI SMASHES 204 OFF 53 BALLS IN WORLD-RECORD CHASE",
+          "source": "Hockey India",
+          "kicker": "HOCKEY • ASIAN CHAMPIONS TROPHY",
+          "headline": "INDIA BEAT JAPAN 4–0, FINISH UNBEATEN AND REACH BEST-EVER WORLD RANKING",
           "paragraphs": [
-            "Vaibhav Sooryavanshi reached a List A century in 28 balls and a double century in 52, finishing with 204 off 53 deliveries and a record 28 sixes. India A chased the UAE’s 250-run target in 14.2 overs to win by seven wickets in the Rising Stars Asia Cup."
+            "India defeated Japan 4–0 to finish the Women’s Asian Champions Trophy league stage with five wins from five and top the standings. Deepika scored twice, with Lalremsiami and Neha adding goals.",
+            "The result lifted India to No. 4 in the FIH world rankings, its highest-ever position. India will meet Malaysia in the semi-final on November 27."
           ],
-          "moreUrl": "https://www.indiatoday.in/sports/cricket/story/vaibhav-sooryavanshi-world-record-28-ball-century-rising-stars-asia-cup-3045933-2026-11-24",
-          "image": {
-            "src": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/vaibhav-sooryavanshi-rising-stars-asia-cup-242313580-16x9_0.jpg?VersionId=oqS_FbC.IZ5fOXV23BPhcF7RxWWk26fr&size=690%3A388",
-            "alt": "Vaibhav Sooryavanshi celebrating a record century for India A.",
-            "caption": "Sooryavanshi made 204 from 53 balls against the UAE. Photo: BCCI / India Today."
-          }
+          "moreUrl": "https://www.hockeyindia.org/index.php/news/india-blank-japan-4-0-to-maintain-all-win-record-in-league-campaign-at-madhya-pradesh-womens-asian-champions-trophy-bhopal-2026-set-up-semi-final-against-malaysia"
         },
         {
           "className": "section-brief listings-box",
           "headlineClass": "lower-headline",
-          "source": "The New Indian Express",
-          "kicker": "CRICKET • SYED MUSHTAQ ALI TROPHY",
-          "headline": "PRIYANSH ARYA’S 181 SETS NEW INDIAN T20 RECORD",
+          "source": "The Indian Express",
+          "kicker": "CHESS • WORLD CHAMPIONSHIP",
+          "headline": "GUKESH AND SINDAROV DRAW AGAIN AFTER JUST 20 MOVES",
           "paragraphs": [
-            "Delhi captain Priyansh Arya hit 181 from 68 balls against Tamil Nadu in the Syed Mushtaq Ali Trophy, the highest T20 score by an Indian and second-highest in the men’s format. Delhi won by 116 runs."
+            "Defending champion D Gukesh and challenger Javokhir Sindarov drew their second World Championship game in Geneva, agreeing to a draw after 20 moves in a London System.",
+            "The second successive draw leaves the 14-game match tied 1–1. Game three is scheduled for Thursday."
           ],
-          "moreUrl": "https://www.newindianexpress.com/sport/cricket/2026/Nov/24/syed-mushtaq-ali-trophy-priyansh-shatters-records-powers-delhi-to-big-win-over-tamil-nadu"
+          "moreUrl": "https://indianexpress.com/article/sports/chess/gukesh-vs-sindarov-game-2-quick-draw-world-championship-10978552/lite/"
         },
         {
           "className": "section-brief classifieds-box",
           "headlineClass": "lower-headline",
-          "source": "FIDE",
-          "kicker": "CHESS • WORLD CHAMPIONSHIP",
-          "headline": "GUKESH AND SINDAROV DRAW OPENING WORLD TITLE GAME",
+          "source": "MapMyTimes",
+          "kicker": "BADMINTON • SYED MODI INTERNATIONAL",
+          "headline": "TREESA JOLLY AND GAYATRI GOPICHAND ADVANCE; PRANNOY EXITS",
           "paragraphs": [
-            "Defending champion D Gukesh and challenger Javokhir Sindarov drew the first game of their 2026 World Championship match in Geneva. Game two is scheduled for Wednesday, November 25."
+            "Two-time defending women’s doubles champions Treesa Jolly and Gayatri Gopichand moved into the last 16 at the Syed Modi India International in Lucknow.",
+            "The Wednesday results also saw men’s singles third seed H S Prannoy exit the tournament. The Super 300 event runs through November 29."
           ],
-          "moreUrl": "https://www.fide.com/salesforce-fide-world-championship-match-a-draw-in-the-opening-game/"
+          "moreUrl": "https://mapmytimes.com/articles/syed-modi-india-international-2026-treesa-gayatri-advance-prannoy-ousted-25-november-2026"
         }
       ]
     }
