@@ -5,12 +5,12 @@
     "tagline": "Open sources. Fresh news. One paper. A newspaper assembled from the open web",
     "established": "2026",
     "weatherLabel": "BENGALURU WEATHER",
-    "weatherSummary": "Cloudy skies and light rain likely. Bengaluru: 27–28°C / 19–20°C. No severe-weather warning for the city.",
+    "weatherSummary": "Cloudy skies with light rain likely. Bengaluru: 20–27°C. No severe-weather warning for the city.",
     "motto": "FROM OPEN SOURCES DESK",
     "editionLabel": "DAILY READ",
     "editionSummary": "Complete Morning Ledger",
     "edition": "BENGALURU • INDIA EDITION",
-    "dateline": "BENGALURU, THURSDAY, NOVEMBER 26, 2026",
+    "dateline": "BENGALURU, FRIDAY, NOVEMBER 27, 2026",
     "greeting": "GOOD MORNING :)",
     "footer": "Open Newspaper • Bengaluru and India Edition • Independent coverage from open sources."
   },
@@ -24,247 +24,242 @@
       "Nation"
     ],
     [
-      "India & Society",
+      "India & Economy",
       "Nation"
     ],
     [
-      "Cricket & Hockey",
-      "India"
+      "Sport & Bengaluru Events",
+      "Sport"
     ],
     [
-      "Public Safety",
+      "City Services & Roads",
       "City"
     ],
     [
-      "Courts & Policy",
+      "Education & Courts",
       "Nation"
     ]
   ],
   "cityWatch": {
     "label": "CITY WATCH",
-    "text": "Cloudy skies and light rain are likely across Bengaluru today, with a high of 27–28°C and low of 19–20°C; wet roads may slow commutes.",
-    "attribution": "— News9live, citing IMD"
+    "text": "Cloudy skies and light rain are likely in Bengaluru today, with temperatures around 20–27°C; allow extra time for wet-road commutes.",
+    "attribution": "— India Meteorological Department"
   },
   "lead": {
-    "source": "The Indian Express",
-    "kicker": "INDIA • TRADE & TARIFFS",
-    "headline": "US PROPOSES TARIFFS OF UP TO 25% ON INDIA; 17% RATE TIED TO TRADE DEAL",
-    "deck": "The USTR has proposed duties of up to 25% on Indian goods, with a possible 17% rate if a reciprocal trade deal is reached. India says it is examining the proposal.",
+    "source": "Hindustan Times",
+    "kicker": "INDIA • PUBLIC HEALTH & FOOD POLICY",
+    "headline": "SUPREME COURT ORDERS RED WARNINGS ON HIGH-SUGAR, SALT & FAT FOODS",
+    "deck": "The FSSAI has four months to frame prominent front-of-pack warnings, with a separate red symbol for each nutrient of concern.",
     "paragraphs": [
-      "The US Trade Representative has proposed tariffs of up to 25% on Indian goods in two Section 301 investigations, with exemptions for certain products. The proposal follows probes into industrial capacity and goods made with forced labour.",
-      "The USTR says it may consider a 17% rate if India reaches a reciprocal trade agreement addressing the findings. The proposal is not yet a final tariff decision; India’s Commerce Ministry says it is examining the notice and that trade concerns belong in ongoing negotiations."
+      "The Supreme Court directed the Food Safety and Standards Authority of India to prepare a single-phase warning-label regime for packaged foods high in total sugar, saturated fat or salt. Each nutrient must have its own prominent red hexagon and pictogram.",
+      "The court ordered the regulator to revisit its thresholds and finalise draft rules in about four months. Manufacturers would then have a year-long transition to comply; the bench said delays in informing consumers carried public-health costs, particularly for children."
     ],
-    "moreUrl": "https://indianexpress.com/article/business/united-states-proposes-25-percent-section-301-tariffs-india-17-percent-trade-deal-ustr-10978398/",
+    "moreUrl": "https://www.hindustantimes.com/india-news/supreme-court-tightens-food-labelling-norms-gives-fssai-four-months-to-finalise-them-101795675947910-amp.html",
     "image": {
-      "alt": "Narendra Modi and Donald Trump, pictured at a previous meeting, as the US proposes new tariffs on Indian goods.",
-      "caption": "The tariff proposal comes as New Delhi and Washington negotiate a trade agreement. File photo: The Indian Express.",
-      "src": "https://images.indianexpress.com/2026/11/narendra-modi-donald-trump.jpg.jpeg?w=1024"
+      "src": "https://www.hindustantimes.com/ht-img/img/2026/11/26/550x309/The-court-underlined-that-the-right-to-health--the_1795675940793_5nzG.jpg",
+      "alt": "Supreme Court of India, in a report on the court's directions for packaged-food warning labels.",
+      "caption": "The court linked clear food labels to health and informed consumer choice. Photo: PTI / Hindustan Times."
     }
   },
   "sidebarStory": {
     "className": "sidebar-item",
     "headlineClass": "side-headline",
     "tag": "div",
-    "source": "The Times of India",
-    "kicker": "BENGALURU • FLIPKART LEADERSHIP",
-    "headline": "FLIPKART CEO KALYAN KRISHNAMURTHY TO LEAVE AFTER MORE THAN 11 YEARS",
-    "subhead": "The Bengaluru-based retailer says its board and product chief Balaji Thiagarajan will lead in the interim.",
+    "source": "Moneycontrol",
+    "kicker": "BENGALURU • AIRPORT & AVIATION",
+    "headline": "BENGALURU AIRPORT SET TO INTRODUCE SIMULTANEOUS RUNWAY OPERATIONS",
+    "subhead": "The new arrangement could raise approved capacity from about 60 to 85 aircraft movements an hour.",
     "paragraphs": [
-      "Flipkart announced that Kalyan Krishnamurthy is concluding his tenure as chief executive after more than 11 years with the company. Walmart International chief Chris Nicholas credited him with helping the business grow and strengthen its governance.",
-      "The company says it will name a successor in the coming weeks. Chief Product and Technology Officer Balaji Thiagarajan and the board will lead the organisation in the interim."
+      "Kempegowda International Airport has completed trials of simultaneous departures from its north and south runways. The airport is expected to introduce the more flexible operating arrangement on November 27; the Union civil aviation minister was reported likely to visit for a formal launch.",
+      "DGCA approval came on November 3. The change could lift capacity by about 42%, though actual delays will still depend on weather, traffic and air-traffic-control clearances."
     ],
-    "moreUrl": "https://stories.flipkart.com/announcement/kalyan-krishnamurthy-to-leave-flipkart-after-more-than-eleven-years-with-the-company",
+    "moreUrl": "https://www.moneycontrol.com/news/india/bengaluru-airport-trials-simultaneous-departures-from-both-runways-launch-likely-on-nov-27-14085887.html",
     "image": {
-      "alt": "Flipkart CEO Kalyan Krishnamurthy.",
-      "caption": "Kalyan Krishnamurthy is leaving Flipkart after more than 11 years. Photo: Kalyan Krishnamurthy/X / India Today.",
-      "src": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/kalyan-krishnamurthy-253005122-16x9_0.jpg?VersionId=H4VUhgjeCnr8It1rooJF0X.ErP6IT.yG&size=690%3A388"
+      "src": "https://images.moneycontrol.com/static-mcnews/2026/11/20261120165444_Simultaneous-Departures-at-Bengaluru-Airport.png?height=431&impolicy=website&width=770",
+      "alt": "Illustration of simultaneous runway departures at Bengaluru airport.",
+      "caption": "Bengaluru airport's trials recorded departures from both runways. Image: Moneycontrol."
     }
   },
   "groups": [
     {
-      "separator": "— BENGALURU & KARNATAKA • TRANSIT, CIVIC SERVICES & CITY LIFE —",
+      "separator": "— BENGALURU & KARNATAKA • SERVICES, ROADS & JOBS —",
       "className": "lower-page-grid",
-      "ariaLabel": "Bengaluru transit, civic services and city life news",
+      "ariaLabel": "Bengaluru civic services, infrastructure and jobs news",
       "stories": [
         {
           "className": "lower-column",
           "headlineClass": "lower-headline",
-          "source": "The Indian Express",
-          "kicker": "BENGALURU • LALBAGH & INFRASTRUCTURE",
-          "headline": "KARNATAKA DROPS LALBAGH ROUTE FOR TUNNEL ROAD AFTER PUBLIC PUSHBACK",
+          "source": "The Hindu",
+          "kicker": "BENGALURU • PROPERTY SERVICES",
+          "headline": "GBA BEGINS SENDING FREE E-KHATAS TO 24 LAKH OWNERS ON WHATSAPP",
           "paragraphs": [
-            "The state government has dropped plans to acquire about six acres inside Lalbagh for the north–south tunnel road and is considering two alternative alignments, Bengaluru Development Minister Krishna Byre Gowda said.",
-            "The proposed 16.75-km twin-tunnel project would connect Hebbal and Silk Board. The government says it remains committed to moving the route away from the botanical garden."
+            "The Greater Bengaluru Authority has begun distributing property e-Khatas as PDF files through WhatsApp under the state’s Bhu-Guarantee programme.",
+            "The rollout is intended to reach around 24 lakh property owners. Residents should use the official GBA channel and check their document details; the service is described as free."
           ],
-          "moreUrl": "https://indianexpress.com/article/cities/bangalore/bengaluru-tunnel-road-will-not-pass-lalbagh-alternatives-under-discussion-krishna-byre-gowda-10978459/lite/",
-          "image": {
-            "src": "https://images.indianexpress.com/2026/08/Bengaluru-protest.jpg?w=640",
-            "alt": "Bengaluru residents take part in a campaign calling for Lalbagh to be protected.",
-            "caption": "Residents joined the “Walk in Lalbagh” campaign to oppose the original route. Photo: The Indian Express."
-          }
+          "moreUrl": "https://www.thehindu.com/news/cities/bangalore/bengaluru-gba-begins-sending-e-khatas-to-24-lakh-property-owners-on-whatsapp/article71745934.ece"
         },
         {
           "className": "lower-column center-border",
           "headlineClass": "lower-headline",
           "source": "The Indian Express",
-          "kicker": "BENGALURU • CRIME",
-          "headline": "POLICE SEARCH FOR LAWYER ACCUSED OF KILLING SISTER IN PROPERTY DISPUTE",
+          "kicker": "BENGALURU • TRAFFIC & INFRASTRUCTURE",
+          "headline": "EJIPURA FLYOVER MAY MISS EARLY-2027 OPENING AS LAND DELAYS PERSIST",
           "paragraphs": [
-            "Police say a 39-year-old woman was allegedly beaten with a cricket bat by her elder brother after a property dispute at Junnasandra, within Bellandur police limits.",
-            "Investigators say the accused, a 42-year-old lawyer, fled after the attack and a case has been registered. The family’s two children and mother were at home, according to police."
+            "The 2.38-km Ejipura flyover, begun in 2017 and originally due in 2019, may not be ready even by early 2027 as pending land acquisition continues to hold up work.",
+            "Officials say the project is about 82% complete and are targeting the right-side stretch by December. Commuters continue to face congestion around the unfinished corridor."
           ],
-          "moreUrl": "https://indianexpress.com/article/cities/bangalore/bengaluru-woman-killed-brother-property-dispute-junnasandra-10978599/lite/"
+          "moreUrl": "https://indianexpress.com/article/cities/bangalore/ejipura-flyover-bengaluru-completion-delay-10980025/",
+          "image": {
+            "src": "https://images.indianexpress.com/2026/11/Ejipura-flyover-Bengaluru-construction-site.jpg?resize=600%2C338",
+            "alt": "A man at the unfinished Ejipura flyover construction site in Bengaluru.",
+            "caption": "The long-delayed flyover remains affected by pending land acquisition. Photo: The Indian Express."
+          }
         },
         {
           "className": "lower-column",
           "headlineClass": "lower-headline",
-          "source": "Hindustan Times",
-          "kicker": "BENGALURU • EVENTS",
-          "headline": "TWO BENGALURU SCREENINGS OF PAKISTANI SERIAL CANCELLED AFTER BACKLASH",
+          "source": "The Indian Express",
+          "kicker": "KARNATAKA • PUBLIC EXAMS & RECRUITMENT",
+          "headline": "SIT NAMES IAS OFFICER, MIDDLEMAN IN FIRST KPSC RECRUITMENT-SCAM CHARGESHEET",
           "paragraphs": [
-            "Organisers withdrew two planned private screenings of the Pakistani television serial Dar-e-Nijaat, scheduled for November 28 and December 5, after online criticism.",
-            "Police said neither organiser had obtained prior permission and warned against holding the events. Both organisers confirmed the screenings had been cancelled."
+            "The Karnataka Special Investigation Team filed its first chargesheet in an alleged KPSC veterinary-doctor recruitment scam, naming former exams controller Gyanendra Kumar Gangwar and middleman Basavaraj Kannale.",
+            "Investigators allege exam questions were leaked to 10 candidates for bribes totalling ₹1.52 crore. The chargesheet cites 155 witnesses; the allegations have yet to be tested at trial."
           ],
-          "moreUrl": "https://www.hindustantimes.com/india-news/pakistan-tv-serial-dar-e-nijaat-screenings-cancelled-in-bengaluru-amid-protests-police-flag-lack-of-permission-101795606949650-amp.html",
+          "moreUrl": "https://indianexpress.com/article/cities/bangalore/kpsc-recruitment-scam-sit-chargesheet-ias-officer-gangwar-10978995/lite/",
           "image": {
-            "src": "https://www.hindustantimes.com/ht-img/img/2026/11/25/550x309/paktvseries_1795607193119_Hs5z_1795607193282_WwPK_104acd55-f10d-46f1-a849-0aa9d459620a_gcyT.jpg",
-            "alt": "Poster for the Pakistani television serial Dar-e-Nijaat.",
-            "caption": "The two planned Bengaluru screenings of Dar-e-Nijaat were cancelled. Poster: Instagram / Hindustan Times."
+            "src": "https://images.indianexpress.com/2026/10/gangwar.jpg?w=640",
+            "alt": "File photograph accompanying the report on the KPSC recruitment investigation.",
+            "caption": "The chargesheet names former KPSC exams controller Gyanendra Kumar Gangwar. File photo: The Indian Express."
           }
         }
       ]
     },
     {
-      "separator": "— INDIA • COURTS, DIPLOMACY & PUBLIC POLICY —",
+      "separator": "— INDIA • COURTS, PARLIAMENT & EDUCATION —",
       "className": "news-section foreign-section",
-      "ariaLabel": "India courts, diplomacy and public policy news",
+      "ariaLabel": "India court, Parliament and education news",
       "stories": [
         {
           "className": "section-lead",
           "headlineClass": "section-headline",
           "source": "The Indian Express",
           "kicker": "INDIA • SUPREME COURT",
-          "headline": "SUPREME COURT SETS ASIDE ORDER SEEKING PROBE INTO RAHUL GANDHI’S ASSETS",
+          "headline": "SC QUASHES ANAND MOHAN'S EARLY RELEASE, ORDERS HIM TO SURRENDER WITHIN A MONTH",
           "paragraphs": [
-            "The Supreme Court set aside an Allahabad High Court order directing the CBI and Enforcement Directorate to verify allegations that Congress leader Rahul Gandhi held assets disproportionate to his known income.",
-            "The three-judge bench sent the petition back to the High Court for fresh consideration, including whether it is maintainable. It did not decide the underlying allegations."
+            "The Supreme Court set aside the Bihar government’s 2023 remission order for former MP Anand Mohan, who was serving a life sentence in the 1994 murder of Gopalganj district magistrate G Krishnaiah.",
+            "The bench also struck down the prison-manual amendment that enabled the release and directed Mohan to surrender within a month. Bihar may begin a fresh remission process only after he returns to custody."
           ],
-          "moreUrl": "https://indianexpress.com/article/legal-news/rahul-gandhi-assets-case-supreme-court-sets-aside-order-cbi-ed-verification-10978094/"
+          "moreUrl": "https://indianexpress.com/article/legal-news/supreme-court-cancels-mp-bihar-anand-mohans-murder-1994-case-gopalganj-district-magistrate-g-krishnaiah-10979187/"
         },
         {
           "className": "section-brief",
           "headlineClass": "lower-headline",
-          "source": "The Indian Express",
-          "kicker": "INDIA • BORDER SECURITY",
-          "headline": "INDIA AND CHINA HOLD MILITARY-LEVEL TALKS IN ARUNACHAL PRADESH",
+          "source": "Hindustan Times",
+          "kicker": "INDIA • PARLIAMENT",
+          "headline": "PARLIAMENT TO RECONVENE ON NOVEMBER 30 FOR ESSENTIAL BUSINESS",
           "paragraphs": [
-            "Military commanders from India and China held a second round of talks in Arunachal Pradesh, focusing on rules for engagement and communication to prevent local friction along the Line of Actual Control from escalating.",
-            "The discussions included establishing procedures for interactions in the eastern sector. Officials described the exchanges as aimed at maintaining peace and preventing escalation."
+            "The government has asked the presiding officers of both Houses to resume Parliament on Monday, November 30, for a brief sitting to transact essential government business, Parliamentary Affairs Minister Kiren Rijiju said.",
+            "The government asked the presiding officers to resume proceedings for a brief sitting to transact essential business. A detailed agenda had not been announced in the report."
           ],
-          "moreUrl": "https://indianexpress.com/article/india/peace-along-lac-india-china-hold-military-level-talks-in-arunachal-10978638/"
-        },
-        {
-          "className": "section-brief",
-          "headlineClass": "lower-headline",
-          "source": "The Week / PTI",
-          "kicker": "INDIA • COURTS & CIVIL LIBERTIES",
-          "headline": "SC SEEKS CENTRE, DELHI RESPONSE ON PLEAS OVER DETENTIONS AT CEC PROTEST",
-          "paragraphs": [
-            "The Supreme Court directed the Centre and Delhi government to file comprehensive responses to petitions alleging that political leaders were illegally detained during an October protest against the Chief Election Commissioner.",
-            "The bench gave the authorities ten days to respond. The petitions raise allegations about police action during the demonstration; the court has not ruled on their merits."
-          ],
-          "moreUrl": "https://www.theweek.in/wire-updates/national/2026/11/25/sc-directs-centre-to-file-comprehensive-response-on-pleas-against-detention-of-political-leaders-during-delhi-protests.amp.html"
-        }
-      ]
-    },
-    {
-      "separator": "— INDIA • ECONOMY, SCIENCE & ENVIRONMENT —",
-      "className": "news-section city-section",
-      "ariaLabel": "India economy, science and environment news",
-      "stories": [
-        {
-          "className": "section-lead city-lead",
-          "headlineClass": "section-headline",
-          "source": "The Indian Express",
-          "kicker": "INDIA • ECONOMY & PRICES",
-          "headline": "RBI BULLETIN WARNS FOOD-PRICE PRESSURE MAY KEEP NOVEMBER INFLATION HIGH",
-          "paragraphs": [
-            "An RBI bulletin says broad pressure on food prices may keep retail inflation elevated in November after it crossed 6% in October. The report points to a possible rate increase at the central bank’s December policy review.",
-            "The bulletin cited price pressures across most consumption divisions, while warning that energy costs and global uncertainty remain risks."
-          ],
-          "moreUrl": "https://indianexpress.com/article/business/india-retail-inflation-november-2026-rbi-report-10978576/lite/"
+          "moreUrl": "https://www.hindustantimes.com/india-news/parliament-special-sitting-live-updates-pm-modi-kiren-rijiju-rahul-gandhi-bjp-congress-sp-reactions-101795704238729.html"
         },
         {
           "className": "section-brief",
           "headlineClass": "lower-headline",
           "source": "NDTV",
-          "kicker": "INDIA • SPACE & TECHNOLOGY",
-          "headline": "FIRST INDUSTRY-BUILT PSLV ROCKET NOW TARGETED FOR EARLY 2027",
+          "kicker": "INDIA • SCHOOLS & EDUCATION",
+          "headline": "CBSE STUDENTS CAN KEEP THEIR CURRENT TWO- OR THREE-LANGUAGE CHOICES THIS YEAR: SC",
           "paragraphs": [
-            "ISRO Chairman V Narayanan says the maiden PSLV-N1 launch, built by a HAL–L&T consortium, is expected in the first quarter of 2027, nearly three years after its original target.",
-            "The rocket is ready, but launch timing depends on payload coordination and an available window, according to L&T. The ₹860-crore contract covers five rockets."
+            "The Supreme Court clarified the transition rules for CBSE’s three-language policy: students already taking three languages may continue with those choices, while students taking two may keep that combination for this academic year.",
+            "Those continuing with two languages are expected to add a third next year. The clarification is meant to prevent students in Classes 6–9 from having to change their language combinations mid-year."
           ],
-          "moreUrl": "https://www.ndtv.com/india-news/indias-1st-private-built-pslv-rocket-delayed-again-what-is-holding-up-the-860-crore-project-12377591",
-          "image": {
-            "src": "https://c.ndtvimg.com/2026-11/o55q7bnk_pslv-datafy_625x300_26_November_26.jpg?im=FaceCrop%2Calgorithm%3Ddnn%2Cwidth%3D650%2Cheight%3D400",
-            "alt": "PSLV launch vehicle representing India’s first industry-built PSLV-N1 programme.",
-            "caption": "The PSLV-N1 launch is waiting on payload coordination and a launch window. Photo: NDTV."
-          }
-        },
-        {
-          "className": "section-brief",
-          "headlineClass": "lower-headline",
-          "source": "The Indian Express",
-          "kicker": "INDIA • GREAT NICOBAR PROJECT",
-          "headline": "CENTRE GETS UNTIL DECEMBER 10 TO FILE AGAIN ON NICOBAR FOREST RIGHTS",
-          "paragraphs": [
-            "The National Green Tribunal gave the Centre until December 10 to submit fresh material in a case concerning forest rights and clearances for the Great Nicobar development project.",
-            "The proposed project includes a transshipment port, township, power plant and airport. The case concerns claims that forest-rights procedures were not properly completed."
-          ],
-          "moreUrl": "https://indianexpress.com/article/india/nicobar-forest-rights-matter-centre-gets-time-until-december-10-to-file-fresh-submissions-10978526/"
+          "moreUrl": "https://www.ndtv.com/education/cbse-3-language-policy-supreme-court-allows-students-to-continue-existing-choices-12379599?pfrom=home-ndtv_lateststories"
         }
       ]
     },
     {
-      "separator": "— INDIA • HOCKEY, CHESS & BADMINTON —",
+      "separator": "— INDIA • AGRICULTURE, INDUSTRY & ENVIRONMENT —",
+      "className": "news-section city-section",
+      "ariaLabel": "India agriculture, industry and environment news",
+      "stories": [
+        {
+          "className": "section-lead city-lead",
+          "headlineClass": "section-headline",
+          "source": "Press Information Bureau",
+          "kicker": "INDIA • AGRICULTURE & FOOD SUPPLY",
+          "headline": "INDIA POSTS RECORD 378.54 MILLION TONNES OF FOODGRAINS IN 2025–26",
+          "paragraphs": [
+            "Final estimates released by the Agriculture Ministry put foodgrain production at a record 378.54 million tonnes in 2025–26, up 20.81 million tonnes from the previous year.",
+            "The first estimate for the current kharif season is 167.14 million tonnes, above the five-year average despite delayed monsoon rains and soil-moisture stress in several states, including Karnataka."
+          ],
+          "moreUrl": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2342093&lang=1&reg=3"
+        },
+        {
+          "className": "section-brief",
+          "headlineClass": "lower-headline",
+          "source": "The Economic Times",
+          "kicker": "INDIA • MANUFACTURING & INVESTMENT",
+          "headline": "CABINET CLEARS ₹11,000-CRORE SCHEME TO BOOST CONSTRUCTION-EQUIPMENT MAKING",
+          "paragraphs": [
+            "The Union Cabinet approved an ₹11,000-crore scheme to expand domestic manufacturing of construction and infrastructure equipment, part of a wider set of approvals totalling ₹19,934 crore.",
+            "The programme is intended to build local capacity and suppliers in a sector that relies on imported equipment and components. The government announced the approval on November 25."
+          ],
+          "moreUrl": "https://economictimes.indiatimes.com/news/economy/policy/union-cabinet-launches-rs-11000-crore-initiative-to-revolutionize-indias-construction-equipment-manufacturing-sector/articleshow/136156610.cms"
+        },
+        {
+          "className": "section-brief",
+          "headlineClass": "lower-headline",
+          "source": "ThePrint / PTI",
+          "kicker": "KERALA • WASTE & ENVIRONMENT",
+          "headline": "WAYANAD SET TO BE DECLARED INDIA'S FIRST E-WASTE-FREE DISTRICT",
+          "paragraphs": [
+            "Kerala Chief Minister V D Satheesan is scheduled to formally declare Wayanad India’s first completely e-waste-free district at an event in Kalpetta today.",
+            "A three-month campaign collected discarded electronics from homes, offices, schools and public places for scientific processing. The district says continued collection and monitoring will be needed to sustain the status."
+          ],
+          "moreUrl": "https://theprint.in/india/keralams-wayanad-set-to-become-indias-first-e-waste-free-district/3107527/"
+        }
+      ]
+    },
+    {
+      "separator": "— SPORT • CUE SPORTS, TENNIS & HOCKEY —",
       "className": "news-section sports-section",
-      "ariaLabel": "Indian hockey, chess and badminton news",
+      "ariaLabel": "Indian cue sports, tennis and hockey news",
       "stories": [
         {
           "className": "section-lead",
           "headlineClass": "section-headline",
-          "source": "Hockey India",
-          "kicker": "HOCKEY • ASIAN CHAMPIONS TROPHY",
-          "headline": "INDIA BEAT JAPAN 4–0, FINISH UNBEATEN AND REACH BEST-EVER WORLD RANKING",
+          "source": "Daily Excelsior / PTI",
+          "kicker": "SNOOKER • INDIA'S PANKAJ ADVANI",
+          "headline": "PANKAJ ADVANI BECOMES FIRST INDIAN TO WIN THE CRUCIBLE CUP",
           "paragraphs": [
-            "India defeated Japan 4–0 to finish the Women’s Asian Champions Trophy league stage with five wins from five and top the standings. Deepika scored twice, with Lalremsiami and Neha adding goals.",
-            "The result lifted India to No. 4 in the FIH world rankings, its highest-ever position. India will meet Malaysia in the semi-final on November 27."
+            "Bengaluru-raised cue-sports champion Pankaj Advani swept Malta’s Tony Drago 6–0 in the final in Reading, England, to become the first Indian to win the Crucible Cup.",
+            "Advani beat former world champion Neil Robertson and Joe Perry en route to the title, dropping only three frames. India is set to host the next edition in 2027."
           ],
-          "moreUrl": "https://www.hockeyindia.org/index.php/news/india-blank-japan-4-0-to-maintain-all-win-record-in-league-campaign-at-madhya-pradesh-womens-asian-champions-trophy-bhopal-2026-set-up-semi-final-against-malaysia"
+          "moreUrl": "https://www.dailyexcelsior.com/advani-lifts-crucible-cup/"
         },
         {
           "className": "section-brief listings-box",
           "headlineClass": "lower-headline",
-          "source": "The Indian Express",
-          "kicker": "CHESS • WORLD CHAMPIONSHIP",
-          "headline": "GUKESH AND SINDAROV DRAW AGAIN AFTER JUST 20 MOVES",
+          "source": "ThePrint / PTI",
+          "kicker": "BENGALURU • WORLD TENNIS LEAGUE",
+          "headline": "KYRGIOS, BUBLIK AND SVITOLINA TO HEADLINE BENGALURU TENNIS LEAGUE",
           "paragraphs": [
-            "Defending champion D Gukesh and challenger Javokhir Sindarov drew their second World Championship game in Geneva, agreeing to a draw after 20 moves in a London System.",
-            "The second successive draw leaves the 14-game match tied 1–1. Game three is scheduled for Thursday."
+            "Nick Kyrgios, Alexander Bublik, Elina Svitolina, Belinda Bencic and Karolina Pliskova are set to headline the four-day World Tennis League in Bengaluru from December 17.",
+            "The league stage runs through December 19, with the championship final scheduled for December 20. Four teams will compete for a place in the final."
           ],
-          "moreUrl": "https://indianexpress.com/article/sports/chess/gukesh-vs-sindarov-game-2-quick-draw-world-championship-10978552/lite/"
+          "moreUrl": "https://theprint.in/sport/kyrgio-bublik-svitolina-and-pliskova-to-headline-world-tennis-league-in-bluru/3109657/"
         },
         {
           "className": "section-brief classifieds-box",
           "headlineClass": "lower-headline",
-          "source": "MapMyTimes",
-          "kicker": "BADMINTON • SYED MODI INTERNATIONAL",
-          "headline": "TREESA JOLLY AND GAYATRI GOPICHAND ADVANCE; PRANNOY EXITS",
+          "source": "Hockey India League",
+          "kicker": "HOCKEY • LEAGUE RETURNS",
+          "headline": "HOCKEY INDIA LEAGUE SETS JANUARY RETURN; PLAYER AUCTION ON DECEMBER 7",
           "paragraphs": [
-            "Two-time defending women’s doubles champions Treesa Jolly and Gayatri Gopichand moved into the last 16 at the Syed Modi India International in Lucknow.",
-            "The Wednesday results also saw men’s singles third seed H S Prannoy exit the tournament. The Super 300 event runs through November 29."
+            "Hockey India says the 2026–27 Hockey India League season will begin in the first week of January, with the men's and women's player auction scheduled for December 7 in New Delhi.",
+            "The season is set to feature six men's and four women's teams. Franchises enter the trading and retention phase before the auction, with player trades due by November 29."
           ],
-          "moreUrl": "https://mapmytimes.com/articles/syed-modi-india-international-2026-treesa-gayatri-advance-prannoy-ousted-25-november-2026"
+          "moreUrl": "https://www.hockeyindialeague.com/news/hero-hockey-india-league-2026-27-season-to-begin-in-the-first-week-of-january-players-auction-scheduled-for-december-7"
         }
       ]
     }
