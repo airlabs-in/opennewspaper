@@ -5,12 +5,12 @@
     "tagline": "Open sources. Fresh news. One paper. A newspaper assembled from the open web",
     "established": "2026",
     "weatherLabel": "BENGALURU WEATHER",
-    "weatherSummary": "Cloudy skies with light rain likely. Bengaluru: 20–27°C. No severe-weather warning for the city.",
+    "weatherSummary": "Partly cloudy. Bengaluru: 20–28°C. No severe-weather warning for the city.",
     "motto": "FROM OPEN SOURCES DESK",
     "editionLabel": "DAILY READ",
     "editionSummary": "Complete Morning Ledger",
     "edition": "BENGALURU • INDIA EDITION",
-    "dateline": "BENGALURU, FRIDAY, NOVEMBER 27, 2026",
+    "dateline": "BENGALURU, SATURDAY, NOVEMBER 28, 2026",
     "greeting": "GOOD MORNING :)",
     "footer": "Open Newspaper • Bengaluru and India Edition • Independent coverage from open sources."
   },
@@ -42,224 +42,224 @@
   ],
   "cityWatch": {
     "label": "CITY WATCH",
-    "text": "Cloudy skies and light rain are likely in Bengaluru today, with temperatures around 20–27°C; allow extra time for wet-road commutes.",
+    "text": "Partly cloudy skies are forecast for Bengaluru today, with temperatures around 20–28°C and no warning in force.",
     "attribution": "— India Meteorological Department"
   },
   "lead": {
-    "source": "Hindustan Times",
-    "kicker": "INDIA • PUBLIC HEALTH & FOOD POLICY",
-    "headline": "SUPREME COURT ORDERS RED WARNINGS ON HIGH-SUGAR, SALT & FAT FOODS",
-    "deck": "The FSSAI has four months to frame prominent front-of-pack warnings, with a separate red symbol for each nutrient of concern.",
+    "source": "The Indian Express",
+    "kicker": "INDIA • WOMEN’S REPRESENTATION & DELIMITATION",
+    "headline": "CABINET CLEARS REWORKED WOMEN’S QUOTA AND DELIMITATION BILLS",
+    "deck": "The proposals link 33% reservation to a 50% expansion of seats in every state; Parliament must still approve the bills.",
     "paragraphs": [
-      "The Supreme Court directed the Food Safety and Standards Authority of India to prepare a single-phase warning-label regime for packaged foods high in total sugar, saturated fat or salt. Each nutrient must have its own prominent red hexagon and pictogram.",
-      "The court ordered the regulator to revisit its thresholds and finalise draft rules in about four months. Manufacturers would then have a year-long transition to comply; the bench said delays in informing consumers carried public-health costs, particularly for children."
+      "The Union Cabinet has approved revised bills to implement one-third reservation for women in the Lok Sabha and state assemblies through delimitation. The package proposes increasing the number of seats by 50% in every state and Union Territory.",
+      "The draft would use the 2011 Census to redraw constituencies while freezing the existing inter-state share of seats through 2051. The Lok Sabha is scheduled to reconvene on November 30 and the Rajya Sabha on December 2; these are proposals awaiting Parliament’s approval, not enacted changes."
     ],
-    "moreUrl": "https://www.hindustantimes.com/india-news/supreme-court-tightens-food-labelling-norms-gives-fssai-four-months-to-finalise-them-101795675947910-amp.html",
+    "moreUrl": "https://indianexpress.com/article/india/women-reservation-delimitation-gets-cabinet-approval-10980995/lite/",
     "image": {
-      "src": "https://www.hindustantimes.com/ht-img/img/2026/11/26/550x309/The-court-underlined-that-the-right-to-health--the_1795675940793_5nzG.jpg",
-      "alt": "Supreme Court of India, in a report on the court's directions for packaged-food warning labels.",
-      "caption": "The court linked clear food labels to health and informed consumer choice. Photo: PTI / Hindustan Times."
+      "src": "https://images.indianexpress.com/2026/11/union-cabinet.jpg?w=640",
+      "alt": "Union Cabinet meeting, accompanying a report on the proposed women's reservation and delimitation bills.",
+      "caption": "The Cabinet cleared the revised bills on Friday; Parliament will decide whether they become law. Photo: The Indian Express."
     }
   },
   "sidebarStory": {
     "className": "sidebar-item",
     "headlineClass": "side-headline",
     "tag": "div",
-    "source": "Moneycontrol",
-    "kicker": "BENGALURU • AIRPORT & AVIATION",
-    "headline": "BENGALURU AIRPORT SET TO INTRODUCE SIMULTANEOUS RUNWAY OPERATIONS",
-    "subhead": "The new arrangement could raise approved capacity from about 60 to 85 aircraft movements an hour.",
+    "source": "The Times of India",
+    "kicker": "BENGALURU • ROADS & INFRASTRUCTURE",
+    "headline": "₹2,321-CRORE WHITE-TOPPING PLAN COVERS 88 BENGALURU ROADS",
+    "subhead": "The project spans five city corporations, with tenders expected within three months.",
     "paragraphs": [
-      "Kempegowda International Airport has completed trials of simultaneous departures from its north and south runways. The airport is expected to introduce the more flexible operating arrangement on November 27; the Union civil aviation minister was reported likely to visit for a formal launch.",
-      "DGCA approval came on November 3. The change could lift capacity by about 42%, though actual delays will still depend on weather, traffic and air-traffic-control clearances."
+      "Karnataka has approved white-topping for 88 roads across Bengaluru’s five city corporations under a ₹2,321-crore project. Cubbon Road, Langford Road, Victoria Road and Old Airport Road are among the named stretches.",
+      "Plans include continuous footpaths, crossings and junction upgrades, along with utility work intended to reduce repeat digging. The detailed project reports and tendering process are still to come."
     ],
-    "moreUrl": "https://www.moneycontrol.com/news/india/bengaluru-airport-trials-simultaneous-departures-from-both-runways-launch-likely-on-nov-27-14085887.html",
+    "moreUrl": "https://timesofindia.indiatimes.com/city/bengaluru/bengaluru-clears-rs-2321-crore-white-topping-project-for-88-key-roads-across-five-city-corporations-tenders-expected-within-three-months/photostory/136215481.cms",
     "image": {
-      "src": "https://images.moneycontrol.com/static-mcnews/2026/11/20261120165444_Simultaneous-Departures-at-Bengaluru-Airport.png?height=431&impolicy=website&width=770",
-      "alt": "Illustration of simultaneous runway departures at Bengaluru airport.",
-      "caption": "Bengaluru airport's trials recorded departures from both runways. Image: Moneycontrol."
+      "src": "https://static.toiimg.com/thumb/136215496.jpg?height=335&imgsize=85842&photoid=136215496&resizemode=75&width=600",
+      "alt": "Representational AI-generated illustration for Bengaluru's proposed white-topping road project.",
+      "caption": "A representational visual accompanying the project report. Image: The Times of India."
     }
   },
   "groups": [
     {
-      "separator": "— BENGALURU & KARNATAKA • SERVICES, ROADS & JOBS —",
+      "separator": "— BENGALURU & KARNATAKA • CITY SERVICES, SAFETY & ENVIRONMENT —",
       "className": "lower-page-grid",
-      "ariaLabel": "Bengaluru civic services, infrastructure and jobs news",
+      "ariaLabel": "Bengaluru city services, safety and environment news",
       "stories": [
         {
           "className": "lower-column",
           "headlineClass": "lower-headline",
-          "source": "The Hindu",
-          "kicker": "BENGALURU • PROPERTY SERVICES",
-          "headline": "GBA BEGINS SENDING FREE E-KHATAS TO 24 LAKH OWNERS ON WHATSAPP",
+          "source": "Hindustan Times",
+          "kicker": "BENGALURU • FUEL MEASUREMENT",
+          "headline": "KARNATAKA BARS THREE IOCL TERMINAL METERS OVER READING DISCREPANCIES",
           "paragraphs": [
-            "The Greater Bengaluru Authority has begun distributing property e-Khatas as PDF files through WhatsApp under the state’s Bhu-Guarantee programme.",
-            "The rollout is intended to reach around 24 lakh property owners. Residents should use the official GBA channel and check their document details; the service is described as free."
+            "The state’s legal metrology department has taken three mass-flow meters at an Indian Oil Corporation terminal in Devanagonthi out of commercial use after finding discrepancies in recorded petrol and ethanol measurements.",
+            "Officials issued a show-cause notice and are investigating. The action concerns terminal measurement equipment; it does not establish adulteration or short delivery at retail pumps."
           ],
-          "moreUrl": "https://www.thehindu.com/news/cities/bangalore/bengaluru-gba-begins-sending-e-khatas-to-24-lakh-property-owners-on-whatsapp/article71745934.ece"
+          "moreUrl": "https://www.hindustantimes.com/cities/bengaluru-news/karnataka-bars-3-iocl-fuel-meters-at-bengaluru-terminal-over-ethanol-petrol-measurement-discrepancies-101795785652604.html"
         },
         {
           "className": "lower-column center-border",
           "headlineClass": "lower-headline",
-          "source": "The Indian Express",
-          "kicker": "BENGALURU • TRAFFIC & INFRASTRUCTURE",
-          "headline": "EJIPURA FLYOVER MAY MISS EARLY-2027 OPENING AS LAND DELAYS PERSIST",
+          "source": "The Times of India",
+          "kicker": "BENGALURU • WASTE COLLECTION",
+          "headline": "PHOTO CHECKS FLAG LOW HELPER ATTENDANCE ON GARBAGE ROUTES",
           "paragraphs": [
-            "The 2.38-km Ejipura flyover, begun in 2017 and originally due in 2019, may not be ready even by early 2027 as pending land acquisition continues to hold up work.",
-            "Officials say the project is about 82% complete and are targeting the right-side stretch by December. Commuters continue to face congestion around the unfinished corridor."
+            "Bengaluru Solid Waste Management Ltd’s photo-based attendance checks have found that only around 10–20% of assigned garbage-collection helpers were appearing for duty at some mustering points, a report says.",
+            "The system records vehicles, drivers and helpers as trucks enter and leave. The early findings are being used to examine attendance and payments; the city’s waste collection service remains in operation."
           ],
-          "moreUrl": "https://indianexpress.com/article/cities/bangalore/ejipura-flyover-bengaluru-completion-delay-10980025/",
-          "image": {
-            "src": "https://images.indianexpress.com/2026/11/Ejipura-flyover-Bengaluru-construction-site.jpg?resize=600%2C338",
-            "alt": "A man at the unfinished Ejipura flyover construction site in Bengaluru.",
-            "caption": "The long-delayed flyover remains affected by pending land acquisition. Photo: The Indian Express."
-          }
+          "moreUrl": "https://timesofindia.indiatimes.com/city/bengaluru/photo-attendance-reveals-just-10-20-of-garbage-collection-helpers-report-for-duty-in-bengaluru/articleshow/136226350.cms"
         },
         {
           "className": "lower-column",
           "headlineClass": "lower-headline",
-          "source": "The Indian Express",
-          "kicker": "KARNATAKA • PUBLIC EXAMS & RECRUITMENT",
-          "headline": "SIT NAMES IAS OFFICER, MIDDLEMAN IN FIRST KPSC RECRUITMENT-SCAM CHARGESHEET",
+          "source": "The Times of India",
+          "kicker": "BENGALURU • JAKKUR LAKE",
+          "headline": "FISH KILL REPORTED AT JAKKUR LAKE; WATER TESTS UNDER WAY",
           "paragraphs": [
-            "The Karnataka Special Investigation Team filed its first chargesheet in an alleged KPSC veterinary-doctor recruitment scam, naming former exams controller Gyanendra Kumar Gangwar and middleman Basavaraj Kannale.",
-            "Investigators allege exam questions were leaked to 10 candidates for bribes totalling ₹1.52 crore. The chargesheet cites 155 witnesses; the allegations have yet to be tested at trial."
+            "Dead fish were reported at north Bengaluru’s Jakkur Lake on Friday. Civic officials collected water samples after a possible sewage-pipeline leak was raised as one cause.",
+            "Results are expected in several days. Lake volunteers also said seasonal changes and low dissolved oxygen can contribute to fish deaths, so the cause has not yet been confirmed."
           ],
-          "moreUrl": "https://indianexpress.com/article/cities/bangalore/kpsc-recruitment-scam-sit-chargesheet-ias-officer-gangwar-10978995/lite/",
+          "moreUrl": "https://timesofindia.indiatimes.com/city/bengaluru/fishkill-at-bengalurus-jakkur-lake-sewage-leak-suspected/amp_articleshow/136229112.cms"
+        }
+      ]
+    },
+    {
+      "separator": "— INDIA • COURTS, EXAMS & NATIONAL SECURITY —",
+      "className": "news-section foreign-section",
+      "ariaLabel": "India court, exams and national security news",
+      "stories": [
+        {
+          "className": "section-lead",
+          "headlineClass": "section-headline",
+          "source": "Hindustan Times",
+          "kicker": "TAMIL NADU • SUPREME COURT",
+          "headline": "SC ORDERS DEEPATHOON LAMP LIGHTING TODAY; CRPF TO SECURE HILL",
+          "paragraphs": [
+            "The Supreme Court directed that the ceremonial lamp be lit at the Deepathoon on Thiruparankundram hill in Madurai on November 28, with devotees allowed to participate at a distance of at least 50 metres from the dargah.",
+            "The court ordered CRPF security for the temple and dargah, suspended the temple trustees and appointed former judges as receivers. It also issued contempt notices over alleged non-compliance with its earlier order; the wider dispute remains before the court."
+          ],
+          "moreUrl": "https://www.hindustantimes.com/india-news/willfully-disobeyed-order-supreme-court-pulls-up-tamil-nadu-govt-amid-karthigai-deepam-row-101795778161340-amp.html"
+        },
+        {
+          "className": "section-brief",
+          "headlineClass": "lower-headline",
+          "source": "The Indian Express",
+          "kicker": "UTTAR PRADESH • PUBLIC EXAMS",
+          "headline": "ALLAHABAD HC QUASHES UPPSC PCS PRELIMS RESULT, ORDERS FRESH MAINS",
+          "paragraphs": [
+            "The Allahabad High Court quashed the UPPSC PCS-2025 preliminary results and directed the commission to redraw the merit list under reservation rules before holding the Mains examination afresh.",
+            "More than 626,000 candidates applied for the preliminary test for 814 posts. The ruling followed a challenge over meritorious reserved-category candidates not being moved to the unreserved list when their marks exceeded its cut-off."
+          ],
+          "moreUrl": "https://indianexpress.com/article/education/allahabad-high-court-quashes-uppsc-pcs-2025-prelims-result-orders-fresh-mains-10981361/"
+        },
+        {
+          "className": "section-brief",
+          "headlineClass": "lower-headline",
+          "source": "India Today",
+          "kicker": "GUJARAT • ANTI-TERROR INVESTIGATION",
+          "headline": "ATS ARRESTS MAN SUSPECTED OF JE M LINKS; AK-47 SEIZED IN VADODARA",
+          "paragraphs": [
+            "Gujarat’s Anti-Terrorism Squad arrested a man in Vadodara on suspicion of links to Pakistan-based Jaish-e-Mohammed, seizing an AK-47 and 23 rounds of ammunition, the agency said.",
+            "Investigators allege he had surveyed sensitive sites and was in contact with a handler. The case is under investigation and the allegations have not been tested in court."
+          ],
+          "moreUrl": "https://www.indiatoday.in/india/story/suspected-jaish-e-mohammed-terrorist-arrested-in-gujarats-vadodara-ak-47-and-23-bullets-seized-3048040-2026-11-27",
           "image": {
-            "src": "https://images.indianexpress.com/2026/10/gangwar.jpg?w=640",
-            "alt": "File photograph accompanying the report on the KPSC recruitment investigation.",
-            "caption": "The chargesheet names former KPSC exams controller Gyanendra Kumar Gangwar. File photo: The Indian Express."
+            "src": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/jaish-suspect-arrested-in-gujarat-275556710-16x9_0.jpg?VersionId=N.t9WyqKTOuRb29M2W.I7gNqGF53Umqt&size=690%3A388",
+            "alt": "Photograph published with a report on a suspect arrested by Gujarat ATS in Vadodara.",
+            "caption": "Gujarat ATS said it seized an AK-47 and ammunition. Photo: India Today."
           }
         }
       ]
     },
     {
-      "separator": "— INDIA • COURTS, PARLIAMENT & EDUCATION —",
-      "className": "news-section foreign-section",
-      "ariaLabel": "India court, Parliament and education news",
-      "stories": [
-        {
-          "className": "section-lead",
-          "headlineClass": "section-headline",
-          "source": "The Indian Express",
-          "kicker": "INDIA • SUPREME COURT",
-          "headline": "SC QUASHES ANAND MOHAN'S EARLY RELEASE, ORDERS HIM TO SURRENDER WITHIN A MONTH",
-          "paragraphs": [
-            "The Supreme Court set aside the Bihar government’s 2023 remission order for former MP Anand Mohan, who was serving a life sentence in the 1994 murder of Gopalganj district magistrate G Krishnaiah.",
-            "The bench also struck down the prison-manual amendment that enabled the release and directed Mohan to surrender within a month. Bihar may begin a fresh remission process only after he returns to custody."
-          ],
-          "moreUrl": "https://indianexpress.com/article/legal-news/supreme-court-cancels-mp-bihar-anand-mohans-murder-1994-case-gopalganj-district-magistrate-g-krishnaiah-10979187/"
-        },
-        {
-          "className": "section-brief",
-          "headlineClass": "lower-headline",
-          "source": "Hindustan Times",
-          "kicker": "INDIA • PARLIAMENT",
-          "headline": "PARLIAMENT TO RECONVENE ON NOVEMBER 30 FOR ESSENTIAL BUSINESS",
-          "paragraphs": [
-            "The government has asked the presiding officers of both Houses to resume Parliament on Monday, November 30, for a brief sitting to transact essential government business, Parliamentary Affairs Minister Kiren Rijiju said.",
-            "The government asked the presiding officers to resume proceedings for a brief sitting to transact essential business. A detailed agenda had not been announced in the report."
-          ],
-          "moreUrl": "https://www.hindustantimes.com/india-news/parliament-special-sitting-live-updates-pm-modi-kiren-rijiju-rahul-gandhi-bjp-congress-sp-reactions-101795704238729.html"
-        },
-        {
-          "className": "section-brief",
-          "headlineClass": "lower-headline",
-          "source": "NDTV",
-          "kicker": "INDIA • SCHOOLS & EDUCATION",
-          "headline": "CBSE STUDENTS CAN KEEP THEIR CURRENT TWO- OR THREE-LANGUAGE CHOICES THIS YEAR: SC",
-          "paragraphs": [
-            "The Supreme Court clarified the transition rules for CBSE’s three-language policy: students already taking three languages may continue with those choices, while students taking two may keep that combination for this academic year.",
-            "Those continuing with two languages are expected to add a third next year. The clarification is meant to prevent students in Classes 6–9 from having to change their language combinations mid-year."
-          ],
-          "moreUrl": "https://www.ndtv.com/education/cbse-3-language-policy-supreme-court-allows-students-to-continue-existing-choices-12379599?pfrom=home-ndtv_lateststories"
-        }
-      ]
-    },
-    {
-      "separator": "— INDIA • AGRICULTURE, INDUSTRY & ENVIRONMENT —",
+      "separator": "— INDIA • ECONOMY, CONNECTIVITY & PUBLIC POLICY —",
       "className": "news-section city-section",
-      "ariaLabel": "India agriculture, industry and environment news",
+      "ariaLabel": "India economy, infrastructure and public policy news",
       "stories": [
         {
           "className": "section-lead city-lead",
           "headlineClass": "section-headline",
+          "source": "Reuters",
+          "kicker": "INDIA • CURRENCY & MARKETS",
+          "headline": "RUPEE STRENGTHENS AS RBI LETS FOREIGN INFLOWS TEST THE RALLY",
+          "paragraphs": [
+            "The rupee has strengthened as foreign investors returned to Indian equities, with Reuters reporting that the Reserve Bank of India has allowed the currency to rise rather than immediately buying dollars to rebuild reserves.",
+            "The shift follows heavy RBI intervention when the rupee approached a record low earlier this year. Currency moves remain sensitive to oil prices, global yields and capital flows."
+          ],
+          "moreUrl": "https://in.marketscreener.com/news/indian-central-bank-lets-rupee-rise-to-break-one-way-bets-on-depreciation-ce7851d9db8cf324"
+        },
+        {
+          "className": "section-brief",
+          "headlineClass": "lower-headline",
           "source": "Press Information Bureau",
-          "kicker": "INDIA • AGRICULTURE & FOOD SUPPLY",
-          "headline": "INDIA POSTS RECORD 378.54 MILLION TONNES OF FOODGRAINS IN 2025–26",
+          "kicker": "UTTARAKHAND • RAIL INFRASTRUCTURE",
+          "headline": "6.59-KM TUNNEL BREAKTHROUGH ADVANCES RISHIKESH–KARNAPRAYAG RAIL LINK",
           "paragraphs": [
-            "Final estimates released by the Agriculture Ministry put foodgrain production at a record 378.54 million tonnes in 2025–26, up 20.81 million tonnes from the previous year.",
-            "The first estimate for the current kharif season is 167.14 million tonnes, above the five-year average despite delayed monsoon rains and soil-moisture stress in several states, including Karnataka."
+            "Railways reported a breakthrough connecting the two excavated sections of Tunnel-14, a 6.59-km tunnel in Rudraprayag district on the Rishikesh–Karnaprayag project.",
+            "Engineers used staged excavation through loose soil beneath inhabited areas. The project is intended to improve rail access to Uttarakhand’s hill districts; the breakthrough is a construction milestone, not the opening of the line."
           ],
-          "moreUrl": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2342093&lang=1&reg=3"
+          "moreUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2342624&lang=2&reg=48"
         },
         {
           "className": "section-brief",
           "headlineClass": "lower-headline",
-          "source": "The Economic Times",
-          "kicker": "INDIA • MANUFACTURING & INVESTMENT",
-          "headline": "CABINET CLEARS ₹11,000-CRORE SCHEME TO BOOST CONSTRUCTION-EQUIPMENT MAKING",
+          "source": "The New Indian Express",
+          "kicker": "TAMIL NADU • WORK & FAMILY",
+          "headline": "TAMIL NADU ADDS 15 DAYS OF PATERNITY LEAVE FOR STATE EMPLOYEES",
           "paragraphs": [
-            "The Union Cabinet approved an ₹11,000-crore scheme to expand domestic manufacturing of construction and infrastructure equipment, part of a wider set of approvals totalling ₹19,934 crore.",
-            "The programme is intended to build local capacity and suppliers in a sector that relies on imported equipment and components. The government announced the approval on November 25."
+            "Male Tamil Nadu government employees will be eligible for 15 days of paternity leave, which can be taken shortly before an expected delivery or within six months after a child’s birth.",
+            "The state announced the provision as a new benefit for its workforce. It broadens leave options for new fathers; the report does not describe it as a policy for all private-sector workers."
           ],
-          "moreUrl": "https://economictimes.indiatimes.com/news/economy/policy/union-cabinet-launches-rs-11000-crore-initiative-to-revolutionize-indias-construction-equipment-manufacturing-sector/articleshow/136156610.cms"
-        },
-        {
-          "className": "section-brief",
-          "headlineClass": "lower-headline",
-          "source": "ThePrint / PTI",
-          "kicker": "KERALA • WASTE & ENVIRONMENT",
-          "headline": "WAYANAD SET TO BE DECLARED INDIA'S FIRST E-WASTE-FREE DISTRICT",
-          "paragraphs": [
-            "Kerala Chief Minister V D Satheesan is scheduled to formally declare Wayanad India’s first completely e-waste-free district at an event in Kalpetta today.",
-            "A three-month campaign collected discarded electronics from homes, offices, schools and public places for scientific processing. The district says continued collection and monitoring will be needed to sustain the status."
-          ],
-          "moreUrl": "https://theprint.in/india/keralams-wayanad-set-to-become-indias-first-e-waste-free-district/3107527/"
+          "moreUrl": "https://www.newindianexpress.com/states/tamil-nadu/2026/Nov/27/tamil-nadu-government-employees-to-get-15-day-paternity-leave"
         }
       ]
     },
     {
-      "separator": "— SPORT • CUE SPORTS, TENNIS & HOCKEY —",
+      "separator": "— SPORT • INDIA, HOCKEY & OLYMPIC BID —",
       "className": "news-section sports-section",
-      "ariaLabel": "Indian cue sports, tennis and hockey news",
+      "ariaLabel": "Indian sport and Olympic news",
       "stories": [
         {
           "className": "section-lead",
           "headlineClass": "section-headline",
-          "source": "Daily Excelsior / PTI",
-          "kicker": "SNOOKER • INDIA'S PANKAJ ADVANI",
-          "headline": "PANKAJ ADVANI BECOMES FIRST INDIAN TO WIN THE CRUCIBLE CUP",
+          "source": "India Today",
+          "kicker": "CRICKET • INDIA IN NEW ZEALAND",
+          "headline": "INDIA TAKE THREE WICKETS, BUT NZ REACH 330/8 AT DAY 2 LUNCH",
           "paragraphs": [
-            "Bengaluru-raised cue-sports champion Pankaj Advani swept Malta’s Tony Drago 6–0 in the final in Reading, England, to become the first Indian to win the Crucible Cup.",
-            "Advani beat former world champion Neil Robertson and Joe Perry en route to the title, dropping only three frames. India is set to host the next edition in 2027."
+            "New Zealand moved from 246/5 overnight to 330/8 by lunch on Day 2 of the second Test in Christchurch. Tom Blundell was unbeaten on 80 as India’s bowlers took three wickets in the morning session.",
+            "Akash Deep had 4/84 at the interval. This is a live match update: New Zealand were still batting, with two wickets left, when the report was filed."
           ],
-          "moreUrl": "https://www.dailyexcelsior.com/advani-lifts-crucible-cup/"
+          "moreUrl": "https://www.indiatoday.in/sports/cricket/story/new-zealand-vs-india-live-score-2nd-test-day-2-updates-christchurch-3048758-2026-11-28",
+          "image": {
+            "src": "https://akm-img-a-in.tosshub.com/indiatoday/images/breaking_news/202611/akash-deep-272322138-16x9.jpg?VersionId=pUnzUITtt1pe0SFMU5ie98tu5vNRRK68",
+            "alt": "India fast bowler Akash Deep during the second Test against New Zealand in Christchurch.",
+            "caption": "Akash Deep took four wickets by lunch on Day 2. Photo: AP / India Today."
+          }
         },
         {
           "className": "section-brief listings-box",
           "headlineClass": "lower-headline",
-          "source": "ThePrint / PTI",
-          "kicker": "BENGALURU • WORLD TENNIS LEAGUE",
-          "headline": "KYRGIOS, BUBLIK AND SVITOLINA TO HEADLINE BENGALURU TENNIS LEAGUE",
+          "source": "IANS",
+          "kicker": "WOMEN’S HOCKEY • ASIAN CHAMPIONS TROPHY",
+          "headline": "INDIA SET UP FINAL AGAINST CHINA AFTER 6–2 WIN OVER MALAYSIA",
           "paragraphs": [
-            "Nick Kyrgios, Alexander Bublik, Elina Svitolina, Belinda Bencic and Karolina Pliskova are set to headline the four-day World Tennis League in Bengaluru from December 17.",
-            "The league stage runs through December 19, with the championship final scheduled for December 20. Four teams will compete for a place in the final."
+            "Defending champions India beat Malaysia 6–2 in the semi-final of the Women’s Asian Champions Trophy in Bhopal, booking a place in the final against China on Saturday.",
+            "The result sends India into the title match for a sixth time. The tournament is being held at the International Sports Complex in Nathu Barkheda."
           ],
-          "moreUrl": "https://theprint.in/sport/kyrgio-bublik-svitolina-and-pliskova-to-headline-world-tennis-league-in-bluru/3109657/"
+          "moreUrl": "https://ianslive.in/womens-asian-champions-trophy-defending-champions-india-outclass-malaysia-6-2-to-set-up-final-with-china--20261127220220"
         },
         {
           "className": "section-brief classifieds-box",
           "headlineClass": "lower-headline",
-          "source": "Hockey India League",
-          "kicker": "HOCKEY • LEAGUE RETURNS",
-          "headline": "HOCKEY INDIA LEAGUE SETS JANUARY RETURN; PLAYER AUCTION ON DECEMBER 7",
+          "source": "Indian Olympic Association",
+          "kicker": "INDIA • 2036 OLYMPIC BID",
+          "headline": "IOA PRESENTS INDIA’S 2036 OLYMPIC ROADMAP TO IOC COMMISSION",
           "paragraphs": [
-            "Hockey India says the 2026–27 Hockey India League season will begin in the first week of January, with the men's and women's player auction scheduled for December 7 in New Delhi.",
-            "The season is set to feature six men's and four women's teams. Franchises enter the trading and retention phase before the auction, with player trades due by November 29."
+            "The Indian Olympic Association presented its proposed vision and roadmap for the 2036 Olympic and Paralympic Games to the International Olympic Committee’s Future Host Commission.",
+            "The virtual presentation highlighted Ahmedabad’s proposed venue clusters and infrastructure plans. It is part of the IOC’s host-selection dialogue; India has not been awarded the Games."
           ],
-          "moreUrl": "https://www.hockeyindialeague.com/news/hero-hockey-india-league-2026-27-season-to-begin-in-the-first-week-of-january-players-auction-scheduled-for-december-7"
+          "moreUrl": "https://olympic.ind.in/wp-content/uploads/2026/11/IOA-PRESS-RELEASE-26-NOV.-2026.pdf"
         }
       ]
     }
